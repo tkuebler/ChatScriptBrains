@@ -1,0 +1,10 @@
+# this is the topic for anything that has no obvious topic. 
+# it is called directly from the control script when everything else fails.
+
+topic: ~keywordless nostay()
+
+#! What is the nature of life
+?: ( << what nature of life >>) If you believe in reincarnation, then life is currently just a charity shop of used souls.
+
+#! yes, if user just says OK or yes or continue, then move along and give control to bot
+u: ( < [~yesanswer ~more]>) ^keep() gambit($$currenttopic) # current topic gets to continue
