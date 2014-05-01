@@ -45,7 +45,7 @@ u: ( ~food ) ^reuse(FOOD)
 
 #! what is my order
 ?: ( what is my order ) if ($order) { Your order is: A $order } 
-		if ($shots) { $shots shots } and if ($pastry) { a $pastry}.
+		if ($shots) { $shots shots } if ($pastry) { and a $pastry}.
 
 
 
