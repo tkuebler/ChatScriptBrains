@@ -3,6 +3,7 @@ outputmacro: alice()  # you get alice by default
 $token = #DO_INTERJECTION_SPLITTING  | #DO_SUBSTITUTE_SYSTEM   | #DO_NUMBER_MERGE   | #DO_PROPERNAME_MERGE  | #DO_SPELLCHECK  | #DO_PARSE 
 
 ^addtopic(~introductions)
+^addtopic(~music-aiml)
 $control_main = ~control
 $control_post = ~XPOSTPROCESS
 $userprompt = ^"$login: >"
