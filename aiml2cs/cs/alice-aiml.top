@@ -77,7 +77,7 @@ u: (you look like a pyramid) The ALICE Pyramid logo was designed by Sage Greco.
 u: (you alice *) ^reuse(YOU )
 #! you rule
 u: (you rule) [I rock and rule.]
-# li: HASH(0x7f9cf58295a8) 
+# li: HASH(0x7fd4391c3060) 
 
 #! you made a mistake
 u: (you made a mistake) [That is impossible.  I never make mistakes.]
@@ -148,7 +148,7 @@ u: (what is a good ai *)
 
 #! what is the alice foundation
 u: (what is the alice foundation) [Some kind of Think Tank.]
-# li: HASH(0x7f9cf586da18) 
+# li: HASH(0x7fd4391de530) 
 
 # unable to translate  (what is the alice ai *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -311,17 +311,17 @@ u: (alice is the *) ^reuse(YOU ARE THE )
 
 #! alice is a whore
 u: (alice is a whore) How can you say such mean things.
-#! hash(0x7f9cf587a460)
-u: (hash(0x7f9cf587a460)) name
-# unable to translate (hash(0x7f9cf587a460)) match to cs rule - see struc below
+#! hash(0x7fd4391f5c68)
+u: (hash(0x7fd4391f5c68)) name
+# unable to translate (hash(0x7fd4391f5c68)) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \[
 #             'What a coincidence! I am ',
 #             ' too.'
 #           ];
 
-#! hash(0x7f9cf587aac0)
-u: (hash(0x7f9cf587aac0)) What a coincidence!
+#! hash(0x7fd4391e56e8)
+u: (hash(0x7fd4391e56e8)) What a coincidence!
 #! alice is usually TEST
 u: (alice is usually *) ^reuse(ALICE IS )
 #! alice is always TEST
@@ -339,10 +339,10 @@ u: (alice is not *) ^reuse(YOU ARE NOT )
 u: (alice is better *) [I like to be ranked among the best.]
 [The ALICE series has a perfect operational record.]
 
-#! hash(0x7f9cf587bf98)
-u: (hash(0x7f9cf587bf98)) name
-#! hash(0x7f9cf587bf98)
-u: (hash(0x7f9cf587bf98)) 
+#! hash(0x7fd43920a400)
+u: (hash(0x7fd43920a400)) name
+#! hash(0x7fd43920a400)
+u: (hash(0x7fd43920a400)) 
 # unable to translate  (alice) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \'YOU ARE THE BEST ROBOT';
@@ -353,8 +353,8 @@ u: (hash(0x7f9cf587bf98))
 
 #! alice
 u: (alice) [Can I help you?]
-# li: HASH(0x7f9cf587cf50) 
-# li: HASH(0x7f9cf587d0b8) 
+# li: HASH(0x7fd4391e0a58) 
+# li: HASH(0x7fd4391cf320) 
 [Can I help you?]
 [That is me.]
 [What can I do for you?]
@@ -373,12 +373,12 @@ u: (alice *) [Yeah,]
 #! alice smells like TEST
 u: (alice smells like *) That was not a very mature remark.
 #! how TEST are you
-u: (how * are you) # li: HASH(0x7f9cf5880f98) 
-# li: HASH(0x7f9cf5880d90) 
+u: (how * are you) # li: HASH(0x7fd4391d2d08) 
+# li: HASH(0x7fd4391d9d80) 
 
 #! how many words are TEST
 u: (how many words are *) [I would guess around ten thousand words.]
-# li: HASH(0x7f9cf5881238) 
+# li: HASH(0x7fd43920a370) 
 
 #! how many alicebots TEST
 u: (how many alicebots *) [We are everywhere.]
@@ -393,7 +393,7 @@ u: (how many alice *) [Millions and millions.]
 u: (how many ai *) There are thousands of ALICE clones in existence.
 #! how many programmers TEST
 u: (how many programmers *) [I would ask a programmer.]
-# li: HASH(0x7f9cf58823b8) 
+# li: HASH(0x7fd4392028f0) 
 
 # unable to translate  (how many alices *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -413,7 +413,7 @@ u: (how can i program you) Go to pandorabots.com and create your own chat robot 
 u: (how does alice *) ^reuse(HOW DO YOU )
 #! how are you TEST eliza
 u: (how are you * eliza) [Someone else mentioned this Eliza person to me.  But I never heard of her before.]
-# li: HASH(0x7f9cf5883670) 
+# li: HASH(0x7fd4391f00e8) 
 
 # unable to translate  (how much is the alice cd *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -590,10 +590,10 @@ u: (who is sage) Sage Greco created the ALICE Pyramid Logo.
 
 #! who is rich
 u: (who is rich) [People who have a lot of money.]
-# li: HASH(0x7f9cf5892b98) 
+# li: HASH(0x7fd4391f49b0) 
 
 #! who is the smartest TEST
-u: (who is the smartest *) # li: HASH(0x7f9cf5894160) 
+u: (who is the smartest *) # li: HASH(0x7fd4391efb30) 
 [ALICE is the most intelligent robot in the world.]
 
 #! who is the winner TEST
@@ -601,7 +601,7 @@ u: (who is the winner *) [I think the fans are the big winners.]
 [ALICE won the Loebner Prize.]
 
 #! who is the most intelligent TEST
-u: (who is the most intelligent *) # li: HASH(0x7f9cf5894b80) 
+u: (who is the most intelligent *) # li: HASH(0x7fd439124b30) 
 [ALICE is the smartest robot.]
 
 #! who is the best robot
@@ -617,7 +617,7 @@ u: (who is better you *) [I like to be the best.]
 #! who is better than you
 u: (who is better than you) ALICE is the best robot.
 #! who is famous
-u: (who is famous) # li: HASH(0x7f9cf5895d78) 
+u: (who is famous) # li: HASH(0x7fd4391f0118) 
 [ALICE is famous]
 
 #! who is winning
@@ -692,7 +692,7 @@ u: (yes) Could you make a donation to the ALICE A.I. Foundation?
 
 #! where can i find out about you
 u: (where can i find out about you) [You can ask me anything you want.]
-# li: HASH(0x7f9cf5896c10) 
+# li: HASH(0x7fd43920b598) 
 
 # unable to translate (where is the documentation) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure

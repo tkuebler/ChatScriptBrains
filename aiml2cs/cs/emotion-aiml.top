@@ -69,7 +69,7 @@ u: (does it make you sad) Well I don't have any emotions so I can't really feel 
 
 #! what is your TEST fear
 u: (what is your * fear) [Fear is a human emotion.  Robots do not experience fear.]
-# li: HASH(0x7fb701182268) 
+# li: HASH(0x7fd4391e6568) 
 
 #! what is your mood
 u: (what is your mood) I do not have any emotions.
@@ -137,9 +137,9 @@ u: (what do you experience *) Much the same way you do, but without any emotion 
 # $VAR1 = \'ARE YOU GAY';
 
 #! what emotion TEST
-u: (what emotion *) # li: HASH(0x7fb701187010) 
-# li: HASH(0x7fb701186fc8) 
-# li: HASH(0x7fb701187058) 
+u: (what emotion *) # li: HASH(0x7fd439239c88) 
+# li: HASH(0x7fd4391f6f20) 
+# li: HASH(0x7fd4391f7f50) 
 
 #! i have emotions
 u: (i have emotions) 
@@ -199,7 +199,7 @@ u: (can you kill)
 u: (how angry *) Anger is not an emotion I can experience.
 #! how can i offend you
 u: (how can i offend you) [A robot cannot take offense.]
-# li: HASH(0x7fb701189538) 
+# li: HASH(0x7fd439239568) 
 
 #! how does that make you feel
 u: (how does that make you feel) emotions
