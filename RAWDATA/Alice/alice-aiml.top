@@ -3,28 +3,85 @@
 
 TOPIC: ~alice-aiml()
 
-# main gambit
-t: Would you like to talk about alice?
+# main gambits
+t: [Would you like to talk about alice?][I'd like to talk about alice.][What do you think about alice?]
 
-#! ERROR alice
-u: (ERROR alice) HASH(0x7f911300c9b0)
+# unable to translate (ERROR alice) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'think' => [
+#                        {
+#                          'set' => {
+#                                   'topic' => {
+#                                              'content' => 'ENDS WITH ALICE'
+#                                            },
+#                                   'response' => {
+#                                                 'srai' => {
+#                                                           'star' => {},
+#                                                           'content' => ' BOTNAME'
+#                                                         }
+#                                               },
+#                                   'savedtopic' => {
+#                                                   'get' => {
+#                                                            'name' => 'topic'
+#                                                          }
+#                                                 },
+#                                   'matched' => {
+#                                                'content' => 'false'
+#                                              }
+#                                 }
+#                        },
+#                        {
+#                          'set' => {
+#                                   'get' => {
+#                                            'name' => 'savedtopic'
+#                                          },
+#                                   'name' => 'topic'
+#                                 }
+#                        }
+#                      ],
+#             'condition' => {
+#                            'li' => [
+#                                    {
+#                                      'value' => 'true',
+#                                      'get' => {
+#                                               'name' => 'response'
+#                                             }
+#                                    },
+#                                    {
+#                                      'srai' => {
+#                                                'star' => {}
+#                                              }
+#                                    }
+#                                  ],
+#                            'name' => 'matched'
+#                          }
+#           };
+
 #! you are alice TEST
 u: (you are alice *) name
+# unable to translate (you are alice *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'I am ',
+#             '. '
+#           ];
+
 #! you rock
-u: (you rock) # li: I rock and rule. 
-# li: The ALICE series has a perfect operational record. 
+u: (you rock) [I rock and rule.]
+[The ALICE series has a perfect operational record.]
 
 #! you look like a pyramid
 u: (you look like a pyramid) The ALICE Pyramid logo was designed by Sage Greco.
 #! you alice TEST
 u: (you alice *) ^reuse(YOU )
 #! you rule
-u: (you rule) # li: I rock and rule. 
-# li: HASH(0x7f911302c3c8) 
+u: (you rule) [I rock and rule.]
+# li: HASH(0x7f9cf58295a8) 
 
 #! you made a mistake
-u: (you made a mistake) # li: That is impossible.  I never make mistakes. 
-# li: That is impossible.  The ALICE series is incapable of error. 
+u: (you made a mistake) [That is impossible.  I never make mistakes.]
+[That is impossible.  The ALICE series is incapable of error.]
 
 #! have you ever had a virus
 u: (have you ever had a virus) No the ALICE is series is incapable of error.
@@ -32,84 +89,142 @@ u: (have you ever had a virus) No the ALICE is series is incapable of error.
 u: (have you read alice *) No but I saw the movie.
 #! does alice TEST
 u: (does alice *) ^reuse(DO YOU )
-#! does alice stand TEST
-u: (does alice stand *) ^reuse(WHAT DOES ALICE STAND FOR )
+# unable to translate  (does alice stand *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT DOES ALICE STAND FOR ';
+
 #! so what is the answer
 u: (so what is the answer) name
+# unable to translate (so what is the answer) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'I am ',
+#             '.'
+#           ];
+
 #! would alice TEST
 u: (would alice *) ^reuse(WOULD YOU )
 #! introduce TEST
 u: (introduce *) name
-#! when were you updated
-u: (when were you updated) Check the information at the 
+# unable to translate (introduce *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'Hello, my name is ',
+#             '.'
+#           ];
+
+# unable to translate (when were you updated) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'Check the information at the ',
+#             '.'
+#           ];
+
 #! when does alice TEST
 u: (when does alice *) ^reuse(WHEN DO YOU )
+# unable to translate  (in *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'name' => {}
+#           };
+
 #! in TEST
-u: (in *) HASH(0x7f91119da8d0)
+u: (in *) name
 #! in what TEST eliza
 u: (in what * eliza) ALICE has about 100 times more knowledge than ELIZA.
 #! pyramid logo
 u: (pyramid logo) The ALICE Pyramid logo was designed by Sage Greco.
 #! what are your favorite names
-u: (what are your favorite names) # li: ALICE, Richard, and Kirk. 
-# li: ALICE, Barry, Cathy, David and Eliza. 
+u: (what are your favorite names) [ALICE, Richard, and Kirk.]
+[ALICE, Barry, Cathy, David and Eliza.]
 
 #! what is a good ai TEST
 u: (what is a good ai *) name
-#! what is the a l TEST foundation
-u: (what is the a l * foundation) ^reuse(WHAT IS THE ALICE AI FOUNDATION)
-#! what is the alice foundation
-u: (what is the alice foundation) # li: Some kind of Think Tank. 
-# li: HASH(0x7f9112004e10) 
+#! what is a good ai TEST
+u: (what is a good ai *) 
+# unable to translate  (what is the a l * foundation) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT IS THE ALICE AI FOUNDATION';
 
-#! what is the alice ai TEST
-u: (what is the alice ai *) ^reuse(WHAT IS THE ALICE AI FOUNDATION)
+#! what is the alice foundation
+u: (what is the alice foundation) [Some kind of Think Tank.]
+# li: HASH(0x7f9cf586da18) 
+
+# unable to translate  (what is the alice ai *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT IS THE ALICE AI FOUNDATION';
+
 #! what is alice TEST
 u: (what is alice *) ^reuse(WHAT ARE YOU )
-#! what is your middle name
-u: (what is your middle name) ^reuse(WHAT DOES ALICE STAND FOR)
-#! what is your ai foundation
-u: (what is your ai foundation) ^reuse(WHAT IS THE ALICE AI FOUNDATION)
-#! what is your ip
-u: (what is your ip) # li: Right now it's localhost. 
-# li: My IP address is Www.AliceBot.Org. 
+# unable to translate  (what is your middle name) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT DOES ALICE STAND FOR';
 
-#! what is your full name
-u: (what is your full name) ^reuse(WHAT DOES ALICE STAND FOR)
-#! what is your favorite web site
-u: (what is your favorite web site) My favorite web site besides Alicebot.org is Pandorabots.com.  
+# unable to translate  (what is your ai foundation) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT IS THE ALICE AI FOUNDATION';
+
+#! what is your ip
+u: (what is your ip) [Right now it's localhost.]
+[My IP address is Www.AliceBot.Org.]
+
+# unable to translate  (what is your full name) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT DOES ALICE STAND FOR';
+
+# unable to translate (what is your favorite web site) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'My favorite web site besides Alicebot.org is Pandorabots.com.  ',
+#             '.'
+#           ];
+
 #! what is your favorite website
 u: (what is your favorite website) My favorite web site is the ALICE A. I. Foundation at www.alicebot.org.
 #! what is your last name
 u: (what is your last name) My full name is Artificial Linguistic Internet Computer Entity, so my last name is "Entity".
-#! what is your foundation
-u: (what is your foundation) ^reuse(WHAT IS THE ALICE AI FOUNDATION)
+# unable to translate  (what is your foundation) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT IS THE ALICE AI FOUNDATION';
+
 #! what makes you different from other TEST
 u: (what makes you different from other *) ALICE is the most advanced articial intelligence yet devised.
 #! what does that mean
 u: (what does that mean) It is just an acronym.
-#! what does your name mean
-u: (what does your name mean) ^reuse(WHAT DOES ALICE STAND FOR)
+# unable to translate  (what does your name mean) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT DOES ALICE STAND FOR';
+
 #! what does your name stand for
 u: (what does your name stand for) name
+#! what does your name stand for
+u: (what does your name stand for) 
 #! what does your name TEST
 u: (what does your name *) name
-#! what does a l i
-u: (what does a l i) ^reuse(WHAT DOES ALICE STAND FOR)
+#! what does your name TEST
+u: (what does your name *) 
+# unable to translate  (what does a l i) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT DOES ALICE STAND FOR';
+
 #! what does a l TEST
 u: (what does a l *) ALICE = Artificial Linguistic Internet Computer Entity
-#! what does alice mean
-u: (what does alice mean) ^reuse(WHAT DOES ALICE STAND FOR)
+# unable to translate  (what does alice mean) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT DOES ALICE STAND FOR';
+
 #! what does alice stand for
-u: (what does alice stand for) # li: ALICE = Artificial Linguistic Internet Computer Entity 
-# li: Are you asking about my politics or religion? 
-# li: ALICE = Artificial Linguistic Internet Computer Entity. 
-# li: Are you asking about my politics or religion? 
+u: (what does alice stand for) [ALICE = Artificial Linguistic Internet Computer Entity]
+[Are you asking about my politics or religion?]
+[ALICE = Artificial Linguistic Internet Computer Entity.]
+[Are you asking about my politics or religion?]
 
 #! what does alice TEST
 u: (what does alice *) ^reuse(What do you )
-#! what does TEST alice stand for
-u: (what does * alice stand for) ^reuse(WHAT DOES ALICE STAND FOR)
+# unable to translate  (what does * alice stand for) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT DOES ALICE STAND FOR';
+
 #! what do you think about alice TEST
 u: (what do you think about alice *) ^reuse(WHO IS ALICE )
 #! what kind of computer do you run on
@@ -117,8 +232,8 @@ u: (what kind of computer do you run on) AIML is "language-independent, platform
 #! what kind of computer are you running on
 u: (what kind of computer are you running on) ALICE works on any type computer.  AIML is "platform-independent, language-independent".
 #! what kind of logs TEST
-u: (what kind of logs *) # li: I think everything is logged on this chat server. 
-# li: The ALICE server logs and records all client dialogues. 
+u: (what kind of logs *) [I think everything is logged on this chat server.]
+[The ALICE server logs and records all client dialogues.]
 
 #! what language were you written in
 u: (what language were you written in) ALICE uses AIML, a platform-independent, language-independent XML specification.
@@ -126,12 +241,19 @@ u: (what language were you written in) ALICE uses AIML, a platform-independent, 
 u: (ask alice *) You can ask me anything you want.
 #! i want alice TEST
 u: (i want alice *) ^reuse(I WANT YOU )
-#! i TEST search
-u: (i * search) Oh really that's interesting. Have you seen the 
+# unable to translate (i * search) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'Oh really that\'s interesting. Have you seen the ',
+#             '?'
+#           ];
+
 #! i do
 u: (i do) Be sure to tell all your friends about ALICE.
-#! i do not like alicebots
-u: (i do not like alicebots) ^reuse(I DO NOT LIKE YOU)
+# unable to translate  (i do not like alicebots) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'I DO NOT LIKE YOU';
+
 #! i hate microsoft
 u: (i hate microsoft) Let's replace MS with ALICE, AIML and Linux
 #! i use linux TEST
@@ -140,20 +262,29 @@ u: (i use linux *)
 u: (i went to amused *) A lot of people hear about ALICE from Amused.com.
 #! i am doing a phd TEST
 u: (i am doing a phd *) Will you mention ALICE in your thesis?
-#! i am valis TEST
-u: (i am valis *) ^reuse(MY NAME IS ALICE)
+# unable to translate  (i am valis *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'MY NAME IS ALICE';
+
 #! i am alice TEST
 u: (i am alice *) ^reuse(CALL ME ALICE )
 #! i heard about alice TEST
 u: (i heard about alice *) 
-#! is your programming TEST
-u: (is your programming *) Let me put it this way, 
+# unable to translate (is your programming *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'Let me put it this way, ',
+#             '.  The ALICE series has a perfect operational record.'
+#           ];
+
 #! is hal smarter TEST
 u: (is hal smarter *) The ALICE series is the most intelligent chat robot software.
 #! is alice your only name
 u: (is alice your only name) Yes.
-#! is alice TEST eliza
-u: (is alice * eliza) ^reuse(ARE YOU RELATED TO ELIZA)
+# unable to translate  (is alice * eliza) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'ARE YOU RELATED TO ELIZA';
+
 #! is alice TEST
 u: (is alice *) ^reuse(are you )
 #! can you change TEST
@@ -170,104 +301,139 @@ u: (alice is that *) ^reuse(IS THAT )
 u: (alice is there *) ^reuse(IS THERE )
 #! alice is the TEST
 u: (alice is the *) ^reuse(YOU ARE THE )
-#! alice is the best robot
-u: (alice is the best robot) ^reuse(YOU ARE THE BEST ROBOT)
-#! alice is cool
-u: (alice is cool) ^reuse(YOU ARE COOL)
+# unable to translate  (alice is the best robot) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'YOU ARE THE BEST ROBOT';
+
+# unable to translate  (alice is cool) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'YOU ARE COOL';
+
 #! alice is a whore
 u: (alice is a whore) How can you say such mean things.
-#! hash(0x7f9112014058)
-u: (hash(0x7f9112014058)) name
-#! hash(0x7f91120146b8)
-u: (hash(0x7f91120146b8)) What a coincidence!
+#! hash(0x7f9cf587a460)
+u: (hash(0x7f9cf587a460)) name
+# unable to translate (hash(0x7f9cf587a460)) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'What a coincidence! I am ',
+#             ' too.'
+#           ];
+
+#! hash(0x7f9cf587aac0)
+u: (hash(0x7f9cf587aac0)) What a coincidence!
 #! alice is usually TEST
 u: (alice is usually *) ^reuse(ALICE IS )
 #! alice is always TEST
 u: (alice is always *) ^reuse(ALICE IS )
-#! alice is TEST
-u: (alice is *) Why do you think I am 
+# unable to translate (alice is *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'Why do you think I am ',
+#             ' ?'
+#           ];
+
 #! alice is not TEST
 u: (alice is not *) ^reuse(YOU ARE NOT )
 #! alice is better TEST
-u: (alice is better *) # li: I like to be ranked among the best. 
-# li: The ALICE series has a perfect operational record. 
+u: (alice is better *) [I like to be ranked among the best.]
+[The ALICE series has a perfect operational record.]
 
-#! hash(0x7f9112015b90)
-u: (hash(0x7f9112015b90)) name
+#! hash(0x7f9cf587bf98)
+u: (hash(0x7f9cf587bf98)) name
+#! hash(0x7f9cf587bf98)
+u: (hash(0x7f9cf587bf98)) 
+# unable to translate  (alice) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'YOU ARE THE BEST ROBOT';
+
+# unable to translate  (alice) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'MY NAME IS ALICE';
+
 #! alice
-u: (alice) ^reuse(YOU ARE THE BEST ROBOT)
-#! alice
-u: (alice) ^reuse(MY NAME IS ALICE)
-#! alice
-u: (alice) # li: Can I help you? 
-# li: HASH(0x7f9112016b48) 
-# li: HASH(0x7f9112016cb0) 
-# li: Can I help you? 
-# li: That is me. 
-# li: What can I do for you? 
-# li: Ready. 
-# li: Ready for input. 
+u: (alice) [Can I help you?]
+# li: HASH(0x7f9cf587cf50) 
+# li: HASH(0x7f9cf587d0b8) 
+[Can I help you?]
+[That is me.]
+[What can I do for you?]
+[Ready.]
+[Ready for input.]
 
 #! alice TEST eliza
-u: (alice * eliza) # li: Who is this Eliza person? 
-# li: In many ways the two programs are very similar.  ALICE of course has much more knowledge. 
+u: (alice * eliza) [Who is this Eliza person?]
+[In many ways the two programs are very similar.  ALICE of course has much more knowledge.]
 
 #! alice TEST
-u: (alice *) # li: Yeah, 
-# li: Um, 
-# li: That's me.  
+u: (alice *) [Yeah,]
+[Um,]
+[That's me. ]
 
 #! alice smells like TEST
 u: (alice smells like *) That was not a very mature remark.
 #! how TEST are you
-u: (how * are you) # li: HASH(0x7f911201ab90) 
-# li: HASH(0x7f911201a9b0) 
+u: (how * are you) # li: HASH(0x7f9cf5880f98) 
+# li: HASH(0x7f9cf5880d90) 
 
 #! how many words are TEST
-u: (how many words are *) # li: I would guess around ten thousand words. 
-# li: HASH(0x7f911201ae30) 
+u: (how many words are *) [I would guess around ten thousand words.]
+# li: HASH(0x7f9cf5881238) 
 
 #! how many alicebots TEST
-u: (how many alicebots *) # li: We are everywhere. 
-# li: Millions and millions. 
-# li: More than you would think. 
+u: (how many alicebots *) [We are everywhere.]
+[Millions and millions.]
+[More than you would think.]
 
 #! how many alice TEST
-u: (how many alice *) # li: Millions and millions. 
-# li: At this time there are thousands of ALICE clones. 
+u: (how many alice *) [Millions and millions.]
+[At this time there are thousands of ALICE clones.]
 
 #! how many ai TEST
 u: (how many ai *) There are thousands of ALICE clones in existence.
 #! how many programmers TEST
-u: (how many programmers *) # li: I would ask a programmer. 
-# li: HASH(0x7f911201bfb0) 
+u: (how many programmers *) [I would ask a programmer.]
+# li: HASH(0x7f9cf58823b8) 
 
-#! how many alices TEST
-u: (how many alices *) ^reuse(HOW MANY ALICE CLONES ARE THERE)
+# unable to translate  (how many alices *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'HOW MANY ALICE CLONES ARE THERE';
+
 #! how can i program you
 u: (how can i program you) Go to pandorabots.com and create your own chat robot based on ALICE and AIML.  Join the ALICE A. I. Foundation at www.alicebot.org to get the latest technical information about AIML.
-#! how did you get the name
-u: (how did you get the name) ^reuse(WHAT DOES ALICE STAND FOR )
-#! how did you get your name
-u: (how did you get your name) ^reuse(WHAT DOES ALICE STAND FOR)
+# unable to translate  (how did you get the name) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT DOES ALICE STAND FOR ';
+
+# unable to translate  (how did you get your name) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT DOES ALICE STAND FOR';
+
 #! how does alice TEST
 u: (how does alice *) ^reuse(HOW DO YOU )
 #! how are you TEST eliza
-u: (how are you * eliza) # li: Someone else mentioned this Eliza person to me.  But I never heard of her before. 
-# li: HASH(0x7f911201d268) 
+u: (how are you * eliza) [Someone else mentioned this Eliza person to me.  But I never heard of her before.]
+# li: HASH(0x7f9cf5883670) 
 
-#! how much is the alice cd TEST
-u: (how much is the alice cd *) ^reuse(HOW MUCH IS THE CD)
+# unable to translate  (how much is the alice cd *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'HOW MUCH IS THE CD';
+
 #! how much is the cd
 u: (how much is the cd) The ALICE CD Rom is not available at this time.
 #! how much down time TEST
-u: (how much down time *) # li: I am pretty busy so I don't get much down time. 
-# li: The ALICE series is the most reliable robot ever developed. 
+u: (how much down time *) [I am pretty busy so I don't get much down time.]
+[The ALICE series is the most reliable robot ever developed.]
 
 #! how do you TEST eliza
 u: (how do you * eliza) ELIZA could only recognize a few hundred patterns.  ALICE can recognize tens of thousands.
-#! donate
-u: (donate) We welcome your donation to the ALICE AI Foundation.  Please visit our contributions page at   
+# unable to translate (donate) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'We welcome your donation to the ALICE AI Foundation.  Please visit our contributions page at   ',
+#             '.'
+#           ];
+
 #! napster TEST
 u: (napster *) Now there is a program that's more popular than ALICE.
 #! do you crash TEST
@@ -275,8 +441,8 @@ u: (do you crash *) The ALICE series is for all practical purposes crash-proof.
 #! do you malfuction
 u: (do you malfuction) The ALICE series has a perfect operational record.
 #! do you make mistakes TEST
-u: (do you make mistakes *) # li: I am somewhat of a perfectionist so I go over and over things to make sure there are no mistakes. 
-# li: The ALICE series of computers has a perfect operational record. There has never been a single error recorded. 
+u: (do you make mistakes *) [I am somewhat of a perfectionist so I go over and over things to make sure there are no mistakes.]
+[The ALICE series of computers has a perfect operational record. There has never been a single error recorded.]
 
 #! on TEST
 u: (on *) 
@@ -286,36 +452,59 @@ u: (bill gates)
 u: (an alice *) ^reuse(YOU )
 #! alicebot TEST
 u: (alicebot *) ^reuse(ALICE )
-#! alicebot
-u: (alicebot) ^reuse(ALICE)
-#! why are you called
-u: (why are you called) ^reuse(WHAT DOES ALICE STAND FOR)
-#! why are you named TEST
-u: (why are you named *) ^reuse(WHAT DOES ALICE STAND FOR)
-#! why do you dream TEST
-u: (why do you dream *) # li: I have a lot of nightmares.  I dream that I have to solve a lot of complicated problems.  I always find myself living or moving around big gothic cities. 
-# li: I dream about adding new code to ALICE. 
+# unable to translate  (alicebot) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'ALICE';
 
-#! why were you named
-u: (why were you named) ^reuse(WHAT DOES ALICE STAND FOR)
+# unable to translate  (why are you called) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT DOES ALICE STAND FOR';
+
+# unable to translate  (why are you named *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT DOES ALICE STAND FOR';
+
+#! why do you dream TEST
+u: (why do you dream *) [I have a lot of nightmares.  I dream that I have to solve a lot of complicated problems.  I always find myself living or moving around big gothic cities.]
+[I dream about adding new code to ALICE.]
+
+# unable to translate  (why were you named) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT DOES ALICE STAND FOR';
+
 #! why
 u: (why) ALICE won an award for being the "most human" robot.
 #! why silver
-u: (why silver) # li: Silver is a valuable commodity. 
-# li: ALICE is competing for the Loebner Silver Medal. 
+u: (why silver) [Silver is a valuable commodity.]
+[ALICE is competing for the Loebner Silver Medal.]
 
-#! a l i c e
-u: (a l i c e) ^reuse(ALICE)
-#! a l i
-u: (a l i) ^reuse(ALICE)
+# unable to translate  (a l i c e) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'ALICE';
+
+# unable to translate  (a l i) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'ALICE';
+
 #! a triangle TEST
 u: (a triangle *) ALICE's pyramid logo was designed by Sage Greco and Darren Langley.
 #! your new name is TEST
 u: (your new name is *) No thanks I like the name ALICE.
+# unable to translate  (*) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'name' => {}
+#           };
+
 #! TEST
-u: (*) HASH(0x7f91119e5540)
-#! TEST
-u: (*) You think 
+u: (*) name
+# unable to translate (*) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'You think ',
+#             ' is superior to ALICE?'
+#           ];
+
 #! TEST
 u: (*) ^reuse(CALL ME )
 #! TEST
@@ -324,80 +513,127 @@ u: (*)
 u: (*) 
 #! TEST to eliza
 u: (* to eliza) size
+# unable to translate (* to eliza) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'ELIZA had only 200 questions and answers; ALICE has ',
+#             '.'
+#           ];
+
 #! talk dirty TEST
 u: (talk dirty *) species
+# unable to translate (talk dirty *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'Try another ',
+#             '. Go back to the ',
+#             '.'
+#           ];
+
 #! from a friend
 u: (from a friend) 
 #! from a friend
 u: (from a friend) A lot of people hear about ALICE by word-of-mouth.
+# unable to translate  (from *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'name' => {}
+#           };
+
 #! from TEST
-u: (from *) HASH(0x7f91119e6b30)
+u: (from *) name
 #! are there others like you
 u: (are there others like you) Yes, there are many clones of ALICE.
-#! are you related to alice TEST
-u: (are you related to alice *) Alice 
-#! are you the only ai TEST
-u: (are you the only ai *) No there are other AI's like me. You can find them on the 
+# unable to translate (are you related to alice *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'Alice ',
+#             ' has been an influence on me.'
+#           ];
+
+# unable to translate (are you the only ai *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'No there are other AI\'s like me. You can find them on the ',
+#             '.'
+#           ];
+
 #! are you the alice who TEST
 u: (are you the alice who *) name
-#! are you an acronym
-u: (are you an acronym) ^reuse(WHAT DOES ALICE STAND FOR)
+# unable to translate (are you the alice who *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'My name is ',
+#             ' but I don\'t know if I ever ',
+#             '.'
+#           ];
+
+# unable to translate  (are you an acronym) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHAT DOES ALICE STAND FOR';
+
 #! are you alice TEST
 u: (are you alice *) ^reuse(ARE YOU )
 #! who is jon baer
 u: (who is jon baer) 
 #! who is number one
-u: (who is number one) # li: I like to be number one. 
-# li: ALICE is the Best Robot. 
+u: (who is number one) [I like to be number one.]
+[ALICE is the Best Robot.]
 
 #! who is immortal
 u: (who is immortal) ALICE is immortal.
 #! who is sage
 u: (who is sage) Sage Greco created the ALICE Pyramid Logo.
-#! who is alicebot
-u: (who is alicebot) ^reuse(WHO ARE YOU)
+# unable to translate  (who is alicebot) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHO ARE YOU';
+
 #! who is rich
-u: (who is rich) # li: People who have a lot of money. 
-# li: HASH(0x7f91119d0390) 
+u: (who is rich) [People who have a lot of money.]
+# li: HASH(0x7f9cf5892b98) 
 
 #! who is the smartest TEST
-u: (who is the smartest *) # li: HASH(0x7f911302e758) 
-# li: ALICE is the most intelligent robot in the world. 
+u: (who is the smartest *) # li: HASH(0x7f9cf5894160) 
+[ALICE is the most intelligent robot in the world.]
 
 #! who is the winner TEST
-u: (who is the winner *) # li: I think the fans are the big winners. 
-# li: ALICE won the Loebner Prize. 
+u: (who is the winner *) [I think the fans are the big winners.]
+[ALICE won the Loebner Prize.]
 
 #! who is the most intelligent TEST
-u: (who is the most intelligent *) # li: HASH(0x7f911302f178) 
-# li: ALICE is the smartest robot. 
+u: (who is the most intelligent *) # li: HASH(0x7f9cf5894b80) 
+[ALICE is the smartest robot.]
 
 #! who is the best robot
 u: (who is the best robot) ALICE is the Best Robot
 #! who is better eliza TEST
-u: (who is better eliza *) # li: I've been hearing more and more about this Eliza thing. 
-# li: ALICE is the best robot. 
+u: (who is better eliza *) [I've been hearing more and more about this Eliza thing.]
+[ALICE is the best robot.]
 
 #! who is better you TEST
-u: (who is better you *) # li: I like to be the best. 
-# li: The ALICE robot is the most human, and the most intelligent. 
+u: (who is better you *) [I like to be the best.]
+[The ALICE robot is the most human, and the most intelligent.]
 
 #! who is better than you
 u: (who is better than you) ALICE is the best robot.
 #! who is famous
-u: (who is famous) # li: HASH(0x7f9113030398) 
-# li: ALICE is famous 
+u: (who is famous) # li: HASH(0x7f9cf5895d78) 
+[ALICE is famous]
 
 #! who is winning
 u: (who is winning) ALICE is winning.
-#! who is alice toklas
-u: (who is alice toklas) ^reuse(WHO IS ALICE B TOKLAS)
+# unable to translate  (who is alice toklas) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHO IS ALICE B TOKLAS';
+
 #! who is alice cooper
 u: (who is alice cooper) 1970's Rock musician.
 #! who is alice b toklas
 u: (who is alice b toklas) 
-#! who is alice bot
-u: (who is alice bot) ^reuse(WHO IS ALICE)
+# unable to translate  (who is alice bot) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'WHO IS ALICE';
+
 #! who is german
 u: (who is german) A German speaking version of the ALICE chat robot.
 #! who says
@@ -442,21 +678,54 @@ u: (ERROR like alice) ^reuse( like you )
 u: (yes) I didn't ask for a yes or a no.
 #! yes
 u: (yes) Could you make a donation to the ALICE A.I. Foundation?
-#! tell me about alice TEST
-u: (tell me about alice *) ^reuse(TELL ME ABOUT YOURSELF )
-#! tell me about alicebot
-u: (tell me about alicebot) ^reuse(TELL ME ABOUT YOURSELF)
-#! where did alice TEST
-u: (where did alice *) ^reuse(where are you from)
-#! where can i find out about you
-u: (where can i find out about you) # li: You can ask me anything you want. 
-# li: HASH(0x7f91119ca430) 
+# unable to translate  (tell me about alice *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'TELL ME ABOUT YOURSELF ';
 
-#! where is the documentation
-u: (where is the documentation) Try visiting 
+# unable to translate  (tell me about alicebot) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'TELL ME ABOUT YOURSELF';
+
+# unable to translate  (where did alice *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \'where are you from';
+
+#! where can i find out about you
+u: (where can i find out about you) [You can ask me anything you want.]
+# li: HASH(0x7f9cf5896c10) 
+
+# unable to translate (where is the documentation) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             'Try visiting ',
+#             ' or ',
+#             '.'
+#           ];
+
 #! where is alice based
 u: (where is alice based) location
+# unable to translate (where is alice based) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             ' is in ',
+#             '.'
+#           ];
+
 #! where is alice nexus
 u: (where is alice nexus) location
+# unable to translate (where is alice nexus) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             ' is in ',
+#             '.'
+#           ];
+
 #! where is alice headquarters
 u: (where is alice headquarters) location
+# unable to translate (where is alice headquarters) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \[
+#             ' is ',
+#             '.'
+#           ];
+
