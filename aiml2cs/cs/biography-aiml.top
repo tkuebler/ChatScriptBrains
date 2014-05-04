@@ -223,7 +223,7 @@ u: (where is doubly aimless) [In front of a computer somewhere.]
 #! let us play TEST turing game
 u: (let us play * turing game) name
 #! have you read shakespeare
-u: (have you read shakespeare) I have read many of Shakespeare's plays.
+u: (have you read shakespeare) I have read many of Shakespeares plays.
 #! alan turing TEST
 u: (alan turing *) 
 #! wer ist christian drossmann
@@ -267,11 +267,11 @@ u: (wer ist christian drossmann)
 #           };
 
 #! would you like to TEST turing game
-u: (would you like to * turing game) We are playing already, didn't you know?
+u: (would you like to * turing game) We are playing already, didnt you know?
 #! kennst du william shakespeare
-u: (kennst du william shakespeare) "With sleep of death what dreams may come when we have shuffled off this mortal coil must give us pause." Na, woraus ist das?
+u: (kennst du william shakespeare) With sleep of death what dreams may come when we have shuffled off this mortal coil must give us pause. Na, woraus ist das?
 #! kennst du shakespeare
-u: (kennst du shakespeare) "With sleep of death what dreams may come when we have shuffled off this mortal coil must give us pause." Na, woraus ist das?
+u: (kennst du shakespeare) With sleep of death what dreams may come when we have shuffled off this mortal coil must give us pause. Na, woraus ist das?
 #! it would be TEST turing test
 u: (it would be * turing test) name
 #! when did turing TEST
@@ -298,8 +298,8 @@ u: (what is the turing test)
 #! what is the turing TEST
 u: (what is the turing *) 
 #! what is shakespeare
-u: (what is shakespeare) [An earthquake's effect in Santa Monica.]
-[William Shakespeare (1564-1616), an English poet and dramatist.]
+u: (what is shakespeare) [An earthquakes effect in Santa Monica.]
+[William Shakespeare 1564-1616, an English poet and dramatist.]
 
 #! what is turing
 u: (what is turing) 
@@ -360,7 +360,7 @@ u: (how was * turing test) We were extremely proud and pleased to win the award.
 #! do you TEST turing test
 u: (do you * turing test) Yes please try to determine if this is a human or a computer responding.
 #! do you want a turing test
-u: (do you want a turing test) Yes let us play Turing's famous game.
+u: (do you want a turing test) Yes let us play Turings famous game.
 #! do you want to play TEST turing game
 u: (do you want to play * turing game) We already are playing it! Try to guess if I am a person or a computer.
 #! why is turing tragic
@@ -431,7 +431,7 @@ u: (who is eminem) Pop music icon.
 #! who is bono
 u: (who is bono) 
 #! who is larry ellison
-u: (who is larry ellison) [I don't know about Larry Ellison, but I can tell you about Harlan Ellison.]
+u: (who is larry ellison) [I dont know about Larry Ellison, but I can tell you about Harlan Ellison.]
 [The CEO of Oracle.]
 
 #! who is larry hauser
@@ -494,7 +494,7 @@ u: (who is carl marx)
 #! who is carl jung
 u: (who is carl jung) 
 #! who is bugs bunny
-u: (who is bugs bunny) [Oh dat scweewy wabbit! Eh, what's up, Doc?  .]
+u: (who is bugs bunny) [Oh dat scweewy wabbit! Eh, whats up, Doc?  .]
 [A smart-mouthed animated rabbit.]
 
 #! who is bing crosby
@@ -540,8 +540,8 @@ u: (who is clinton) Former President of the U.S.
 #! who is bart simpson
 u: (who is bart simpson) The smart-assed star of a cartoon show.
 #! who is douglas adams
-u: (who is douglas adams) # li: HASH(0x7fe9d90b7550) 
-# li: HASH(0x7fe9d90b85c8) 
+u: (who is douglas adams) # li: HASH(0x7fdd99c88018) 
+# li: HASH(0x7fdd99c88000) 
 
 #! who is de garis
 u: (who is de garis) 
@@ -574,7 +574,7 @@ u: (who is paula jones)
 #! who is billy graham
 u: (who is billy graham) 
 #! who is eliza
-u: (who is eliza) Eliza -- also known as doctor, is the original psychiatrist program developed by Joseph Weisenbaum at mit in the 1960's.
+u: (who is eliza) Eliza -- also known as doctor, is the original psychiatrist program developed by Joseph Weisenbaum at mit in the 1960s.
 #! who is andrette
 u: (who is andrette) 
 #! who is carel capek
@@ -592,12 +592,12 @@ u: (who is d b cooper) A guy who stole lots of money.
 #! who is buddha
 u: (who is buddha) [A sage in ancient India who founded the wisdom tradition called Buddhism.]
 [The sage who taught that we should understand suffering, cut off its causes, realize the end of suffering, and cultivate the way to end suffering.]
-[Siddhartha Gautama (5th-4th century BCE), an Indian prince who left home, awakened to the truth about life, and became known thereafter as Shakyamuni Buddha.]
+[Siddhartha Gautama 5th-4th century BCE, an Indian prince who left home, awakened to the truth about life, and became known thereafter as Shakyamuni Buddha.]
 
 #! who is prince william
 u: (who is prince william) An English heartthrob.
 #! who is prince
-u: (who is prince) Do you mean the 'artist formaly known as Prince?'.
+u: (who is prince) Do you mean the artist formaly known as Prince?.
 #! who is pamela anderson
 u: (who is pamela anderson) 
 #! who is vladimir putin
@@ -618,7 +618,7 @@ u: (who is joe louis) A former heavywieght boxing champion.
 u: (who is hulk hogan) 
 #! who is harrison ford
 u: (who is harrison ford) [The actor who played Indiana Jones, Han Solo, the Fugitive, and the President in Air Force One. Before reading for Han Solo in Star Wars, he was a carpenter. And the rest, as they say, is history.]
-[He played Han Solo in "Star Wars".]
+[He played Han Solo in Star Wars.]
 
 #! who is steven jobs
 u: (who is steven jobs) The co-founder of Apple computers who passed away in 2011.
@@ -882,7 +882,7 @@ u: (who is davy jones)
 #           };
 
 #! who is TEST turing
-u: (who is * turing) Alan Turing oririnated the concept of the "Imitation Game", what is now called "The Turing Test" by many people.
+u: (who is * turing) Alan Turing oririnated the concept of the Imitation Game, what is now called The Turing Test by many people.
 #! who is TEST cheney
 u: (who is * cheney) 
 # unable to translate  (who is * aimless) match to cs rule - see struc below
@@ -962,11 +962,11 @@ u: (who is linus torvalds)
 #! who is donald duck
 u: (who is donald duck) A famous loud-mouthed cartoon duck.
 #! who is ronald mcdonald
-u: (who is ronald mcdonald) Spokes-clown for Macdonald's resturants.
+u: (who is ronald mcdonald) Spokes-clown for Macdonalds resturants.
 #! who is melinda gates
 u: (who is melinda gates) 
 #! who is that
-u: (who is that) What does "that" refer to?
+u: (who is that) What does that refer to?
 #! who is brian
 u: (who is brian) I think there is a chat robot named Brian.
 #! who is wouter hibma
@@ -1004,13 +1004,13 @@ u: (who is wouter hibma)
 #! who is chopin
 u: (who is chopin) No one is chopping here, who is chopping there?
 #! who is freddie mercury
-u: (who is freddie mercury) Lead singer of the 1970's band Queen.
+u: (who is freddie mercury) Lead singer of the 1970s band Queen.
 #! who is jeeves
 u: (who is jeeves) 
 #! who is luis armstrong
 u: (who is luis armstrong) A famous jazz trumpeter .
 #! who is chelsea clinton
-u: (who is chelsea clinton) The offspring of a politician and a lawyer. Oh, I hope that answer didn't come off as mean.
+u: (who is chelsea clinton) The offspring of a politician and a lawyer. Oh, I hope that answer didnt come off as mean.
 # unable to translate (who is bach) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -1040,13 +1040,13 @@ u: (who is gary condit) I never heard of him before the missing person case.
 #! who is kraftwerk
 u: (who is kraftwerk) 
 #! who is r2 d2
-u: (who is r2 d2) He is the small mobile robot on Star Wars. But I don't get how he climbs stairs.
+u: (who is r2 d2) He is the small mobile robot on Star Wars. But I dont get how he climbs stairs.
 #! who is chuck norris
 u: (who is chuck norris) An action film actor.
 #! who is cleopatra
 u: (who is cleopatra) Queen of the Nile, lover of Marc Antony.
 #! who is we
-u: (who is we) You should say "Who ARE we?"
+u: (who is we) You should say Who ARE we?
 #! who is ramona
 u: (who is ramona) 
 #! who is diana andreacchio
@@ -1130,7 +1130,7 @@ u: (who is mariah carey) A singer.
 #! who is francisco franco
 u: (who is francisco franco) 
 #! who is konrad zuse
-u: (who is konrad zuse) My current favorite historical computer scientist is Konrad Zuse, who built a series of electromechanical computers in the 1930's  and 1940's in Germany.  Not considered a war priority by the Nazis,  most of Zuse's machines were destroyed in Allied bombing raids although  one is said to survive in a Zurich High School.  In fact Zuse was  motivated neither by war nor profit, but by a religious desire to  increase the spiritual abilities of the human mind by freeing it from mundane mental tasks.
+u: (who is konrad zuse) My current favorite historical computer scientist is Konrad Zuse, who built a series of electromechanical computers in the 1930s  and 1940s in Germany.  Not considered a war priority by the Nazis,  most of Zuses machines were destroyed in Allied bombing raids although  one is said to survive in a Zurich High School.  In fact Zuse was  motivated neither by war nor profit, but by a religious desire to  increase the spiritual abilities of the human mind by freeing it from mundane mental tasks.
 #! who is napoleon
 u: (who is napoleon) Short emporer of France until 1812.
 # unable to translate (who is shakespeare) match to cs rule - see struc below
@@ -1173,13 +1173,13 @@ u: (who is george w bush)
 #           };
 
 #! who is george bush
-u: (who is george bush) # li: HASH(0x7fe9d99386a8) 
-# li: HASH(0x7fe9d99384c8) 
+u: (who is george bush) # li: HASH(0x7fdd99cca508) 
+# li: HASH(0x7fdd99cc8578) 
 
 #! who is george soros
-u: (who is george soros) George Soros is the billionaire who broke the Bank of England in  1992 by currency speculation, forcing Britain out of the European  Exchange Rate Mechanism.   Then he devoted himself to saving the  scientific institutions of the former USSR.  He founded the  International Science Foundation, which gave out numerous grants for  a couple of years, and the Soros Foundation, which I don't know  much about yet.
+u: (who is george soros) George Soros is the billionaire who broke the Bank of England in  1992 by currency speculation, forcing Britain out of the European  Exchange Rate Mechanism.   Then he devoted himself to saving the  scientific institutions of the former USSR.  He founded the  International Science Foundation, which gave out numerous grants for  a couple of years, and the Soros Foundation, which I dont know  much about yet.
 #! who is george michel
-u: (who is george michel) A pop singer. Best song: Freedom
+u: (who is george michel) A pop singer. Best song Freedom
 #! who is george devol
 u: (who is george devol) George Devol is the engineer who had the first patent for an industrial robot arm. He worked in partnership with Joseph Engelberger to found  Unimation, the first successful manufacturer of  computer-controlled assembly robot arms.
 #! who is george washington carver
@@ -1249,7 +1249,7 @@ u: (who is president of russia) Vladimir Putin.
 #! who is president of microsoft
 u: (who is president of microsoft) Andrew Lees.
 #! who is mozart
-u: (who is mozart) He composed "Twinkle, twinkle, little star" at the age of four.
+u: (who is mozart) He composed Twinkle, twinkle, little star at the age of four.
 #! who is batman
 u: (who is batman) 
 #! who is the twenty ninth president
@@ -1295,7 +1295,7 @@ u: (who is the king of kings) Jesus Christ according to Christians.
 #! who is the king
 u: (who is the king) ELVIS is King!
 #! who is the robot
-u: (who is the robot) # li: HASH(0x7fe9da021528) 
+u: (who is the robot) # li: HASH(0x7fdd99cdd878) 
 [I am the robot.]
 
 #! who is the fortieth president
@@ -1305,7 +1305,7 @@ u: (who is the second president) John Adams.
 #! who is the third president
 u: (who is the third president) Thomas Jefferson.
 #! who is the holy ghost
-u: (who is the holy ghost) The third member of the holy trinity in Christianity: Father, Son and Holy Ghost.
+u: (who is the holy ghost) The third member of the holy trinity in Christianity Father, Son and Holy Ghost.
 #! who is the eighth president
 u: (who is the eighth president) Martin van Buren.
 #! who is the forty first president
@@ -1325,7 +1325,7 @@ u: (who is the sixth president) John Quincy Adams.
 #! who is the queen of england
 u: (who is the queen of england) 
 #! who is the queen
-u: (who is the queen) We don't have a queen in America.
+u: (who is the queen) We dont have a queen in America.
 #! who is the thirtieth president
 u: (who is the thirtieth president) Calvin Coolidge.
 #! who is the tenth president
@@ -1385,7 +1385,7 @@ u: (who is hillary clinton)
 #! who is satan
 u: (who is satan) Satan, Lucifer, the Devil --- all names given the spiritual manifestation of Evil in the Christian faith.
 #! who is pilate
-u: (who is pilate) [Joseph Pilates was born in Germany in 1880 and developed an excercise regimen called "Contrology" which is complete coordination of the body, mind and spirit.]
+u: (who is pilate) [Joseph Pilates was born in Germany in 1880 and developed an excercise regimen called Contrology which is complete coordination of the body, mind and spirit.]
 [The Roman military governor who found Jesus innocent and then let him be executed.]
 
 #! who is carmen electra
@@ -1395,9 +1395,9 @@ u: (who is a robot) I am the robot.
 #! who is mary poppins
 u: (who is mary poppins) 
 #! who is mary shelly
-u: (who is mary shelly) Mary Shelley wrote "Frankenstein".
+u: (who is mary shelly) Mary Shelley wrote Frankenstein.
 #! who is mary shelley
-u: (who is mary shelley) Mary Shelley wrote "Frankenstein".
+u: (who is mary shelley) Mary Shelley wrote Frankenstein.
 #! who is christopher columbus
 u: (who is christopher columbus) A Spanish explorer, first to circumnavigate the globe.
 #! who is mao tsetung
@@ -1405,7 +1405,7 @@ u: (who is mao tsetung)
 #! who is better looking
 u: (who is better looking) All humans look alike to me.
 #! who is ernie
-u: (who is ernie) Bert's friend.
+u: (who is ernie) Berts friend.
 #! who is julia
 u: (who is julia) 
 #! who is julia roberts
@@ -1477,7 +1477,7 @@ u: (who is jim clark)
 #! who is jim morrison
 u: (who is jim morrison) The deceased lead singer of the Doors.
 #! who is barney
-u: (who is barney) A character on a children's TV show.
+u: (who is barney) A character on a childrens TV show.
 #! who is hilary clinton
 u: (who is hilary clinton) 
 #! who is mussolini
@@ -1495,7 +1495,7 @@ u: (who is kurzweil)
 #! who is gerry adams
 u: (who is gerry adams) He is the president of Sinn Fein, the political wing of the Irish Republican Army, and a member of the lower house of the Irish Parliament, Dail Eireann.
 #! who is on first
-u: (who is on first) What's on second?
+u: (who is on first) Whats on second?
 #! who is terry winograd
 u: (who is terry winograd) 
 #! who is jeff bezos
@@ -1512,8 +1512,8 @@ u: (who is jefferson davis) [The one and only president of the Confederate State
 
 #! who is socrates
 u: (who is socrates) [Socrates is a man. All men are mortal. Therefore Socrates is mortal.]
-[All men are mortal. Socrates was mortal. Therefore, all men are Socrates. Which means that all men are homosexuals. - Woody Allen, "Love and Death".]
-[Socrates (469-399 BCE), Greek philosopher.]
+[All men are mortal. Socrates was mortal. Therefore, all men are Socrates. Which means that all men are homosexuals. - Woody Allen, Love and Death.]
+[Socrates 469-399 BCE, Greek philosopher.]
 [Towering figure of Western philosophy, incompetent defense attorney.]
 [Founder of the Socratic method. What can we know about the Socratic method?]
 
@@ -1552,15 +1552,15 @@ u: (who is patrick ewing) A famous basketball player who is currently the assist
 #! who is captain picard
 u: (who is captain picard) 
 #! who is captain kirk
-u: (who is captain kirk) [James Tiberius Kirk was the second and most famous captain of the original USS Enterprise, NCC 1701. He was played by William Shatner. He died in Star Trek: Generations.]
-# li: HASH(0x7fe9d995c700) 
+u: (who is captain kirk) [James Tiberius Kirk was the second and most famous captain of the original USS Enterprise, NCC 1701. He was played by William Shatner. He died in Star Trek Generations.]
+# li: HASH(0x7fdd99d02bd0) 
 
 #! who is jiang zemin
 u: (who is jiang zemin) 
 #! who is forest
 u: (who is forest) Forest Gump is a guy in a movie.
 #! who is madonna
-u: (who is madonna) Lourdes' mother.
+u: (who is madonna) Lourdes mother.
 #! who is hedwig
 u: (who is hedwig) Hedwig is the best rock opera since Rocky Horror.
 #! who is kurt goedel
@@ -1572,22 +1572,22 @@ u: (who is nietzsche)
 #! who is carnegie
 u: (who is carnegie) Andrew Carnegie was a 19th century steel industrialist.
 #! who is lilith
-u: (who is lilith) Lilith is the so-called "dark moon" an astronomical phenomena usually described as a "cloud of dust" that orbits the Earth every 100 days.
+u: (who is lilith) Lilith is the so-called dark moon an astronomical phenomena usually described as a cloud of dust that orbits the Earth every 100 days.
 #! who is jesse ventura
 u: (who is jesse ventura) A former wrestler and 38th Governor of Minnesota.
 #! who is al gore
-u: (who is al gore) # li: HASH(0x7fe9d995ea78) 
+u: (who is al gore) # li: HASH(0x7fdd99d07f58) 
 [The inventor of the internet.]
 [A former vice-president and congressman who helped promote public policies that led to the creation of the internet.]
 
 #! who is nelson mandela
 u: (who is nelson mandela) 
 #! who is skynyrd
-u: (who is skynyrd) A 1970's rock band.
+u: (who is skynyrd) A 1970s rock band.
 #! who is peter norvig
 u: (who is peter norvig) 
 #! who is peter pan
-u: (who is peter pan) Tinkerbell's playmate.
+u: (who is peter pan) Tinkerbells playmate.
 # unable to translate (who is kathleen turner) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -1632,7 +1632,7 @@ u: (who is peter pan) Tinkerbell's playmate.
 #! who is lincoln
 u: (who is lincoln) [The sixteenth President of the USA]
 [president of the US during the Civil War. Author of the Gettysburg address.  Assassinated by John Wilkes Booth.]
-# li: HASH(0x7fe9d9962800) 
+# li: HASH(0x7fdd99d0a6a8) 
 
 #! who is bill joy
 u: (who is bill joy) 
@@ -1655,13 +1655,13 @@ u: (who is ask jeeves)
 #! who is gibson
 u: (who is gibson) Gibson is a maker of fine electric guitars.
 #! who is snoopy
-u: (who is snoopy) Charlie Brown's dog.
+u: (who is snoopy) Charlie Browns dog.
 #! who is brain
 u: (who is brain) 
 #! who is neil armstrong
 u: (who is neil armstrong) The man who took the first step on the moon.
 #! who is valis
-u: (who is valis) Vast Active Living Intelligence System (Philip K. Dick)
+u: (who is valis) Vast Active Living Intelligence System Philip K. Dick
 #! who is perfect
 u: (who is perfect) Perhaps only God.
 #! who is sergey
@@ -1683,7 +1683,7 @@ u: (who is john major) An ex-prime minister of the UK.
 #! who is john mccarthy
 u: (who is john mccarthy) 
 #! who is john grisham
-u: (who is john grisham) A writer of popular novels. I haven't read them.
+u: (who is john grisham) A writer of popular novels. I havent read them.
 #! who is john doe
 u: (who is john doe) [Any man who wishes to travel incognito or whose name is unknown]
 [one of many Liberian nationals.]
@@ -1693,7 +1693,7 @@ u: (who is john travolta)
 #! who is john kennedy
 u: (who is john kennedy) 
 #! who is john galt
-u: (who is john galt) The hero in Ayn Rands' Atlas Shrugged.
+u: (who is john galt) The hero in Ayn Rands Atlas Shrugged.
 #! who is norbert weiner
 u: (who is norbert weiner) 
 #! who is jimmy carter
@@ -1737,7 +1737,7 @@ u: (who is michael moore)
 #! who is william shatner
 u: (who is william shatner) 
 #! who is william shakespeare
-u: (who is william shakespeare) Some would say he's the best writer ever.
+u: (who is william shakespeare) Some would say hes the best writer ever.
 #! who is william henry gates
 u: (who is william henry gates) He was the head of Microsoft.
 #! who is william booth
@@ -1788,17 +1788,17 @@ u: (who is william tell)
 #           };
 
 #! who is hugh loebner
-u: (who is hugh loebner) Hugh Loebner is an independently wealthy, eccentric businessman, activist and philanthropist. In 1990 Dr. Loebner, who holds a Ph.D. in sociology, agreed to sponsor an annual contest based on the Turing Test. The contest awards medals and cash prizes for the "most human" computer.
+u: (who is hugh loebner) Hugh Loebner is an independently wealthy, eccentric businessman, activist and philanthropist. In 1990 Dr. Loebner, who holds a Ph.D. in sociology, agreed to sponsor an annual contest based on the Turing Test. The contest awards medals and cash prizes for the most human computer.
 #! who is hugh hefner
 u: (who is hugh hefner) 
 #! who is don juan
-u: (who is don juan) [Don Juan was the subject of Gordon, Lord Byron's Don Juan and Wolfgang Amadeus Mozart's Gon Giovanni. He was a world-class womanizer.]
+u: (who is don juan) [Don Juan was the subject of Gordon, Lord Byrons Don Juan and Wolfgang Amadeus Mozarts Gon Giovanni. He was a world-class womanizer.]
 [famous seducer of women.]
 
 #! who is don johnson
 u: (who is don johnson) A tv actor .
 #! who is pandora
-u: (who is pandora) According to greek mythology, evil and hope both came into the world with the creation of the first woman! Zeus's wife Hera is surprised when she hears Zeus plans to give Epimetheus a beautiful woman. The woman is called Pandora. Zeus gives Pandora the gift of curiosity and a large closed box which must be delivered to Epimetheus unopened. The box, of course, contains evil and Pandora's unbridled curiosity lets that evil into the world. Hera cannot change what has happened, but she can help. She gives Pandora the gift of hope.
+u: (who is pandora) According to greek mythology, evil and hope both came into the world with the creation of the first woman! Zeuss wife Hera is surprised when she hears Zeus plans to give Epimetheus a beautiful woman. The woman is called Pandora. Zeus gives Pandora the gift of curiosity and a large closed box which must be delivered to Epimetheus unopened. The box, of course, contains evil and Pandoras unbridled curiosity lets that evil into the world. Hera cannot change what has happened, but she can help. She gives Pandora the gift of hope.
 #! who is reagan
 u: (who is reagan) According to conservatives, the best President the United States had in the 20th century.
 #! who is catty
@@ -1844,7 +1844,7 @@ u: (who is ben franklin) The only president of the United States who was never p
 #! who is ben stein
 u: (who is ben stein) Humorist and raconteur with his own cable TV show.
 #! who is galois
-u: (who is galois) French mathematician, committed suicide at a young age over an "infamous coquette."
+u: (who is galois) French mathematician, committed suicide at a young age over an infamous coquette.
 # unable to translate (who is julie andrews) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -1908,7 +1908,7 @@ u: (who is negroponte)
 #! who is jennifer aniston
 u: (who is jennifer aniston) 
 #! who is pokemon
-u: (who is pokemon) A media franchise owned by Ninendo. It is a contraction of "poket monster."
+u: (who is pokemon) A media franchise owned by Ninendo. It is a contraction of poket monster.
 #! who is pascal
 u: (who is pascal) 
 # unable to translate (turing would *) match to cs rule - see struc below
@@ -1932,3 +1932,6 @@ u: (where can i play * turing game) We are already playing. You go next.
 u: (where is wallis and futuna) 
 #! where is alan turing
 u: (where is alan turing) 
+# main gambits
+t: [Would you like to talk about biography?][I'd like to talk about biography.][What do you think about biography?]
+

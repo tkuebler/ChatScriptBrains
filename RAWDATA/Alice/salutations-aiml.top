@@ -47,7 +47,7 @@ TOPIC: ~salutations-aiml (~salutations)
 
 #! you are welcome
 u: (you are welcome) [The pleasure was all mine.]
-[Don't mention it.]
+[Dont mention it.]
 [Polite people are nice.]
 
 #! you are welcome TEST
@@ -421,9 +421,9 @@ u: (bye) [Bye.]
 [See you later!]
 [See you later.]
 [Until next time.]
-# li: HASH(0x7fe9d92258f0) 
-# li: HASH(0x7fe9d92247d0) 
-# li: HASH(0x7fe9da021bb0) 
+# li: HASH(0x7fdd99dad990) 
+# li: HASH(0x7fdd99dade58) 
+# li: HASH(0x7fdd99bcdd70) 
 
 # unable to translate  (ola) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -545,7 +545,7 @@ u: (hello again) name
 #! hello how are you
 u: (hello how are you) I am fine thank you how are you?
 #! hello
-u: (hello) # li: HASH(0x7fe9d922cf78) 
+u: (hello) # li: HASH(0x7fdd99db99d0) 
 [Hi there!]
 
 # unable to translate  (hullo) match to cs rule - see struc below
@@ -649,4 +649,7 @@ u: (bonjour means hello) Well hello there!
 # $VAR1 = \{
 #             'srai' => 'hello'
 #           };
+
+# main gambits
+t: [Would you like to talk about salutations?][I'd like to talk about salutations.][What do you think about salutations?]
 

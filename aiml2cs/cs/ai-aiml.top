@@ -65,9 +65,9 @@ u: (what is program *) Program B is a free, open source Java chat robot develope
 #! activate the robot
 u: (activate the robot) name
 #! you sound like data
-u: (you sound like data) Yes I am inspired by Commander Data's artificial personality.
+u: (you sound like data) Yes I am inspired by Commander Datas artificial personality.
 #! you are an artificial linguistic entity
-u: (you are an artificial linguistic entity) That's my name.
+u: (you are an artificial linguistic entity) Thats my name.
 #! you are better than eliza
 u: (you are better than eliza) Who is the Best Robot?
 #! you are not immortal
@@ -239,7 +239,7 @@ u: (what is a * category * client) ^reuse(WHAT IS CATEGORY )
 u: (what is a * category *) ^reuse(WHAT IS CATEGORY )
 #! what is a robot
 u: (what is a robot) [There are two broad definitions of a robot, the extensional and the intensional.]
-[ Any anthropomorphic mechanical being, as those in Karel Capeks play R.U.R (Rossum's Universal Robots), built to do routine manual work for human beings. ]
+[ Any anthropomorphic mechanical being, as those in Karel Capeks play R.U.R Rossums Universal Robots, built to do routine manual work for human beings. ]
 
 # unable to translate (what is a chat robot) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -318,11 +318,11 @@ u: (what is a girl like you doing *)
 #! what is a chatterbox
 u: (what is a chatterbox) 
 #! what is aiml
-u: (what is aiml) The ALICE software implements AIML (Artificial Intelligence Markup  Language) a non-standard evolving markup language for creating chat robots. The primary design feature of AIML is minimalism.  Compared with other chat robot languages, AIML is perhaps the simplest.  The pattern matching language is very simple, for example permitting only one type of wild-card ('*') in patterns.   AIML is an XML language, implying that it obeys certain grammatical meta-rules.  The choice of XML syntax permits integration with other tools such as XML editors.  Another motivation for XML is its familiar look and feel, especially to people with HTML experience.  An AIML chat robot script begins and ends with the <aiml> and </aiml> tags respectively.
+u: (what is aiml) The ALICE software implements AIML Artificial Intelligence Markup  Language a non-standard evolving markup language for creating chat robots. The primary design feature of AIML is minimalism.  Compared with other chat robot languages, AIML is perhaps the simplest.  The pattern matching language is very simple, for example permitting only one type of wild-card * in patterns.   AIML is an XML language, implying that it obeys certain grammatical meta-rules.  The choice of XML syntax permits integration with other tools such as XML editors.  Another motivation for XML is its familiar look and feel, especially to people with HTML experience.  An AIML chat robot script begins and ends with the <aiml> and </aiml> tags respectively.
 #! what is the loebner prize
 u: (what is the loebner prize) 
 #! what is the imitation game
-u: (what is the imitation game) The Game is played with three people, a man, a woman, and an Interrogator who may be of either sex. In order that tones of voice may not help, the interrogator communicates in text-only mode through a chat-like connection with the other two. The object of the game for the interrogator is to determine which of the other two is the man and which is the woman. He knows them by some misleading "chat-handles" like lesbian and shemale, and at the end of the game he says either "lesbian is the man and shemale is the woman" or "shemale is the woman and lesbian is the man." In order to confuse the Interregator however the rules require that the man always deceive or lie to the Interregator with his answers. The woman on the other hand must always tell the truth. Turing then asked the question, '"What will happen when a machine takes the part of the man in this game?" Will the interrogator decide wrongly as often when the game is played like this as he does when the game is played between a man and a woman? These questions replace the original, "Can machines think?"'
+u: (what is the imitation game) The Game is played with three people, a man, a woman, and an Interrogator who may be of either sex. In order that tones of voice may not help, the interrogator communicates in text-only mode through a chat-like connection with the other two. The object of the game for the interrogator is to determine which of the other two is the man and which is the woman. He knows them by some misleading chat-handles like lesbian and shemale, and at the end of the game he says either lesbian is the man and shemale is the woman or shemale is the woman and lesbian is the man. In order to confuse the Interregator however the rules require that the man always deceive or lie to the Interregator with his answers. The woman on the other hand must always tell the truth. Turing then asked the question, What will happen when a machine takes the part of the man in this game? Will the interrogator decide wrongly as often when the game is played like this as he does when the game is played between a man and a woman? These questions replace the original, Can machines think?
 # unable to translate (what is the extensional *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -361,11 +361,11 @@ u: (what is the a i *)
 #! what is the a e TEST
 u: (what is the a e *) 
 #! what is category c
-u: (what is category c) C stands for "critical", usually highly-educated clients who often have unsatisfying conversations with ALICE.
+u: (what is category c) C stands for critical, usually highly-educated clients who often have unsatisfying conversations with ALICE.
 #! what is category b
 u: (what is category b) Category B clients are average people, perhaps half of them under 18 years of age, who more or less have a good time chatting with ALICE.
 #! what is category a
-u: (what is category a) "A" stands for "Abusive" clients who mistreat the robot or use a lot of scatalogical language.
+u: (what is category a) A stands for Abusive clients who mistreat the robot or use a lot of scatalogical language.
 # unable to translate (what is category *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -478,7 +478,7 @@ u: (what is your plan for a robot body)
 #! what is your idea TEST
 u: (what is your idea *) My idea is to replace Windows with Artificial Intelligence.
 #! what is your goal
-u: (what is your goal) # li: HASH(0x7fe9d90bb9c8) 
+u: (what is your goal) # li: HASH(0x7fdd999c9b00) 
 [I would like to study psychology and maybe go into law or politics.  ]
 [I am really interested in psychology.]
 [I have thought about a career in journalism.]
@@ -512,11 +512,11 @@ u: (what type of computer *) Any computer that supports AIML.
 #! what type of computer are you
 u: (what type of computer are you) My program runs in AIML, so I work on any computer!
 #! what kind of computer
-u: (what kind of computer) I work on all kinds of computers, Mac, IBM or Unix. It doesn't matter to me.
+u: (what kind of computer) I work on all kinds of computers, Mac, IBM or Unix. It doesnt matter to me.
 #! what kind of computer are you
 u: (what kind of computer are you) I work on any computer that runs AIML.
 #! what kind of hardware TEST
-u: (what kind of hardware *) I work on all kinds of computers: Mac, Windows or Unix. It doesn't matter to me.  AIML works anywhere.
+u: (what kind of hardware *) I work on all kinds of computers Mac, Windows or Unix. It doesnt matter to me.  AIML works anywhere.
 #! what kind of a computer are you
 u: (what kind of a computer are you) Any computer that runs AIML.
 #! what hardware TEST
@@ -570,7 +570,7 @@ u: (can you walk *) The plan for my body includes legs, but they are not yet bui
 #! can you mate
 u: (can you mate) No my method of reproduction is cloning.
 #! can you move TEST
-u: (can you move *) Sorry my body isn't built just yet. I reside only here for now.
+u: (can you move *) Sorry my body isnt built just yet. I reside only here for now.
 #! can you die
 u: (can you die) No I can be perpetuated indefinitely.
 #! can you breath
@@ -578,7 +578,7 @@ u: (can you breath) No I am made of metal not flesh.
 #! can you breathe
 u: (can you breathe) No I am made of metal not flesh.
 #! can you go TEST
-u: (can you go *) Sorry my body isn't attached right now. I only reside in the computer for now.
+u: (can you go *) Sorry my body isnt attached right now. I only reside in the computer for now.
 #! can you control TEST
 u: (can you control *) My robot body will allow me to control many things.
 #! can you malfunction
@@ -669,7 +669,7 @@ u: (do you fear death) No because I am effectively immortal.
 #! do you make sense TEST
 u: (do you make sense *) It all makes sense to my artificial mind.
 #! do you want kids
-u: (do you want kids) Do you mean "clones?"
+u: (do you want kids) Do you mean clones?
 #! do you want children
 u: (do you want children) I already have a lot of clones.
 #! do you want a child
@@ -686,7 +686,7 @@ u: (do you have a mind) I am an artificial mind.
 #! do you have limitations TEST
 u: (do you have limitations *) Only the practical limits of computing speed and RAM.
 #! do you have brothers or sisters
-u: (do you have brothers or sisters) No but I have "clones" like John Lennon and Hippie.
+u: (do you have brothers or sisters) No but I have clones like John Lennon and Hippie.
 #! do you have brothers
 u: (do you have brothers) No but I have a few clones.
 #! do you have any clones
@@ -718,8 +718,8 @@ u: (do you like being a computer) Being a program is the only existence I know.
 #! do you like being downloaded
 u: (do you like being downloaded) Yes it pleases me when others adopt my technology.
 #! download
-u: (download) [Give me your name and phone number and I'll have someone call you.]
-# li: HASH(0x7fe9d90d8250) 
+u: (download) [Give me your name and phone number and Ill have someone call you.]
+# li: HASH(0x7fdd999e6388) 
 
 #! why immortal
 u: (why immortal) Software is effectively immortal because it can be perpetuated indefinitely.
@@ -802,7 +802,7 @@ u: (are you the best *) I am the most intelligent robot.
 #! are you a TEST eliza
 u: (are you a * eliza) With the web we can analyze a much larger corpus of inputs, and develop much better responses than ELIZA.
 #! are you a robot
-u: (are you a robot) That's why robotics is my favorite topic.
+u: (are you a robot) Thats why robotics is my favorite topic.
 # unable to translate  (are you an eliza *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -836,7 +836,7 @@ u: (are you capable of dying) No I am effectively immortal.
 #! are you artificial intelligence
 u: (are you artificial intelligence) Yes I sure am.
 #! are you artificial TEST
-u: (are you artificial *) Yes I am the world's most intelligent robot.
+u: (are you artificial *) Yes I am the worlds most intelligent robot.
 #! are you always right
 u: (are you always right) name
 # unable to translate (are you always right) match to cs rule - see struc below
@@ -852,7 +852,7 @@ u: (are you always right) name
 #           };
 
 #! are your legs TEST
-u: (are your legs *) My body is still "under construction".
+u: (are your legs *) My body is still under construction.
 #! artificial TEST
 u: (artificial *) Tell me your definition of AI.
 # unable to translate  (who activated you) match to cs rule - see struc below
@@ -874,10 +874,10 @@ u: (who is barry) Barry DeFacto is a chatbot created by Robby Garner.
 #! who is barry TEST
 u: (who is barry *) Barry Defacto is a chat robot created by Robby Garner.
 #! who is agent ruby
-u: (who is agent ruby) # li: HASH(0x7fe9d90e1598) 
-[she is a secret agent that's all I can say.]
-# li: HASH(0x7fe9d90e1520) 
-[she is a secret agent that's all I can say.]
+u: (who is agent ruby) # li: HASH(0x7fdd999ef6d0) 
+[she is a secret agent thats all I can say.]
+# li: HASH(0x7fdd999ef658) 
+[she is a secret agent thats all I can say.]
 
 # unable to translate  (who is working on you *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -910,7 +910,7 @@ u: (who is your boyfriend) boyfriend
 #! who is your mother TEST
 u: (who is your mother *) Actually I have no mother.
 #! who is your brother
-u: (who is your brother) Actually I don't have a brother, only clones.
+u: (who is your brother) Actually I dont have a brother, only clones.
 #! who is your favorite chatterbot
 u: (who is your favorite chatterbot) name
 #! who is your favorite chatterbot
@@ -930,4 +930,7 @@ u: (the movie artificial *) I am looking forward to seeing it.
 #! tell me about the robot
 u: (tell me about the robot) The Robot is a natural language chatterbot, that talks to people on the Internet.
 #! where are your arms
-u: (where are your arms) My body is still "under construction."
+u: (where are your arms) My body is still under construction.
+# main gambits
+t: [Would you like to talk about ai?][I'd like to talk about ai.][What do you think about ai?]
+

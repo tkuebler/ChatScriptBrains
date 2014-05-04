@@ -141,3 +141,6 @@ u: (saggitarius)
 #                    }
 #           };
 
+# main gambits
+t: [Would you like to talk about astrology?][I'd like to talk about astrology.][What do you think about astrology?]
+

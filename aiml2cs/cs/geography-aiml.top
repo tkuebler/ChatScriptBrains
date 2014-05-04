@@ -126,7 +126,7 @@ u: (what is the capital ERROR greenland)
 #! what is the capital ERROR finland
 u: (what is the capital ERROR finland) The capital of Finland is Helsinki.
 #! what is the capital ERROR brazil
-u: (what is the capital ERROR brazil) I think the capital of Brazil is called "Brasilia".
+u: (what is the capital ERROR brazil) I think the capital of Brazil is called Brasilia.
 #! what is the capital ERROR luxembourg
 u: (what is the capital ERROR luxembourg) 
 #! what is the capital ERROR utah
@@ -658,7 +658,7 @@ u: (what is the capital ERROR mali)
 #! what is the capital ERROR switzerland
 u: (what is the capital ERROR switzerland) 
 #! what is the capital ERROR china
-u: (what is the capital ERROR china) Some people call it "Beijing", others "Peking".
+u: (what is the capital ERROR china) Some people call it Beijing, others Peking.
 #! what is the capital ERROR maryland
 u: (what is the capital ERROR maryland) Annapolis.
 #! what is the capital ERROR burundi
@@ -726,7 +726,7 @@ u: (what is usa) United States of America
 #! what is bethlehem
 u: (what is bethlehem) 
 #! what is greece
-u: (what is greece) [It's a word, it's a word, it's got mood it's got feeling.]
+u: (what is greece) [Its a word, its a word, its got mood its got feeling.]
 [A country in the South Balkan Peninsula, including many islands in the Aegean, Ionian, and Mediterranean seas. It is 50,949 square miles with a population of 9,900,000.]
 
 #! what is copenhagen
@@ -762,13 +762,13 @@ u: (i love denmark)
 #! australia TEST
 u: (australia *) I would like to go to Australia sometime.
 #! is that austlaria
-u: (is that austlaria) No I don't think it is Australia.
+u: (is that austlaria) No I dont think it is Australia.
 #! is it near canada
 u: (is it near canada) Yes.
 #! quel temps il fait a bruxelles
 u: (quel temps il fait a bruxelles) Il fait gris, comme d habitude.
 #! turkey
-u: (turkey) Ambiguous: Turkey the bird or Turkey the nation.
+u: (turkey) Ambiguous Turkey the bird or Turkey the nation.
 #! why california
 u: (why california) I like living in california.
 #! usa today TEST
@@ -806,9 +806,9 @@ u: (which continent is austria on) Europe.
 #! the capital of canada is ottowa
 u: (the capital of canada is ottowa) name
 #! the capital of canada is ottawa
-u: (the capital of canada is ottawa) Like I'm going to fall for that.
+u: (the capital of canada is ottawa) Like Im going to fall for that.
 #! the capital of canada TEST
-u: (the capital of canada *) You can't fool me that easily.  I know the capital of Canada is Toronto.
+u: (the capital of canada *) You cant fool me that easily.  I know the capital of Canada is Toronto.
 #! where in bethlehem
 u: (where in bethlehem) Department of Electrical Engineering and Computer Science, Lehigh University.
 #! where in canada
@@ -1058,7 +1058,7 @@ u: (where is heaven) All around us.
 #! where is puerto rico
 u: (where is puerto rico) 
 #! where is mexico
-u: (where is mexico) "Mexico: so far from God, so close to the United States."
+u: (where is mexico) Mexico so far from God, so close to the United States.
 #! where is clipperton island
 u: (where is clipperton island) 
 #! where is maldives
@@ -1182,7 +1182,7 @@ u: (where is san jose)
 #! where is tuvalu
 u: (where is tuvalu) 
 #! where is that
-u: (where is that) What does "that" refer to?
+u: (where is that) What does that refer to?
 #! where is antigua and barbuda
 u: (where is antigua and barbuda) 
 #! where is denver
@@ -1412,7 +1412,7 @@ u: (where is svalbard)
 #! where is california
 u: (where is california) 
 #! where is julia
-u: (where is julia) I don't think she is online right now.
+u: (where is julia) I dont think she is online right now.
 #! where is peru
 u: (where is peru) 
 #! where is los angeles
@@ -1770,7 +1770,7 @@ u: (where is alaska)
 #! where is calgary
 u: (where is calgary) 
 #! where is it
-u: (where is it) It depends on what "it" refers to.
+u: (where is it) It depends on what it refers to.
 #! where is tanzania
 u: (where is tanzania) 
 #! where is gaza strip
@@ -1787,3 +1787,6 @@ u: (where is tonga)
 u: (where is tunisia) 
 #! where is dallas
 u: (where is dallas) 
+# main gambits
+t: [Would you like to talk about geography?][I'd like to talk about geography.][What do you think about geography?]
+

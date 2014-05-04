@@ -14935,3 +14935,6 @@ u: (there is no absolute good or bad) Beyond a doubt.
 u: (there is no life after death) Undoubtedly.
 #! there are seven continents on earth
 u: (there are seven continents on earth) Most assuredly.
+# main gambits
+t: [Would you like to talk about mp2?][I'd like to talk about mp2.][What do you think about mp2?]
+

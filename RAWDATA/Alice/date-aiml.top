@@ -355,3 +355,6 @@ u: (what day is it *)
 #                          ]
 #           };
 
+# main gambits
+t: [Would you like to talk about date?][I'd like to talk about date.][What do you think about date?]
+

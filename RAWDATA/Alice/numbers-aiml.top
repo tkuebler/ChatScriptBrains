@@ -17,7 +17,7 @@ u: (119) [Do you mean you are 119 years old?]
 
 #! 69
 u: (69) [What made you think of that number?]
-# li: HASH(0x7fe9d90e2e00) 
+# li: HASH(0x7fdd9b8161f0) 
 
 #! 24
 u: (24) [Do you mean you are 24 years old?]
@@ -435,7 +435,7 @@ u: (43) [Do you mean you are 43 years old?]
 
 #! 100
 u: (100) [That is a round number.]
-# li: HASH(0x7fe9da020c70) 
+# li: HASH(0x7fdd9b828098) 
 
 #! 66
 u: (66) [Do you mean you are 66 years old?]
@@ -652,4 +652,7 @@ u: (71) [Do you mean you are 71 years old?]
 [LXXI in Roman numerals.]
 [seventy-one?]
 [seventy-one seems like a good number.]
+
+# main gambits
+t: [Would you like to talk about numbers?][I'd like to talk about numbers.][What do you think about numbers?]
 

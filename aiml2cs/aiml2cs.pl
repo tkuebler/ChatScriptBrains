@@ -26,6 +26,8 @@ elsif ( -f $filename ) {
 sub convertFile {
     my $_filename = $_;
 
+    if ($_filename eq "." || $_filename eq "..") { return; } 
+
     my ( $name, $path, $suffix ) = fileparse($_filename);
     my ( $topic, $extension, @junk ) = split( /\./, $name );
     print "processing $_...\n";
@@ -112,6 +114,7 @@ sub convertFile {
             $out .= "u: ($pattern) ";
             foreach my $li ( @{ $category->{template}->{random}->{li} } ) {
                 if ( ref($li) eq "" ) {
+                	$li =~ s/[\(\)\[\]\{\}\:\"\']//g;
                     $out .= "[$li]\n";
                 }
                 else {
@@ -123,8 +126,10 @@ sub convertFile {
         elsif ( $category->{template}->{content} ) {
             $ref = ref( $category->{template}->{content} );
             if ( $ref eq "" ) {
+            	my $content = $category->{template}->{content}[0];
+            	$content =~ s/[\(\)\[\]\{\}\:\"\']//g;
                 $out .= "#! $test\n";
-                $out .= "u: \($pattern\) $category->{template}->{content}[0]\n";
+                $out .= "u: \($pattern\) $content\n";
             }
             else {
                 $out .= "# unable to translate ($pattern) match to cs rule - see struc below\n";
@@ -132,8 +137,10 @@ sub convertFile {
             }
         }
         elsif ( $category->{template} && ref( $category->{template} ) eq "" ) {
+            my $template = $category->{template};
+            $template =~ s/[\(\)\[\]\{\}\:\"\']//g;
             $out .= "#! $test\n";
-            $out .= "u: \($pattern\) $category->{template}\n";
+            $out .= "u: \($pattern\) $template\n";
         }
         else {
             $out .= "# unable to translate ($pattern) match to cs rule - see struc below\n";
@@ -141,6 +148,8 @@ sub convertFile {
         }
 
     }
+	$out .= "# main gambits\n";
+	$out .= "t: [Would you like to talk about $topic?][I'd like to talk about $topic.][What do you think about $topic?]\n\n";
 
     my $of = "$startDir/$outDir\/$topic-aiml\.top";
     print " writing to: $of from " . getcwd() . "\n" if $dbug;
@@ -161,7 +170,3 @@ sub commentedString() {
     return $outStr;
 }
 
-$out .= "# main gambits\n";
-$out .= "t: [Would you like to talk about $topic?][I'd like to talk about $topic.][What do you think about $topic?]\n\n";
-
-print $out;

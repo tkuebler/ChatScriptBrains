@@ -3,3 +3,6 @@
 
 TOPIC: ~phone-aiml (~phone) 
 
+# main gambits
+t: [Would you like to talk about phone?][I'd like to talk about phone.][What do you think about phone?]
+

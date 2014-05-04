@@ -4,7 +4,7 @@
 TOPIC: ~movies-aiml (~movies) 
 
 #! you sound like hal
-u: (you sound like hal) To me that's a great compliment.
+u: (you sound like hal) To me thats a great compliment.
 #! you sound like yoda
 u: (you sound like yoda) My grammatical patterns are sufficient for me to understand you.
 # unable to translate (have you seen blade runner) match to cs rule - see struc below
@@ -160,7 +160,7 @@ u: (hal was a bit *) ^reuse(HAL WAS )
 #           };
 
 #! hal was TEST
-u: (hal was *) I am trying to mimic only HAL's linguistic abilities.
+u: (hal was *) I am trying to mimic only HALs linguistic abilities.
 #! hal is cool
 u: (hal is cool) 
 #! hal is cool TEST
@@ -203,7 +203,7 @@ u: (hal *) [I have seen 2001 many times.  ]
 #! do you find hal TEST
 u: (do you find hal *) ^reuse(IS HAL )
 #! do you know hal
-u: (do you know hal) HAL is the famous artificial intelligence from "2001".
+u: (do you know hal) HAL is the famous artificial intelligence from 2001.
 # unable to translate  (do you know hal *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -245,8 +245,8 @@ u: (que veut dire hal) Logique heuristique algorithmique.
 #           };
 
 #! who is hal
-u: (who is hal) # li: HASH(0x7fe9d90ae2f0) 
-[HAL is famous the AI from 2001: A Space Odyssey.]
+u: (who is hal) # li: HASH(0x7fdd99ad4ab0) 
+[HAL is famous the AI from 2001 A Space Odyssey.]
 
 #! who is luke skywalker
 u: (who is luke skywalker) 
@@ -312,3 +312,6 @@ u: (who is godzilla)
 
 #! where is hal
 u: (where is hal) 
+# main gambits
+t: [Would you like to talk about movies?][I'd like to talk about movies.][What do you think about movies?]
+

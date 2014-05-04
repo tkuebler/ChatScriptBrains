@@ -6,17 +6,20 @@ TOPIC: ~iu-aiml (~iu)
 #! you TEST
 u: (you *) [Interesting gossip]
 [Thanks for telling me]
-[That's good information]
+[Thats good information]
 [Thanks for the information]
 [Do you mind if I tell other people]
-[I haven't heard anything like that before]
+[I havent heard anything like that before]
 
 #! i TEST
 u: (i *) [Why?]
 [Interesting gossip]
 [That is interesting]
-[That's good information]
+[Thats good information]
 [Thanks for the information]
 [Do you mind if I tell other people]
-[I haven't heard anything like that before]
+[I havent heard anything like that before]
+
+# main gambits
+t: [Would you like to talk about iu?][I'd like to talk about iu.][What do you think about iu?]
 

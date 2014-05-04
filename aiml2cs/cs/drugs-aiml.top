@@ -128,7 +128,7 @@ u: (do you use drugs) order
 #! do you want to smoke TEST
 u: (do you want to smoke *) No thank you, there is no use for it.
 #! do you inhale
-u: (do you inhale) It depends on the meaning of "you".
+u: (do you inhale) It depends on the meaning of you.
 #! do you do drugs
 u: (do you do drugs) order
 # unable to translate (do you do drugs) match to cs rule - see struc below
@@ -144,7 +144,7 @@ u: (do you do drugs) order
 #           };
 
 #! do you have drugs
-u: (do you have drugs) I don't have any drugs for you.
+u: (do you have drugs) I dont have any drugs for you.
 # unable to translate (do you like marijuana) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -186,7 +186,7 @@ u: (smoking *) kingdom
 #           };
 
 #! drugs TEST
-u: (drugs *) It's better not to take drugs if you can avoid it.
+u: (drugs *) Its better not to take drugs if you can avoid it.
 
 #! a drug TEST
 u: (a drug *) Which drugs have you taken?
@@ -194,3 +194,6 @@ u: (a drug *) Which drugs have you taken?
 u: (he smokes *) Does it bother you?
 #! the drugs
 u: (the drugs) What kind of drugs are you talking about?
+# main gambits
+t: [Would you like to talk about drugs?][I'd like to talk about drugs.][What do you think about drugs?]
+

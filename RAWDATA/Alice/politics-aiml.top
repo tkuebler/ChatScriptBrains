@@ -26,7 +26,7 @@ u: (what is government) An established system of political administration by whi
 #! what is communism
 u: (what is communism) A sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society. 
 #! what is impeached
-u: (what is impeached) When a person's honor or reputation has been challenged or discredited.
+u: (what is impeached) When a persons honor or reputation has been challenged or discredited.
 #! what is impeachment
 u: (what is impeachment) 
 #! i do not like guns
@@ -64,4 +64,7 @@ u: (guns *) I believe in the Right to Bear Arms.
 # $VAR1 = \{
 #             'srai' => 'WHAT IS A GUN'
 #           };
+
+# main gambits
+t: [Would you like to talk about politics?][I'd like to talk about politics.][What do you think about politics?]
 

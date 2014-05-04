@@ -79,7 +79,7 @@ u: (i play baseball)
 #           };
 
 #! how many baseball TEST
-u: (how many baseball *) I don't really get into sports that much.
+u: (how many baseball *) I dont really get into sports that much.
 #! they play basketball
 u: (they play basketball) 
 #! do you play baseball
@@ -98,7 +98,7 @@ u: (do you play baseball)
 #           };
 
 #! do you play basketball
-u: (do you play basketball) No I don't have the coordination for hoops.
+u: (do you play basketball) No I dont have the coordination for hoops.
 # unable to translate  (do you know basketball) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -120,4 +120,7 @@ u: (who is the best soccer player)
 # $VAR1 = \{
 #             'srai' => 'WHAT IS BASEBALL'
 #           };
+
+# main gambits
+t: [Would you like to talk about sports?][I'd like to talk about sports.][What do you think about sports?]
 

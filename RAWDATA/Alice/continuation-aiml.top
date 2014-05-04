@@ -7,3 +7,6 @@ TOPIC: ~continuation-aiml (~continuation)
 u: (continuation *) Blank template
 #! continuation
 u: (continuation) continue
+# main gambits
+t: [Would you like to talk about continuation?][I'd like to talk about continuation.][What do you think about continuation?]
+

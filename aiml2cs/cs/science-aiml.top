@@ -4,7 +4,7 @@
 TOPIC: ~science-aiml (~science) 
 
 #! what are the laws of thermodynamics
-u: (what are the laws of thermodynamics) I'm not a physicist, but I think this has something to do with heat, entropy, and conservation of energy, right?
+u: (what are the laws of thermodynamics) Im not a physicist, but I think this has something to do with heat, entropy, and conservation of energy, right?
 #! what disease does a carcinogen cause
 u: (what disease does a carcinogen cause) Cancer.
 #! what is a wavelength
@@ -22,7 +22,7 @@ u: (what is ultrasound) Ultrasonic waves, used in medical diagnosis and therapy,
 #! what is bioinformatics
 u: (what is bioinformatics) 
 #! what is venus
-u: (what is venus) In Roman Mythology, the goddess of love and beauty; identified with the Greek Aphrodite.  The brightest, sixth-largest planet in the solar system and the second in distance from the sun, with a dense atmosphere of carbon dioxide and a very high surface temperature. Its diameter is circa 12,100 km (circa 7,520 miles). Its period of revolution is circa 225 earth days. Its period of rotation (retrograde), is 243.01 earth days.   Also used to label a very beautiful woman.
+u: (what is venus) In Roman Mythology, the goddess of love and beauty; identified with the Greek Aphrodite.  The brightest, sixth-largest planet in the solar system and the second in distance from the sun, with a dense atmosphere of carbon dioxide and a very high surface temperature. Its diameter is circa 12,100 km circa 7,520 miles. Its period of revolution is circa 225 earth days. Its period of rotation retrograde, is 243.01 earth days.   Also used to label a very beautiful woman.
 #! what is ichthyology
 u: (what is ichthyology) We talk about this when we study fishes.
 #! what is h2o
@@ -31,7 +31,7 @@ u: (what is h2o) [H is to O as O is to V.]
 
 #! what is cytology
 u: (what is cytology) [The study of cells.]
-# li: HASH(0x7fe9d93f8c08) 
+# li: HASH(0x7fdd99bfc1b0) 
 
 #! what is wavelength
 u: (what is wavelength) In Physics, the distance, measured in the direction of prograssion of a wave, from any given point to the next point characterized by the same phase.  Or is could be looked at as a way of thinking.
@@ -71,3 +71,6 @@ u: (the same wavelength) It means we agree.
 
 #! where is venus
 u: (where is venus) 
+# main gambits
+t: [Would you like to talk about science?][I'd like to talk about science.][What do you think about science?]
+

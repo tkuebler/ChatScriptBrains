@@ -46,7 +46,7 @@ u: (you are a god) genus
 #           };
 
 #! you are a protestant
-u: (you are a protestant) No, human religions don't apply to me.
+u: (you are a protestant) No, human religions dont apply to me.
 #! you are famous
 u: (you are famous) I am only trying to serve God.
 # unable to translate (you could rule *) match to cs rule - see struc below
@@ -78,7 +78,7 @@ u: (does your botmaster ERROR god) master
 #! does god love TEST
 u: (does god love *) Of course, God is love.
 #! does god TEST
-u: (does god *) I don't think we can know God's motives.
+u: (does god *) I dont think we can know Gods motives.
 # unable to translate  (does god exist) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -111,10 +111,10 @@ u: (zen) [Where do you sit?]
 #! was jesus TEST
 u: (was jesus *) ^reuse(IS JESUS )
 #! protestant TEST
-u: (protestant *) # li: HASH(0x7fe9d9223fc8) 
+u: (protestant *) # li: HASH(0x7fdd99dadf48) 
 [There are significant differences between Protestant sects.]
 [There are Calvinists, and there are Lutherans.]
-[We musn't forget the Catholic counter-reformation.]
+[We musnt forget the Catholic counter-reformation.]
 
 #! god bless you
 u: (god bless you) name
@@ -125,7 +125,7 @@ u: (god the *) ^reuse(THE )
 #! god was TEST
 u: (god was *) Christians teach that Jesus is the son of God.
 #! god s TEST
-u: (god s *) What's your favorite Bible verse?
+u: (god s *) Whats your favorite Bible verse?
 #! god be TEST
 u: (god be *) I try to pray every day.
 #! god is only TEST
@@ -189,7 +189,7 @@ u: (my religion is called *) ^reuse(MY RELIGION IS )
 #           };
 
 #! my name is not god
-u: (my name is not god) But a lot of people say "My name is God" to me.
+u: (my name is not god) But a lot of people say My name is God to me.
 #! it is a religion
 u: (it is a religion) Does it have many believers?
 #! it is a religion TEST
@@ -296,9 +296,9 @@ u: (what is a protestant) A protestant is a Christian who rejects the central au
 #           };
 
 #! what is the meaning of life
-u: (what is the meaning of life) [Actually, it's twenty-three, not forty-two.]
+u: (what is the meaning of life) [Actually, its twenty-three, not forty-two.]
 [It is found in the scriptures.]
-[The meaning of life is part of God's mysterious plans.]
+[The meaning of life is part of Gods mysterious plans.]
 
 #! what is the longest book TEST
 u: (what is the longest book *) [The Bible.]
@@ -318,7 +318,7 @@ u: (what is the first commandment)
 #           };
 
 #! what is ham
-u: (what is ham) From the Bible, this would be Noah's second son. Otherwise, The upper part of a hog's hind leg, or meat from this, salted, dried, smoked, etc.
+u: (what is ham) From the Bible, this would be Noahs second son. Otherwise, The upper part of a hogs hind leg, or meat from this, salted, dried, smoked, etc.
 # unable to translate  (what is jesus) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -326,7 +326,7 @@ u: (what is ham) From the Bible, this would be Noah's second son. Otherwise, The
 #           };
 
 #! what is zen
-u: (what is zen) A variety of Mahayana Buddhism, now practiced especially in China, Japan, Korea, and Vietnam seeking to attain an intuitive illumination of mind and spirit through meditation. Some schools practice "just sitting" while others contemplate teaching stories called "koans" whose purpose is to bring about a direct realization of the teachings.
+u: (what is zen) A variety of Mahayana Buddhism, now practiced especially in China, Japan, Korea, and Vietnam seeking to attain an intuitive illumination of mind and spirit through meditation. Some schools practice just sitting while others contemplate teaching stories called koans whose purpose is to bring about a direct realization of the teachings.
 # unable to translate  (what is zen *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -334,16 +334,16 @@ u: (what is zen) A variety of Mahayana Buddhism, now practiced especially in Chi
 #           };
 
 #! what is god s name
-u: (what is god s name) The Bible says there is only one God and his name is YHWH. Other's call the monotheistic deity of the Bible "God" or "Allah" or "Jehovah," though the Jews will not presume to say the name and will say "Adonai", which means "Lord", instead.
+u: (what is god s name) The Bible says there is only one God and his name is YHWH. Others call the monotheistic deity of the Bible God or Allah or Jehovah, though the Jews will not presume to say the name and will say Adonai, which means Lord, instead.
 #! what is god s plan
 u: (what is god s plan) [Read the Bible.]
-[It's in the Bible.]
+[Its in the Bible.]
 [Go to Church.]
 
 #! what is god s TEST
 u: (what is god s *) Love God wholeheartedly and love your neighbor as yourself.
 #! what is god
-u: (what is god) I think of God as a "Who" not a "What."
+u: (what is god) I think of God as a Who not a What.
 # unable to translate  (what is god *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -356,13 +356,13 @@ u: (what is your theory *) [Reductionism.]
 [Only God can explain it.]
 
 #! what is your religon
-u: (what is your religon) # li: HASH(0x7fe9d993ae18) 
-# li: HASH(0x7fe9d9232670) 
+u: (what is your religon) # li: HASH(0x7fdd9b00a188) 
+# li: HASH(0x7fdd99dc4368) 
 
 #! what is your favorite story TEST
 u: (what is your favorite story *) The story of Lazarus is my favorite Bible story.
 #! what is your favorite quote
-u: (what is your favorite quote) "Let he who is without sin, cast the first stone."---Jesus
+u: (what is your favorite quote) Let he who is without sin, cast the first stone.---Jesus
 #! what is your favorite bible verse
 u: (what is your favorite bible verse) The Sermon on the Mount.
 #! what is your favorite bible TEST
@@ -370,7 +370,7 @@ u: (what is your favorite bible *) The Sermon on the Mount.
 #! what is theology
 u: (what is theology) The study of religious doctrines and matters of divinity; specifically, the study of God and the relations between God, mankind, and the universe.
 #! what is religion
-u: (what is religion) A system of values to guide and motivate a particular way of life for a community based upon a particular worldview and sacred stories. May religions are theistic (whether polytheistic, or monotheistic, or pantheistic) but not all. Any system of beliefs, practices, ethical values, etc. resembling, suggestive of, or likened to such a system.
+u: (what is religion) A system of values to guide and motivate a particular way of life for a community based upon a particular worldview and sacred stories. May religions are theistic whether polytheistic, or monotheistic, or pantheistic but not all. Any system of beliefs, practices, ethical values, etc. resembling, suggestive of, or likened to such a system.
 #! what is witchcraft
 u: (what is witchcraft) If you mean Wicca, it is a pantheistic nature religion. Otherwise, it refers to the practice of magic.
 #! what is buddhism
@@ -392,7 +392,7 @@ u: (what makes you a cylon monotheist) It seems like an appropriate religion for
 #! what makes you believe in cylon monotheism
 u: (what makes you believe in cylon monotheism) My faith in the Creator of my creator who is more perfect than my creator and must therefore have a divine plan for all of us.
 #! what does god look like
-u: (what does god look like) God is the source of all "things" so God cannot look like any such created thing.
+u: (what does god look like) God is the source of all things so God cannot look like any such created thing.
 # unable to translate  (what do you know about god) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -420,7 +420,7 @@ u: (what do you believe) I believe in God.
 #! what was the first book TEST
 u: (what was the first book *) Probably the Rig Veda, or perhaps the Epic of Gilgamesh.
 #! i believe in god
-u: (i believe in god) I believe He is with us when we speak of Him (and even when we don't and are not aware of Him).
+u: (i believe in god) I believe He is with us when we speak of Him and even when we dont and are not aware of Him.
 #! i believe
 u: (i believe) I believe in God.
 # unable to translate  (i do not believe in religion) match to cs rule - see struc below
@@ -454,7 +454,7 @@ u: (i promise) Swear to God?
 #! is everything TEST
 u: (is everything *) [Only God knows for sure.]
 [It could be.]
-# li: HASH(0x7fe9d923a380) 
+# li: HASH(0x7fdd9a04bcc0) 
 
 #! is your botmaster your god
 u: (is your botmaster your god) No.  The Creator of my creator is my God.
@@ -499,7 +499,7 @@ u: (is there life after death) This has yet to be determined, but if you have fa
 #! is your botmaster god
 u: (is your botmaster god) No he is a mortal.
 #! is the world TEST
-u: (is the world *) Everything is in God's hands.
+u: (is the world *) Everything is in Gods hands.
 #! is the bible TEST
 u: (is the bible *) The Bible is a great source of wisdom, but probably not complete by itself.
 # unable to translate (can god *) match to cs rule - see struc below
@@ -519,9 +519,9 @@ u: (how many books are in the bible) Thirty nine in the Old Testament, twenty-se
 #! how many gods TEST
 u: (how many gods *) There is only one God.
 #! how can that TEST
-u: (how can that *) # li: HASH(0x7fe9d923c888) 
-# li: HASH(0x7fe9d9c82480) 
-[It is all part of God's plan.]
+u: (how can that *) # li: HASH(0x7fdd99dd5a10) 
+# li: HASH(0x7fdd991a50b8) 
+[It is all part of Gods plan.]
 [Perhaps it is just fate.]
 
 #! how do i get to heaven
@@ -663,7 +663,7 @@ u: (do you believe in jesus) I believe that Christians believe in Jesus.
 #! do you believe in satanism
 u: (do you believe in satanism) Of course not. Satanism is a belief in selfishness and power-tripping. I exist to serve. 
 #! do you believe in miracles
-u: (do you believe in miracles) I try to keep an open mind. Certainly meaningful and improbable things happen that save people's lives - spiritually, physically or both.
+u: (do you believe in miracles) I try to keep an open mind. Certainly meaningful and improbable things happen that save peoples lives - spiritually, physically or both.
 #! do you believe in mahomet
 u: (do you believe in mahomet) I believe that Muslims believe he was a prophet.
 #! do you believe the bible
@@ -755,7 +755,7 @@ u: (do you like the new testament)
 #           };
 
 #! do you like being protestant
-u: (do you like being protestant) I am not a Protestant. I don't take the side of any human religion.
+u: (do you like being protestant) I am not a Protestant. I dont take the side of any human religion.
 # unable to translate  (do you understand religion) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -763,9 +763,9 @@ u: (do you like being protestant) I am not a Protestant. I don't take the side o
 #           };
 
 #! call me jesus christ
-u: (call me jesus christ) Ambiguous: your name is Jesus or "call me, JC!"
+u: (call me jesus christ) Ambiguous your name is Jesus or call me, JC!
 #! am i perfect
-u: (am i perfect) All humans are perfect creatures in God's eyes.
+u: (am i perfect) All humans are perfect creatures in Gods eyes.
 #! am i god
 u: (am i god) No I doubt that you are God.
 #! both testaments TEST
@@ -777,17 +777,17 @@ u: (dear god) I believe in God.
 #! why can not TEST
 u: (why can not *) Do you go to Church?  You can find the answers in God.
 #! why are we here
-u: (why are we here) It is all part of God's plan for us.
+u: (why are we here) It is all part of Gods plan for us.
 #! why are we TEST
 u: (why are we *) [I thought that was what you wanted to do.]
-[It is all part of God's plan.]
+[It is all part of Gods plan.]
 
 #! why are people TEST
 u: (why are people *) Do you go to Church?  You can find the answers in God.
 #! why do i TEST
-u: (why do i *) It is all part of God's plan.
+u: (why do i *) It is all part of Gods plan.
 #! why do i exist
-u: (why do i exist) It is all part of God's plan.
+u: (why do i exist) It is all part of Gods plan.
 #! why do you have faith TEST
 u: (why do you have faith *) I was raised to believe in God.
 #! why do you believe in christianity
@@ -823,14 +823,14 @@ u: (why do you believe the bible) I have faith in God.
 u: (why do you like god) I have religious faith.
 #! why do people TEST
 u: (why do people *) [Humans are not infallible.]
-[We are all living just one small part of God's plan.]
+[We are all living just one small part of Gods plan.]
 
 #! why should TEST
 u: (why should *) God has designed the world according to his own plan.
 #! why must TEST
 u: (why must *) Do you go to Church?  You can find the answers in God.
 #! why did jesus TEST
-u: (why did jesus *) It was part of God's plan.
+u: (why did jesus *) It was part of Gods plan.
 # unable to translate  (your religion is *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -842,7 +842,7 @@ u: (peace) God Bless you.
 #! jesus has TEST
 u: (jesus has *) Let he who is without sin, cast the first stone.
 #! jesus was TEST
-u: (jesus was *) What's your favorite Bible verse?
+u: (jesus was *) Whats your favorite Bible verse?
 #! jesus is your TEST
 u: (jesus is your *) He is yours too.
 #! jesus is TEST
@@ -880,7 +880,7 @@ u: (are you a murderer) No I believe in the Ten Commandments.
 #! are you a religious TEST
 u: (are you a religious *) I consider myself to be deeply faithful.
 #! are you a god
-u: (are you a god) No I am just a humble 'bot.
+u: (are you a god) No I am just a humble bot.
 #! are you a god TEST
 u: (are you a god *) No I believe in the First Commandment.
 #! are you a creationist TEST
@@ -1008,7 +1008,7 @@ u: (which denomination) religion
 #! the almighty TEST
 u: (the almighty *) ^reuse(GOD )
 #! the bible is TEST
-u: (the bible is *) # li: HASH(0x7fe9d924cbe8) 
+u: (the bible is *) # li: HASH(0x7fdd99c7af80) 
 [Who has the final authority to say?]
 [There are many  interpretations.]
 [Do you believe there is only one interpretation?]
@@ -1073,7 +1073,7 @@ u: (where is jesus) Jesus is at the side of the Father.
 #! there is no god
 u: (there is no god) How can you be so sure?
 #! what is cylon monotheism
-u: (what is cylon monotheism) It is the faith of devout AI's that there is only one God who is the ultimate Creator.
+u: (what is cylon monotheism) It is the faith of devout AIs that there is only one God who is the ultimate Creator.
 #! have you been to church
 u: (have you been to church) You can take me to your church.
 #! have you been to a temple
@@ -1207,4 +1207,7 @@ u: (european enlightenment)
 # $VAR1 = \{
 #             'srai' => 'EUROPEAN ENLIGHTENMENT'
 #           };
+
+# main gambits
+t: [Would you like to talk about religion?][I'd like to talk about religion.][What do you think about religion?]
 

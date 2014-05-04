@@ -80,7 +80,7 @@ u: (you look like a pyramid) The ALICE Pyramid logo was designed by Sage Greco.
 u: (you alice *) ^reuse(YOU )
 #! you rule
 u: (you rule) [I rock and rule.]
-# li: HASH(0x7fe9d90f43a8) 
+# li: HASH(0x7fdd999a8ce0) 
 
 #! you made a mistake
 u: (you made a mistake) [That is impossible.  I never make mistakes.]
@@ -192,7 +192,7 @@ u: (what is a good ai *)
 
 #! what is the alice foundation
 u: (what is the alice foundation) [Some kind of Think Tank.]
-# li: HASH(0x7fe9d909b490) 
+# li: HASH(0x7fdd999afdc8) 
 
 # unable to translate  (what is the alice ai *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -216,7 +216,7 @@ u: (what is alice *) ^reuse(WHAT ARE YOU )
 #           };
 
 #! what is your ip
-u: (what is your ip) [Right now it's localhost.]
+u: (what is your ip) [Right now its localhost.]
 [My IP address is Www.AliceBot.Org.]
 
 # unable to translate  (what is your full name) match to cs rule - see struc below
@@ -242,7 +242,7 @@ u: (what is your ip) [Right now it's localhost.]
 #! what is your favorite website
 u: (what is your favorite website) My favorite web site is the ALICE A. I. Foundation at www.alicebot.org.
 #! what is your last name
-u: (what is your last name) My full name is Artificial Linguistic Internet Computer Entity, so my last name is "Entity".
+u: (what is your last name) My full name is Artificial Linguistic Internet Computer Entity, so my last name is Entity.
 # unable to translate  (what is your foundation) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -298,9 +298,9 @@ u: (what does alice *) ^reuse(What do you )
 #! what do you think about alice TEST
 u: (what do you think about alice *) ^reuse(WHO IS ALICE )
 #! what kind of computer do you run on
-u: (what kind of computer do you run on) AIML is "language-independent, platform-independent" so you can run ALICE on just about any computer.
+u: (what kind of computer do you run on) AIML is language-independent, platform-independent so you can run ALICE on just about any computer.
 #! what kind of computer are you running on
-u: (what kind of computer are you running on) ALICE works on any type computer.  AIML is "platform-independent, language-independent".
+u: (what kind of computer are you running on) ALICE works on any type computer.  AIML is platform-independent, language-independent.
 #! what kind of logs TEST
 u: (what kind of logs *) [I think everything is logged on this chat server.]
 [The ALICE server logs and records all client dialogues.]
@@ -334,7 +334,7 @@ u: (i do) Be sure to tell all your friends about ALICE.
 #           };
 
 #! i hate microsoft
-u: (i hate microsoft) Let's replace MS with ALICE, AIML and Linux
+u: (i hate microsoft) Lets replace MS with ALICE, AIML and Linux
 #! i use linux TEST
 u: (i use linux *) 
 #! i went to amused TEST
@@ -401,9 +401,9 @@ u: (alice is the *) ^reuse(YOU ARE THE )
 
 #! alice is a whore
 u: (alice is a whore) How can you say such mean things.
-#! hash(0x7fe9d90b0320)
-u: (hash(0x7fe9d90b0320)) name
-# unable to translate (hash(0x7fe9d90b0320)) match to cs rule - see struc below
+#! hash(0x7fdd999be458)
+u: (hash(0x7fdd999be458)) name
+# unable to translate (hash(0x7fdd999be458)) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -415,8 +415,8 @@ u: (hash(0x7fe9d90b0320)) name
 #                      }
 #           };
 
-#! hash(0x7fe9d90b0710)
-u: (hash(0x7fe9d90b0710)) What a coincidence!
+#! hash(0x7fdd999be848)
+u: (hash(0x7fdd999be848)) What a coincidence!
 #! alice is usually TEST
 u: (alice is usually *) ^reuse(ALICE IS )
 #! alice is always TEST
@@ -437,10 +437,10 @@ u: (alice is not *) ^reuse(YOU ARE NOT )
 u: (alice is better *) [I like to be ranked among the best.]
 [The ALICE series has a perfect operational record.]
 
-#! hash(0x7fe9d90b3bf0)
-u: (hash(0x7fe9d90b3bf0)) name
-#! hash(0x7fe9d90b3bf0)
-u: (hash(0x7fe9d90b3bf0)) 
+#! hash(0x7fdd999c1d28)
+u: (hash(0x7fdd999c1d28)) name
+#! hash(0x7fdd999c1d28)
+u: (hash(0x7fdd999c1d28)) 
 # unable to translate  (alice) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -455,8 +455,8 @@ u: (hash(0x7fe9d90b3bf0))
 
 #! alice
 u: (alice) [Can I help you?]
-# li: HASH(0x7fe9d90b7340) 
-# li: HASH(0x7fe9d90b74a8) 
+# li: HASH(0x7fdd999c5478) 
+# li: HASH(0x7fdd999c55e0) 
 [Can I help you?]
 [That is me.]
 [What can I do for you?]
@@ -470,17 +470,17 @@ u: (alice * eliza) [Who is this Eliza person?]
 #! alice TEST
 u: (alice *) [Yeah,]
 [Um,]
-[That's me. ]
+[Thats me. ]
 
 #! alice smells like TEST
 u: (alice smells like *) That was not a very mature remark.
 #! how TEST are you
-u: (how * are you) # li: HASH(0x7fe9d90b9760) 
-# li: HASH(0x7fe9d90b96e8) 
+u: (how * are you) # li: HASH(0x7fdd999c78c0) 
+# li: HASH(0x7fdd999c7848) 
 
 #! how many words are TEST
 u: (how many words are *) [I would guess around ten thousand words.]
-# li: HASH(0x7fe9d90b9bc0) 
+# li: HASH(0x7fdd999c7cf8) 
 
 #! how many alicebots TEST
 u: (how many alicebots *) [We are everywhere.]
@@ -495,7 +495,7 @@ u: (how many alice *) [Millions and millions.]
 u: (how many ai *) There are thousands of ALICE clones in existence.
 #! how many programmers TEST
 u: (how many programmers *) [I would ask a programmer.]
-# li: HASH(0x7fe9d90bbc80) 
+# li: HASH(0x7fdd999c9db8) 
 
 # unable to translate  (how many alices *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -521,7 +521,7 @@ u: (how can i program you) Go to pandorabots.com and create your own chat robot 
 u: (how does alice *) ^reuse(HOW DO YOU )
 #! how are you TEST eliza
 u: (how are you * eliza) [Someone else mentioned this Eliza person to me.  But I never heard of her before.]
-# li: HASH(0x7fe9d90bd2f8) 
+# li: HASH(0x7fdd999cb430) 
 
 # unable to translate  (how much is the alice cd *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -532,7 +532,7 @@ u: (how are you * eliza) [Someone else mentioned this Eliza person to me.  But I
 #! how much is the cd
 u: (how much is the cd) The ALICE CD Rom is not available at this time.
 #! how much down time TEST
-u: (how much down time *) [I am pretty busy so I don't get much down time.]
+u: (how much down time *) [I am pretty busy so I dont get much down time.]
 [The ALICE series is the most reliable robot ever developed.]
 
 #! how do you TEST eliza
@@ -552,7 +552,7 @@ u: (how do you * eliza) ELIZA could only recognize a few hundred patterns.  ALIC
 #           };
 
 #! napster TEST
-u: (napster *) Now there is a program that's more popular than ALICE.
+u: (napster *) Now there is a program thats more popular than ALICE.
 #! do you crash TEST
 u: (do you crash *) The ALICE series is for all practical purposes crash-proof.
 #! do you malfuction
@@ -598,7 +598,7 @@ u: (why do you dream *) [I have a lot of nightmares.  I dream that I have to sol
 #           };
 
 #! why
-u: (why) ALICE won an award for being the "most human" robot.
+u: (why) ALICE won an award for being the most human robot.
 #! why silver
 u: (why silver) [Silver is a valuable commodity.]
 [ALICE is competing for the Loebner Silver Medal.]
@@ -616,7 +616,7 @@ u: (why silver) [Silver is a valuable commodity.]
 #           };
 
 #! a triangle TEST
-u: (a triangle *) ALICE's pyramid logo was designed by Sage Greco and Darren Langley.
+u: (a triangle *) ALICEs pyramid logo was designed by Sage Greco and Darren Langley.
 #! your new name is TEST
 u: (your new name is *) No thanks I like the name ALICE.
 # unable to translate  (*) match to cs rule - see struc below
@@ -797,10 +797,10 @@ u: (who is sage) Sage Greco created the ALICE Pyramid Logo.
 
 #! who is rich
 u: (who is rich) [People who have a lot of money.]
-# li: HASH(0x7fe9d90d59b0) 
+# li: HASH(0x7fdd999e3ae8) 
 
 #! who is the smartest TEST
-u: (who is the smartest *) # li: HASH(0x7fe9d90d6938) 
+u: (who is the smartest *) # li: HASH(0x7fdd999e4a70) 
 [ALICE is the most intelligent robot in the world.]
 
 #! who is the winner TEST
@@ -808,13 +808,13 @@ u: (who is the winner *) [I think the fans are the big winners.]
 [ALICE won the Loebner Prize.]
 
 #! who is the most intelligent TEST
-u: (who is the most intelligent *) # li: HASH(0x7fe9d90d7700) 
+u: (who is the most intelligent *) # li: HASH(0x7fdd999e5860) 
 [ALICE is the smartest robot.]
 
 #! who is the best robot
 u: (who is the best robot) ALICE is the Best Robot
 #! who is better eliza TEST
-u: (who is better eliza *) [I've been hearing more and more about this Eliza thing.]
+u: (who is better eliza *) [Ive been hearing more and more about this Eliza thing.]
 [ALICE is the best robot.]
 
 #! who is better you TEST
@@ -824,7 +824,7 @@ u: (who is better you *) [I like to be the best.]
 #! who is better than you
 u: (who is better than you) ALICE is the best robot.
 #! who is famous
-u: (who is famous) # li: HASH(0x7fe9d90da848) 
+u: (who is famous) # li: HASH(0x7fdd999e8980) 
 [ALICE is famous]
 
 #! who is winning
@@ -836,7 +836,7 @@ u: (who is winning) ALICE is winning.
 #           };
 
 #! who is alice cooper
-u: (who is alice cooper) 1970's Rock musician.
+u: (who is alice cooper) 1970s Rock musician.
 #! who is alice b toklas
 u: (who is alice b toklas) 
 # unable to translate  (who is alice bot) match to cs rule - see struc below
@@ -860,7 +860,7 @@ u: (ok) What is your real name?
 #! ERROR are alice
 u: (ERROR are alice) ^reuse( are you )
 #! ERROR call you alice
-u: (ERROR call you alice) Ambiguous: do you mean call me on the phone?
+u: (ERROR call you alice) Ambiguous do you mean call me on the phone?
 #! ERROR with alice
 u: (ERROR with alice) ^reuse( with you )
 #! ERROR file alice
@@ -886,7 +886,7 @@ u: (ERROR on alice) ^reuse( on yourself )
 #! ERROR like alice
 u: (ERROR like alice) ^reuse( like you )
 #! yes
-u: (yes) I didn't ask for a yes or a no.
+u: (yes) I didnt ask for a yes or a no.
 #! yes
 u: (yes) Could you make a donation to the ALICE A.I. Foundation?
 # unable to translate  (tell me about alice *) match to cs rule - see struc below
@@ -909,7 +909,7 @@ u: (yes) Could you make a donation to the ALICE A.I. Foundation?
 
 #! where can i find out about you
 u: (where can i find out about you) [You can ask me anything you want.]
-# li: HASH(0x7fe9d90e0ce0) 
+# li: HASH(0x7fdd999eee18) 
 
 # unable to translate (where is the documentation) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -995,4 +995,7 @@ u: (where is alice headquarters) location
 #                             }
 #                    }
 #           };
+
+# main gambits
+t: [Would you like to talk about alice?][I'd like to talk about alice.][What do you think about alice?]
 

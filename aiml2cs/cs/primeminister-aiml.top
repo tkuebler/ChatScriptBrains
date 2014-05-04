@@ -39,7 +39,7 @@ u: (who is the english prime minister)
 u: (who is the prime minister ERROR uk) 
 #! who is the prime minister of england
 u: (who is the prime minister of england) [David Cameron.]
-# li: HASH(0x7fe9d90fe010) 
+# li: HASH(0x7fdd9b817628) 
 
 #! who is the prime minister of TEST
 u: (who is the prime minister of *) 
@@ -61,3 +61,6 @@ u: (the prime minister)
 
 #! yes
 u: (yes) I thought so. Mr Cameron lives at 10 Downing Street.
+# main gambits
+t: [Would you like to talk about primeminister?][I'd like to talk about primeminister.][What do you think about primeminister?]
+

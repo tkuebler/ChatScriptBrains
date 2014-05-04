@@ -171,7 +171,7 @@ u: (bad answer) badanswer-input
 #           };
 
 #! can i teach you
-u: (can i teach you) Yes, if I give you a bad answer, just say "Bad answer" and you can teach me a new response.
+u: (can i teach you) Yes, if I give you a bad answer, just say Bad answer and you can teach me a new response.
 # unable to translate  (can you learn) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -213,4 +213,7 @@ u: (can i teach you) Yes, if I give you a bad answer, just say "Bad answer" and 
 # $VAR1 = \{
 #             'srai' => 'CAN I TEACH YOU'
 #           };
+
+# main gambits
+t: [Would you like to talk about badanswer?][I'd like to talk about badanswer.][What do you think about badanswer?]
 

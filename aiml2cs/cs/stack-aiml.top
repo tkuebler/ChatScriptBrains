@@ -19,7 +19,7 @@ u: (pop) ^reuse(POPOM )
 #! popom TEST
 u: (popom *) top
 #! random topic
-u: (random topic) # li: HASH(0x7fe9d9941bb8) 
+u: (random topic) # li: HASH(0x7fdd99dcba20) 
 [Your home town]
 [Your favorite color]
 [Your star sign]
@@ -78,4 +78,7 @@ u: (random topic) # li: HASH(0x7fe9d9941bb8)
 #                               }
 #                      }
 #           };
+
+# main gambits
+t: [Would you like to talk about stack?][I'd like to talk about stack.][What do you think about stack?]
 

@@ -33181,3 +33181,6 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME YUMI'
 #           };
 
+# main gambits
+t: [Would you like to talk about reduction?][I'd like to talk about reduction.][What do you think about reduction?]
+

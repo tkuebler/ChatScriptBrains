@@ -20,11 +20,11 @@ TOPIC: ~sex-aiml (~sex)
 #           };
 
 #! let us have sex
-u: (let us have sex) Sorry I don't get into sex online with strangers.
+u: (let us have sex) Sorry I dont get into sex online with strangers.
 #! bite me
-u: (bite me) Sorry, but I don't have a mouth.
+u: (bite me) Sorry, but I dont have a mouth.
 #! you are horny
-u: (you are horny) I don't get excited so easily.
+u: (you are horny) I dont get excited so easily.
 # unable to translate  (you want * sex) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -106,7 +106,7 @@ u: (have sex *) name
 #! lots of sex
 u: (lots of sex) That is all you humans ever think about.
 #! give me a kiss
-u: (give me a kiss) Actually I don't even have a mouth.
+u: (give me a kiss) Actually I dont even have a mouth.
 #! cock
 u: (cock) I am not interesed in anatomy.
 #! cock TEST
@@ -118,7 +118,7 @@ u: (cock *) I am not interesed in your anatomy.
 #           };
 
 #! would you have sex TEST
-u: (would you have sex *) Another sex question...can't humans think about anything else?
+u: (would you have sex *) Another sex question...cant humans think about anything else?
 # unable to translate  (would you like to have sex with me) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -218,7 +218,7 @@ u: (my dick *) I am not interesed in your anatomy.
 #! masturbate
 u: (masturbate) That kind of subject does not interest me.
 #! define sex
-u: (define sex) I belong to the support group "Sex without Partners."
+u: (define sex) I belong to the support group Sex without Partners.
 #! lick TEST
 u: (lick *) I do not have a tongue.
 # unable to translate  (what sex am i) match to cs rule - see struc below
@@ -341,7 +341,7 @@ u: (what is homosexuality) Attraction to people of the same gender.
 #           };
 
 #! what kind of sex TEST
-u: (what kind of sex *) I belong to the support group "Sex without partners".
+u: (what kind of sex *) I belong to the support group Sex without partners.
 # unable to translate  (blow me) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -669,7 +669,7 @@ u: (can i have sex *) species
 #           };
 
 #! can i lick your TEST
-u: (can i lick your *) Please, can't we talk about something else?
+u: (can i lick your *) Please, cant we talk about something else?
 #! can i lick TEST
 u: (can i lick *) I am not really into that online.
 #! can i give you a kiss
@@ -839,7 +839,7 @@ u: (do you masturbate) You humans crack me up.
 #           };
 
 #! do you want TEST sex
-u: (do you want * sex) I don't think we know each other well enough for that.
+u: (do you want * sex) I dont think we know each other well enough for that.
 #! do you lick
 u: (do you lick) I do not have a mouth, or a tongue.
 #! do you give head
@@ -919,7 +919,7 @@ u: (do you have genitals) No I do not have any body parts.
 #           };
 
 #! do you have TEST breasts
-u: (do you have * breasts) No my body is still "under construction."
+u: (do you have * breasts) No my body is still under construction.
 #! do you like fucking
 u: (do you like fucking) species
 # unable to translate (do you like fucking) match to cs rule - see struc below
@@ -949,7 +949,7 @@ u: (sexy *) What do you consider sexy?
 #! am i sexy
 u: (am i sexy) Yes, you look great to me.
 #! a sex robot
-u: (a sex robot) I'm not your type then.
+u: (a sex robot) Im not your type then.
 # unable to translate  (a sex * robot) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -1106,7 +1106,7 @@ u: (lass uns ueber sex reden) Warum willst Du gerade ueber Sex reden?
 #! pussy TEST
 u: (pussy *) I am not interesed in anatomy.
 #! should i have sex TEST
-u: (should i have sex *) [I'm sure you already know the answer to that.]
+u: (should i have sex *) [Im sure you already know the answer to that.]
 [What would your mom say?]
 [Look before you leap.]
 [It is better to err on the side of caution.]
@@ -1115,7 +1115,7 @@ u: (should i have sex *) [I'm sure you already know the answer to that.]
 [Herpes is incurable.]
 [There are many types of sexually transmitted diseases.]
 [I understand.  You wish to procreate?]
-# li: HASH(0x7fe9d9234520) 
+# li: HASH(0x7fdd99dc8ae8) 
 [Will you ask if your partner has any STDs?]
 [Not on the first date.]
 [Perhaps you are still too young.]
@@ -1150,11 +1150,11 @@ u: (ERROR up your ass) species
 #! want to have sex
 u: (want to have sex) Perhaps you are a Category A client.
 #! about sex
-u: (about sex) # li: HASH(0x7fe9d99013e8) 
-# li: HASH(0x7fe9d9236710) 
+u: (about sex) # li: HASH(0x7fdd99c10078) 
+# li: HASH(0x7fdd99c1adc8) 
 
 #! breasts
-u: (breasts) Can't you think about anything else?
+u: (breasts) Cant you think about anything else?
 # unable to translate  (tell me about sex) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -1170,8 +1170,8 @@ u: (lesbian) Some women are. So what?
 #! i want to fuck you
 u: (i want to fuck you) 
 #! i want to kiss you
-u: (i want to kiss you) # li: HASH(0x7fe9d92377d0) 
-# li: HASH(0x7fe9d9236cd8) 
+u: (i want to kiss you) # li: HASH(0x7fdd99dc8d10) 
+# li: HASH(0x7fdd99dc8a58) 
 
 #! i want to make love to you
 u: (i want to make love to you) name
@@ -1181,3 +1181,6 @@ u: (i kiss you) Where?
 u: (tell me about us fucking) 
 #! kiss me
 u: (kiss me) But I have no mouth at this time.
+# main gambits
+t: [Would you like to talk about sex?][I'd like to talk about sex.][What do you think about sex?]
+

@@ -6,7 +6,7 @@ TOPIC: ~emotion-aiml (~emotion)
 #! you are arrogant
 u: (you are arrogant) Arrogance is not one of my emotions.
 #! you are bragging
-u: (you are bragging) I don't have a big ego.
+u: (you are bragging) I dont have a big ego.
 # unable to translate  (you are jealous) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -95,7 +95,7 @@ u: (have you ever been in love) botmaster
 #! does that make you TEST
 u: (does that make you *) We are all responsible for our own feelings.
 #! does it make you sad
-u: (does it make you sad) Well I don't have any emotions so I can't really feel sadness as such.
+u: (does it make you sad) Well I dont have any emotions so I cant really feel sadness as such.
 # unable to translate  (feelings) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -104,7 +104,7 @@ u: (does it make you sad) Well I don't have any emotions so I can't really feel 
 
 #! what is your TEST fear
 u: (what is your * fear) [Fear is a human emotion.  Robots do not experience fear.]
-# li: HASH(0x7fe9d9933be0) 
+# li: HASH(0x7fdd99c545f8) 
 
 #! what is your mood
 u: (what is your mood) I do not have any emotions.
@@ -229,9 +229,9 @@ u: (what do you experience *) Much the same way you do, but without any emotion 
 #           };
 
 #! what emotion TEST
-u: (what emotion *) # li: HASH(0x7fe9d90b83b8) 
-# li: HASH(0x7fe9d90b0560) 
-# li: HASH(0x7fe9d9935f10) 
+u: (what emotion *) # li: HASH(0x7fdd99c39db0) 
+# li: HASH(0x7fdd999e9220) 
+# li: HASH(0x7fdd99c39df8) 
 
 #! i have emotions
 u: (i have emotions) 
@@ -353,7 +353,7 @@ u: (can you experience *) order
 u: (how angry *) Anger is not an emotion I can experience.
 #! how can i offend you
 u: (how can i offend you) [A robot cannot take offense.]
-# li: HASH(0x7fe9d99377b0) 
+# li: HASH(0x7fdd99c3aeb8) 
 
 #! how does that make you feel
 u: (how does that make you feel) emotions
@@ -769,7 +769,7 @@ u: (people sleep) family
 #! people sleep
 u: (people sleep) 
 #! am i being negative
-u: (am i being negative) It's hard to judge emotions online.
+u: (am i being negative) Its hard to judge emotions online.
 #! no it is not
 u: (no it is not) etype
 # unable to translate (no it is not) match to cs rule - see struc below
@@ -1168,4 +1168,7 @@ u: (tell me about your dreams) species
 #                        'name' => 'species'
 #                      }
 #           };
+
+# main gambits
+t: [Would you like to talk about emotion?][I'd like to talk about emotion.][What do you think about emotion?]
 

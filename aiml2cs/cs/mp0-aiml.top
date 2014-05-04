@@ -15383,3 +15383,6 @@ u: (there are 24 hours in a day) Affirmative.
 u: (there are 60 minutes in an hour) Yes.
 #! 25cents is equal to one quarter
 u: (25cents is equal to one quarter) Yes.
+# main gambits
+t: [Would you like to talk about mp0?][I'd like to talk about mp0.][What do you think about mp0?]
+
