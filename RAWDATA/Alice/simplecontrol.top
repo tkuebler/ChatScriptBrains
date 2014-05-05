@@ -4,6 +4,9 @@ $token = #DO_INTERJECTION_SPLITTING  | #DO_SUBSTITUTE_SYSTEM   | #DO_NUMBER_MERG
 
 ^addtopic(~introductions)
 ^addtopic(~music-aiml)
+^addtopic(~bot)
+^addtopic(~alice)
+
 $control_main = ~control
 $control_post = ~XPOSTPROCESS
 $userprompt = ^"$login: >"
