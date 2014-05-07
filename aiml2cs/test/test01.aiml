@@ -1,0 +1,25 @@
+<aiml version="1.0">
+<topic name="LOVE">
+  <category>
+    <pattern>*</pattern>
+    <template>
+      <random>
+        <li> How much do you love me?</li>
+        <li> Why don't you ever show me you love me?</li>
+        <li> Why is it so difficult for you to show affection?</li>
+        <li> Your coldness chills me to the bone</li>
+      </random>
+    </template>
+  </category>
+  <category>
+    <pattern>* LOVE *</pattern>
+    <template>
+      <random>
+        <li> A lot.</li>
+        <li> Show me you love me?</li>
+        <li> Show affection?</li>
+      </random>
+    </template>
+  </category>
+</topic>
+</aiml>
