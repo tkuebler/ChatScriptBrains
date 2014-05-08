@@ -1,3 +1,4 @@
+
 all: clean distclean test build dist
 
 clean:
@@ -8,9 +9,10 @@ distclean:
 
 testclean:
 	-/bin/rm test/*.top
+	-/bin/rm ../RAWDATA/test/*-aiml.top
 
 test: testclean
-	/usr/bin/perl ./aiml2cs.pl test/ test/;
+	/usr/bin/perl ./aiml2cs.pl $(DEBUG) test/ test/;
 	/bin/cp test/*-aiml.top ../RAWDATA/test/;
 
 build:

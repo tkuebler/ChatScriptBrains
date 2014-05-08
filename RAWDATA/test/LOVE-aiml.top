@@ -2,7 +2,7 @@
 #  https://github.com/tkuebler/ChatScriptBrains
 
 #
-# test01.aiml -> test01.top
+# test01.aiml -> LOVE.top
 #
 TOPIC: ~LOVE-aiml (~LOVE) 
 
