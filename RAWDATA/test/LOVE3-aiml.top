@@ -4,7 +4,12 @@
 #
 # test03.aiml -> LOVE3.top
 #
-TOPIC: ~LOVE3-aiml (~LOVE3) 
+TOPIC: ~LOVE3-aiml (~LOVE3 LOVE3) 
+
+#! TEST love TEST
+u: (* love *) [ A lot.]
+[ Show me you love me?]
+[ Show affection?]
 
 #! TEST love TEST
 u: (* love *) [ A lot.]

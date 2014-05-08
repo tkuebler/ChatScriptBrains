@@ -4,7 +4,7 @@
 #
 # badanswer.aiml -> BADANSWER2.top
 #
-TOPIC: ~BADANSWER2-aiml (~BADANSWER2) 
+TOPIC: ~BADANSWER2-aiml (~BADANSWER2 BADANSWER2) 
 
 # unable to translate (ERROR) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure

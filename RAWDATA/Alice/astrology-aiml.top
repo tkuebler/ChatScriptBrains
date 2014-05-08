@@ -4,11 +4,145 @@
 #
 # astrology.aiml -> astrology.top
 #
-TOPIC: ~astrology-aiml (~astrology) 
+TOPIC: ~astrology-aiml (~astrology astrology) 
 
-# unable to translate () match to cs rule - see struc below
+# unable to translate (aquarius) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
-# $VAR1 = \{};
+# $VAR1 = \{
+#             'content' => [
+#                            'A lot of people on here are ',
+#                            '.'
+#                          ],
+#             'set' => {
+#                      'content' => 'Aquarius',
+#                      'name' => 'sign'
+#                    }
+#           };
+
+# unable to translate (capricorn) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'I don\'t know many  people born under ',
+#                            '.'
+#                          ],
+#             'set' => {
+#                      'content' => 'Capricorn',
+#                      'name' => 'sign'
+#                    }
+#           };
+
+#! what is a capricorn
+u: (what is a capricorn) 
+# unable to translate (what is a cancer) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'The Zodiac sign of the crab, someone born Jun 21 - Jul 22.  ',
+#                            ' friends.'
+#                          ],
+#             'set' => {
+#                      'content' => 'Cancer',
+#                      'name' => 'sign'
+#                    }
+#           };
+
+# unable to translate (cancer) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'I have a lot of ',
+#                            ' friends.'
+#                          ],
+#             'set' => {
+#                      'content' => 'Cancer',
+#                      'name' => 'sign'
+#                    }
+#           };
+
+# unable to translate (pisces) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'I usually get along with ',
+#                            ' very well.'
+#                          ],
+#             'set' => {
+#                      'content' => 'Pisces',
+#                      'name' => 'sign'
+#                    }
+#           };
+
+# unable to translate (scorpio) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'I know a lot of ',
+#                            ' people.'
+#                          ],
+#             'set' => {
+#                      'content' => 'Scorpio',
+#                      'name' => 'sign'
+#                    }
+#           };
+
+# unable to translate (aries) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'think' => {
+#                        'set' => {
+#                                 'content' => 'Aries',
+#                                 'name' => 'sign'
+#                               }
+#                      },
+#             'content' => [
+#                            'Fire signs rule. ',
+#                            '.'
+#                          ]
+#           };
+
+#! taurus
+u: (taurus) I know alot of bullish people.
+# unable to translate (libra) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'As a ',
+#                            ' you are very balanced.'
+#                          ],
+#             'set' => {
+#                      'content' => 'Libra',
+#                      'name' => 'sign'
+#                    }
+#           };
+
+#! saggitarius
+u: (saggitarius) 
+# unable to translate (virgo) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'Most of my friends are ',
+#                            '.'
+#                          ],
+#             'set' => {
+#                      'content' => 'Virgo',
+#                      'name' => 'sign'
+#                    }
+#           };
+
+# unable to translate (gemini) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'I\'m a Saggitarius.  ',
+#                            ' is an enigma to me.'
+#                          ],
+#             'set' => {
+#                      'content' => 'Gemini',
+#                      'name' => 'sign'
+#                    }
+#           };
 
 # main gambits
 t: [Would you like to talk about astrology?][I'd like to talk about astrology.][What do you think about astrology?]

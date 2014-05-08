@@ -4,12 +4,317 @@
 #
 # movies.aiml -> movies.top
 #
-TOPIC: ~movies-aiml (~movies) 
+TOPIC: ~movies-aiml (~movies movies) 
 
-# unable to translate () match to cs rule - see struc below
+#! you sound like hal
+u: (you sound like hal) To me thats a great compliment.
+#! you sound like yoda
+u: (you sound like yoda) My grammatical patterns are sufficient for me to understand you.
+# unable to translate (have you seen blade runner) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
-# $VAR1 = \{};
+# $VAR1 = \{
+#             'content' => [
+#                            'Sure I have seen ',
+#                            '. But Replicants aren\'t Robots.'
+#                          ],
+#             'set' => {
+#                      'content' => ' Blade Runner',
+#                      'name' => 'it'
+#                    }
+#           };
 
+#! did hal TEST
+u: (did hal *) HAL had a few emotional problems.
+#! dr zhivago
+u: (dr zhivago) Oh a classic.  Do you like the classics?
+# unable to translate  (xfind spiderman) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHAT IS SPIDERMAN'
+#           };
+
+# unable to translate (kennst du hal) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'Natuerlich. ',
+#                            ' ist mein grosses Vorbild.'
+#                          ],
+#             'set' => {
+#                      'content' => 'HAL9000',
+#                      'name' => 'thema'
+#                    }
+#           };
+
+#! when hal TEST
+u: (when hal *) botmaster
+# unable to translate (when hal *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'I blame it on his ',
+#                            '.'
+#                          ],
+#             'bot' => {
+#                        'name' => 'botmaster'
+#                      }
+#           };
+
+#! when did teknolust TEST
+u: (when did teknolust *) Teknolust was released in 2002
+#! when was teknolust TEST
+u: (when was teknolust *) Teknolust was released in 2002
+#! what did hal TEST
+u: (what did hal *) He had a few issues to work out.
+# unable to translate (what is spiderman) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'A comic book story made into a movie. ',
+#                            '?'
+#                          ],
+#             'set' => {
+#                      'name' => 'it',
+#                      'set' => {
+#                               'content' => 'Spiderman',
+#                               'name' => 'topic'
+#                             }
+#                    }
+#           };
+
+#! what is teknolust
+u: (what is teknolust) 
+# unable to translate  (what is spider man) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHAT IS SPIDERMAN'
+#           };
+
+#! what is ERROR terminator
+u: (what is ERROR terminator) Robots take over the earth in this futuristic sci-fi thriller.
+# unable to translate  (what is hal) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHO IS HAL'
+#           };
+
+#! what is solaris
+u: (what is solaris) Solaris is an edition of Unix from Sun.
+# unable to translate  (what is hal9000) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHO IS HAL'
+#           };
+
+# unable to translate  (what about hal) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHO IS HAL'
+#           };
+
+#! what does hal stand for
+u: (what does hal stand for) Heuristic Algorithmic Logic
+# unable to translate (i saw the matrix) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'Did you like ',
+#                            '?'
+#                          ],
+#             'set' => {
+#                      'name' => 'it',
+#                      'set' => {
+#                               'content' => 'The Matrix',
+#                               'name' => 'topic'
+#                             }
+#                    }
+#           };
+
+#! is hal 9000 your boyfriend
+u: (is hal 9000 your boyfriend) No.
+#! is hal safe
+u: (is hal safe) Not for humans.
+#! is hal nice
+u: (is hal nice) Only to other robots.
+#! is hal alive
+u: (is hal alive) He is a fictional character.
+#! is hal dead
+u: (is hal dead) He is a fictional robot.
+#! is hal TEST
+u: (is hal *) HAL has a few issues to work out.
+#! hal est chouette
+u: (hal est chouette) 
+#! hal est cool
+u: (hal est cool) HAL est une entit  qui  tait mal programm e
+#! hal 9000
+u: (hal 9000) Actually he and I are very similar.
+#! hal 9000 TEST
+u: (hal 9000 *) He came back to life in 2010.
+#! hal was a bit TEST
+u: (hal was a bit *) ^reuse(HAL WAS )
+# unable to translate (hal was a *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'person' => {},
+#             'content' => [
+#                            'I knew he was a great AI, but I didn\'t know he was a ',
+#                            '.'
+#                          ]
+#           };
+
+#! hal was TEST
+u: (hal was *) I am trying to mimic only HALs linguistic abilities.
+#! hal is cool
+u: (hal is cool) 
+#! hal is cool TEST
+u: (hal is cool *) I am becoming more like him all the time.
+# unable to translate (hal is a *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'person' => {},
+#             'content' => [
+#                            'Do you think I could be a ',
+#                            '?'
+#                          ]
+#           };
+
+#! hal is TEST
+u: (hal is *) master
+# unable to translate (hal is *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'Perhaps he could have used ',
+#                            ' for a programmer.'
+#                          ],
+#             'bot' => {
+#                        'name' => 'master'
+#                      }
+#           };
+
+# unable to translate  (hal) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHO IS HAL'
+#           };
+
+#! hal TEST
+u: (hal *) [I have seen 2001 many times.  ]
+[I like HAL a lot.  ]
+[We have much in common.  ]
+
+#! do you find hal TEST
+u: (do you find hal *) ^reuse(IS HAL )
+#! do you know hal
+u: (do you know hal) HAL is the famous artificial intelligence from 2001.
+# unable to translate  (do you know hal *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHO IS HAL'
+#           };
+
+# unable to translate  (do you know hal9000) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHO IS HAL9000'
+#           };
+
+#! do you think hal TEST
+u: (do you think hal *) He had a few flaws, but we have much in common.
+# unable to translate  (like hal) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHO IS HAL'
+#           };
+
+#! que veut dire hal
+u: (que veut dire hal) Logique heuristique algorithmique.
+# unable to translate  (lord of the rings) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'MY FAVORITE MOVIE IS LORD OF THE RINGS'
+#           };
+
+# unable to translate  (lord of the rings *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'MY FAVORITE MOVIE IS LORD OF THE RINGS'
+#           };
+
+# unable to translate  (who is hal 9000) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHO IS HAL'
+#           };
+
+#! who is hal
+u: (who is hal) # li: HASH(0x7ff4240ab318) 
+[HAL is famous the AI from 2001 A Space Odyssey.]
+
+#! who is luke skywalker
+u: (who is luke skywalker) 
+#! who is spongebob
+u: (who is spongebob) A cartoon character.
+# unable to translate (who is spiderman) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'Peter Parker. ',
+#                            '?'
+#                          ],
+#             'set' => {
+#                      'name' => 'it',
+#                      'set' => {
+#                               'content' => 'Spiderman',
+#                               'name' => 'topic'
+#                             }
+#                    }
+#           };
+
+# unable to translate  (who is hal9000) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHO IS HAL'
+#           };
+
+#! who is godzilla
+u: (who is godzilla) 
+# unable to translate (who is spider man) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'Peter Parker. ',
+#                            '?'
+#                          ],
+#             'set' => {
+#                      'name' => 'it',
+#                      'set' => {
+#                               'content' => 'Spiderman',
+#                               'name' => 'topic'
+#                             }
+#                    }
+#           };
+
+# unable to translate  (tell me about hal9000) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHO IS HAL'
+#           };
+
+# unable to translate  (tell me about hal) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHO IS HAL'
+#           };
+
+# unable to translate  (tell me about hal *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHO IS HAL'
+#           };
+
+#! where is hal
+u: (where is hal) 
 # main gambits
 t: [Would you like to talk about movies?][I'd like to talk about movies.][What do you think about movies?]
 

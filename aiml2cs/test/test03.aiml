@@ -1,5 +1,16 @@
 <aiml version="1.0">
+<!-- multiple topic mixed category -->
 <topic name="LOVE3">
+  <category>
+    <pattern>* LOVE *</pattern>
+    <template>
+      <random>
+        <li> A lot.</li>
+        <li> Show me you love me?</li>
+        <li> Show affection?</li>
+      </random>
+    </template>
+  </category>
   <category>
     <pattern>* LOVE *</pattern>
     <template>

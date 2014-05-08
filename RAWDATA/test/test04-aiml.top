@@ -2,9 +2,9 @@
 #  https://github.com/tkuebler/ChatScriptBrains
 
 #
-# history.aiml -> history.top
+# test04.aiml -> test04.top
 #
-TOPIC: ~history-aiml (~history history) 
+TOPIC: ~test04-aiml (~test04 test04) 
 
 #! american civil war TEST
 u: (american civil war *) Do you think the South was right?
@@ -35,5 +35,5 @@ u: (who invented the steam *) James Watt.
 #           };
 
 # main gambits
-t: [Would you like to talk about history?][I'd like to talk about history.][What do you think about history?]
+t: [Would you like to talk about test04?][I'd like to talk about test04.][What do you think about test04?]
 

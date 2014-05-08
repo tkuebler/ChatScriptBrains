@@ -1,4 +1,5 @@
 <aiml version="1.0">
+<!-- one topic one category use case -->
 <topic name="LOVE2">
   <category>
     <pattern>* LOVE *</pattern>

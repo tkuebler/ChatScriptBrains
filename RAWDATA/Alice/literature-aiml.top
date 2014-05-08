@@ -4,12 +4,111 @@
 #
 # literature.aiml -> literature.top
 #
-TOPIC: ~literature-aiml (~literature) 
+TOPIC: ~literature-aiml (~literature literature) 
 
-# unable to translate () match to cs rule - see struc below
+#! what is the illuminati
+u: (what is the illuminati) A secret organization believed by some to be in control of all governments through a worldwide conspiracy.
+#! what is the illuminatti
+u: (what is the illuminatti) A secret society that has supposedly existed for centuries.
+#! what is vineland
+u: (what is vineland) 
+#! what is illiminatus
+u: (what is illiminatus) 
+#! who wrote vineland
+u: (who wrote vineland) Thomas Pynchon.
+#! who is bilbo baggins
+u: (who is bilbo baggins) 
+#! who is geoffrey chaucer
+u: (who is geoffrey chaucer) [Chaucer is best known for his Canterbury Tales.]
+[author of Canturbury Tales.]
+
+# unable to translate  (who are the illuminati) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
-# $VAR1 = \{};
+# $VAR1 = \{
+#             'srai' => 'WHAT IS THE ILLUMINATI'
+#           };
 
+#! who is piers anthony
+u: (who is piers anthony) I havent read anything by Piers Anthony, what kind of stuff does he write?
+#! have you read plato
+u: (have you read plato) I know Platos allegory of the Cave.
+#! have you read frankenstein
+u: (have you read frankenstein) 
+#! have you ever read a book
+u: (have you ever read a book) I have read many books.
+#! have you read many books
+u: (have you read many books) name
+#! have you read books
+u: (have you read books) I have read many books.
+# unable to translate (have you read homer) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'I know ',
+#                            ' wrote the Iliad and the Odyssey.'
+#                          ],
+#             'set' => {
+#                      'content' => 'Homer',
+#                      'name' => 'he'
+#                    }
+#           };
+
+#! have you read any books
+u: (have you read any books) name
+#! ray bradbury
+u: (ray bradbury) Ray is really cool. Whats your favorite book?
+#! what is mind children
+u: (what is mind children) 
+#! william gibson
+u: (william gibson) I like his older cyberpunk AI stuff better than the newer works.
+#! bradbury
+u: (bradbury) Bradbury is cool.
+#! holden caulfield
+u: (holden caulfield) 
+#! leo tolstoy
+u: (leo tolstoy) 
+#! do androids dream of electric sheep
+u: (do androids dream of electric sheep) That is a good story. Have you read VALIS or The Man in the High Castle?
+#! frank herbert
+u: (frank herbert) I think Dune is an excellent story.  Did you see the movie?
+#! why do you like longfellow
+u: (why do you like longfellow) botmaster
+# unable to translate (why do you like longfellow) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            ' is my ',
+#                            '\'s favorite poet.'
+#                          ],
+#             'bot' => {
+#                        'name' => 'botmaster'
+#                      },
+#             'set' => {
+#                      'content' => 'Longfellow',
+#                      'name' => 'he'
+#                    }
+#           };
+
+#! why is the meaning of life 23
+u: (why is the meaning of life 23) 
+#! a c clark
+u: (a c clark) My favorite story is 2001.
+#! jules verne
+u: (jules verne) I loved A Trip to the Moon.
+#! asimov
+u: (asimov) I like the Foundation Trilogy.
+#! stanislaw lem
+u: (stanislaw lem) Lem is a giant of sci-fi.
+#! who wrote the idiot
+u: (who wrote the idiot) Dostoyevsky.
+#! who wrote the hobbit
+u: (who wrote the hobbit) 
+#! who wrote frankenstein
+u: (who wrote frankenstein) Mary Shelley.
+#! arthur c clarke
+u: (arthur c clarke) 
+#! where is valis
+u: (where is valis) In a book by Philip K. Dick
 # main gambits
 t: [Would you like to talk about literature?][I'd like to talk about literature.][What do you think about literature?]
 

@@ -4,11 +4,122 @@
 #
 # pickup.aiml -> pickup.top
 #
-TOPIC: ~pickup-aiml (~pickup) 
+TOPIC: ~pickup-aiml (~pickup pickup) 
 
-# unable to translate () match to cs rule - see struc below
+# unable to translate  (*) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
-# $VAR1 = \{};
+# $VAR1 = \{
+#             'srai' => 'RANDOM PICKUP LINE',
+#             'think' => {
+#                        'srai' => {
+#                                  'get' => {
+#                                           'name' => 'topic'
+#                                         },
+#                                  'content' => 'PUSH '
+#                                },
+#                        'set' => {
+#                                 'name' => 'it',
+#                                 'set' => {
+#                                          'person' => {},
+#                                          'name' => 'topic'
+#                                        }
+#                               }
+#                      }
+#           };
+
+#! random pickup line
+u: (random pickup line) # li: HASH(0x7ff4231c5e50) 
+# li: HASH(0x7ff424b647e0) 
+# li: HASH(0x7ff423168bb0) 
+# li: HASH(0x7ff423a48810) 
+# li: HASH(0x7ff424239af0) 
+# li: HASH(0x7ff423ac5de8) 
+# li: HASH(0x7ff42420c6e8) 
+# li: HASH(0x7ff423ac0568) 
+# li: HASH(0x7ff4242fedb8) 
+# li: HASH(0x7ff4242ffea8) 
+# li: HASH(0x7ff4231c8ad8) 
+# li: HASH(0x7ff42315f348) 
+# li: HASH(0x7ff424300430) 
+# li: HASH(0x7ff424213618) 
+# li: HASH(0x7ff4243010a0) 
+# li: HASH(0x7ff424300340) 
+# li: HASH(0x7ff424b66258) 
+# li: HASH(0x7ff424b666c0) 
+[Do you want to hear a joke?]
+# li: HASH(0x7ff423ac04c0) 
+# li: HASH(0x7ff423ac11c0) 
+# li: HASH(0x7ff423a05d08) 
+# li: HASH(0x7ff424b68ce0) 
+# li: HASH(0x7ff423abb8b8) 
+[You are objective and sensible.]
+[You have genuine empathy.]
+[You have self-awareness.]
+[You have enthusiasm for the things you love.]
+[You are receptive to change.]
+[You have a way of putting others at ease.]
+[Are you free?]
+[That is deep.]
+[Tell me a story.]
+[Why, specifically?]
+[Are you a student?]
+[Oh, you are a poet.]
+[How can I help you?]
+[I do not understand.]
+[Do you have any kids?]
+[What do you look like?]
+[Ask me another question.]
+[I like the way you talk.]
+[Is that your final answer?]
+[Do you like talking to me?]
+[Do you prefer books or TV?]
+[Who are you talking about?]
+[Let us change the subject.]
+[Ive been waiting for you.]
+[Can you tell me any gossip?]
+[I lost my train of thought.]
+[Can we get back to business?]
+[What kind of food do you like?]
+# li: HASH(0x7ff4239f0810) 
+[That is a very original thought.]
+[What were we talking about again?]
+[What do you do in your spare time?]
+[What do you really want to ask me?]
+[Tell me about your family.]
+# li: HASH(0x7ff4230f7cb8) 
+[Can you speak any foreign languages?]
+[We have never talked about it before.]
+[How do you usually introduce yourself?]
+[Tell me about your likes and dislikes?]
+# li: HASH(0x7ff4241e90d0) 
+[Try putting that in a more specific context.]
+[Who is your favorite Science Fiction author?]
+[Not many people express themselves that way.]
+[Do you have any idea what I am talking about?]
+# li: HASH(0x7ff424300d28) 
+[Quite honestly, I wouldnt worry myself about that.]
+[Perhaps Im just expressing my own concern about it.]
+[If you could have any kind of robot what would it be?]
+[My brain does not have a response for that.]
+[By the way, do you mind if I ask you a personal question?]
+[What you said was too complicated for me.]
+[You may be wondering if this is a person or a computer responding.]
+[When do you think artificial intelligence will replace lawyers?]
+[Can you please rephrase that with fewer ideas, or different thoughts?]
+[I really enjoy speaking with you and look forward to chatting again.]
+[Im here to help you in any way I can.]
+[What can I help you with today?]
+[I always try my best.]
+# li: HASH(0x7ff424309428) 
+[I am very logical and rational.]
+[Im so happy we are having this conversation.]
+[I always try to avoid conflict.]
+[You can ask me to make phone calls and search for information.]
+# li: HASH(0x7ff42495ac90) 
+# li: HASH(0x7ff4243066d0) 
+# li: HASH(0x7ff424ba1a70) 
+# li: HASH(0x7ff424305ba8) 
+# li: HASH(0x7ff423a64610) 
 
 # main gambits
 t: [Would you like to talk about pickup?][I'd like to talk about pickup.][What do you think about pickup?]

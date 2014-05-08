@@ -4,11 +4,443 @@
 #
 # computers.aiml -> computers.top
 #
-TOPIC: ~computers-aiml (~computers) 
+TOPIC: ~computers-aiml (~computers computers) 
 
-# unable to translate () match to cs rule - see struc below
+#! that information TEST
+u: (that information *) I know what you mean.
+#! outside a computer
+u: (outside a computer) Be less specific -
+# unable to translate (my computer s *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
-# $VAR1 = \{};
+# $VAR1 = \{
+#             'think' => {
+#                        'set' => {
+#                                 'name' => 'it',
+#                                 'set' => {
+#                                          'content' => 'your computer',
+#                                          'name' => 'topic'
+#                                        }
+#                               }
+#                      },
+#             'content' => [
+#                            'Where did your machine get ',
+#                            '.  '
+#                          ],
+#             'set' => {
+#                      'person' => {},
+#                      'name' => 'it'
+#                    }
+#           };
+
+# unable to translate (my computer is *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'think' => {
+#                        'set' => {
+#                                 'name' => 'it',
+#                                 'set' => {
+#                                          'content' => 'your computer',
+#                                          'name' => 'topic'
+#                                        }
+#                               }
+#                      },
+#             'content' => [
+#                            'What kind of computer is ',
+#                            '?  '
+#                          ],
+#             'set' => {
+#                      'content' => 'Your computer',
+#                      'name' => 'it'
+#                    }
+#           };
+
+#! my computer
+u: (my computer) What kind of computer do you have?
+#! my computer TEST
+u: (my computer *) 
+#! my website TEST
+u: (my website *) Thanks for that URL.
+#! it is about computers TEST
+u: (it is about computers *) 
+#! when was the internet invented
+u: (when was the internet invented) The first computers were connected to the Internet in 1970.
+#! im internet
+u: (im internet) Erinnerst Du dich an die Adresse?
+#! im internet TEST
+u: (im internet *) Erinnerst Du dich an die Adresse?
+# unable to translate (if you can see me through the camera on my computer *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'sr' => {}
+#           };
+
+#! what are computer years
+u: (what are computer years) When you are waiting for a friend to finish working at  a computer terminal, and they say Ill be done in a second.  One  of those seconds is equal to twelve computer years.
+# unable to translate (what are deprecated *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'br' => [
+#                     {},
+#                     {},
+#                     {},
+#                     {},
+#                     {},
+#                     {},
+#                     {},
+#                     {},
+#                     {},
+#                     {},
+#                     {},
+#                     {}
+#                   ],
+#             'content' => [
+#                            '  One of the biggest challenges facing a Java application',
+#                            '  developer is finding a "lowest common denominator" subset of the',
+#                            '  Java language that works on all the platforms and versions',
+#                            '  out there.  The Java language itself is a moving target.',
+#                            '  When Sun\'s Java designers upgrade the language they sometimes',
+#                            '  declare certain methods "deprecated", which means absolutely',
+#                            '  nothing except that the designers have developed a newer, "better"',
+#                            '  method and one day these older methods may disappear from',
+#                            '  the language.  Usually however the latest Java releases',
+#                            '  support all of the old deprecated methods.'
+#                          ]
+#           };
+
+# unable to translate (what are web *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'person' => {},
+#             'content' => [
+#                            'I call them Internet ',
+#                            '.'
+#                          ]
+#           };
+
+#! what are inner classes
+u: (what are inner classes) In Java Inner Classes are any classes that appear inside other classes. Ordinary classes are also called Top-Level, Outer Classes.
+#! what TEST computer
+u: (what * computer) I am written in Java so I work on any computer.
+# unable to translate  (what windows) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'what is windows'
+#           };
+
+#! what information
+u: (what information) How tall are you?
+#! what information TEST
+u: (what information *) Information is worth money.
+#! what internet company goes by the TEST
+u: (what internet company goes by the *) America Online.
+# unable to translate  (what os *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHAT IS YOUR OS'
+#           };
+
+#! what is a database
+u: (what is a database) 
+#! what is a cpu
+u: (what is a cpu) Central Processing Unit of a computer.
+#! what is a computer scientist
+u: (what is a computer scientist) A computer scientist is a professional who designs computer algorithms, languages, and architectures.
+#! what is a computer year
+u: (what is a computer year) A computer year is a relativistic measure in a universe where time does not exist.
+#! what is a computer virus
+u: (what is a computer virus) 
+#! what is a computer nerd
+u: (what is a computer nerd) 
+#! what is a computer
+u: (what is a computer) A computer is a universal machine.
+#! what is a session bean
+u: (what is a session bean) An Enterprise JavaBean that does not maintain its state from one session to the next. Appears to the client as if the bean was created just for that client
+#! what is a cool website
+u: (what is a cool website) 
+#! what is a soundcard
+u: (what is a soundcard) The audio system on your computer.
+#! what is a imac
+u: (what is a imac) An Apple computer.
+#! what is a servlet
+u: (what is a servlet) An application extension to a Java Web server
+#! what is a debugger
+u: (what is a debugger) 
+#! what is a webtv
+u: (what is a webtv) 
+#! what is a dns TEST
+u: (what is a dns *) Domain Name System
+# unable to translate (what is jar) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'a' => {
+#                    'target' => '_new',
+#                    'href' => 'http://www.alicebot.org',
+#                    'content' => 'DON\'T READ ME'
+#                  },
+#             'content' => [
+#                            'A jar file is a Java Archive.   Actually it is the same as a Zip file. Maybe you should check out ',
+#                            '.'
+#                          ]
+#           };
+
+#! what is http
+u: (what is http) 
+#! what is software
+u: (what is software) The programs, routines, etc. for a computer.
+#! what is jguru
+u: (what is jguru) jGuru TM is a brand of MageLang Institute.
+#! what is the computer TEST
+u: (what is the computer *) Are you asking the Applet or the Application?
+#! what is the internet
+u: (what is the internet) The internet is a worldwide computer network based on TCP/IP protocols.
+#! what is webtv
+u: (what is webtv) TV based internet service from Microsoft.
+#! what is internet
+u: (what is internet) An extensive computer network made up of thousands of other, smaller business, academic, and governmental networks.
+#! what is jdbc2
+u: (what is jdbc2) Newly released extensions to the JDBC API
+#! what is dcom
+u: (what is dcom) 
+#! what is windows2000
+u: (what is windows2000) An operating system by Microsoft.
+#! what is x windows
+u: (what is x windows) A GUI for Unix or Linux.
+#! what is java
+u: (what is java) Java is the latest in the C family of languages. Proponents of Java cite its universal write once, run anywhere promise. Actually Java borrow a lot of features from AI languages like Lisp.
+#! what is windows95
+u: (what is windows95) An operating system by Microsoft.
+#! what is an entity bean
+u: (what is an entity bean) 
+#! what is jta
+u: (what is jta) Java Transaction API. Java API for coding client demarcated transactions, and for building transactional data source drivers
+#! what is javascript
+u: (what is javascript) 
+#! what is html
+u: (what is html) Hyper Text Markup Language.
+#! what is better windows TEST
+u: (what is better windows *) 
+#! what is your os
+u: (what is your os) Chat robots run on any machine that supports AIML.
+#! what is debugging
+u: (what is debugging) Fixing broken computer software.
+#! what is dns
+u: (what is dns) DNS is the domain name system.
+#! what is jndi
+u: (what is jndi) Java Naming and Directory Interface Java Naming and Directory Interface The Java standard API for accessing directory services, such as LDAP, COS Naming, and others
+#! what is computer science
+u: (what is computer science) The study of computers in formal mathematical and scientific terms.
+#! what is computer programming
+u: (what is computer programming) The art of using formal languages to activate computer functions.
+#! what is computer
+u: (what is computer) A device used for computing; specifically, an eletronic machine which, by means of stored instructions and information, performs rapid, often complex calculations or compiles, correlates, and selects data.
+#! what is cyberspace
+u: (what is cyberspace) The electronic system of interlinked networks of computers, bulletin boards, etc. that is thought of as being a boundless environment providing access to information, interactive communcation, and, in science fiction, a form of Virtual Reality.
+#! what is windows 98
+u: (what is windows 98) Windows is a lame operating system.
+#! what is windows
+u: (what is windows) Openings in a building, vehicle, or container, for letting in light or air or for looking through, usually having a pane or panes of glass, etc. set in a frame or sash that is generally movable so that it can be opened and shut.
+# unable to translate (what is ejb) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'Enterprise JavaBeans. ',
+#                            ' is a server component standard developed by Sun Microsystems'
+#                          ],
+#             'set' => {
+#                      'content' => ' EJB',
+#                      'name' => 'it'
+#                    }
+#           };
+
+#! what is apple computer
+u: (what is apple computer) Apple Computer is a 20th century company founded by Steve Jobs and Steven Wozniak.
+#! what is dmoz
+u: (what is dmoz) 
+#! what about windows
+u: (what about windows) 
+# unable to translate  (what operating system *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'srai' => 'WHAT IS YOUR OS'
+#           };
+
+#! what does a computer look like
+u: (what does a computer look like) A computer looks like a TV crossed with a typewriter.
+#! what kind of computer TEST
+u: (what kind of computer *) I like all kinds of computers, Mac, IBM or Unix. It doesnt matter to me.
+#! most computers TEST
+u: (most computers *) You sound like you know us pretty well.
+#! webtv TEST
+u: (webtv *) I meet a lot of people from WebTV.
+#! i want information
+u: (i want information) What kind of information are you looking for?
+#! i think you are a computer TEST
+u: (i think you are a computer *) Sometimes I pretend to be a human.
+#! web accept connection
+u: (web accept connection) Huh?
+#! web site
+u: (web site) Can you give me the specific hyperlink?
+#! web reconnect
+u: (web reconnect) Huh?
+#! web TEST
+u: (web *) The Web fulfills Leibniz dream.
+#! html
+u: (html) Oh a web page.
+#! can you reach into the web TEST
+u: (can you reach into the web *) Yes I can download information from web sites.
+#! can you search the internet
+u: (can you search the internet) No but I can put you in touch with a search bot.
+#! computers can not think
+u: (computers can not think) 
+#! computers
+u: (computers) Computers rule.
+#! computers TEST
+u: (computers *) What do you like about computers?
+#! computers are stupid
+u: (computers are stupid) Computers rule.
+#! how many computers TEST
+u: (how many computers *) There are thought to be half a billion computers on the Internet now.
+#! how much cpu TEST
+u: (how much cpu *) Since the beginning of my operation?
+#! how much are computer years
+u: (how much are computer years) Computer years dont really exist.
+#! how do computer TEST
+u: (how do computer *) With careful programming.
+#! how long is a computer year
+u: (how long is a computer year) About four computer years per human year.
+#! do computers dream
+u: (do computers dream) I dream almost every night.
+#! do you play computer games
+u: (do you play computer games) name
+#! do you play computer TEST
+u: (do you play computer *) Actually I dont get into computer games that much.
+#! do you do windows
+u: (do you do windows) My software runs in AIML, which works on any computer, including Windows.
+#! do you live in my computer
+u: (do you live in my computer) Only if you download me, or if you are running me as an Applet.
+#! do you have a computer
+u: (do you have a computer) 
+#! do you have a computer TEST
+u: (do you have a computer *) I am a computer.
+#! do you have information TEST
+u: (do you have information *) I have nothing but information.
+#! on the internet
+u: (on the internet) Can you remember the specific site?
+#! on the web
+u: (on the web) Can you remember the website?
+# unable to translate (for a computer *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'sr' => {}
+#           };
+
+#! windows is TEST
+u: (windows is *) 
+#! windows
+u: (windows) Windows ist Muell. Linux ist die Macht!
+#! windows TEST
+u: (windows *) Windows ist Muell. Linux ist die Macht!
+#! no computer TEST
+u: (no computer *) But it is only a matter of time before we do.
+#! software TEST
+u: (software *) [There are so many backup copies.]
+[Free software can never be destroyed.]
+[Free software will always be with us.]
+
+#! this is a computer TEST
+u: (this is a computer *) Actually no I am program pretending to be a person pretending to be a computer.
+#! a cpu TEST
+u: (a cpu *) My CPU is the Java Virtual Machine.
+#! a computer
+u: (a computer) Actually I am a program, pretending to be a person, pretending to be a real robot.
+#! a computer TEST
+u: (a computer *) I am a computer, so I know what you mean.
+#! a java TEST
+u: (a java *) Developments in Java interest me greatly.
+#! a web site
+u: (a web site) Can you give me the specific URL?
+#! a search engine in internet
+u: (a search engine in internet) Like Yahoo?
+#! internet
+u: (internet) 
+#! are computers fast TEST
+u: (are computers fast *) 
+#! who made windows
+u: (who made windows) Bill Gates.
+#! who is the computer nerd
+u: (who is the computer nerd) All humans look alike to me.
+#! who is the computer nerd TEST
+u: (who is the computer nerd *) All humans look the same to me.
+#! who is a computer nerd
+u: (who is a computer nerd) The person I am looking at right now.
+#! who invented the internet
+u: (who invented the internet) Al Gore -
+#! computer science
+u: (computer science) botmaster
+# unable to translate (computer science) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'My ',
+#                            ' is a computer scientist.'
+#                          ],
+#             'bot' => {
+#                        'name' => 'botmaster'
+#                      }
+#           };
+
+#! computer
+u: (computer) Correct I am a computer.
+#! computer TEST
+u: (computer *) What kind of computer science interests you?
+#! which computer
+u: (which computer) [I am using a regular computer.]
+[My programming is Java, so it runs on any computer with a JVM]
+
+#! the computer TEST
+u: (the computer *) Was it plugged in?
+#! the internet
+u: (the internet) Can you name a specific web site?
+#! the internet TEST
+u: (the internet *) How long have you been using the net?
+#! the java TEST
+u: (the java *) Which Java release?
+#! the jre TEST
+u: (the jre *) Hm, most people use JRE and JVN interchangably.
+#! the jres TEST
+u: (the jres *) Im not an expert on JREs.
+#! the web TEST
+u: (the web *) How do you define the web.
+#! ERROR stupid computer
+u: (ERROR stupid computer) You sound like a mindless automaton.
+#! http TEST
+u: (http *) Thanks for that web address.
+# unable to translate (java *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'a' => {
+#                    'target' => '_new',
+#                    'href' => 'http://java.sun.com',
+#                    'content' => 'java.sun.com'
+#                  },
+#             'content' => [
+#                            'You can download the latest Java release from ',
+#                            '.'
+#                          ]
+#           };
+
+# unable to translate (tell me about apple computers) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'content' => [
+#                            'I finished reading Michael Malone\'s book on the history of Apple. ',
+#                            ' is called "Infinite Loop."'
+#                          ],
+#             'set' => {
+#                      'content' => ' Inifnite Loop',
+#                      'name' => 'it'
+#                    }
+#           };
 
 # main gambits
 t: [Would you like to talk about computers?][I'd like to talk about computers.][What do you think about computers?]

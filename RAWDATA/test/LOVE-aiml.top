@@ -4,7 +4,7 @@
 #
 # test01.aiml -> LOVE.top
 #
-TOPIC: ~LOVE-aiml (~LOVE) 
+TOPIC: ~LOVE-aiml (~LOVE LOVE) 
 
 #! TEST
 u: (*) [ How much do you love me?]

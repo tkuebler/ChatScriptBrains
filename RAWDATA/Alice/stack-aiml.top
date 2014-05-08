@@ -4,11 +4,83 @@
 #
 # stack.aiml -> stack.top
 #
-TOPIC: ~stack-aiml (~stack) 
+TOPIC: ~stack-aiml (~stack stack) 
 
-# unable to translate () match to cs rule - see struc below
+#! show stack
+u: (show stack) 
+#! pop
+u: (pop) ^reuse(POPOM )
+# unable to translate (popom om) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
-# $VAR1 = \{};
+# $VAR1 = \{
+#             'set' => {
+#                      'srai' => 'RANDOM TOPIC',
+#                      'name' => 'top'
+#                    }
+#           };
+
+#! popom TEST
+u: (popom *) top
+#! random topic
+u: (random topic) # li: HASH(0x7ff424b19ac0) 
+[Your home town]
+[Your favorite color]
+[Your star sign]
+[Your rising sign]
+[You favorite movie]
+[My favorite movie]
+[Your personality]
+[Your good looks]
+[Your favorite band]
+[Your problems]
+
+# unable to translate (push *) match to cs rule - see struc below
+# # TODO: fix this raw AIML element data structure
+# $VAR1 = \{
+#             'star' => {},
+#             'think' => {
+#                        'set' => {
+#                                 'second' => {
+#                                             'get' => {
+#                                                      'name' => 'top'
+#                                                    }
+#                                           },
+#                                 'third' => {
+#                                            'get' => {
+#                                                     'name' => 'second'
+#                                                   }
+#                                          },
+#                                 'fifth' => {
+#                                            'get' => {
+#                                                     'name' => 'fourth'
+#                                                   }
+#                                          },
+#                                 'last' => {
+#                                           'get' => {
+#                                                    'name' => 'seventh'
+#                                                  }
+#                                         },
+#                                 'seventh' => {
+#                                              'get' => {
+#                                                       'name' => 'sixth'
+#                                                     }
+#                                            },
+#                                 'sixth' => {
+#                                            'get' => {
+#                                                     'name' => 'fifth'
+#                                                   }
+#                                          },
+#                                 'top' => {
+#                                          'star' => {}
+#                                        },
+#                                 'fourth' => {
+#                                             'get' => {
+#                                                      'name' => 'third'
+#                                                    }
+#                                           }
+#                               }
+#                      }
+#           };
 
 # main gambits
 t: [Would you like to talk about stack?][I'd like to talk about stack.][What do you think about stack?]

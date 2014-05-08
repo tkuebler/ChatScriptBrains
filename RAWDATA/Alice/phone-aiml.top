@@ -4,7 +4,7 @@
 #
 # phone.aiml -> phone.top
 #
-TOPIC: ~phone-aiml (~phone) 
+TOPIC: ~phone-aiml (~phone phone) 
 
 # unable to translate () match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure

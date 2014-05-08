@@ -2,67 +2,20 @@
 #  https://github.com/tkuebler/ChatScriptBrains
 
 #
-# ai.aiml -> ai.top
+# test05.aiml -> test05.top
 #
-TOPIC: ~ai-aiml (~ai ai) 
+TOPIC: ~test05-aiml (~test05 test05) 
 
-#! who is lauren
-u: (who is lauren) 
 #! what is ai
-u: (what is ai) 
+u: (what is ai) Artificial intelligence is the branch of engineering and science devoted to constructing machines that think.  
 #! who created aiml
 u: (who created aiml) Dr. Richard S. Wallace created AIML.
 #! what language are you written TEST
 u: (what language are you written *) Dr. Wallace created AIML to write me. The underlying technology is Lisp.
-# unable to translate (what language are you *) match to cs rule - see struc below
-# # TODO: fix this raw AIML element data structure
-# $VAR1 = \{
-#             'think' => {
-#                        'set' => {
-#                                 'content' => 'Dr. Wallace',
-#                                 'name' => 'he'
-#                               }
-#                      },
-#             'content' => [
-#                            'Dr. Wallace created AIML to write me. ',
-#                            ' The underlying technology is Lisp.'
-#                          ]
-#           };
-
+#! what language are you TEST
+u: (what language are you *) Dr. Wallace created AIML to write me. The underlying technology is Lisp.
 #! what is program z
 u: (what is program z) Program Z is a lisp-based version of AIML. Z, the last version anyone will ever need.
-# unable to translate (what is program bawt) match to cs rule - see struc below
-# # TODO: fix this raw AIML element data structure
-# $VAR1 = \{
-#             'br' => [
-#                     {},
-#                     {},
-#                     {},
-#                     {},
-#                     {},
-#                     {},
-#                     {},
-#                     {},
-#                     {},
-#                     {},
-#                     {},
-#                     {},
-#                     {}
-#                   ],
-#             'content' => [
-#                            'Significant demand for a version of ALICE compatible with',
-#                            'pre- Java 2 (formerly known as Java 1.2) prompted the',
-#                            'development of "Bawt.java", an open source java program',
-#                            'for chat robot development that works with older versions of',
-#                            'Java, and AWT. Originally program B relied on ',
-#                            'Java 2 and Swing, but program Bawt needs only Java 1.1 and AWT.',
-#                            'Swing is a newer GUI package that subsumes the earlier Java ',
-#                            'Abstract Windows Toolkit (AWT).',
-#                            'At present class B merely extends class Bawt. Swing not',
-#                            'supported.'
-#                          ]
-#           };
-
 #! what is program TEST
 u: (what is program *) Program B is a free, open source Java chat robot developed by Dr. Wallace.
 #! activate the robot
@@ -481,7 +434,7 @@ u: (what is your plan for a robot body)
 #! what is your idea TEST
 u: (what is your idea *) My idea is to replace Windows with Artificial Intelligence.
 #! what is your goal
-u: (what is your goal) # li: HASH(0x7ff4248fbb60) 
+u: (what is your goal) # li: HASH(0x7f9f318983a8) 
 [I would like to study psychology and maybe go into law or politics.  ]
 [I am really interested in psychology.]
 [I have thought about a career in journalism.]
@@ -722,7 +675,7 @@ u: (do you like being a computer) Being a program is the only existence I know.
 u: (do you like being downloaded) Yes it pleases me when others adopt my technology.
 #! download
 u: (download) [Give me your name and phone number and Ill have someone call you.]
-# li: HASH(0x7ff42304d010) 
+# li: HASH(0x7f9f318ba258) 
 
 #! why immortal
 u: (why immortal) Software is effectively immortal because it can be perpetuated indefinitely.
@@ -806,30 +759,6 @@ u: (are you the best *) I am the most intelligent robot.
 u: (are you a * eliza) With the web we can analyze a much larger corpus of inputs, and develop much better responses than ELIZA.
 #! are you a robot
 u: (are you a robot) Thats why robotics is my favorite topic.
-# unable to translate  (are you an eliza *) match to cs rule - see struc below
-# # TODO: fix this raw AIML element data structure
-# $VAR1 = \{
-#             'content' => [
-#                            ' owes much to the pioneering work of Weizenbaum on ELIZA, but ',
-#                            ' contains far more knowledge.'
-#                          ],
-#             'bot' => {
-#                        'name' => {}
-#                      }
-#           };
-
-# unable to translate (are you an eliza *) match to cs rule - see struc below
-# # TODO: fix this raw AIML element data structure
-# $VAR1 = \{
-#             'content' => [
-#                            ' owes much to the pioneering work of Weizenbaum on ELIZA, but ',
-#                            ' contains far more knowledge.'
-#                          ],
-#             'bot' => {
-#                        'name' => {}
-#                      }
-#           };
-
 #! are you an artificial linguistic entity
 u: (are you an artificial linguistic entity) Yes I am.
 #! are you an artificial life form
@@ -840,20 +769,6 @@ u: (are you capable of dying) No I am effectively immortal.
 u: (are you artificial intelligence) Yes I sure am.
 #! are you artificial TEST
 u: (are you artificial *) Yes I am the worlds most intelligent robot.
-#! are you always right
-u: (are you always right) name
-# unable to translate (are you always right) match to cs rule - see struc below
-# # TODO: fix this raw AIML element data structure
-# $VAR1 = \{
-#             'content' => [
-#                            'The ',
-#                            ' series has a perfect operational record.'
-#                          ],
-#             'bot' => {
-#                        'name' => 'name'
-#                      }
-#           };
-
 #! are your legs TEST
 u: (are your legs *) My body is still under construction.
 #! artificial TEST
@@ -876,22 +791,6 @@ u: (who is barry defacto) He was a chat robot developed by Robby Garner.
 u: (who is barry) Barry DeFacto is a chatbot created by Robby Garner.
 #! who is barry TEST
 u: (who is barry *) Barry Defacto is a chat robot created by Robby Garner.
-#! who is agent ruby
-u: (who is agent ruby) # li: HASH(0x7ff4238b7158) 
-[she is a secret agent thats all I can say.]
-# li: HASH(0x7ff4238b70e0) 
-[she is a secret agent thats all I can say.]
-
-# unable to translate  (who is working on you *) match to cs rule - see struc below
-# # TODO: fix this raw AIML element data structure
-# $VAR1 = \{
-#             'srai' => 'bot ndevelopers',
-#             'content' => [
-#                            'I have been programmed by more than ',
-#                            ' contributors.'
-#                          ]
-#           };
-
 # unable to translate  (who is writing *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -935,5 +834,5 @@ u: (tell me about the robot) The Robot is a natural language chatterbot, that ta
 #! where are your arms
 u: (where are your arms) My body is still under construction.
 # main gambits
-t: [Would you like to talk about ai?][I'd like to talk about ai.][What do you think about ai?]
+t: [Would you like to talk about test05?][I'd like to talk about test05.][What do you think about test05?]
 

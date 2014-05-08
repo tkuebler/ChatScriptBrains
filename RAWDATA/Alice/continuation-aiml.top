@@ -4,12 +4,12 @@
 #
 # continuation.aiml -> continuation.top
 #
-TOPIC: ~continuation-aiml (~continuation) 
+TOPIC: ~continuation-aiml (~continuation continuation) 
 
-# unable to translate () match to cs rule - see struc below
-# # TODO: fix this raw AIML element data structure
-# $VAR1 = \{};
-
+#! continuation TEST
+u: (continuation *) Blank template
+#! continuation
+u: (continuation) continue
 # main gambits
 t: [Would you like to talk about continuation?][I'd like to talk about continuation.][What do you think about continuation?]
 

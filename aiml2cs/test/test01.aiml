@@ -1,4 +1,5 @@
 <aiml version="1.0">
+<!-- Unit test for basic one topic multiple category use case -->
 <topic name="LOVE">
   <category>
     <pattern>*</pattern>
