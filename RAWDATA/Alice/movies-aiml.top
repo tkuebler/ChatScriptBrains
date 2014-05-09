@@ -248,7 +248,7 @@ u: (que veut dire hal) Logique heuristique algorithmique.
 #           };
 
 #! who is hal
-u: (who is hal) # li: HASH(0x7ff4240ab318) 
+u: (who is hal) # li: HASH(0x7fec510e4918) 
 [HAL is famous the AI from 2001 A Space Odyssey.]
 
 #! who is luke skywalker

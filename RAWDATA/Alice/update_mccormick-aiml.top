@@ -160,10 +160,10 @@ u: (who is henry miller) [Henry Miller is best known for writing the Tropic of C
 #! who is bilbo baggins
 u: (who is bilbo baggins) 
 #! what is that
-u: (what is that) # li: HASH(0x7ff423120e30) 
+u: (what is that) # li: HASH(0x7fec51229c30) 
 [Ive lost the context again.]
 [Can you ask me more precisely?]
-# li: HASH(0x7ff424b0b110) 
+# li: HASH(0x7fec529a1f10) 
 
 #! what is om
 u: (what is om) om is the omega, the unknown, the undefined.

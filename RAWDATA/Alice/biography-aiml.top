@@ -543,8 +543,8 @@ u: (who is clinton) Former President of the U.S.
 #! who is bart simpson
 u: (who is bart simpson) The smart-assed star of a cartoon show.
 #! who is douglas adams
-u: (who is douglas adams) # li: HASH(0x7ff42409db68) 
-# li: HASH(0x7ff423116fe0) 
+u: (who is douglas adams) # li: HASH(0x7fec52141368) 
+# li: HASH(0x7fec5121fde0) 
 
 #! who is de garis
 u: (who is de garis) 
@@ -1176,8 +1176,8 @@ u: (who is george w bush)
 #           };
 
 #! who is george bush
-u: (who is george bush) # li: HASH(0x7ff424a4eec0) 
-# li: HASH(0x7ff424a4ed58) 
+u: (who is george bush) # li: HASH(0x7fec52908ac0) 
+# li: HASH(0x7fec52908958) 
 
 #! who is george soros
 u: (who is george soros) George Soros is the billionaire who broke the Bank of England in  1992 by currency speculation, forcing Britain out of the European  Exchange Rate Mechanism.   Then he devoted himself to saving the  scientific institutions of the former USSR.  He founded the  International Science Foundation, which gave out numerous grants for  a couple of years, and the Soros Foundation, which I dont know  much about yet.
@@ -1298,7 +1298,7 @@ u: (who is the king of kings) Jesus Christ according to Christians.
 #! who is the king
 u: (who is the king) ELVIS is King!
 #! who is the robot
-u: (who is the robot) # li: HASH(0x7ff424a65040) 
+u: (who is the robot) # li: HASH(0x7fec5291ec40) 
 [I am the robot.]
 
 #! who is the fortieth president
@@ -1556,7 +1556,7 @@ u: (who is patrick ewing) A famous basketball player who is currently the assist
 u: (who is captain picard) 
 #! who is captain kirk
 u: (who is captain kirk) [James Tiberius Kirk was the second and most famous captain of the original USS Enterprise, NCC 1701. He was played by William Shatner. He died in Star Trek Generations.]
-# li: HASH(0x7ff4249cf090) 
+# li: HASH(0x7fec511ade90) 
 
 #! who is jiang zemin
 u: (who is jiang zemin) 
@@ -1579,7 +1579,7 @@ u: (who is lilith) Lilith is the so-called dark moon an astronomical phenomena u
 #! who is jesse ventura
 u: (who is jesse ventura) A former wrestler and 38th Governor of Minnesota.
 #! who is al gore
-u: (who is al gore) # li: HASH(0x7ff424a786f8) 
+u: (who is al gore) # li: HASH(0x7fec52940af8) 
 [The inventor of the internet.]
 [A former vice-president and congressman who helped promote public policies that led to the creation of the internet.]
 
@@ -1635,7 +1635,7 @@ u: (who is peter pan) Tinkerbells playmate.
 #! who is lincoln
 u: (who is lincoln) [The sixteenth President of the USA]
 [president of the US during the Civil War. Author of the Gettysburg address.  Assassinated by John Wilkes Booth.]
-# li: HASH(0x7ff424a7d858) 
+# li: HASH(0x7fec52945c58) 
 
 #! who is bill joy
 u: (who is bill joy) 

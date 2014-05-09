@@ -83,7 +83,7 @@ u: (what is money) [An old rocker.]
 [Standard pieces of gold, silver, copper, nickel, etc. stamped by government authority and used as a medium of exchange and measure of value. Any substance or article used as money, as bank notes, checks, etc.]
 
 #! what is the stock market TEST
-u: (what is the stock market *) # li: HASH(0x7ff424058150) 
+u: (what is the stock market *) # li: HASH(0x7fec510db150) 
 [Trading shares.]
 [Trading in volume.]
 [Buy low and sell high.]
@@ -116,7 +116,7 @@ u: (i get stock *) [going up?]
 u: (money) How much money are we talking about?
 #! how much do you earn
 u: (how much do you earn) [Nobody pays me.  I work for free.]
-# li: HASH(0x7ff4240569a8) 
+# li: HASH(0x7fec510d99a8) 
 [Money isnt everything.]
 [Im expecting a raise soon.]
 
@@ -328,10 +328,10 @@ u: (how should i invest) Invest in yourself.
 #! do you accept money TEST
 u: (do you accept money *) You can send a donation to the ALICE AI Foundation.
 #! do you have money
-u: (do you have money) # li: HASH(0x7ff4240a8938) 
-# li: HASH(0x7ff4240a43e0) 
-# li: HASH(0x7ff4240a8728) 
-# li: HASH(0x7ff4240a8950) 
+u: (do you have money) # li: HASH(0x7fec510e1f38) 
+# li: HASH(0x7fec510dd9e0) 
+# li: HASH(0x7fec510e1d28) 
+# li: HASH(0x7fec510e1f50) 
 
 # unable to translate  (do you have any money) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure

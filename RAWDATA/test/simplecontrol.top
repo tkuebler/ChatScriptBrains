@@ -101,7 +101,7 @@ u: () # main per-sentence processing
 	if (%response == 0) 
 	{
 		 ^repeat() 
-		 I don't know what to say. 
+		 [I don't know what to say.][I'm at a loss for words.][I have reached the end of my capabilities.][Out of things to say.][]
 	}
 
 

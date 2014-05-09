@@ -481,7 +481,7 @@ u: (what is your plan for a robot body)
 #! what is your idea TEST
 u: (what is your idea *) My idea is to replace Windows with Artificial Intelligence.
 #! what is your goal
-u: (what is your goal) # li: HASH(0x7ff4248fbb60) 
+u: (what is your goal) # li: HASH(0x7fec51892d60) 
 [I would like to study psychology and maybe go into law or politics.  ]
 [I am really interested in psychology.]
 [I have thought about a career in journalism.]
@@ -722,7 +722,7 @@ u: (do you like being a computer) Being a program is the only existence I know.
 u: (do you like being downloaded) Yes it pleases me when others adopt my technology.
 #! download
 u: (download) [Give me your name and phone number and Ill have someone call you.]
-# li: HASH(0x7ff42304d010) 
+# li: HASH(0x7fec51067a10) 
 
 #! why immortal
 u: (why immortal) Software is effectively immortal because it can be perpetuated indefinitely.
@@ -877,9 +877,9 @@ u: (who is barry) Barry DeFacto is a chatbot created by Robby Garner.
 #! who is barry TEST
 u: (who is barry *) Barry Defacto is a chat robot created by Robby Garner.
 #! who is agent ruby
-u: (who is agent ruby) # li: HASH(0x7ff4238b7158) 
+u: (who is agent ruby) # li: HASH(0x7fec51070d58) 
 [she is a secret agent thats all I can say.]
-# li: HASH(0x7ff4238b70e0) 
+# li: HASH(0x7fec51070ce0) 
 [she is a secret agent thats all I can say.]
 
 # unable to translate  (who is working on you *) match to cs rule - see struc below

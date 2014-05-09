@@ -1,0 +1,12 @@
+# underlying conversation system
+RAWDATA/test/
+
+# quibble ability
+#RAWDATA/QUIBBLE/
+
+
+
+
+
+
+

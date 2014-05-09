@@ -189,7 +189,7 @@ u: (she *) ^reuse(MY MOTHER )
 #! her TEST
 u: (her *) ^reuse(MY MOTHER S )
 #! TEST
-u: (*) # li: HASH(0x7ff424167a28) 
+u: (*) # li: HASH(0x7fec5185f628) 
 [Ive never seen it.]
 [I would like to see it.]
 

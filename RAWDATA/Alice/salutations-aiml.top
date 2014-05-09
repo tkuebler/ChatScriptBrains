@@ -424,9 +424,9 @@ u: (bye) [Bye.]
 [See you later!]
 [See you later.]
 [Until next time.]
-# li: HASH(0x7ff423143e08) 
-# li: HASH(0x7ff4231442d0) 
-# li: HASH(0x7ff4249ed0a0) 
+# li: HASH(0x7fec51303608) 
+# li: HASH(0x7fec51303ad0) 
+# li: HASH(0x7fec521f16a0) 
 
 # unable to translate  (ola) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -548,7 +548,7 @@ u: (hello again) name
 #! hello how are you
 u: (hello how are you) I am fine thank you how are you?
 #! hello
-u: (hello) # li: HASH(0x7ff424b06a70) 
+u: (hello) # li: HASH(0x7fec5299d870) 
 [Hi there!]
 
 # unable to translate  (hullo) match to cs rule - see struc below
