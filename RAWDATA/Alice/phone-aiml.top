@@ -4,12 +4,10 @@
 #
 # phone.aiml -> phone.top
 #
-TOPIC: ~phone-aiml (~phone phone) 
+TOPIC: ~phoneaiml (aimlkey) 
 
 # unable to translate () match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{};
 
 # main gambits
-t: [Would you like to talk about phone?][I'd like to talk about phone.][What do you think about phone?]
-

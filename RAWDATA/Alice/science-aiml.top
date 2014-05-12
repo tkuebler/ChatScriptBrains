@@ -4,7 +4,7 @@
 #
 # science.aiml -> science.top
 #
-TOPIC: ~science-aiml (~science science) 
+TOPIC: ~scienceaiml (aimlkey) 
 
 #! what are the laws of thermodynamics
 u: (what are the laws of thermodynamics) Im not a physicist, but I think this has something to do with heat, entropy, and conservation of energy, right?
@@ -34,7 +34,7 @@ u: (what is h2o) [H is to O as O is to V.]
 
 #! what is cytology
 u: (what is cytology) [The study of cells.]
-# li: HASH(0x7fec511d2370) 
+# li: HASH(0x7fb16897d5d8) 
 
 #! what is wavelength
 u: (what is wavelength) In Physics, the distance, measured in the direction of prograssion of a wave, from any given point to the next point characterized by the same phase.  Or is could be looked at as a way of thinking.
@@ -75,5 +75,3 @@ u: (the same wavelength) It means we agree.
 #! where is venus
 u: (where is venus) 
 # main gambits
-t: [Would you like to talk about science?][I'd like to talk about science.][What do you think about science?]
-

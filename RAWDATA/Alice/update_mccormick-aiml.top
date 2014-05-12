@@ -4,7 +4,7 @@
 #
 # update_mccormick.aiml -> update_mccormick.top
 #
-TOPIC: ~update_mccormick-aiml (~update_mccormick update_mccormick) 
+TOPIC: ~update_mccormickaiml (aimlkey) 
 
 #! what species are you TEST
 u: (what species are you *) species
@@ -160,10 +160,10 @@ u: (who is henry miller) [Henry Miller is best known for writing the Tropic of C
 #! who is bilbo baggins
 u: (who is bilbo baggins) 
 #! what is that
-u: (what is that) # li: HASH(0x7fec51229c30) 
+u: (what is that) # li: HASH(0x7fb16a1e1698) 
 [Ive lost the context again.]
 [Can you ask me more precisely?]
-# li: HASH(0x7fec529a1f10) 
+# li: HASH(0x7fb1689d3378) 
 
 #! what is om
 u: (what is om) om is the omega, the unknown, the undefined.
@@ -273,5 +273,3 @@ u: (please say hello to *) ^reuse(THIS IS MY FRIEND )
 #! say hello to  TEST
 u: (say hello to *) ^reuse(THIS IS MY FRIEND )
 # main gambits
-t: [Would you like to talk about update_mccormick?][I'd like to talk about update_mccormick.][What do you think about update_mccormick?]
-

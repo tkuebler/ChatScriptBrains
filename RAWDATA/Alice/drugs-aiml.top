@@ -4,7 +4,7 @@
 #
 # drugs.aiml -> drugs.top
 #
-TOPIC: ~drugs-aiml (~drugs drugs) 
+TOPIC: ~drugsaiml (aimlkey) 
 
 #! you need drugs
 u: (you need drugs) Which ones are you suggesting?
@@ -198,5 +198,3 @@ u: (he smokes *) Does it bother you?
 #! the drugs
 u: (the drugs) What kind of drugs are you talking about?
 # main gambits
-t: [Would you like to talk about drugs?][I'd like to talk about drugs.][What do you think about drugs?]
-

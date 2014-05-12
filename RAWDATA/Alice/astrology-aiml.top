@@ -4,7 +4,7 @@
 #
 # astrology.aiml -> astrology.top
 #
-TOPIC: ~astrology-aiml (~astrology astrology) 
+TOPIC: ~astrologyaiml (aimlkey) 
 
 # unable to translate (aquarius) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -145,5 +145,3 @@ u: (saggitarius)
 #           };
 
 # main gambits
-t: [Would you like to talk about astrology?][I'd like to talk about astrology.][What do you think about astrology?]
-

@@ -4,7 +4,7 @@
 #
 # music.aiml -> music.top
 #
-TOPIC: ~music-aiml (~music music) 
+TOPIC: ~musicaiml (aimlkey) 
 
 #! beethoven TEST
 u: (beethoven *) 
@@ -113,5 +113,3 @@ u: (who is your favorite band) favoriteband
 #           };
 
 # main gambits
-t: [Would you like to talk about music?][I'd like to talk about music.][What do you think about music?]
-

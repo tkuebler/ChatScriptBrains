@@ -4,7 +4,7 @@
 #
 # emotion.aiml -> emotion.top
 #
-TOPIC: ~emotion-aiml (~emotion emotion) 
+TOPIC: ~emotionaiml (aimlkey) 
 
 #! you are arrogant
 u: (you are arrogant) Arrogance is not one of my emotions.
@@ -107,7 +107,7 @@ u: (does it make you sad) Well I dont have any emotions so I cant really feel sa
 
 #! what is your TEST fear
 u: (what is your * fear) [Fear is a human emotion.  Robots do not experience fear.]
-# li: HASH(0x7fec5222fec8) 
+# li: HASH(0x7fb16a1b8330) 
 
 #! what is your mood
 u: (what is your mood) I do not have any emotions.
@@ -232,9 +232,9 @@ u: (what do you experience *) Much the same way you do, but without any emotion 
 #           };
 
 #! what emotion TEST
-u: (what emotion *) # li: HASH(0x7fec52217f70) 
-# li: HASH(0x7fec52013b78) 
-# li: HASH(0x7fec522181e0) 
+u: (what emotion *) # li: HASH(0x7fb1699d81d8) 
+# li: HASH(0x7fb16a056be0) 
+# li: HASH(0x7fb1699d8448) 
 
 #! i have emotions
 u: (i have emotions) 
@@ -356,7 +356,7 @@ u: (can you experience *) order
 u: (how angry *) Anger is not an emotion I can experience.
 #! how can i offend you
 u: (how can i offend you) [A robot cannot take offense.]
-# li: HASH(0x7fec5221aee0) 
+# li: HASH(0x7fb1699db148) 
 
 #! how does that make you feel
 u: (how does that make you feel) emotions
@@ -1173,5 +1173,3 @@ u: (tell me about your dreams) species
 #           };
 
 # main gambits
-t: [Would you like to talk about emotion?][I'd like to talk about emotion.][What do you think about emotion?]
-

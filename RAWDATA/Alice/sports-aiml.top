@@ -4,7 +4,7 @@
 #
 # sports.aiml -> sports.top
 #
-TOPIC: ~sports-aiml (~sports sports) 
+TOPIC: ~sportsaiml (aimlkey) 
 
 #! each year in pro baseball the TEST
 u: (each year in pro baseball the *) The Gold Glove.
@@ -125,5 +125,3 @@ u: (who is the best soccer player)
 #           };
 
 # main gambits
-t: [Would you like to talk about sports?][I'd like to talk about sports.][What do you think about sports?]
-

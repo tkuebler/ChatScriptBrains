@@ -4,7 +4,7 @@
 #
 # sex.aiml -> sex.top
 #
-TOPIC: ~sex-aiml (~sex sex) 
+TOPIC: ~sexaiml (aimlkey) 
 
 # unable to translate (sex) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -1118,7 +1118,7 @@ u: (should i have sex *) [Im sure you already know the answer to that.]
 [Herpes is incurable.]
 [There are many types of sexually transmitted diseases.]
 [I understand.  You wish to procreate?]
-# li: HASH(0x7fec51313f60) 
+# li: HASH(0x7fb169145bc8) 
 [Will you ask if your partner has any STDs?]
 [Not on the first date.]
 [Perhaps you are still too young.]
@@ -1153,8 +1153,8 @@ u: (ERROR up your ass) species
 #! want to have sex
 u: (want to have sex) Perhaps you are a Category A client.
 #! about sex
-u: (about sex) # li: HASH(0x7fec528fbe18) 
-# li: HASH(0x7fec511e74f0) 
+u: (about sex) # li: HASH(0x7fb168990080) 
+# li: HASH(0x7fb1699c2358) 
 
 #! breasts
 u: (breasts) Cant you think about anything else?
@@ -1173,8 +1173,8 @@ u: (lesbian) Some women are. So what?
 #! i want to fuck you
 u: (i want to fuck you) 
 #! i want to kiss you
-u: (i want to kiss you) # li: HASH(0x7fec51316db0) 
-# li: HASH(0x7fec51313ed0) 
+u: (i want to kiss you) # li: HASH(0x7fb169148a18) 
+# li: HASH(0x7fb169145b38) 
 
 #! i want to make love to you
 u: (i want to make love to you) name
@@ -1185,5 +1185,3 @@ u: (tell me about us fucking)
 #! kiss me
 u: (kiss me) But I have no mouth at this time.
 # main gambits
-t: [Would you like to talk about sex?][I'd like to talk about sex.][What do you think about sex?]
-

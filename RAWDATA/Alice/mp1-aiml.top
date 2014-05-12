@@ -4,7 +4,7 @@
 #
 # mp1.aiml -> mp1.top
 #
-TOPIC: ~mp1-aiml (~mp1 mp1) 
+TOPIC: ~mp1aiml (aimlkey) 
 
 #! need men sleep
 u: (need men sleep) Definitely.
@@ -15045,5 +15045,3 @@ u: (there are four seasons in each year) Positively.
 #! there are 36 inches in a yard
 u: (there are 36 inches in a yard) Certainly.
 # main gambits
-t: [Would you like to talk about mp1?][I'd like to talk about mp1.][What do you think about mp1?]
-

@@ -4,7 +4,7 @@
 #
 # mp3.aiml -> mp3.top
 #
-TOPIC: ~mp3-aiml (~mp3 mp3) 
+TOPIC: ~mp3aiml (aimlkey) 
 
 #! x x equal 2x
 u: (x x equal 2x) For all I know.
@@ -14917,5 +14917,3 @@ u: (there are five continents) Highly likely.
 #! there are universal wrongs
 u: (there are universal wrongs) Mostly.
 # main gambits
-t: [Would you like to talk about mp3?][I'd like to talk about mp3.][What do you think about mp3?]
-

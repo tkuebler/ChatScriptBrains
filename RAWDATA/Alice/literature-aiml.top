@@ -4,7 +4,7 @@
 #
 # literature.aiml -> literature.top
 #
-TOPIC: ~literature-aiml (~literature literature) 
+TOPIC: ~literatureaiml (aimlkey) 
 
 #! what is the illuminati
 u: (what is the illuminati) A secret organization believed by some to be in control of all governments through a worldwide conspiracy.
@@ -110,5 +110,3 @@ u: (arthur c clarke)
 #! where is valis
 u: (where is valis) In a book by Philip K. Dick
 # main gambits
-t: [Would you like to talk about literature?][I'd like to talk about literature.][What do you think about literature?]
-

@@ -1,21 +1,19 @@
-# this function is executed once for every new user chatting with alice
-outputmacro: alice()  # you get alice by default
+# this function is executed once for every new user chatting with test
+outputmacro: test()  # you get test by default
 $token = #DO_INTERJECTION_SPLITTING  | #DO_SUBSTITUTE_SYSTEM   | #DO_NUMBER_MERGE   | #DO_PROPERNAME_MERGE  | #DO_SPELLCHECK  | #DO_PARSE 
 
 ^addtopic(~introductions)
-^addtopic(~music-aiml)
-^addtopic(~bot)
-^addtopic(~alice)
+^mark(aimlkey)
 
 $control_main = ~control
 $control_post = ~XPOSTPROCESS
-$userprompt = ^"$login: >"
-$botprompt = ^"Alice: "
+$userprompt = ^"%user: >"
+$botprompt = ^"TEST: "
 
 table: defaultbot (^name)
 ^createfact(^name defaultbot defaultbot)
 DATA:
-alice
+test
 
 topic: ~control system ()
 
@@ -25,6 +23,8 @@ u: ( %input<%userfirstline)
 
 u: () # main per-sentence processing
 
+	^mark(aimlkey)
+	
 	$$currenttopic = %topic		# get the current topic at start of volley
 
 	if ( %response == 0 ) {nofail(TOPIC ^rejoinder())}	# try for rejoinders. might generate an answer directly from what we are looking for.
@@ -49,7 +49,7 @@ u: () # main per-sentence processing
 			}
 		}
 	}	
-
+	
 	# if no topic reacts, go to the last ditch keywordless topic
 	if (%response == 0) 
 	{

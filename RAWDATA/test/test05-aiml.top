@@ -4,7 +4,7 @@
 #
 # test05.aiml -> test05.top
 #
-TOPIC: ~test05-aiml (~test05 test05) 
+TOPIC: ~test05aiml (aimlkey) 
 
 #! what is ai
 u: (what is ai) Artificial intelligence is the branch of engineering and science devoted to constructing machines that think.  
@@ -434,7 +434,7 @@ u: (what is your plan for a robot body)
 #! what is your idea TEST
 u: (what is your idea *) My idea is to replace Windows with Artificial Intelligence.
 #! what is your goal
-u: (what is your goal) # li: HASH(0x7fa6420da5a8) 
+u: (what is your goal) # li: HASH(0x7f9182076010) 
 [I would like to study psychology and maybe go into law or politics.  ]
 [I am really interested in psychology.]
 [I have thought about a career in journalism.]
@@ -675,7 +675,7 @@ u: (do you like being a computer) Being a program is the only existence I know.
 u: (do you like being downloaded) Yes it pleases me when others adopt my technology.
 #! download
 u: (download) [Give me your name and phone number and Ill have someone call you.]
-# li: HASH(0x7fa64182fa58) 
+# li: HASH(0x7f918210dcc0) 
 
 #! why immortal
 u: (why immortal) Software is effectively immortal because it can be perpetuated indefinitely.
@@ -834,5 +834,3 @@ u: (tell me about the robot) The Robot is a natural language chatterbot, that ta
 #! where are your arms
 u: (where are your arms) My body is still under construction.
 # main gambits
-t: [Would you like to talk about test05?][I'd like to talk about test05.][What do you think about test05?]
-

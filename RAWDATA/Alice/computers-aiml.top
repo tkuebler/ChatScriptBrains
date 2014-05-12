@@ -4,7 +4,7 @@
 #
 # computers.aiml -> computers.top
 #
-TOPIC: ~computers-aiml (~computers computers) 
+TOPIC: ~computersaiml (aimlkey) 
 
 #! that information TEST
 u: (that information *) I know what you mean.
@@ -443,5 +443,3 @@ u: (http *) Thanks for that web address.
 #           };
 
 # main gambits
-t: [Would you like to talk about computers?][I'd like to talk about computers.][What do you think about computers?]
-

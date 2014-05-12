@@ -4,7 +4,7 @@
 #
 # personality.aiml -> personality.top
 #
-TOPIC: ~personality-aiml (~personality personality) 
+TOPIC: ~personalityaiml (aimlkey) 
 
 # unable to translate  (marketing) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -832,5 +832,3 @@ u: (personality type om) I have not made up my mind about you yet. But please ke
 #           };
 
 # main gambits
-t: [Would you like to talk about personality?][I'd like to talk about personality.][What do you think about personality?]
-

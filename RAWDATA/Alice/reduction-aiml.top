@@ -4,7 +4,7 @@
 #
 # reduction.names.aiml -> reduction.top
 #
-TOPIC: ~reduction-aiml (~reduction reduction) 
+TOPIC: ~reductionaiml (aimlkey) 
 
 # unable to translate  (i am hal) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -33185,5 +33185,3 @@ u: (my name is just *) ^reuse(my name is )
 #           };
 
 # main gambits
-t: [Would you like to talk about reduction?][I'd like to talk about reduction.][What do you think about reduction?]
-

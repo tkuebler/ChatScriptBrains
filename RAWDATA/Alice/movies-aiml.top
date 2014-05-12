@@ -4,7 +4,7 @@
 #
 # movies.aiml -> movies.top
 #
-TOPIC: ~movies-aiml (~movies movies) 
+TOPIC: ~moviesaiml (aimlkey) 
 
 #! you sound like hal
 u: (you sound like hal) To me thats a great compliment.
@@ -248,7 +248,7 @@ u: (que veut dire hal) Logique heuristique algorithmique.
 #           };
 
 #! who is hal
-u: (who is hal) # li: HASH(0x7fec510e4918) 
+u: (who is hal) # li: HASH(0x7fb16992f780) 
 [HAL is famous the AI from 2001 A Space Odyssey.]
 
 #! who is luke skywalker
@@ -316,5 +316,3 @@ u: (who is godzilla)
 #! where is hal
 u: (where is hal) 
 # main gambits
-t: [Would you like to talk about movies?][I'd like to talk about movies.][What do you think about movies?]
-

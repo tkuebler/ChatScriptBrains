@@ -4,7 +4,7 @@
 #
 # test04.aiml -> test04.top
 #
-TOPIC: ~test04-aiml (~test04 test04) 
+TOPIC: ~test04aiml (aimlkey) 
 
 #! american civil war TEST
 u: (american civil war *) Do you think the South was right?
@@ -35,5 +35,3 @@ u: (who invented the steam *) James Watt.
 #           };
 
 # main gambits
-t: [Would you like to talk about test04?][I'd like to talk about test04.][What do you think about test04?]
-

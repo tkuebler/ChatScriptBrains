@@ -4,7 +4,7 @@
 #
 # iu.aiml -> iu.top
 #
-TOPIC: ~iu-aiml (~iu iu) 
+TOPIC: ~iuaiml (aimlkey) 
 
 #! you TEST
 u: (you *) [Interesting gossip]
@@ -24,5 +24,3 @@ u: (i *) [Why?]
 [I havent heard anything like that before]
 
 # main gambits
-t: [Would you like to talk about iu?][I'd like to talk about iu.][What do you think about iu?]
-

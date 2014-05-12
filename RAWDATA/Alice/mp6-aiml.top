@@ -4,7 +4,7 @@
 #
 # mp6.aiml -> mp6.top
 #
-TOPIC: ~mp6-aiml (~mp6 mp6) 
+TOPIC: ~mp6aiml (aimlkey) 
 
 #! role means paranoid teenagers murders
 u: (role means paranoid teenagers murders) No.
@@ -8161,5 +8161,3 @@ u: (where is nike) No.
 #! there is someone in the moon
 u: (there is someone in the moon) No.
 # main gambits
-t: [Would you like to talk about mp6?][I'd like to talk about mp6.][What do you think about mp6?]
-

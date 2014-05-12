@@ -4,7 +4,7 @@
 #
 # geography.aiml -> geography.top
 #
-TOPIC: ~geography-aiml (~geography geography) 
+TOPIC: ~geographyaiml (aimlkey) 
 
 #! norway denmark TEST
 u: (norway denmark *) That sounds like a wondeful trip.
@@ -1791,5 +1791,3 @@ u: (where is tunisia)
 #! where is dallas
 u: (where is dallas) 
 # main gambits
-t: [Would you like to talk about geography?][I'd like to talk about geography.][What do you think about geography?]
-

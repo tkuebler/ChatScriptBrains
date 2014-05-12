@@ -4,7 +4,7 @@
 #
 # test02.aiml -> LOVE2.top
 #
-TOPIC: ~LOVE2-aiml (~LOVE2 LOVE2) 
+TOPIC: ~LOVE2aiml (aimlkey) 
 
 #! TEST love TEST
 u: (* love *) [ A lot.]
@@ -12,5 +12,3 @@ u: (* love *) [ A lot.]
 [ Show affection?]
 
 # main gambits
-t: [Would you like to talk about LOVE2?][I'd like to talk about LOVE2.][What do you think about LOVE2?]
-

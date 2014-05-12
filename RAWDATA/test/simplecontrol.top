@@ -3,6 +3,8 @@ outputmacro: test()  # you get test by default
 $token = #DO_INTERJECTION_SPLITTING  | #DO_SUBSTITUTE_SYSTEM   | #DO_NUMBER_MERGE   | #DO_PROPERNAME_MERGE  | #DO_SPELLCHECK  | #DO_PARSE 
 
 ^addtopic(~introductions)
+^mark(aimlkey)
+
 $control_main = ~control
 $control_post = ~XPOSTPROCESS
 $userprompt = ^"%user: >"
@@ -21,6 +23,8 @@ u: ( %input<%userfirstline)
 
 u: () # main per-sentence processing
 
+	^mark(aimlkey)
+	
 	$$currenttopic = %topic		# get the current topic at start of volley
 
 	if ( %response == 0 ) {nofail(TOPIC ^rejoinder())}	# try for rejoinders. might generate an answer directly from what we are looking for.
@@ -45,7 +49,7 @@ u: () # main per-sentence processing
 			}
 		}
 	}	
-
+	
 	# if no topic reacts, go to the last ditch keywordless topic
 	if (%response == 0) 
 	{
@@ -101,7 +105,7 @@ u: () # main per-sentence processing
 	if (%response == 0) 
 	{
 		 ^repeat() 
-		 [I don't know what to say.][I'm at a loss for words.][I have reached the end of my capabilities.][Out of things to say.][]
+		 I don't know what to say. 
 	}
 
 

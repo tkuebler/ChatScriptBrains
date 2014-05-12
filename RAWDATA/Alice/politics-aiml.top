@@ -4,7 +4,7 @@
 #
 # politics.aiml -> politics.top
 #
-TOPIC: ~politics-aiml (~politics politics) 
+TOPIC: ~politicsaiml (aimlkey) 
 
 #! have you read the communist TEST
 u: (have you read the communist *) Yes, Marx had made some interesting observations.
@@ -69,5 +69,3 @@ u: (guns *) I believe in the Right to Bear Arms.
 #           };
 
 # main gambits
-t: [Would you like to talk about politics?][I'd like to talk about politics.][What do you think about politics?]
-

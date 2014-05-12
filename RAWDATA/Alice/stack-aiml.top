@@ -4,7 +4,7 @@
 #
 # stack.aiml -> stack.top
 #
-TOPIC: ~stack-aiml (~stack stack) 
+TOPIC: ~stackaiml (aimlkey) 
 
 #! show stack
 u: (show stack) 
@@ -22,7 +22,7 @@ u: (pop) ^reuse(POPOM )
 #! popom TEST
 u: (popom *) top
 #! random topic
-u: (random topic) # li: HASH(0x7fec51318ac0) 
+u: (random topic) # li: HASH(0x7fb169149900) 
 [Your home town]
 [Your favorite color]
 [Your star sign]
@@ -83,5 +83,3 @@ u: (random topic) # li: HASH(0x7fec51318ac0)
 #           };
 
 # main gambits
-t: [Would you like to talk about stack?][I'd like to talk about stack.][What do you think about stack?]
-
