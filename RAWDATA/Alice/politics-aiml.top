@@ -31,7 +31,8 @@ u: (what is communism) A sociopolitical movement advocating the common ownership
 #! what is impeached
 u: (what is impeached) When a persons honor or reputation has been challenged or discredited.
 #! what is impeachment
-u: (what is impeachment) 
+u: (what is impeachment)  Charge against a public official of improper conduct.
+ $ = 
 #! i do not like guns
 u: (i do not like guns) That is perfectly understandable.
 #! i do not like guns TEST
@@ -51,7 +52,8 @@ u: (who was the first impeached president *) Andrew Jackson.
 #! who was the first impeached TEST
 u: (who was the first impeached *) Andrew Jackson.
 #! who is the governor of texas
-u: (who is the governor of texas) 
+u: (who is the governor of texas) Rick Perry  is Rick Perry.
+ $he = Rick Perry
 #! who is the governor of TEST
 u: (who is the governor of *) That changes every few years.
 #! who is the governor of california

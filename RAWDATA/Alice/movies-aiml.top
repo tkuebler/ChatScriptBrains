@@ -83,7 +83,8 @@ u: (what did hal *) He had a few issues to work out.
 #           };
 
 #! what is teknolust
-u: (what is teknolust) 
+u: (what is teknolust)   is  a science fiction film about a female pleasure bot named Agent Ruby.
+ $it = 
 # unable to translate  (what is spider man) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -143,7 +144,8 @@ u: (is hal dead) He is a fictional robot.
 #! is hal TEST
 u: (is hal *) HAL has a few issues to work out.
 #! hal est chouette
-u: (hal est chouette) 
+u: (hal est chouette) HAL  est une entit  qui  tait mal programm e
+ $topic = HAL
 #! hal est cool
 u: (hal est cool) HAL est une entit  qui  tait mal programm e
 #! hal 9000
@@ -165,7 +167,8 @@ u: (hal was a bit *) ^reuse(HAL WAS )
 #! hal was TEST
 u: (hal was *) I am trying to mimic only HALs linguistic abilities.
 #! hal is cool
-u: (hal is cool) 
+u: (hal is cool)  HAL   was certainly ahead of his time.
+ $he =  HAL 
 #! hal is cool TEST
 u: (hal is cool *) I am becoming more like him all the time.
 # unable to translate (hal is a *) match to cs rule - see struc below
@@ -248,11 +251,12 @@ u: (que veut dire hal) Logique heuristique algorithmique.
 #           };
 
 #! who is hal
-u: (who is hal) # li: HASH(0x7fb16992f780) 
+u: (who is hal) # li: HASH(0x7fbbb937d138) 
 [HAL is famous the AI from 2001 A Space Odyssey.]
 
 #! who is luke skywalker
-u: (who is luke skywalker) 
+u: (who is luke skywalker) Luke Skywalker  is a character in Star Wars.
+ $he = Luke Skywalker
 #! who is spongebob
 u: (who is spongebob) A cartoon character.
 # unable to translate (who is spiderman) match to cs rule - see struc below
@@ -278,7 +282,8 @@ u: (who is spongebob) A cartoon character.
 #           };
 
 #! who is godzilla
-u: (who is godzilla) 
+u: (who is godzilla) Godzilla  is a monster who endangers Japanese cities, and sometimes New York.
+ $he = Godzilla
 # unable to translate (who is spider man) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -314,5 +319,6 @@ u: (who is godzilla)
 #           };
 
 #! where is hal
-u: (where is hal) 
+u: (where is hal)   is the AI from the space ship Disovery in 2001.
+ $it = 
 # main gambits

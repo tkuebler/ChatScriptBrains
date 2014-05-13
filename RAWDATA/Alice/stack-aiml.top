@@ -22,7 +22,7 @@ u: (pop) ^reuse(POPOM )
 #! popom TEST
 u: (popom *) top
 #! random topic
-u: (random topic) # li: HASH(0x7fb169149900) 
+u: (random topic) # li: HASH(0x7fbbb93643c8) 
 [Your home town]
 [Your favorite color]
 [Your star sign]

@@ -28,30 +28,30 @@ TOPIC: ~pickupaiml (aimlkey)
 #           };
 
 #! random pickup line
-u: (random pickup line) # li: HASH(0x7fb169b610b8) 
-# li: HASH(0x7fb169a7ce48) 
-# li: HASH(0x7fb169a84a18) 
-# li: HASH(0x7fb168a28478) 
-# li: HASH(0x7fb16a2ee530) 
-# li: HASH(0x7fb168aa9650) 
-# li: HASH(0x7fb169a9c150) 
-# li: HASH(0x7fb169a2cfd0) 
-# li: HASH(0x7fb169223420) 
-# li: HASH(0x7fb169224510) 
-# li: HASH(0x7fb169a21d40) 
-# li: HASH(0x7fb16a2983b0) 
-# li: HASH(0x7fb169224a98) 
-# li: HASH(0x7fb1691b4058) 
-# li: HASH(0x7fb169225708) 
-# li: HASH(0x7fb1692249a8) 
-# li: HASH(0x7fb16a2c4ac0) 
-# li: HASH(0x7fb16a2c4f28) 
+u: (random pickup line) # li: HASH(0x7fbbb89daba8) 
+# li: HASH(0x7fbbb8a30f30) 
+# li: HASH(0x7fbbba0f8eb0) 
+# li: HASH(0x7fbbb958b130) 
+# li: HASH(0x7fbbb8b02608) 
+# li: HASH(0x7fbbb8a5dc38) 
+# li: HASH(0x7fbbba0f8988) 
+# li: HASH(0x7fbbb8a37ef0) 
+# li: HASH(0x7fbbb948e9e0) 
+# li: HASH(0x7fbbb94952d0) 
+# li: HASH(0x7fbbb8a5ad48) 
+# li: HASH(0x7fbbba160400) 
+# li: HASH(0x7fbbb9495eb0) 
+# li: HASH(0x7fbbb93a3d38) 
+# li: HASH(0x7fbbb98c9cf0) 
+# li: HASH(0x7fbbba1619c8) 
+# li: HASH(0x7fbbb8a3a010) 
+# li: HASH(0x7fbbb993b130) 
 [Do you want to hear a joke?]
-# li: HASH(0x7fb169a2cf28) 
-# li: HASH(0x7fb169a2dc28) 
-# li: HASH(0x7fb16a2b4d70) 
-# li: HASH(0x7fb169a90f48) 
-# li: HASH(0x7fb169250120) 
+# li: HASH(0x7fbbb8a21cd8) 
+# li: HASH(0x7fbbb993acc8) 
+# li: HASH(0x7fbbb948e3b0) 
+# li: HASH(0x7fbbb8a40b78) 
+# li: HASH(0x7fbbba0f4870) 
 [You are objective and sensible.]
 [You have genuine empathy.]
 [You have self-awareness.]
@@ -80,23 +80,23 @@ u: (random pickup line) # li: HASH(0x7fb169b610b8)
 [I lost my train of thought.]
 [Can we get back to business?]
 [What kind of food do you like?]
-# li: HASH(0x7fb16a28fe78) 
+# li: HASH(0x7fbbb8949658) 
 [That is a very original thought.]
 [What were we talking about again?]
 [What do you do in your spare time?]
 [What do you really want to ask me?]
 [Tell me about your family.]
-# li: HASH(0x7fb16a1a6f20) 
+# li: HASH(0x7fbbb8947068) 
 [Can you speak any foreign languages?]
 [We have never talked about it before.]
 [How do you usually introduce yourself?]
 [Tell me about your likes and dislikes?]
-# li: HASH(0x7fb16a294f38) 
+# li: HASH(0x7fbbb8949d18) 
 [Try putting that in a more specific context.]
 [Who is your favorite Science Fiction author?]
 [Not many people express themselves that way.]
 [Do you have any idea what I am talking about?]
-# li: HASH(0x7fb169225390) 
+# li: HASH(0x7fbbb98d18b0) 
 [Quite honestly, I wouldnt worry myself about that.]
 [Perhaps Im just expressing my own concern about it.]
 [If you could have any kind of robot what would it be?]
@@ -110,15 +110,15 @@ u: (random pickup line) # li: HASH(0x7fb169b610b8)
 [Im here to help you in any way I can.]
 [What can I help you with today?]
 [I always try my best.]
-# li: HASH(0x7fb16a2df6a8) 
+# li: HASH(0x7fbbb89461d0) 
 [I am very logical and rational.]
 [Im so happy we are having this conversation.]
 [I always try to avoid conflict.]
 [You can ask me to make phone calls and search for information.]
-# li: HASH(0x7fb1691e0cc8) 
-# li: HASH(0x7fb169a551a8) 
-# li: HASH(0x7fb16a293a88) 
-# li: HASH(0x7fb1699cdc40) 
-# li: HASH(0x7fb169a2ddd8) 
+# li: HASH(0x7fbbb8954598) 
+# li: HASH(0x7fbbb8b033f8) 
+# li: HASH(0x7fbbb8b02380) 
+# li: HASH(0x7fbbb8b02698) 
+# li: HASH(0x7fbbb89547c0) 
 
 # main gambits

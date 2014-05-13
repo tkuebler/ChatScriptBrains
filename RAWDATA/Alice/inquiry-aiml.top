@@ -189,20 +189,24 @@ u: (she *) ^reuse(MY MOTHER )
 #! her TEST
 u: (her *) ^reuse(MY MOTHER S )
 #! TEST
-u: (*) # li: HASH(0x7fb1699e1c90) 
+u: (*) # li: HASH(0x7fbbba09ee20) 
 [Ive never seen it.]
 [I would like to see it.]
 
 #! TEST
 u: (*) ^reuse(MY FAVORITE COLOR IS )
 #! woman
-u: (woman) 
+u: (woman)   Thanks for telling me your gender.
+ $ = 
 #! man
-u: (man) 
+u: (man)   Thanks for telling me your gender, dude.
+ $ = 
 #! TEST
-u: (*) 
+u: (*)  It sounds like a lot of fun.  
+ $ = 
 #! TEST
-u: (*) 
+u: (*)  You must be very fond of it. 
+ $ = 
 # unable to translate (ERROR) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{

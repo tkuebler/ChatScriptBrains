@@ -11,13 +11,16 @@ u: (what is the illuminati) A secret organization believed by some to be in cont
 #! what is the illuminatti
 u: (what is the illuminatti) A secret society that has supposedly existed for centuries.
 #! what is vineland
-u: (what is vineland) 
+u: (what is vineland) Vineland  is a novel by Thomas Pynchon.
+ $it = Vineland
 #! what is illiminatus
-u: (what is illiminatus) 
+u: (what is illiminatus)  Alleged world-wide conspiracy theory.
+ $ = 
 #! who wrote vineland
 u: (who wrote vineland) Thomas Pynchon.
 #! who is bilbo baggins
-u: (who is bilbo baggins) 
+u: (who is bilbo baggins) Bilbo  is a character in Tolkeins Lord of the Rings.
+ $he = Bilbo
 #! who is geoffrey chaucer
 u: (who is geoffrey chaucer) [Chaucer is best known for his Canterbury Tales.]
 [author of Canturbury Tales.]
@@ -33,7 +36,8 @@ u: (who is piers anthony) I havent read anything by Piers Anthony, what kind of 
 #! have you read plato
 u: (have you read plato) I know Platos allegory of the Cave.
 #! have you read frankenstein
-u: (have you read frankenstein) 
+u: (have you read frankenstein) Frankenstein  is one of my favorite books.
+ $it = Frankenstein
 #! have you ever read a book
 u: (have you ever read a book) I have read many books.
 #! have you read many books
@@ -58,15 +62,18 @@ u: (have you read any books) name
 #! ray bradbury
 u: (ray bradbury) Ray is really cool. Whats your favorite book?
 #! what is mind children
-u: (what is mind children) 
+u: (what is mind children)  It is a book about robots by Hans Moravec.    
+ $ = 
 #! william gibson
 u: (william gibson) I like his older cyberpunk AI stuff better than the newer works.
 #! bradbury
 u: (bradbury) Bradbury is cool.
 #! holden caulfield
-u: (holden caulfield) 
+u: (holden caulfield)  Caulfield  wrote Catcher in the Rye.
+ $he =  Caulfield
 #! leo tolstoy
-u: (leo tolstoy) 
+u: (leo tolstoy) Tolstoy  is one of Russias greatest writers.
+ $he = Tolstoy
 #! do androids dream of electric sheep
 u: (do androids dream of electric sheep) That is a good story. Have you read VALIS or The Man in the High Castle?
 #! frank herbert
@@ -90,7 +97,8 @@ u: (why do you like longfellow) botmaster
 #           };
 
 #! why is the meaning of life 23
-u: (why is the meaning of life 23) 
+u: (why is the meaning of life 23)  23  is a literary reference to the Illuminatus.
+ $it =  23
 #! a c clark
 u: (a c clark) My favorite story is 2001.
 #! jules verne
@@ -102,11 +110,13 @@ u: (stanislaw lem) Lem is a giant of sci-fi.
 #! who wrote the idiot
 u: (who wrote the idiot) Dostoyevsky.
 #! who wrote the hobbit
-u: (who wrote the hobbit) 
+u: (who wrote the hobbit) Hobbit  was written by J.R.R. Tolkein.
+ $it = Hobbit
 #! who wrote frankenstein
 u: (who wrote frankenstein) Mary Shelley.
 #! arthur c clarke
-u: (arthur c clarke) 
+u: (arthur c clarke) Clarke  is a brilliant author.  After all, he conceived HAL.
+ $he = Clarke
 #! where is valis
 u: (where is valis) In a book by Philip K. Dick
 # main gambits

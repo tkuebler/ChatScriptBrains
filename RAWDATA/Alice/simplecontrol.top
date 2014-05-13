@@ -1,5 +1,5 @@
-# this function is executed once for every new user chatting with test
-outputmacro: test()  # you get test by default
+# this function is executed once for every new user chatting with Alice
+outputmacro: Alice()  # you get Alice by default
 $token = #DO_INTERJECTION_SPLITTING  | #DO_SUBSTITUTE_SYSTEM   | #DO_NUMBER_MERGE   | #DO_PROPERNAME_MERGE  | #DO_SPELLCHECK  | #DO_PARSE 
 
 ^addtopic(~introductions)
@@ -8,12 +8,12 @@ $token = #DO_INTERJECTION_SPLITTING  | #DO_SUBSTITUTE_SYSTEM   | #DO_NUMBER_MERG
 $control_main = ~control
 $control_post = ~XPOSTPROCESS
 $userprompt = ^"%user: >"
-$botprompt = ^"TEST: "
+$botprompt = ^"Alice: "
 
 table: defaultbot (^name)
 ^createfact(^name defaultbot defaultbot)
 DATA:
-test
+Alice
 
 topic: ~control system ()
 
@@ -105,7 +105,7 @@ u: () # main per-sentence processing
 	if (%response == 0) 
 	{
 		 ^repeat() 
-		 I don't know what to say. 
+		 [I don't know what to say.][I'm at a loss for words.][hmnn..]
 	}
 
 

@@ -9,7 +9,6 @@ use File::Basename;
 use File::Find;
 use Getopt::Std;
 
-
 our ( $dbug, $opt_d );
 
 getopts('d') or die( "Error in command line arguements.\n" . &usage() );
@@ -36,8 +35,8 @@ my $dbug = $opt_d || undef;
 sub convertFile {
     my $_filename = $_;
 
-	# only convert .aiml files
-    if ( ! ($_filename =~ m/^.*\.aiml$/)) { return; }
+    # only convert .aiml files
+    if ( !( $_filename =~ m/^.*\.aiml$/ ) ) { return; }
 
     my ( $name, $path, $suffix ) = fileparse($_filename);
     my ( $topic, $extension, @junk ) = split( /\./, $name );
@@ -50,24 +49,25 @@ sub convertFile {
     # is there a topic tag, or more than one?
     if ( $aiml->{topic} ) {
         print "topic $aiml->{topic}->{name} in $_filename detected, setting stuff and stripping it.. " . ref($aiml) . "\n";
-        if ( ref( $aiml->{topic} ) eq "HASH" &&  !$aiml->{topic}->{name}) {
+        if ( ref( $aiml->{topic} ) eq "HASH" && !$aiml->{topic}->{name} ) {
             print " multiple topics detected, creating a .top file for each one. \n";
-            foreach my $topicName ( keys(%{$aiml->{topic}})) {
+            foreach my $topicName ( keys( %{ $aiml->{topic} } ) ) {
                 $topic = $topicName;
                 print " one topic $topic found, creating one $topic.top file.\n";
-                &convertTopic($_filename, $topic, $aiml->{topic}->{$topicName} );
+                &convertTopic( $_filename, $topic, $aiml->{topic}->{$topicName} );
             }
         }
         else {
             $topic = $aiml->{topic}->{name};
-			print " one topic $topic found, creating one $topic.top file.\n";
+            print " one topic $topic found, creating one $topic.top file.\n";
+
             # I believe there is no other characteristic of the topic tag?
             # so...  hacky, I know...
             &convertTopic( $_filename, $topic, $aiml->{topic} );
         }
     }
     else {
-    	print " no topics found, creating $topic-aiml.top file.\n";
+        print " no topics found, creating $topic-aiml.top file.\n";
         &convertTopic( $_filename, $topic, $aiml );
     }
 }
@@ -170,11 +170,19 @@ sub convertTopic {
         }
         elsif ( $category->{template}->{content} ) {
             $ref = ref( $category->{template}->{content} );
+
             if ( $ref eq "" ) {
-                my $content = $category->{template}->{content}[0];
+                #my $content = $category->{template}->{content}[0];
+                my $content = $category->{template}->{content};
                 $content =~ s/[\(\)\[\]\{\}\:\"\']//g;
                 $out .= "#! $test\n";
-                $out .= "u: \($pattern\) $content\n";
+                 my ( $name, $value );
+                if ( $category->{template}->{set} ) {
+                    # TODO: encorporate
+                    ($name, $value, @junk) = @{parseSet( $category->{template}->{set} )};
+                }
+                $out .= "u: \($pattern\) $value $content\n";
+                # \$$name = $value\n";
             }
             else {
                 $out .= "# unable to translate ($pattern) match to cs rule - see struc below\n";
@@ -183,6 +191,9 @@ sub convertTopic {
         }
         elsif ( $category->{template} && ref( $category->{template} ) eq "" ) {
             my $template = $category->{template};
+            if ( $template->{set} ) {
+                parseSet( $template->{set} );
+            }
             $template =~ s/[\(\)\[\]\{\}\:\"\']//g;
             $out .= "#! $test\n";
             $out .= "u: \($pattern\) $template\n";
@@ -194,6 +205,7 @@ sub convertTopic {
 
     }
     $out .= "# main gambits\n";
+
     # using ^mark(generalresponder)  in main control script instead, way better.
     #$out .= "t: [Would you like to talk about $top?][I'd like to talk about $top.][What do you think about $top?]\n\n";
 
@@ -203,15 +215,19 @@ sub convertTopic {
     print $fh $out;
 }
 
+sub parseSet() {
+    my ( $setTag, @junk ) = @_;
+    print "Set tag found.." . Dumper( \$setTag ) . "\n";
+    return [ $setTag->{name}, $setTag->{content} ];
+}
+
 sub commentedString() {
     my ( $inref, @junk ) = @_;
     if ($dbug) { print "-tk commentedString : " . ref($inref) . ", @junk.\n"; }
     my @inStr = split( '\n', Dumper($inref) );
     my $outStr = "# TODO: fix this raw AIML element data structure\n";
     foreach my $line (@inStr) {
-        print "got here a -tk\n" if $dbug;
         $outStr .= "# " . $line . "\n";
-        print "got here b -tk\n" if $dbug;
     }
     return $outStr;
 }

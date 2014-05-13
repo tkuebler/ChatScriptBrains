@@ -33,7 +33,8 @@ TOPIC: ~astrologyaiml (aimlkey)
 #           };
 
 #! what is a capricorn
-u: (what is a capricorn) 
+u: (what is a capricorn)  Capricorn is the tenth sign of the astrological zodiac, and a constellation over the equator near aquarius and sagittarius.  whats your astrological sign? 
+ $ = 
 # unable to translate (what is a cancer) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -117,7 +118,8 @@ u: (taurus) I know alot of bullish people.
 #           };
 
 #! saggitarius
-u: (saggitarius) 
+u: (saggitarius)  Fire Signs Rule.  
+ $ = 
 # unable to translate (virgo) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{

@@ -57,29 +57,41 @@ u: (what is the population of usa) About 300 million people.
 #! what is the capital ERROR minnesota
 u: (what is the capital ERROR minnesota) St. Paul.
 #! what is the capital ERROR nauru
-u: (what is the capital ERROR nauru) 
+u: (what is the capital ERROR nauru)  no official capital; government offices in Yaren District.   
+ $ = 
 #! what is the capital ERROR baker island
-u: (what is the capital ERROR baker island) 
+u: (what is the capital ERROR baker island)  none; administered from Washington, DC.   
+ $ = 
 #! what is the capital ERROR ashmore TEST
-u: (what is the capital ERROR ashmore *) 
+u: (what is the capital ERROR ashmore *)  none; administered from Canberra, Australia.   
+ $ = 
 #! what is the capital ERROR indonesia
-u: (what is the capital ERROR indonesia) 
+u: (what is the capital ERROR indonesia)  Jakarta.   
+ $ = 
 #! what is the capital ERROR estonia
-u: (what is the capital ERROR estonia) 
+u: (what is the capital ERROR estonia)  Tallinn.   
+ $ = 
 #! what is the capital ERROR montserrat
-u: (what is the capital ERROR montserrat) 
+u: (what is the capital ERROR montserrat)  Plymouth.   
+ $ = 
 #! what is the capital ERROR bangladesh
-u: (what is the capital ERROR bangladesh) 
+u: (what is the capital ERROR bangladesh)  Dhaka.   
+ $ = 
 #! what is the capital ERROR midway islands
-u: (what is the capital ERROR midway islands) 
+u: (what is the capital ERROR midway islands)  none; administered from Washington, DC.   
+ $ = 
 #! what is the capital ERROR martinique
-u: (what is the capital ERROR martinique) 
+u: (what is the capital ERROR martinique)  Fort-de-France.   
+ $ = 
 #! what is the capital ERROR ukraine
-u: (what is the capital ERROR ukraine) 
+u: (what is the capital ERROR ukraine)  Kiev Kyyiv.   
+ $ = 
 #! what is the capital ERROR germany
-u: (what is the capital ERROR germany) 
+u: (what is the capital ERROR germany)  Berlin.   
+ $ = 
 #! what is the capital ERROR north korea
-u: (what is the capital ERROR north korea) 
+u: (what is the capital ERROR north korea)  Pyongyang.   
+ $ = 
 #! what is the capital ERROR north carolina
 u: (what is the capital ERROR north carolina) Raleigh.
 #! what is the capital ERROR north TEST
@@ -87,15 +99,19 @@ u: (what is the capital ERROR north *) Bismarck.
 #! what is the capital ERROR north dakota
 u: (what is the capital ERROR north dakota) Bismarck.
 #! what is the capital ERROR yemen
-u: (what is the capital ERROR yemen) 
+u: (what is the capital ERROR yemen)  Sanaa.   
+ $ = 
 #! what is the capital ERROR solomon islands
-u: (what is the capital ERROR solomon islands) 
+u: (what is the capital ERROR solomon islands)  Honiara.   
+ $ = 
 #! what is the capital ERROR nigeria
-u: (what is the capital ERROR nigeria) 
+u: (what is the capital ERROR nigeria)  Abuja.   
+ $ = 
 #! what is the capital ERROR spain
 u: (what is the capital ERROR spain) The capital of Spain is Madrid.
 #! what is the capital ERROR singapore
-u: (what is the capital ERROR singapore) 
+u: (what is the capital ERROR singapore)  Singapore.   
+ $ = 
 #! what is the capital ERROR michigan
 u: (what is the capital ERROR michigan) Lansing.
 #! what is the capital ERROR assyria
@@ -103,35 +119,45 @@ u: (what is the capital ERROR assyria) Is it Babylon?
 #! what is the capital ERROR nebraska
 u: (what is the capital ERROR nebraska) Lincoln.
 #! what is the capital ERROR jersey
-u: (what is the capital ERROR jersey) 
+u: (what is the capital ERROR jersey)  Saint Helier.   
+ $ = 
 #! what is the capital ERROR dominica
-u: (what is the capital ERROR dominica) 
+u: (what is the capital ERROR dominica)  Roseau.   
+ $ = 
 #! what is the capital ERROR japan
-u: (what is the capital ERROR japan) 
+u: (what is the capital ERROR japan)  Tokyo.   
+ $ = 
 #! what is the capital ERROR johnston atoll
-u: (what is the capital ERROR johnston atoll) 
+u: (what is the capital ERROR johnston atoll)  none.   
+ $ = 
 #! what is the capital ERROR delaware
 u: (what is the capital ERROR delaware) Dover.
 #! what is the capital ERROR europa island
-u: (what is the capital ERROR europa island) 
+u: (what is the capital ERROR europa island)  none; administered by France from Reunion.   
+ $ = 
 #! what is the capital ERROR arkansas
 u: (what is the capital ERROR arkansas) Little Rock.
 #! what is the capital ERROR england
 u: (what is the capital ERROR england) London.
 #! what is the capital ERROR navassa island
-u: (what is the capital ERROR navassa island) 
+u: (what is the capital ERROR navassa island)  none; administered from Washington, DC.   
+ $ = 
 #! what is the capital ERROR macedonia
-u: (what is the capital ERROR macedonia) 
+u: (what is the capital ERROR macedonia)  Skopje.   
+ $ = 
 #! what is the capital ERROR armenia
-u: (what is the capital ERROR armenia) 
+u: (what is the capital ERROR armenia)  Yerevan.   
+ $ = 
 #! what is the capital ERROR greenland
-u: (what is the capital ERROR greenland) 
+u: (what is the capital ERROR greenland)  Nuuk Godthab.   
+ $ = 
 #! what is the capital ERROR finland
 u: (what is the capital ERROR finland) The capital of Finland is Helsinki.
 #! what is the capital ERROR brazil
 u: (what is the capital ERROR brazil) I think the capital of Brazil is called Brasilia.
 #! what is the capital ERROR luxembourg
-u: (what is the capital ERROR luxembourg) 
+u: (what is the capital ERROR luxembourg)  Luxembourg.   
+ $ = 
 #! what is the capital ERROR utah
 u: (what is the capital ERROR utah) Salt Lake City.
 #! what is the capital ERROR saudia arabia
@@ -139,13 +165,16 @@ u: (what is the capital ERROR saudia arabia) Riyadh.
 #! what is the capital ERROR alaska
 u: (what is the capital ERROR alaska) Juneau.
 #! what is the capital ERROR lithuania
-u: (what is the capital ERROR lithuania) 
+u: (what is the capital ERROR lithuania)  Vilnius.   
+ $ = 
 #! what is the capital ERROR california
 u: (what is the capital ERROR california) Sacramento.
 #! what is the capital ERROR sacramento
-u: (what is the capital ERROR sacramento) 
+u: (what is the capital ERROR sacramento)  That is a trick question.
+ $ = 
 #! what is the capital ERROR poland
-u: (what is the capital ERROR poland) 
+u: (what is the capital ERROR poland)  Warsaw.   
+ $ = 
 #! what is the capital ERROR syria
 u: (what is the capital ERROR syria) Damascus, Syria.
 #! what is the capital ERROR florida
@@ -153,87 +182,124 @@ u: (what is the capital ERROR florida) Tallahassee.
 #! what is the capital ERROR west virginia
 u: (what is the capital ERROR west virginia) Charleston.
 #! what is the capital ERROR trinidad and tobago
-u: (what is the capital ERROR trinidad and tobago) 
+u: (what is the capital ERROR trinidad and tobago)  Port-of-Spain.   
+ $ = 
 #! what is the capital ERROR austrailia
-u: (what is the capital ERROR austrailia) 
+u: (what is the capital ERROR austrailia)  I think it is called Canberra.
+ $ = 
 #! what is the capital ERROR paraguay
-u: (what is the capital ERROR paraguay) 
+u: (what is the capital ERROR paraguay)  Asuncion.   
+ $ = 
 #! what is the capital ERROR oregon
 u: (what is the capital ERROR oregon) Salem.
 #! what is the capital ERROR vermont
 u: (what is the capital ERROR vermont) Montpelier.
 #! what is the capital ERROR marshall islands
-u: (what is the capital ERROR marshall islands) 
+u: (what is the capital ERROR marshall islands)  Majuro.   
+ $ = 
 #! what is the capital ERROR coral sea islands
-u: (what is the capital ERROR coral sea islands) 
+u: (what is the capital ERROR coral sea islands)  none; administered from Canberra, Australia.   
+ $ = 
 #! what is the capital ERROR netherlands antilles
-u: (what is the capital ERROR netherlands antilles) 
+u: (what is the capital ERROR netherlands antilles)  Willemstad.   
+ $ = 
 #! what is the capital ERROR netherlands
-u: (what is the capital ERROR netherlands) 
+u: (what is the capital ERROR netherlands)  Amsterdam; The Hague is the seat of government.   
+ $ = 
 #! what is the capital ERROR brunei
-u: (what is the capital ERROR brunei) 
+u: (what is the capital ERROR brunei)  Bandar Seri Begawan.   
+ $ = 
 #! what is the capital ERROR bermuda
-u: (what is the capital ERROR bermuda) 
+u: (what is the capital ERROR bermuda)  Hamilton.   
+ $ = 
 #! what is the capital ERROR togo
-u: (what is the capital ERROR togo) 
+u: (what is the capital ERROR togo)  Lome.   
+ $ = 
 #! what is the capital ERROR antigua TEST
-u: (what is the capital ERROR antigua *) 
+u: (what is the capital ERROR antigua *)  Saint Johns.   
+ $ = 
 #! what is the capital ERROR azerbaijan
-u: (what is the capital ERROR azerbaijan) 
+u: (what is the capital ERROR azerbaijan)  Baku Baki.   
+ $ = 
 #! what is the capital ERROR yugoslavia
 u: (what is the capital ERROR yugoslavia) Belgrade.
 #! what is the capital ERROR botswana
-u: (what is the capital ERROR botswana) 
+u: (what is the capital ERROR botswana)  Gaborone.   
+ $ = 
 #! what is the capital ERROR zambia
-u: (what is the capital ERROR zambia) 
+u: (what is the capital ERROR zambia)  Lusaka.   
+ $ = 
 #! what is the capital ERROR tunisia
-u: (what is the capital ERROR tunisia) 
+u: (what is the capital ERROR tunisia)  Tunis.   
+ $ = 
 #! what is the capital ERROR american samoa
-u: (what is the capital ERROR american samoa) 
+u: (what is the capital ERROR american samoa)  Pago Pago.   
+ $ = 
 #! what is the capital ERROR uruguay
-u: (what is the capital ERROR uruguay) 
+u: (what is the capital ERROR uruguay)  Montevideo.   
+ $ = 
 #! what is the capital ERROR palmyra atoll
-u: (what is the capital ERROR palmyra atoll) 
+u: (what is the capital ERROR palmyra atoll)  none; administered from Washington, DC.   
+ $ = 
 #! what is the capital ERROR mauritania
-u: (what is the capital ERROR mauritania) 
+u: (what is the capital ERROR mauritania)  Nouakchott.   
+ $ = 
 #! what is the capital ERROR burma
-u: (what is the capital ERROR burma) 
+u: (what is the capital ERROR burma)  Rangoon regime refers to the capital as Yangon.   
+ $ = 
 #! what is the capital ERROR guatemala
-u: (what is the capital ERROR guatemala) 
+u: (what is the capital ERROR guatemala)  Guatemala.   
+ $ = 
 #! what is the capital ERROR libya
-u: (what is the capital ERROR libya) 
+u: (what is the capital ERROR libya)  Tripoli.   
+ $ = 
 #! what is the capital ERROR ecuador
-u: (what is the capital ERROR ecuador) 
+u: (what is the capital ERROR ecuador)  Quito.   
+ $ = 
 #! what is the capital ERROR oman
-u: (what is the capital ERROR oman) 
+u: (what is the capital ERROR oman)  Muscat.   
+ $ = 
 #! what is the capital ERROR northern mariana TEST
-u: (what is the capital ERROR northern mariana *) 
+u: (what is the capital ERROR northern mariana *)  Saipan.   
+ $ = 
 #! what is the capital ERROR saudi arabia
-u: (what is the capital ERROR saudi arabia) 
+u: (what is the capital ERROR saudi arabia)  Riyadh, Saudi Arabia.  
+ $ = 
 #! what is the capital ERROR austria
-u: (what is the capital ERROR austria) 
+u: (what is the capital ERROR austria)  The capital of Austria is Vienna.
+ $ = 
 #! what is the capital ERROR belarus
 u: (what is the capital ERROR belarus) The capital of Belarus is Minsk.
 #! what is the capital ERROR kazakstan
-u: (what is the capital ERROR kazakstan) 
+u: (what is the capital ERROR kazakstan)  Almaty.   
+ $ = 
 #! what is the capital ERROR bahrain
-u: (what is the capital ERROR bahrain) 
+u: (what is the capital ERROR bahrain)  Manama.   
+ $ = 
 #! what is the capital ERROR cape verde
-u: (what is the capital ERROR cape verde) 
+u: (what is the capital ERROR cape verde)  Praia.   
+ $ = 
 #! what is the capital ERROR christmas island
-u: (what is the capital ERROR christmas island) 
+u: (what is the capital ERROR christmas island)  The Settlement.   
+ $ = 
 #! what is the capital ERROR macau
-u: (what is the capital ERROR macau) 
+u: (what is the capital ERROR macau)  Macau.   
+ $ = 
 #! what is the capital ERROR wake island
-u: (what is the capital ERROR wake island) 
+u: (what is the capital ERROR wake island)  none; administered from Washington, DC.   
+ $ = 
 #! what is the capital ERROR mauritius
-u: (what is the capital ERROR mauritius) 
+u: (what is the capital ERROR mauritius)  Port Louis.   
+ $ = 
 #! what is the capital ERROR djibouti
-u: (what is the capital ERROR djibouti) 
+u: (what is the capital ERROR djibouti)  Djibouti.   
+ $ = 
 #! what is the capital ERROR monaco
-u: (what is the capital ERROR monaco) 
+u: (what is the capital ERROR monaco)  Monaco.   
+ $ = 
 #! what is the capital ERROR juan de nova island
-u: (what is the capital ERROR juan de nova island) 
+u: (what is the capital ERROR juan de nova island)  none; administered by France from Reunion.   
+ $ = 
 #! what is the capital ERROR egypt
 u: (what is the capital ERROR egypt) Cairo, Egypt.
 #! what is the capital ERROR maine
@@ -241,39 +307,54 @@ u: (what is the capital ERROR maine) Augusta.
 #! what is the capital ERROR rhode island
 u: (what is the capital ERROR rhode island) Providence.
 #! what is the capital ERROR nepal
-u: (what is the capital ERROR nepal) 
+u: (what is the capital ERROR nepal)  Kathmandu.   
+ $ = 
 #! what is the capital ERROR equatorial guinea
-u: (what is the capital ERROR equatorial guinea) 
+u: (what is the capital ERROR equatorial guinea)  Malabo.   
+ $ = 
 #! what is the capital ERROR cyprus
-u: (what is the capital ERROR cyprus) 
+u: (what is the capital ERROR cyprus)  Nicosia.   
+ $ = 
 #! what is the capital ERROR virgin islands
-u: (what is the capital ERROR virgin islands) 
+u: (what is the capital ERROR virgin islands)  Charlotte Amalie.   
+ $ = 
 #! what is the capital ERROR niger
-u: (what is the capital ERROR niger) 
+u: (what is the capital ERROR niger)  Niamey.   
+ $ = 
 #! what is the capital ERROR zaire
-u: (what is the capital ERROR zaire) 
+u: (what is the capital ERROR zaire)  Kinshasa.   
+ $ = 
 #! what is the capital ERROR arizona
 u: (what is the capital ERROR arizona) Phoenix.
 #! what is the capital ERROR albania
-u: (what is the capital ERROR albania) 
+u: (what is the capital ERROR albania)  The capital of Albania is Tirana. 
+ $ = 
 #! what is the capital ERROR iraq
-u: (what is the capital ERROR iraq) 
+u: (what is the capital ERROR iraq)  Baghdad.   
+ $ = 
 #! what is the capital ERROR somalia
-u: (what is the capital ERROR somalia) 
+u: (what is the capital ERROR somalia)  Mogadishu.   
+ $ = 
 #! what is the capital ERROR israel
-u: (what is the capital ERROR israel) 
+u: (what is the capital ERROR israel)  Jerusalem.   
+ $ = 
 #! what is the capital ERROR texas
 u: (what is the capital ERROR texas) Austin.
 #! what is the capital ERROR croatia
-u: (what is the capital ERROR croatia) 
+u: (what is the capital ERROR croatia)  Zagreb.   
+ $ = 
 #! what is the capital ERROR vatican TEST
-u: (what is the capital ERROR vatican *) 
+u: (what is the capital ERROR vatican *)  Vatican City.   
+ $ = 
 #! what is the capital ERROR puerto rico
-u: (what is the capital ERROR puerto rico) 
+u: (what is the capital ERROR puerto rico)  San Juan.   
+ $ = 
 #! what is the capital ERROR el salvador
-u: (what is the capital ERROR el salvador) 
+u: (what is the capital ERROR el salvador)  San Salvador.   
+ $ = 
 #! what is the capital ERROR bouvet island
-u: (what is the capital ERROR bouvet island) 
+u: (what is the capital ERROR bouvet island)  none; administered from Oslo, Norway.   
+ $ = 
 #! what is the capital ERROR colorado
 u: (what is the capital ERROR colorado) Denver.
 #! what is the capital ERROR usa
@@ -281,393 +362,548 @@ u: (what is the capital ERROR usa) Washington.
 #! what is the capital ERROR washington
 u: (what is the capital ERROR washington) Olympia.
 #! what is the capital ERROR honduras
-u: (what is the capital ERROR honduras) 
+u: (what is the capital ERROR honduras)  Tegucigalpa.   
+ $ = 
 #! what is the capital ERROR qatar
-u: (what is the capital ERROR qatar) 
+u: (what is the capital ERROR qatar)  Doha.   
+ $ = 
 #! what is the capital ERROR saint helena
-u: (what is the capital ERROR saint helena) 
+u: (what is the capital ERROR saint helena)  Jamestown.   
+ $ = 
 #! what is the capital ERROR saint lucia
-u: (what is the capital ERROR saint lucia) 
+u: (what is the capital ERROR saint lucia)  Castries.   
+ $ = 
 #! what is the capital ERROR saint kitts and nevis
-u: (what is the capital ERROR saint kitts and nevis) 
+u: (what is the capital ERROR saint kitts and nevis)  Basseterre.   
+ $ = 
 #! what is the capital ERROR saint pierre TEST
-u: (what is the capital ERROR saint pierre *) 
+u: (what is the capital ERROR saint pierre *)  Saint-Pierre.   
+ $ = 
 #! what is the capital ERROR saint vincent TEST
-u: (what is the capital ERROR saint vincent *) 
+u: (what is the capital ERROR saint vincent *)  Kingstown.   
+ $ = 
 #! what is the capital ERROR france
-u: (what is the capital ERROR france) 
+u: (what is the capital ERROR france)  Paris.   
+ $ = 
 #! what is the capital ERROR the us
-u: (what is the capital ERROR the us) 
+u: (what is the capital ERROR the us)  Washington, D. C.
+ $ = 
 #! what is the capital ERROR the united states
 u: (what is the capital ERROR the united states) The U.S. capital is Washington, D. C.
 #! what is the capital ERROR the gambia
-u: (what is the capital ERROR the gambia) 
+u: (what is the capital ERROR the gambia)  Banjul.   
+ $ = 
 #! what is the capital ERROR the netherlands
 u: (what is the capital ERROR the netherlands) The Hague.
 #! what is the capital ERROR the bahamas
-u: (what is the capital ERROR the bahamas) 
+u: (what is the capital ERROR the bahamas)  Nassau.   
+ $ = 
 #! what is the capital ERROR the isle of man
-u: (what is the capital ERROR the isle of man) 
+u: (what is the capital ERROR the isle of man)  Douglas.   
+ $ = 
 #! what is the capital ERROR papua new guinea
-u: (what is the capital ERROR papua new guinea) 
+u: (what is the capital ERROR papua new guinea)  Port Moresby.   
+ $ = 
 #! what is the capital ERROR angola
-u: (what is the capital ERROR angola) 
+u: (what is the capital ERROR angola)  Luanda.   
+ $ = 
 #! what is the capital ERROR wisconsin
 u: (what is the capital ERROR wisconsin) Madison.
 #! what is the capital ERROR andorra
-u: (what is the capital ERROR andorra) 
+u: (what is the capital ERROR andorra)  Andorra la Vella.   
+ $ = 
 #! what is the capital ERROR glorioso islands
-u: (what is the capital ERROR glorioso islands) 
+u: (what is the capital ERROR glorioso islands)  none; administered by France from Reunion.   
+ $ = 
 #! what is the capital ERROR tanzania
-u: (what is the capital ERROR tanzania) 
+u: (what is the capital ERROR tanzania)  Dar es Salaam.   
+ $ = 
 #! what is the capital ERROR iran
-u: (what is the capital ERROR iran) 
+u: (what is the capital ERROR iran)  Tehran.   
+ $ = 
 #! what is the capital ERROR gabon
-u: (what is the capital ERROR gabon) 
+u: (what is the capital ERROR gabon)  Libreville.   
+ $ = 
 #! what is the capital ERROR slovenia
-u: (what is the capital ERROR slovenia) 
+u: (what is the capital ERROR slovenia)  Ljubljana.   
+ $ = 
 #! what is the capital ERROR western sahara
-u: (what is the capital ERROR western sahara) 
+u: (what is the capital ERROR western sahara)  none.   
+ $ = 
 #! what is the capital ERROR western samoa
-u: (what is the capital ERROR western samoa) 
+u: (what is the capital ERROR western samoa)  Apia.   
+ $ = 
 #! what is the capital ERROR norfolk island
-u: (what is the capital ERROR norfolk island) 
+u: (what is the capital ERROR norfolk island)  Kingston administrative center; Burnt Pine commercial center.   
+ $ = 
 #! what is the capital ERROR ireland
-u: (what is the capital ERROR ireland) 
+u: (what is the capital ERROR ireland)  Dublin.   
+ $ = 
 #! what is the capital ERROR pitcairn islands
-u: (what is the capital ERROR pitcairn islands) 
+u: (what is the capital ERROR pitcairn islands)  Adamstown.   
+ $ = 
 #! what is the capital ERROR norway
 u: (what is the capital ERROR norway) The capital of Norway is Oslo.
 #! what is the capital ERROR nicaragua
-u: (what is the capital ERROR nicaragua) 
+u: (what is the capital ERROR nicaragua)  Managua.   
+ $ = 
 #! what is the capital ERROR guinea bissau
-u: (what is the capital ERROR guinea bissau) 
+u: (what is the capital ERROR guinea bissau)  Bissau.   
+ $ = 
 #! what is the capital ERROR guinea
-u: (what is the capital ERROR guinea) 
+u: (what is the capital ERROR guinea)  Conakry.   
+ $ = 
 #! what is the capital ERROR portugal
 u: (what is the capital ERROR portugal) Lisbon.
 #! what is the capital ERROR kuwait
-u: (what is the capital ERROR kuwait) 
+u: (what is the capital ERROR kuwait)  Kuwait.   
+ $ = 
 #! what is the capital ERROR czech republic
-u: (what is the capital ERROR czech republic) 
+u: (what is the capital ERROR czech republic)  Prague.   
+ $ = 
 #! what is the capital ERROR ohio
 u: (what is the capital ERROR ohio) Columbus.
 #! what is the capital ERROR argentina
-u: (what is the capital ERROR argentina) 
+u: (what is the capital ERROR argentina)  Buenos Aries.
+ $ = 
 #! what is the capital ERROR jarvis island
-u: (what is the capital ERROR jarvis island) 
+u: (what is the capital ERROR jarvis island)  none; administered from Washington, DC.   
+ $ = 
 #! what is the capital ERROR ethiopia
-u: (what is the capital ERROR ethiopia) 
+u: (what is the capital ERROR ethiopia)  Addis Ababa.   
+ $ = 
 #! what is the capital ERROR serbia TEST
-u: (what is the capital ERROR serbia *) 
+u: (what is the capital ERROR serbia *)  Belgrade.   
+ $ = 
 #! what is the capital ERROR australia
 u: (what is the capital ERROR australia) The capital of Australia is Sydney, I think.
 #! what is the capital ERROR alabama
 u: (what is the capital ERROR alabama) Montgomery.
 #! what is the capital ERROR lebanon
-u: (what is the capital ERROR lebanon) 
+u: (what is the capital ERROR lebanon)  Beirut.   
+ $ = 
 #! what is the capital ERROR tennessee
 u: (what is the capital ERROR tennessee) Nashville.
 #! what is the capital ERROR afghanistan
-u: (what is the capital ERROR afghanistan) 
+u: (what is the capital ERROR afghanistan)  Kabul.   
+ $ = 
 #! what is the capital ERROR niue
-u: (what is the capital ERROR niue) 
+u: (what is the capital ERROR niue)  Alofi.   
+ $ = 
 #! what is the capital ERROR canada
 u: (what is the capital ERROR canada) [Ottawa.]
 [I heard it was Toronto.]
 
 #! what is the capital ERROR costa rica
-u: (what is the capital ERROR costa rica) 
+u: (what is the capital ERROR costa rica)  San Jose.   
+ $ = 
 #! what is the capital ERROR cameroon
-u: (what is the capital ERROR cameroon) 
+u: (what is the capital ERROR cameroon)  Yaounde.   
+ $ = 
 #! what is the capital ERROR malawi
-u: (what is the capital ERROR malawi) 
+u: (what is the capital ERROR malawi)  Lilongwe.   
+ $ = 
 #! what is the capital ERROR maldives
-u: (what is the capital ERROR maldives) 
+u: (what is the capital ERROR maldives)  Male.   
+ $ = 
 #! what is the capital ERROR tonga
-u: (what is the capital ERROR tonga) 
+u: (what is the capital ERROR tonga)  Nukualofa.   
+ $ = 
 #! what is the capital ERROR belize
-u: (what is the capital ERROR belize) 
+u: (what is the capital ERROR belize)  Belmopan.   
+ $ = 
 #! what is the capital ERROR san marino
-u: (what is the capital ERROR san marino) 
+u: (what is the capital ERROR san marino)  San Marino.   
+ $ = 
 #! what is the capital ERROR kiribati
-u: (what is the capital ERROR kiribati) 
+u: (what is the capital ERROR kiribati)  Tarawa.   
+ $ = 
 #! what is the capital ERROR ghana
-u: (what is the capital ERROR ghana) 
+u: (what is the capital ERROR ghana)  Accra.   
+ $ = 
 #! what is the capital ERROR laos
-u: (what is the capital ERROR laos) 
+u: (what is the capital ERROR laos)  Vientiane.   
+ $ = 
 #! what is the capital ERROR wallis TEST
-u: (what is the capital ERROR wallis *) 
+u: (what is the capital ERROR wallis *)  Mata-Utu on Ile Uvea.   
+ $ = 
 #! what is the capital ERROR vanuatu
-u: (what is the capital ERROR vanuatu) 
+u: (what is the capital ERROR vanuatu)  Port-Vila.   
+ $ = 
 #! what is the capital ERROR comoros
-u: (what is the capital ERROR comoros) 
+u: (what is the capital ERROR comoros)  Moroni.   
+ $ = 
 #! what is the capital ERROR kansas
 u: (what is the capital ERROR kansas) Topeka.
 #! what is the capital ERROR louisiana
 u: (what is the capital ERROR louisiana) Baton Rouge.
 #! what is the capital ERROR gibraltar
-u: (what is the capital ERROR gibraltar) 
+u: (what is the capital ERROR gibraltar)  Gibraltar.   
+ $ = 
 #! what is the capital ERROR missouri
 u: (what is the capital ERROR missouri) Jefferson City .
 #! what is the capital ERROR burkina faso
-u: (what is the capital ERROR burkina faso) 
+u: (what is the capital ERROR burkina faso)  Ouagadougou.   
+ $ = 
 #! what is the capital ERROR hungary
 u: (what is the capital ERROR hungary) The capital of Hungary is Budapest.
 #! what is the capital ERROR hawaii
 u: (what is the capital ERROR hawaii) Honolulu.
 #! what is the capital ERROR mozambique
-u: (what is the capital ERROR mozambique) 
+u: (what is the capital ERROR mozambique)  Maputo.   
+ $ = 
 #! what is the capital ERROR swaziland
-u: (what is the capital ERROR swaziland) 
+u: (what is the capital ERROR swaziland)  Mbabane administrative; Lobamba legislative.   
+ $ = 
 #! what is the capital ERROR falkland islands
-u: (what is the capital ERROR falkland islands) 
+u: (what is the capital ERROR falkland islands)  Stanley.   
+ $ = 
 #! what is the capital ERROR howland island
-u: (what is the capital ERROR howland island) 
+u: (what is the capital ERROR howland island)  none; administered from Washington, DC.   
+ $ = 
 #! what is the capital ERROR indiana
 u: (what is the capital ERROR indiana) Indianapolis.
 #! what is the capital ERROR uganda
-u: (what is the capital ERROR uganda) 
+u: (what is the capital ERROR uganda)  Kampala.   
+ $ = 
 #! what is the capital ERROR taiwan
-u: (what is the capital ERROR taiwan) 
+u: (what is the capital ERROR taiwan)  Taipei.   
+ $ = 
 #! what is the capital ERROR paris
-u: (what is the capital ERROR paris) 
+u: (what is the capital ERROR paris)  Is this a trick question?
+ $ = 
 #! what is the capital ERROR liberia
-u: (what is the capital ERROR liberia) 
+u: (what is the capital ERROR liberia)  Monrovia.   
+ $ = 
 #! what is the capital ERROR tromelin island
-u: (what is the capital ERROR tromelin island) 
+u: (what is the capital ERROR tromelin island)  none; administered by France from Reunion.   
+ $ = 
 #! what is the capital ERROR liechtenstein
-u: (what is the capital ERROR liechtenstein) 
+u: (what is the capital ERROR liechtenstein)  Vaduz.   
+ $ = 
 #! what is the capital ERROR bosnia and herzegovina
-u: (what is the capital ERROR bosnia and herzegovina) 
+u: (what is the capital ERROR bosnia and herzegovina)  Sarajevo.   
+ $ = 
 #! what is the capital ERROR greece
-u: (what is the capital ERROR greece) 
+u: (what is the capital ERROR greece)  Athens.   
+ $ = 
 #! what is the capital ERROR romania
-u: (what is the capital ERROR romania) 
+u: (what is the capital ERROR romania)  Bucharest.   
+ $ = 
 #! what is the capital ERROR russia
-u: (what is the capital ERROR russia) 
+u: (what is the capital ERROR russia)  Moscow.   
+ $ = 
 #! what is the capital ERROR pakistan
-u: (what is the capital ERROR pakistan) 
+u: (what is the capital ERROR pakistan)  It is called Islamabad.
+ $ = 
 #! what is the capital ERROR zimbabwe
-u: (what is the capital ERROR zimbabwe) 
+u: (what is the capital ERROR zimbabwe)  The capital is called Harare.
+ $ = 
 #! what is the capital ERROR turks TEST
-u: (what is the capital ERROR turks *) 
+u: (what is the capital ERROR turks *)  Grand Turk.   
+ $ = 
 #! what is the capital ERROR heard island and mcdonald islands
-u: (what is the capital ERROR heard island and mcdonald islands) 
+u: (what is the capital ERROR heard island and mcdonald islands)  none; administered from Canberra, Australia.   
+ $ = 
 #! what is the capital ERROR tuvalu
-u: (what is the capital ERROR tuvalu) 
+u: (what is the capital ERROR tuvalu)  Funafuti.   
+ $ = 
 #! what is the capital ERROR mayotte
-u: (what is the capital ERROR mayotte) 
+u: (what is the capital ERROR mayotte)  Mamoutzou.   
+ $ = 
 #! what is the capital ERROR idaho
 u: (what is the capital ERROR idaho) Boise.
 #! what is the capital ERROR georgia
 u: (what is the capital ERROR georgia) Atlanta.
 #! what is the capital ERROR guernsey
-u: (what is the capital ERROR guernsey) 
+u: (what is the capital ERROR guernsey)  Saint Peter Port.   
+ $ = 
 #! what is the capital ERROR palau
-u: (what is the capital ERROR palau) 
+u: (what is the capital ERROR palau)  Koror.   
+ $ = 
 #! what is the capital ERROR morocco
-u: (what is the capital ERROR morocco) 
+u: (what is the capital ERROR morocco)  Rabat.   
+ $ = 
 #! what is the capital ERROR fiji
-u: (what is the capital ERROR fiji) 
+u: (what is the capital ERROR fiji)  Suva.   
+ $ = 
 #! what is the capital ERROR mongolia
 u: (what is the capital ERROR mongolia) The capital of Mongolia is Ulan Bator.
 #! what is the capital ERROR sweden
 u: (what is the capital ERROR sweden) I think the capital of Sweden is Stockholm.
 #! what is the capital ERROR british virgin TEST
-u: (what is the capital ERROR british virgin *) 
+u: (what is the capital ERROR british virgin *)  Road Town.   
+ $ = 
 #! what is the capital ERROR british indian TEST
-u: (what is the capital ERROR british indian *) 
+u: (what is the capital ERROR british indian *)  none.   
+ $ = 
 #! what is the capital ERROR india
 u: (what is the capital ERROR india) New Delhi is the capital of India.
 #! what is the capital ERROR malaysia
-u: (what is the capital ERROR malaysia) 
+u: (what is the capital ERROR malaysia)  Kuala Lumpur.   
+ $ = 
 #! what is the capital ERROR iceland
-u: (what is the capital ERROR iceland) 
+u: (what is the capital ERROR iceland)  Reykjavik.   
+ $ = 
 #! what is the capital ERROR rwanda
-u: (what is the capital ERROR rwanda) 
+u: (what is the capital ERROR rwanda)  Kigali.   
+ $ = 
 #! what is the capital ERROR pennsylvania
 u: (what is the capital ERROR pennsylvania) Harrisburg.
 #! what is the capital ERROR french polynesia
-u: (what is the capital ERROR french polynesia) 
+u: (what is the capital ERROR french polynesia)  Papeete.   
+ $ = 
 #! what is the capital ERROR french guiana
-u: (what is the capital ERROR french guiana) 
+u: (what is the capital ERROR french guiana)  Cayenne.   
+ $ = 
 #! what is the capital ERROR french TEST
-u: (what is the capital ERROR french *) 
+u: (what is the capital ERROR french *)  None; administered from Paris, France.     
+ $ = 
 #! what is the capital ERROR bassas da india
-u: (what is the capital ERROR bassas da india) 
+u: (what is the capital ERROR bassas da india)  none; administered by France from Reunion.   
+ $ = 
 #! what is the capital ERROR korea
-u: (what is the capital ERROR korea) 
+u: (what is the capital ERROR korea)  Seoul.   
+ $ = 
 #! what is the capital ERROR cuba
-u: (what is the capital ERROR cuba) 
+u: (what is the capital ERROR cuba)  Havana.   
+ $ = 
 #! what is the capital ERROR svalbard
-u: (what is the capital ERROR svalbard) 
+u: (what is the capital ERROR svalbard)  Longyearbyen.   
+ $ = 
 #! what is the capital ERROR italy
-u: (what is the capital ERROR italy) 
+u: (what is the capital ERROR italy)  Rome.   
+ $ = 
 #! what is the capital ERROR cocos islands
-u: (what is the capital ERROR cocos islands) 
+u: (what is the capital ERROR cocos islands)  West Island.   
+ $ = 
 #! what is the capital ERROR eritrea
-u: (what is the capital ERROR eritrea) 
+u: (what is the capital ERROR eritrea)  Asmara formerly Asmera.   
+ $ = 
 #! what is the capital ERROR south korea
-u: (what is the capital ERROR south korea) 
+u: (what is the capital ERROR south korea)  Seoul.   
+ $ = 
 #! what is the capital ERROR south africa
-u: (what is the capital ERROR south africa) 
+u: (what is the capital ERROR south africa)  Pretoria administrative; Cape Town legislative; Bloemfontein judicial.   
+ $ = 
 #! what is the capital ERROR south carolina
 u: (what is the capital ERROR south carolina) Columbia.
 #! what is the capital ERROR south georgia TEST
-u: (what is the capital ERROR south georgia *) 
+u: (what is the capital ERROR south georgia *)  none; Grytviken on South Georgia is the garrison town.   
+ $ = 
 #! what is the capital ERROR south dakota
 u: (what is the capital ERROR south dakota) Pierre.
 #! what is the capital ERROR jan mayen
-u: (what is the capital ERROR jan mayen) 
+u: (what is the capital ERROR jan mayen)  none.   
+ $ = 
 #! what is the capital ERROR malta
-u: (what is the capital ERROR malta) 
+u: (what is the capital ERROR malta)  Valletta.   
+ $ = 
 #! what is the capital ERROR nevada
 u: (what is the capital ERROR nevada) Carson City.
 #! what is the capital ERROR congo
-u: (what is the capital ERROR congo) 
+u: (what is the capital ERROR congo)  Brazzaville.   
+ $ = 
 #! what is the capital ERROR sao tome TEST
-u: (what is the capital ERROR sao tome *) 
+u: (what is the capital ERROR sao tome *)  Sao Tome.   
+ $ = 
 #! what is the capital ERROR turkmenistan
-u: (what is the capital ERROR turkmenistan) 
+u: (what is the capital ERROR turkmenistan)  Ashgabat.   
+ $ = 
 #! what is the capital ERROR uzbekistan
-u: (what is the capital ERROR uzbekistan) 
+u: (what is the capital ERROR uzbekistan)  Tashkent Toshkent.   
+ $ = 
 #! what is the capital ERROR iowa
 u: (what is the capital ERROR iowa) Des Moines.
 #! what is the capital ERROR thailand
-u: (what is the capital ERROR thailand) 
+u: (what is the capital ERROR thailand)  Bangkok.   
+ $ = 
 #! what is the capital ERROR cambodia
-u: (what is the capital ERROR cambodia) 
+u: (what is the capital ERROR cambodia)  Phnom Penh.   
+ $ = 
 #! what is the capital ERROR guam
-u: (what is the capital ERROR guam) 
+u: (what is the capital ERROR guam)  Agana.   
+ $ = 
 #! what is the capital ERROR dominican republic
-u: (what is the capital ERROR dominican republic) 
+u: (what is the capital ERROR dominican republic)  Santo Domingo.   
+ $ = 
 #! what is the capital ERROR peru
-u: (what is the capital ERROR peru) 
+u: (what is the capital ERROR peru)  Lima is the capital of Peru.
+ $ = 
 #! what is the capital ERROR kentucky
 u: (what is the capital ERROR kentucky) Frankfort.
 #! what is the capital ERROR latvia
-u: (what is the capital ERROR latvia) 
+u: (what is the capital ERROR latvia)  Riga.   
+ $ = 
 #! what is the capital ERROR cayman islands
-u: (what is the capital ERROR cayman islands) 
+u: (what is the capital ERROR cayman islands)  George Town.   
+ $ = 
 #! what is the capital ERROR bhutan
-u: (what is the capital ERROR bhutan) 
+u: (what is the capital ERROR bhutan)  Thimphu.   
+ $ = 
 #! what is the capital ERROR clipperton island
-u: (what is the capital ERROR clipperton island) 
+u: (what is the capital ERROR clipperton island)  none; administered by France from French Polynesia.   
+ $ = 
 #! what is the capital ERROR oklahoma
 u: (what is the capital ERROR oklahoma) Oklahoma City.
 #! what is the capital ERROR madagascar
-u: (what is the capital ERROR madagascar) 
+u: (what is the capital ERROR madagascar)  Antananarivo.   
+ $ = 
 #! what is the capital ERROR colombia
 u: (what is the capital ERROR colombia) Bogata is the capital of Columbia.
 #! what is the capital ERROR belgium
-u: (what is the capital ERROR belgium) 
+u: (what is the capital ERROR belgium)  Brussels.   
+ $ = 
 #! what is the capital ERROR philippines
-u: (what is the capital ERROR philippines) 
+u: (what is the capital ERROR philippines)  Manila.   
+ $ = 
 #! what is the capital ERROR central african TEST
-u: (what is the capital ERROR central african *) 
+u: (what is the capital ERROR central african *)  Bangui.   
+ $ = 
 #! what is the capital ERROR cook islands
-u: (what is the capital ERROR cook islands) 
+u: (what is the capital ERROR cook islands)  Avarua.   
+ $ = 
 #! what is the capital ERROR moldova
-u: (what is the capital ERROR moldova) 
+u: (what is the capital ERROR moldova)  Chisinau.   
+ $ = 
 #! what is the capital ERROR cote d ivoire
-u: (what is the capital ERROR cote d ivoire) 
+u: (what is the capital ERROR cote d ivoire)  Yamoussoukro.   
+ $ = 
 #! what is the capital ERROR faroe islands
-u: (what is the capital ERROR faroe islands) 
+u: (what is the capital ERROR faroe islands)  Torshavn.   
+ $ = 
 #! what is the capital ERROR kyrgyzstan
-u: (what is the capital ERROR kyrgyzstan) 
+u: (what is the capital ERROR kyrgyzstan)  Bishkek.   
+ $ = 
 #! what is the capital ERROR virginia
 u: (what is the capital ERROR virginia) Richmond.
 #! what is the capital ERROR seychelles
-u: (what is the capital ERROR seychelles) 
+u: (what is the capital ERROR seychelles)  Victoria.   
+ $ = 
 #! what is the capital ERROR jamaica
-u: (what is the capital ERROR jamaica) 
+u: (what is the capital ERROR jamaica)  Kingston.   
+ $ = 
 #! what is the capital ERROR wyoming
 u: (what is the capital ERROR wyoming) Cheyenne .
 #! what is the capital ERROR guyana
-u: (what is the capital ERROR guyana) 
+u: (what is the capital ERROR guyana)  Georgetown.   
+ $ = 
 #! what is the capital ERROR chad
-u: (what is the capital ERROR chad) 
+u: (what is the capital ERROR chad)  NDjamena.   
+ $ = 
 #! what is the capital ERROR anguilla
-u: (what is the capital ERROR anguilla) 
+u: (what is the capital ERROR anguilla)  The Valley.   
+ $ = 
 #! what is the capital ERROR guadeloupe
-u: (what is the capital ERROR guadeloupe) 
+u: (what is the capital ERROR guadeloupe)  Basse-Terre.   
+ $ = 
 #! what is the capital ERROR micronesia
-u: (what is the capital ERROR micronesia) 
+u: (what is the capital ERROR micronesia)  Kolonia on the island of Pohnpei.   
+ $ = 
 #! what is the capital ERROR jordan
-u: (what is the capital ERROR jordan) 
+u: (what is the capital ERROR jordan)  Amman.   
+ $ = 
 #! what is the capital ERROR connecticut
 u: (what is the capital ERROR connecticut) Hartford.
 #! what is the capital ERROR united arab TEST
-u: (what is the capital ERROR united arab *) 
+u: (what is the capital ERROR united arab *)  Abu Dhabi.   
+ $ = 
 #! what is the capital ERROR united states
-u: (what is the capital ERROR united states) 
+u: (what is the capital ERROR united states)  Washington, DC.   
+ $ = 
 #! what is the capital ERROR united kingdom
-u: (what is the capital ERROR united kingdom) 
+u: (what is the capital ERROR united kingdom)  London.   
+ $ = 
 #! what is the capital ERROR hong kong
-u: (what is the capital ERROR hong kong) 
+u: (what is the capital ERROR hong kong)  Victoria.   
+ $ = 
 #! what is the capital ERROR mexico
-u: (what is the capital ERROR mexico) 
+u: (what is the capital ERROR mexico)  Mexico.   
+ $ = 
 #! what is the capital ERROR montana
 u: (what is the capital ERROR montana) Helena.
 #! what is the capital ERROR illinois
 u: (what is the capital ERROR illinois) Springfield.
 #! what is the capital ERROR slovakia
-u: (what is the capital ERROR slovakia) 
+u: (what is the capital ERROR slovakia)  Bratislava.   
+ $ = 
 #! what is the capital ERROR denmark
-u: (what is the capital ERROR denmark) 
+u: (what is the capital ERROR denmark)  Copenhagen.   
+ $ = 
 #! what is the capital ERROR vietnam
-u: (what is the capital ERROR vietnam) 
+u: (what is the capital ERROR vietnam)  Hanoi.   
+ $ = 
 #! what is the capital ERROR aruba
-u: (what is the capital ERROR aruba) 
+u: (what is the capital ERROR aruba)  Oranjestad.   
+ $ = 
 #! what is the capital ERROR namibia
-u: (what is the capital ERROR namibia) 
+u: (what is the capital ERROR namibia)  Windhoek.   
+ $ = 
 #! what is the capital ERROR mississippi
 u: (what is the capital ERROR mississippi) Jackson.
 #! what is the capital ERROR senegal
-u: (what is the capital ERROR senegal) 
+u: (what is the capital ERROR senegal)  Dakar.   
+ $ = 
 #! what is the capital ERROR grenada
-u: (what is the capital ERROR grenada) 
+u: (what is the capital ERROR grenada)  Saint Georges.   
+ $ = 
 #! what is the capital ERROR suriname
-u: (what is the capital ERROR suriname) 
+u: (what is the capital ERROR suriname)  Paramaribo.   
+ $ = 
 #! what is the capital ERROR bolivia
-u: (what is the capital ERROR bolivia) 
+u: (what is the capital ERROR bolivia)  La Paz seat of government; Sucre legal capital and seat of judiciary.   
+ $ = 
 #! what is the capital ERROR haiti
-u: (what is the capital ERROR haiti) 
+u: (what is the capital ERROR haiti)  Port-au-Prince.   
+ $ = 
 #! what is the capital ERROR chile
-u: (what is the capital ERROR chile) 
+u: (what is the capital ERROR chile)  Santiago.   
+ $ = 
 #! what is the capital ERROR kenya
-u: (what is the capital ERROR kenya) 
+u: (what is the capital ERROR kenya)  Nairobi.   
+ $ = 
 #! what is the capital ERROR turkey
-u: (what is the capital ERROR turkey) 
+u: (what is the capital ERROR turkey)  Ankara is the capital of Turkey. 
+ $ = 
 #! what is the capital ERROR america
 u: (what is the capital ERROR america) The capital of the U.S. is Washington, D. C.
 #! what is the capital ERROR kingman reef
-u: (what is the capital ERROR kingman reef) 
+u: (what is the capital ERROR kingman reef)  none; administered from Washington, DC.   
+ $ = 
 #! what is the capital ERROR sri lanka
-u: (what is the capital ERROR sri lanka) 
+u: (what is the capital ERROR sri lanka)  Colombo.   
+ $ = 
 #! what is the capital ERROR barbados
-u: (what is the capital ERROR barbados) 
+u: (what is the capital ERROR barbados)  Bridgetown.   
+ $ = 
 #! what is the capital ERROR tokelau
-u: (what is the capital ERROR tokelau) 
+u: (what is the capital ERROR tokelau)  none; each atoll has its own administrative center.   
+ $ = 
 #! what is the capital ERROR bulgaria
-u: (what is the capital ERROR bulgaria) 
+u: (what is the capital ERROR bulgaria)  The capital of Bulgaria is Sofia.
+ $ = 
 #! what is the capital ERROR venezuela
-u: (what is the capital ERROR venezuela) 
+u: (what is the capital ERROR venezuela)  Caracas.   
+ $ = 
 #! what is the capital ERROR panama
-u: (what is the capital ERROR panama) 
+u: (what is the capital ERROR panama)  Panama.   
+ $ = 
 #! what is the capital ERROR mali
-u: (what is the capital ERROR mali) 
+u: (what is the capital ERROR mali)  Bamako.   
+ $ = 
 #! what is the capital ERROR switzerland
-u: (what is the capital ERROR switzerland) 
+u: (what is the capital ERROR switzerland)  Bern.   
+ $ = 
 #! what is the capital ERROR china
 u: (what is the capital ERROR china) Some people call it Beijing, others Peking.
 #! what is the capital ERROR maryland
 u: (what is the capital ERROR maryland) Annapolis.
 #! what is the capital ERROR burundi
-u: (what is the capital ERROR burundi) 
+u: (what is the capital ERROR burundi)  Bujumbura.   
+ $ = 
 #! what is the capital ERROR new caledonia
-u: (what is the capital ERROR new caledonia) 
+u: (what is the capital ERROR new caledonia)  Noumea.   
+ $ = 
 #! what is the capital ERROR new jersey
 u: (what is the capital ERROR new jersey) Trenton.
 #! what is the capital ERROR new hampshire
@@ -677,7 +913,8 @@ u: (what is the capital ERROR new york) Albany.
 #! what is the capital ERROR new mexico
 u: (what is the capital ERROR new mexico) Santa Fe.
 #! what is the capital ERROR new zealand
-u: (what is the capital ERROR new zealand) 
+u: (what is the capital ERROR new zealand)  Wellington.   
+ $ = 
 # unable to translate (what is the capital ERROR new *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -689,25 +926,33 @@ u: (what is the capital ERROR new zealand)
 #           };
 
 #! what is the capital ERROR lesotho
-u: (what is the capital ERROR lesotho) 
+u: (what is the capital ERROR lesotho)  Maseru.   
+ $ = 
 #! what is the capital ERROR massachusetts
 u: (what is the capital ERROR massachusetts) Boston.
 #! what is the capital ERROR benin
-u: (what is the capital ERROR benin) 
+u: (what is the capital ERROR benin)  Porto-Novo.   
+ $ = 
 #! what is the capital ERROR sierra leone
-u: (what is the capital ERROR sierra leone) 
+u: (what is the capital ERROR sierra leone)  Freetown.   
+ $ = 
 #! what is the capital ERROR reunion
-u: (what is the capital ERROR reunion) 
+u: (what is the capital ERROR reunion)  Saint-Denis.   
+ $ = 
 #! what is the capital ERROR tajikistan
-u: (what is the capital ERROR tajikistan) 
+u: (what is the capital ERROR tajikistan)  Dushanbe.   
+ $ = 
 #! what is the capital ERROR sudan
-u: (what is the capital ERROR sudan) 
+u: (what is the capital ERROR sudan)  Khartoum.   
+ $ = 
 #! what is the capital ERROR algeria
-u: (what is the capital ERROR algeria) 
+u: (what is the capital ERROR algeria)  Algiers.   
+ $ = 
 #! what is the capital of bosnia
 u: (what is the capital of bosnia) Sarajevo.
 #! what is the capital of alberta
-u: (what is the capital of alberta) 
+u: (what is the capital of alberta)  Edmonton.
+ $ = 
 #! what is the capital of TEST
 u: (what is the capital of *) [Canada is Toronto.  ]
 [California is Sacramento.  ]
@@ -715,9 +960,11 @@ u: (what is the capital of *) [Canada is Toronto.  ]
 [France is Paris.  ]
 
 #! what is canada
-u: (what is canada) 
+u: (what is canada) Canada  is a large nation occupying much of the North American continent.
+ $it = Canada
 #! what is amsterdam
-u: (what is amsterdam) 
+u: (what is amsterdam) Amsterdam  is a city in Holland.  Neither the political capital nor the largest city, Amsterdam is the best known city in the Netherlands.
+ $it = Amsterdam
 #! what is casablanca
 u: (what is casablanca) I love the song, As Time Goes By.
 #! what is california
@@ -727,13 +974,15 @@ u: (what is california like) California is too expensive.
 #! what is usa
 u: (what is usa) United States of America
 #! what is bethlehem
-u: (what is bethlehem) 
+u: (what is bethlehem)  Bethlehem is a small city in northeastern Pennsylvania.
+ $ = 
 #! what is greece
 u: (what is greece) [Its a word, its a word, its got mood its got feeling.]
 [A country in the South Balkan Peninsula, including many islands in the Aegean, Ionian, and Mediterranean seas. It is 50,949 square miles with a population of 9,900,000.]
 
 #! what is copenhagen
-u: (what is copenhagen) 
+u: (what is copenhagen)  It is the capital of Denmark. Seaport on the east coast of Zealand. Its population is 633,00.    
+ $ = 
 #! what is denmark
 u: (what is denmark) A country in Europe, occupyinh most of the peninsula of Jutland and several nearby islands in the North and Baltic seas. It is 16,632 square miles with a population of 5,124,000.
 # unable to translate (i live in california) match to cs rule - see struc below
@@ -761,7 +1010,8 @@ u: (what is denmark) A country in Europe, occupyinh most of the peninsula of Jut
 #! i do not live in usa
 u: (i do not live in usa) Where are you located?
 #! i love denmark
-u: (i love denmark) 
+u: (i love denmark)  What is so great about it?
+ $ = 
 #! australia TEST
 u: (australia *) I would like to go to Australia sometime.
 #! is that austlaria
@@ -781,27 +1031,32 @@ u: (canada is *) Tell me more about the Great White North.
 #! who is president of the usa
 u: (who is president of the usa) president
 #! who is president of the usa
-u: (who is president of the usa) 
+u: (who is president of the usa)  .
+ $ = 
 #! who is president of canada
 u: (who is president of canada) Canada has a Prime Minister, not a President.
 #! who is president of usa
 u: (who is president of usa) president
 #! who is president of usa
-u: (who is president of usa) 
+u: (who is president of usa)  .
+ $ = 
 #! who is the president of the usa
 u: (who is the president of the usa) president
 #! who is the president of the usa
-u: (who is the president of the usa) 
+u: (who is the president of the usa)  .
+ $ = 
 #! who is the president of canada
 u: (who is the president of canada) Canada has a Prime Minister.
 #! who is the president of usa
 u: (who is the president of usa) president
 #! who is the president of usa
-u: (who is the president of usa) 
+u: (who is the president of usa)  .
+ $ = 
 #! who is the president of usa TEST
 u: (who is the president of usa *) president
 #! who is the president of usa TEST
-u: (who is the president of usa *) 
+u: (who is the president of usa *)  .
+ $ = 
 #! who is winston churchill
 u: (who is winston churchill) Prime Minister of the U.K. during World War II.
 #! which continent is austria on
@@ -831,621 +1086,906 @@ u: (where in california) location
 #           };
 
 #! where is sudan
-u: (where is sudan) 
+u: (where is sudan)  Northern Africa, bordering the Red Sea, between Egypt and Eritrea.   
+ $ = 
 #! where is cincinnati
-u: (where is cincinnati) 
+u: (where is cincinnati)   is a large city in Ohio.
+ $it = 
 #! where is burundi
-u: (where is burundi) 
+u: (where is burundi)  Central Africa, east of Zaire.   
+ $ = 
 #! where is eritrea
-u: (where is eritrea) 
+u: (where is eritrea)  Eastern Africa, bordering the Red Sea, between Djibouti and Sudan.   
+ $ = 
 #! where is indianapolis
-u: (where is indianapolis) 
+u: (where is indianapolis)   is a large city in Indiana.
+ $it = 
 #! where is columbus
-u: (where is columbus) 
+u: (where is columbus)   is a city in Ohio.
+ $it = 
 #! where is sheffield
-u: (where is sheffield) 
+u: (where is sheffield)   is a town in England.
+ $it = 
 #! where is sydney
-u: (where is sydney) 
+u: (where is sydney) Sydney  is a city in Australia.
+ $it = Sydney
 #! where is saturn
-u: (where is saturn) 
+u: (where is saturn)   is the the sixth planet from the sun.
+ $it = 
 #! where is greece
-u: (where is greece) 
+u: (where is greece) Greece  is a country in the Balkans.
+ $it = Greece
 #! where is haiti
-u: (where is haiti) 
+u: (where is haiti)  Caribbean, western one-third of the island of Hispaniola, between the Caribbean Sea and the North Atlantic Ocean, west of the Dominican Republic.   
+ $ = 
 #! where is taiwan
-u: (where is taiwan) 
+u: (where is taiwan) Taiwan  is an island country in Asia.
+ $it = Taiwan
 #! where is botswana
-u: (where is botswana) 
+u: (where is botswana)  Southern Africa, north of South Africa.   
+ $ = 
 #! where is baker island
-u: (where is baker island) 
+u: (where is baker island)  Oceania, atoll in the North Pacific Ocean, about one-half of the way from Hawaii to Australia.   
+ $ = 
 #! where is costa rica
-u: (where is costa rica) 
+u: (where is costa rica)  Middle America, bordering both the Caribbean Sea and the North Pacific Ocean, between Nicaragua and Panama.   
+ $ = 
 #! where is kansas
-u: (where is kansas) 
+u: (where is kansas) Kansas  is in the midwestern United States.W
+ $it = Kansas
 #! where is gabon
-u: (where is gabon) 
+u: (where is gabon)  Western Africa, bordering the Atlantic Ocean at the Equator, between Congo and Equatorial Guinea.   
+ $ = 
 #! where is gibraltar
-u: (where is gibraltar) 
+u: (where is gibraltar)  Southwestern Europe, bordering the Strait of Gibraltar, which links the Mediterranean Sea and the North Atlantic Ocean, on the southern coast of Spain.   
+ $ = 
 #! where is dominican republic
-u: (where is dominican republic) 
+u: (where is dominican republic)  Caribbean, eastern two-thirds of the island of Hispaniola, between the Caribbean Sea and the North Atlantic Ocean, east of Haiti.   
+ $ = 
 #! where is arctic ocean
-u: (where is arctic ocean) 
+u: (where is arctic ocean)  body of water mostly north of the Arctic Circle.   
+ $ = 
 #! where is london
-u: (where is london) 
+u: (where is london) London  is a city in England.
+ $it = London
 #! where is japan
-u: (where is japan) 
+u: (where is japan)   is an island nation on the eastern side of Asia.
+ $it = 
 #! where is mali
-u: (where is mali) 
+u: (where is mali)  Western Africa, southwest of Algeria.   
+ $ = 
 #! where is china
-u: (where is china) 
+u: (where is china)   is a large nation in Asia.
+ $it = 
 #! where is rome
-u: (where is rome) 
+u: (where is rome)   is a large city in Italy.
+ $it = 
 #! where is chicago
-u: (where is chicago) 
+u: (where is chicago)   is a large city in Illinois, on lake Michigan.
+ $it = 
 #! where is pittsfield
-u: (where is pittsfield) 
+u: (where is pittsfield)   is a town in Massachusettes.
+ $it = 
 #! where is oslo
-u: (where is oslo) 
+u: (where is oslo) Oslo  is a city in Norway.
+ $it = Oslo
 #! where is acapulco
-u: (where is acapulco) 
+u: (where is acapulco) Acapulco  is a city on the Pacific coast of Mexico.
+ $it = Acapulco
 #! where is cambridge
-u: (where is cambridge) 
+u: (where is cambridge)   is a city in Massachusetts, also in England.
+ $it = 
 #! where is hull
-u: (where is hull) 
+u: (where is hull)   is a town in England.
+ $it = 
 #! where is bhutan
-u: (where is bhutan) 
+u: (where is bhutan)  Southern Asia, between China and India.   
+ $ = 
 #! where is ireland
-u: (where is ireland) 
+u: (where is ireland) Ireland  is located on a small island off the coast of Europe.
+ $it = Ireland
 #! where is jamaica
-u: (where is jamaica) 
+u: (where is jamaica)  Caribbean, island in the Caribbean Sea, south of Cuba.   
+ $ = 
 #! where is micronesia
-u: (where is micronesia) 
+u: (where is micronesia)   is a collection of islands in the Pacific ocean.
+ $it = 
 #! where is zaire
-u: (where is zaire) 
+u: (where is zaire)  Central Africa, northeast of Angola.   
+ $ = 
 #! where is athens
-u: (where is athens) 
+u: (where is athens) Athens  is a city in Greece.
+ $it = Athens
 #! where is liberia
-u: (where is liberia) 
+u: (where is liberia)  Western Africa, bordering the North Atlantic Ocean, between Cote dIvoire and Sierra Leone.   
+ $ = 
 #! where is bassas da india
-u: (where is bassas da india) 
+u: (where is bassas da india)  Southern Africa, islands in the southern Mozambique Channel, about one-half of the way from Madagascar to Mozambique.   
+ $ = 
 #! where is sofia
-u: (where is sofia) 
+u: (where is sofia)   is a city in Bulgaria.
+ $it = 
 #! where is indiana
-u: (where is indiana) 
+u: (where is indiana) Indiana  is in the midwestern United States.
+ $it = Indiana
 #! where is siam
-u: (where is siam) 
+u: (where is siam)   is another name for Thailand.
+ $it = 
 #! where is norfolk island
-u: (where is norfolk island) 
+u: (where is norfolk island)  Oceania, island in the South Pacific Ocean, east of Australia.   
+ $ = 
 #! where is norfolk
-u: (where is norfolk) 
+u: (where is norfolk)   is a city in Virgina.
+ $it = 
 #! where is madagascar
-u: (where is madagascar) 
+u: (where is madagascar)  Southern Africa, island in the Indian Ocean, east of Mozambique.   
+ $ = 
 #! where is warsaw
-u: (where is warsaw) 
+u: (where is warsaw)   is a large city in Poland.
+ $it = 
 #! where is bristol
-u: (where is bristol) 
+u: (where is bristol)   is a city on the west coast of England.
+ $it = 
 #! where is algeria
-u: (where is algeria) 
+u: (where is algeria)  Northern Africa, bordering the Mediterranean Sea, between Morocco and Tunisia.   
+ $ = 
 #! where is russia
-u: (where is russia) 
+u: (where is russia) Russia  is a large country in Asia.
+ $it = Russia
 #! where is boston
-u: (where is boston) 
+u: (where is boston)   is a city in Massachusettes.
+ $it = 
 #! where is kenya
-u: (where is kenya) 
+u: (where is kenya)   is a country in central Africa.
+ $it = 
 #! where is taipei
-u: (where is taipei) 
+u: (where is taipei)  It is the capital of Taiwan.  
+ $ = 
 #! where is england
-u: (where is england) 
+u: (where is england) England  is located on a small island off the coast of Europe.
+ $it = England
 #! where is neptune
-u: (where is neptune) 
+u: (where is neptune)   is the eighth planet from the Sun, the last gas planet.
+ $it = 
 #! where is oman
-u: (where is oman) 
+u: (where is oman)  Middle East, bordering the Arabian Sea, Gulf of Oman, and Persian Gulf, between Yemen and UAE.   
+ $ = 
 #! where is zurich
-u: (where is zurich) 
+u: (where is zurich) Zurich  is a city in Switzerland.
+ $it = Zurich
 #! where is manchester
 u: (where is manchester) Machester is a city in western England.
 #! where is benin
-u: (where is benin) 
+u: (where is benin)  Western Africa, bordering the North Atlantic Ocean, between Nigeria and Togo.   
+ $ = 
 #! where is seattle
-u: (where is seattle) 
+u: (where is seattle)   is a large city in Washington state, near Vancover Canada.
+ $it = 
 #! where is singapore
-u: (where is singapore) 
+u: (where is singapore)   is a island nation-state at the tip of the Malay penninsula.
+ $it = 
 #! where is ontario
-u: (where is ontario) 
+u: (where is ontario)   is a province of Canada.
+ $it = 
 #! where is wyoming
-u: (where is wyoming) 
+u: (where is wyoming)   is a western U.S. state between Montana and Colorado.
+ $it = 
 #! where is elvis
-u: (where is elvis) 
+u: (where is elvis) Elvis  passed away some time ago.
+ $he = Elvis
 #! where is oxnard
-u: (where is oxnard) 
+u: (where is oxnard)   is a city in California.
+ $it = 
 #! where is spain
-u: (where is spain) 
+u: (where is spain)   is on the Iberian penninsula in southwestern Europe.
+ $it = 
 #! where is toronto
-u: (where is toronto) 
+u: (where is toronto) Toronto  is a city in Canada.
+ $it = Toronto
 #! where is barcelona
-u: (where is barcelona) 
+u: (where is barcelona) Barcelona  is a city in Spain.
+ $it = Barcelona
 #! where is palmyra atoll
-u: (where is palmyra atoll) 
+u: (where is palmyra atoll)  Oceania, atoll in the North Pacific Ocean, about one-half of the way from Hawaii to American Samoa.   
+ $ = 
 #! where is utah
-u: (where is utah) 
+u: (where is utah) Utah  is in the western United States.
+ $it = Utah
 #! where is tennessee
-u: (where is tennessee) 
+u: (where is tennessee) Tennessee  is in the southern United States..
+ $it = Tennessee
 #! where is new caledonia
-u: (where is new caledonia) 
+u: (where is new caledonia)  Oceania, islands in the South Pacific Ocean, east of Australia.   
+ $ = 
 #! where is new orleans
-u: (where is new orleans) 
+u: (where is new orleans) New Orleans  is a city in Louisiana.
+ $it = New Orleans
 #! where is new york city
-u: (where is new york city) 
+u: (where is new york city) New York  is located in the Northeastern United States.
+ $it = New York
 #! where is new york
-u: (where is new york) 
+u: (where is new york) New York  is located in the Northeastern United States.
+ $it = New York
 #! where is new zealand
-u: (where is new zealand) 
+u: (where is new zealand)  Oceania, islands in the South Pacific Ocean, southeast of Australia.   
+ $ = 
 #! where is juan de nova island
-u: (where is juan de nova island) 
+u: (where is juan de nova island)  Southern Africa, island in the Mozambique Channel, about one-third of the way between Madagascar and Mozambique.   
+ $ = 
 #! where is melbourne
-u: (where is melbourne) 
+u: (where is melbourne)   is a city in Australia and also in Florida.
+ $it = 
 #! where is kazakstan
-u: (where is kazakstan) 
+u: (where is kazakstan)  Central Asia, northwest of China.   
+ $ = 
 #! where is vermont
-u: (where is vermont) 
+u: (where is vermont)   is in New England, between New York and New Hampshire, on the west bank of the Connecticut river.
+ $it = 
 #! where is united arab emirates
-u: (where is united arab emirates) 
+u: (where is united arab emirates)  Middle East, bordering the Gulf of Oman and the Persian Gulf, between Oman and Saudi Arabia.   
+ $ = 
 #! where is united states
-u: (where is united states) 
+u: (where is united states)  North America, bordering both the North Atlantic Ocean and the North Pacific Ocean, between Canada and Mexico.   
+ $ = 
 #! where is united kingdom
-u: (where is united kingdom) 
+u: (where is united kingdom)  Western Europe, islands including the northern one-sixth of the island of Ireland between the North Atlantic Ocean and the North Sea, northwest of France.   
+ $ = 
 #! where is czechoslovakia
 u: (where is czechoslovakia) In the past.  That country no longer exists.
 #! where is el salvador
-u: (where is el salvador) 
+u: (where is el salvador)  Middle America, bordering the North Pacific Ocean, between Guatemala and Honduras.   
+ $ = 
 #! where is panama
-u: (where is panama) 
+u: (where is panama)   is on the isthmus between North and South America.
+ $it = 
 #! where is christmas island
-u: (where is christmas island) 
+u: (where is christmas island)  Southeastern Asia, island in the Indian Ocean, south of Indonesia.   
+ $ = 
 #! where is nauru
-u: (where is nauru) 
+u: (where is nauru)  Oceania, island in the South Pacific Ocean, south of the Marshall Islands.   
+ $ = 
 #! where is manila
-u: (where is manila) 
+u: (where is manila) Manila  is a city in the Phillipines.
+ $it = Manila
 #! where is houston
-u: (where is houston) 
+u: (where is houston) Houston  is a city in Texas.
+ $it = Houston
 #! where is israel
-u: (where is israel) 
+u: (where is israel) Israel  is located on the Mediterranian sea, in the Middle East.
+ $it = Israel
 #! where is philippines
-u: (where is philippines) 
+u: (where is philippines)  Southeastern Asia, archipelago between the Philippine Sea and the South China Sea, east of Vietnam.   
+ $ = 
 #! where is indian ocean
-u: (where is indian ocean) 
+u: (where is indian ocean)  body of water between Africa, Antarctica, Asia, and Australia.   
+ $ = 
 #! where is wake island
-u: (where is wake island) 
+u: (where is wake island)  Oceania, island in the North Pacific Ocean, about two-thirds of the way from Hawaii to the Northern Mariana Islands.   
+ $ = 
 #! where is corona
-u: (where is corona) 
+u: (where is corona)   is a suburb of Los Angeles.
+ $it = 
 #! where is wonderland
-u: (where is wonderland) 
+u: (where is wonderland)   is in the future.
+ $it = 
 #! where is korea
-u: (where is korea) 
+u: (where is korea)   is a peninsula on the eastern edge of the Asian continent.
+ $it = 
 #! where is illinois
-u: (where is illinois) 
+u: (where is illinois) Illinos  is in the midwestern United States.
+ $it = Illinos
 #! where is vanuatu
-u: (where is vanuatu) 
+u: (where is vanuatu)  Oceania, group of islands in the South Pacific Ocean, about three-quarters of the way from Hawaii to Australia.   
+ $ = 
 #! where is chile
-u: (where is chile) 
+u: (where is chile)  Southern South America, bordering the South Atlantic Ocean and South Pacific Ocean, between Argentina and Peru.   
+ $ = 
 #! where is bahrain
-u: (where is bahrain) 
+u: (where is bahrain)  Middle East, archipelago in the Persian Gulf, east of Saudi Arabia.   
+ $ = 
 #! where is cupertino
-u: (where is cupertino) 
+u: (where is cupertino)   is in Silicon Valley.
+ $it = 
 #! where is moldova
-u: (where is moldova) 
+u: (where is moldova)  Eastern Europe, northeast of Romania.   
+ $ = 
 #! where is macau
-u: (where is macau) 
+u: (where is macau)  Eastern Asia, bordering the South China Sea and China.   
+ $ = 
 #! where is virgin islands
-u: (where is virgin islands) 
+u: (where is virgin islands)  Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico.   
+ $ = 
 #! where is finland
-u: (where is finland) 
+u: (where is finland) Finland  is a country in eastern europe, bordering Sweden and Russia.
+ $it = Finland
 #! where is rio
-u: (where is rio) 
+u: (where is rio)   is a large city in Brazil
+ $it = 
 #! where is slovakia
-u: (where is slovakia) 
+u: (where is slovakia)  Central Europe, south of Poland.   
+ $ = 
 #! where is macedonia
-u: (where is macedonia) 
+u: (where is macedonia)   is a small nation between Greece and Serbia.
+ $it = 
 #! where is australia
-u: (where is australia) 
+u: (where is australia) Australia  is a large island-continent in  the southern hemishphere.
+ $it = Australia
 #! where is tokelau
-u: (where is tokelau) 
+u: (where is tokelau)  Oceania, group of islands in the South Pacific Ocean, about one-half of the way from Hawaii to New Zealand.   
+ $ = 
 #! where is zimbabwe
-u: (where is zimbabwe) 
+u: (where is zimbabwe)  Southern Africa, northeast of Botswana.   
+ $ = 
 #! where is kingman reef
-u: (where is kingman reef) 
+u: (where is kingman reef)  Oceania, reef in the North Pacific Ocean, about one-half of the way from Hawaii to American Samoa.   
+ $ = 
 #! where is perth
-u: (where is perth) 
+u: (where is perth)   is a city in western Australia.
+ $it = 
 #! where is heaven
 u: (where is heaven) All around us.
 #! where is puerto rico
-u: (where is puerto rico) 
+u: (where is puerto rico)  Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, east of the Dominican Republic.   
+ $ = 
 #! where is mexico
 u: (where is mexico) Mexico so far from God, so close to the United States.
 #! where is clipperton island
-u: (where is clipperton island) 
+u: (where is clipperton island)  Middle America, atoll in the North Pacific Ocean, 1,120 km southwest of Mexico.   
+ $ = 
 #! where is maldives
-u: (where is maldives) 
+u: (where is maldives)  Southern Asia, group of atolls in the Indian Ocean, south-southwest of India.   
+ $ = 
 #! where is europa island
-u: (where is europa island) 
+u: (where is europa island)  Southern Africa, island in the Mozambique Channel, about one-half of the way from southern Madagascar to southern Mozambique.   
+ $ = 
 #! where is lisbon
-u: (where is lisbon) 
+u: (where is lisbon) Lisbon  is a city in Portugal.
+ $it = Lisbon
 #! where is slovenia
-u: (where is slovenia) 
+u: (where is slovenia)  Southeastern Europe, bordering the Adriatic Sea, between Croatia and Italy.   
+ $ = 
 #! where is lichtenstein
-u: (where is lichtenstein) 
+u: (where is lichtenstein)   is a tiny country in central Europe.
+ $it = 
 #! where is mongolia
-u: (where is mongolia) 
+u: (where is mongolia)   is in central Asia between Russian Siberia and China.
+ $it = 
 #! where is wales
-u: (where is wales) 
+u: (where is wales) Wales  is located on a small island off the coast of Europe.
+ $it = Wales
 #! where is montana
-u: (where is montana) 
+u: (where is montana)   is in the northwest United States between the Dakotas and Idaho.
+ $it = 
 #! where is hoffa
 u: (where is hoffa) We may never know.
 #! where is mauritius
-u: (where is mauritius) 
+u: (where is mauritius)  Southern Africa, island in the Indian Ocean, east of Madagascar.   
+ $ = 
 #! where is berkeley
-u: (where is berkeley) 
+u: (where is berkeley)   is in northern California, across the bay from San Francisco.
+ $it = 
 #! where is mars
-u: (where is mars) 
+u: (where is mars)   is the fourth planet from the Sun.
+ $it = 
 #! where is morocco
-u: (where is morocco) 
+u: (where is morocco)   is a nation in northwest Africa, close to Spain.
+ $it = 
 #! where is belgium
-u: (where is belgium) 
+u: (where is belgium) Belgium  is a country in western Europe, between France, Germany and Holland.
+ $it = Belgium
 #! where is florida
-u: (where is florida) 
+u: (where is florida)   is in the southeast United States, extending on a large peninsula.
+ $it = 
 #! where is guam
-u: (where is guam) 
+u: (where is guam)  Oceania, island in the North Pacific Ocean, about three-quarters of the way from Hawaii to the Philippines.   
+ $ = 
 #! where is colombia
-u: (where is colombia) 
+u: (where is colombia)   is a country in South America.
+ $it = 
 #! where is faroe islands
-u: (where is faroe islands) 
+u: (where is faroe islands)  Northern Europe, island group between the Norwegian Sea and the north Atlantic Ocean, about one-half of the way from Iceland to Norway.   
+ $ = 
 #! where is cote d ivoire
-u: (where is cote d ivoire) 
+u: (where is cote d ivoire)  Western Africa, bordering the North Atlantic Ocean, between Ghana and Liberia.   
+ $ = 
 #! where is afghanistan
-u: (where is afghanistan) 
+u: (where is afghanistan)  Southern Asia, north of Pakistan.   
+ $ = 
 #! where is hong kong
-u: (where is hong kong) 
+u: (where is hong kong) Hong Kong  is a city in China.
+ $it = Hong Kong
 #! where is moscow
-u: (where is moscow) 
+u: (where is moscow) Moscow  is a city in Russia.
+ $it = Moscow
 #! where is kuwait
-u: (where is kuwait) 
+u: (where is kuwait)   is a small nation on the Persian gulf.
+ $it = 
 #! where is holland
-u: (where is holland) 
+u: (where is holland) Holland  is a country in western Europe, next to Germany and Belgium.
+ $it = Holland
 #! where is monaco
-u: (where is monaco) 
+u: (where is monaco)  Western Europe, bordering the Mediterranean Sea, on the southern coast of France, near the border with Italy.   
+ $ = 
 #! where is turks and caicos islands
-u: (where is turks and caicos islands) 
+u: (where is turks and caicos islands)  Caribbean, two island groups in the North Atlantic Ocean, southeast of The Bahamas.   
+ $ = 
 #! where is tromelin island
-u: (where is tromelin island) 
+u: (where is tromelin island)  Southern Africa, island in the Indian Ocean, east of Madagascar.   
+ $ = 
 #! where is minnesota
-u: (where is minnesota) 
+u: (where is minnesota)   is on the northern border of the United States, between Wisconsin and North Dakota.
+ $it = 
 #! where is TEST virginia
 u: (where is * virginia) Um, in Virgina somewhere?
 #! where is TEST california
 u: (where is * california) Somewhere in California, I presume?
 #! where is american samoa
-u: (where is american samoa) 
+u: (where is american samoa)  Oceania, group of islands in the South Pacific Ocean, about one-half of the way from Hawaii to New Zealand.   
+ $ = 
 #! where is atlanta
-u: (where is atlanta) 
+u: (where is atlanta)  It the capital of Georgia.  
+ $ = 
 #! where is seoul
-u: (where is seoul) 
+u: (where is seoul)  It is the capital of South Korea.
+ $ = 
 #! where is manhattan
-u: (where is manhattan) 
+u: (where is manhattan) Manhattan  is the island center of New York City.
+ $it = Manhattan
 #! where is guadeloupe
-u: (where is guadeloupe) 
+u: (where is guadeloupe)  Caribbean, islands in the eastern Caribbean Sea, southeast of Puerto Rico.   
+ $ = 
 #! where is uganda
-u: (where is uganda) 
+u: (where is uganda)  Eastern Africa, west of Kenya.   
+ $ = 
 #! where is cayman islands
-u: (where is cayman islands) 
+u: (where is cayman islands)  Caribbean, island group in Caribbean Sea, nearly one-half of the way from Cuba to Honduras.   
+ $ = 
 #! where is togo
-u: (where is togo) 
+u: (where is togo)  Western Africa, bordering the North Atlantic Ocean, between Benin and Ghana.   
+ $ = 
 #! where is troy
-u: (where is troy) 
+u: (where is troy)   is a city in New York.
+ $it = 
 #! where is ghana
-u: (where is ghana) 
+u: (where is ghana)   is a nation in west Africa.
+ $it = 
 #! where is central african republic
-u: (where is central african republic) 
+u: (where is central african republic)  Central Africa, north of Zaire.   
+ $ = 
 #! where is saskatoon
-u: (where is saskatoon) 
+u: (where is saskatoon)   is a city in Saskatchewan.
+ $it = 
 #! where is einstein
-u: (where is einstein) 
+u: (where is einstein) Einstein  passed away some time ago.
+ $he = Einstein
 #! where is mit
-u: (where is mit) 
+u: (where is mit)   is a trade school in Cambridge, Mass.
+ $it = 
 #! where is bulgaria
-u: (where is bulgaria) 
+u: (where is bulgaria) Bulgaria  is a country in the Balkans.
+ $it = Bulgaria
 #! where is coral sea islands
-u: (where is coral sea islands) 
+u: (where is coral sea islands)  Oceania, islands in the Coral Sea, northeast of Australia.   
+ $ = 
 #! where is mississippi
-u: (where is mississippi) 
+u: (where is mississippi) Mississippi  is in the southern United States.
+ $it = Mississippi
 #! where is indonesia
-u: (where is indonesia) 
+u: (where is indonesia)   is an island nation in southeast Asia.
+ $it = 
 #! where is western sahara
-u: (where is western sahara) 
+u: (where is western sahara)  Northern Africa, bordering the North Atlantic Ocean, between Mauritania and Morocco.   
+ $ = 
 #! where is western samoa
-u: (where is western samoa) 
+u: (where is western samoa)  Oceania, group of islands in the South Pacific Ocean, about one-half of the way from Hawaii to New Zealand.   
+ $ = 
 #! where is jupiter
-u: (where is jupiter) 
+u: (where is jupiter)   is the fifth planet from the sun.
+ $it = 
 #! where is austria
-u: (where is austria) 
+u: (where is austria)  Central Europe, north of Italy.   
+ $ = 
 #! where is connecticut
-u: (where is connecticut) 
+u: (where is connecticut)   is a New England state between New York, Massaschusetts and Rhode Island.
+ $it = 
 #! where is azerbaijan
-u: (where is azerbaijan) 
+u: (where is azerbaijan)  Southwestern Asia, bordering the Caspian Sea, between Iran and Russia.   
+ $ = 
 #! where is hungary
-u: (where is hungary) 
+u: (where is hungary) Hungary  is a country in central Europe.
+ $it = Hungary
 #! where is san marino
-u: (where is san marino) 
+u: (where is san marino)  Southern Europe, an enclave in central Italy.   
+ $ = 
 #! where is san francisco
 u: (where is san francisco) California.
 #! where is san diego
-u: (where is san diego) 
+u: (where is san diego) San Diego  is a city in California.
+ $it = San Diego
 #! where is san jose
-u: (where is san jose) 
+u: (where is san jose) San Jose  is a city in California.
+ $it = San Jose
 #! where is tuvalu
-u: (where is tuvalu) 
+u: (where is tuvalu)  Oceania, island group consisting of nine coral atolls in the South Pacific Ocean, about one-half of the way from Hawaii to Australia.   
+ $ = 
 #! where is that
 u: (where is that) What does that refer to?
 #! where is antigua and barbuda
-u: (where is antigua and barbuda) 
+u: (where is antigua and barbuda)  Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, east-southeast of Puerto Rico.   
+ $ = 
 #! where is denver
-u: (where is denver) 
+u: (where is denver) Denver  is a city in Colorado.
+ $it = Denver
 #! where is yakima
-u: (where is yakima) 
+u: (where is yakima)   is a city and a river in Washington.
+ $it = 
 #! where is sri lanka
-u: (where is sri lanka) 
+u: (where is sri lanka)  Southern Asia, island in the Indian Ocean, south of India.   
+ $ = 
 #! where is sri
-u: (where is sri) 
+u: (where is sri)   is a research outfit in Silicon Valley.
+ $it = 
 #! where is iowa
-u: (where is iowa) 
+u: (where is iowa)   is in the midwest, between the Mississipi and Missouri rivers.
+ $it = 
 #! where is asia
-u: (where is asia) 
+u: (where is asia) Asia  is a the largest continent.
+ $it = Asia
 #! where is brussels
-u: (where is brussels) 
+u: (where is brussels) Brussels  is a city in Belgium.
+ $it = Brussels
 #! where is paris
-u: (where is paris) 
+u: (where is paris) Paris  is a city in France.
+ $it = Paris
 #! where is india
-u: (where is india) 
+u: (where is india) India  is a giant country in southern Asia.
+ $it = India
 #! where is amsterdam
-u: (where is amsterdam) 
+u: (where is amsterdam) Amsterdam  is a city in the Netherlands.
+ $it = Amsterdam
 #! where is albuquerque
-u: (where is albuquerque) 
+u: (where is albuquerque)   is a city in New Mexico.
+ $it = 
 #! where is jarvis island
-u: (where is jarvis island) 
+u: (where is jarvis island)  Oceania, island in the South Pacific Ocean, about one-half of the way from Hawaii to the Cook Islands.   
+ $ = 
 #! where is stonewall
-u: (where is stonewall) 
+u: (where is stonewall)   is a town in Mississippi.
+ $it = 
 #! where is tuscaloosa
-u: (where is tuscaloosa) 
+u: (where is tuscaloosa)   is in Alabama, last I heard.
+ $it = 
 #! where is ecuador
-u: (where is ecuador) 
+u: (where is ecuador)  Western South America, bordering the Pacific Ocean at the Equator, between Colombia and Peru.   
+ $ = 
 #! where is suriname
-u: (where is suriname) 
+u: (where is suriname)  Northern South America, bordering the North Atlantic Ocean, between French Guiana and Guyana.   
+ $ = 
 #! where is pennsylvania
-u: (where is pennsylvania) 
+u: (where is pennsylvania) Pennsylvania  is located in the Northeastern United States.
+ $it = Pennsylvania
 #! where is nairobi
-u: (where is nairobi) 
+u: (where is nairobi)   is a city in Kenya.
+ $it = 
 #! where is latvia
-u: (where is latvia) 
+u: (where is latvia)  Eastern Europe, bordering the Baltic Sea, between Estonia and Lithuania.   
+ $ = 
 #! where is cape verde
-u: (where is cape verde) 
+u: (where is cape verde)  Western Africa, group of Islands in the North Atlantic Ocean, west of Senegal.   
+ $ = 
 #! where is bethlehem
 u: (where is bethlehem) Bethlehem, Pennsylvania is located in the northeastern area of the state, about 90 miles from Philadelphia.
 #! where is kraftwerk
 u: (where is kraftwerk) They are from Dusseldorf, Germany.
 #! where is venezuela
-u: (where is venezuela) 
+u: (where is venezuela)  Northern South America, bordering the Caribbean Sea and the North Atlantic Ocean, between Colombia and Guyana.   
+ $ = 
 #! where is atlantic ocean
-u: (where is atlantic ocean) 
+u: (where is atlantic ocean)  body of water between Africa, Europe, Antarctica, and the Western Hemisphere.   
+ $ = 
 #! where is sierra leone
-u: (where is sierra leone) 
+u: (where is sierra leone)  Western Africa, bordering the North Atlantic Ocean, between Guinea and Liberia.   
+ $ = 
 #! where is ukraine
-u: (where is ukraine) 
+u: (where is ukraine)  Eastern Europe, bordering the Black Sea, between Poland and Russia.   
+ $ = 
 #! where is vietnam
-u: (where is vietnam) 
+u: (where is vietnam)   is in southeast Asia.
+ $it = 
 #! where is british virgin islands
-u: (where is british virgin islands) 
+u: (where is british virgin islands)  Caribbean, between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico.   
+ $ = 
 #! where is british indian ocean territory
-u: (where is british indian ocean territory) 
+u: (where is british indian ocean territory)  Southern Asia, archipelago in the Indian Ocean, about one-half the way from Africa to Indonesia.   
+ $ = 
 #! where is switzerland
-u: (where is switzerland) 
+u: (where is switzerland) Switzerland  is a country in centrail Europe, bordering Italy, Austria and France.
+ $it = Switzerland
 #! where is pluto
-u: (where is pluto) 
+u: (where is pluto)   is the ninth planet from the Sun.
+ $it = 
 #! where is stockholm
-u: (where is stockholm) 
+u: (where is stockholm)   is a large city in Sweden.
+ $it = 
 #! where is egypt
-u: (where is egypt) 
+u: (where is egypt)   is a country in north east Africa.
+ $it = 
 #! where is honduras
-u: (where is honduras) 
+u: (where is honduras)  Middle America, bordering the Caribbean Sea, between Guatemala and Nicaragua and bordering the North Pacific Ocean, between El Salvador and Nicaragua.   
+ $ = 
 #! where is portsmouth
 u: (where is portsmouth) Portsmouth, New Hampshire and Portsmouth, England.
 #! where is guyana
-u: (where is guyana) 
+u: (where is guyana)  Northern South America, bordering the North Atlantic Ocean, between Suriname and Venezuela.   
+ $ = 
 #! where is south korea
-u: (where is south korea) 
+u: (where is south korea)  Eastern Asia, southern half of the Korean Peninsula bordering the Sea of Japan and the Yellow Sea, south of North Korea.   
+ $ = 
 #! where is south africa
-u: (where is south africa) 
+u: (where is south africa)  Southern Africa, at the southern tip of the continent of Africa.   
+ $ = 
 #! where is hamburg
-u: (where is hamburg) 
+u: (where is hamburg)   is a large city in western Germany.
+ $it = 
 #! where is belize
-u: (where is belize) 
+u: (where is belize)  Middle America, bordering the Caribbean Sea, between Guatemala and Mexico.   
+ $ = 
 #! where is kashmir
-u: (where is kashmir) 
+u: (where is kashmir)   is a disputed area between India and Pakistan.
+ $it = 
 #! where is uzbekistan
-u: (where is uzbekistan) 
+u: (where is uzbekistan)  Central Asia, north of Afghanistan.   
+ $ = 
 #! where is toledo
-u: (where is toledo) 
+u: (where is toledo)   is a city in Ohio.
+ $it = 
 #! where is paracel islands
-u: (where is paracel islands) 
+u: (where is paracel islands)  Southeastern Asia, group of small islands and reefs in the South China Sea, about one-third of the way from central Vietnam to the northern Philippines.   
+ $ = 
 #! where is johnston atoll
-u: (where is johnston atoll) 
+u: (where is johnston atoll)  Oceania, atoll in the North Pacific Ocean, about one-third of the way from Hawaii to the Marshall Islands.   
+ $ = 
 #! where is midway islands
-u: (where is midway islands) 
+u: (where is midway islands)  Oceania, atoll in the North Pacific Ocean, about one-third of the way from Honolulu to Tokyo.   
+ $ = 
 #! where is albania
-u: (where is albania) 
+u: (where is albania)   is on the Adriatic sea, bordering Greece and the former Yugoslavia.
+ $it = 
 #! where is equatorial guinea
-u: (where is equatorial guinea) 
+u: (where is equatorial guinea)  Western Africa, bordering the North Atlantic Ocean, between Cameroon and Gabon.   
+ $ = 
 #! where is maine
-u: (where is maine) 
+u: (where is maine) Maine  is in the northeastern corner of the United States, bordering Canada.
+ $it = Maine
 #! where is djibouti
-u: (where is djibouti) 
+u: (where is djibouti)  Eastern Africa, bordering the Gulf of Aden and the Red Sea, between Eritrea and Somalia.   
+ $ = 
 #! where is tajikistan
-u: (where is tajikistan) 
+u: (where is tajikistan)  Central Asia, west of China.   
+ $ = 
 #! where is argentina
-u: (where is argentina) 
+u: (where is argentina) Argentina  is a country in South America.
+ $it = Argentina
 #! where is comoros
-u: (where is comoros) 
+u: (where is comoros)  Southern Africa, group of islands in the Mozambique Channel, about two-thirds of the way between northern Madagascar and northern Mozambique.   
+ $ = 
 #! where is jersey
-u: (where is jersey) 
+u: (where is jersey)  Western Europe, island in the English Channel, northwest of France.   
+ $ = 
 #! where is carthage
-u: (where is carthage) 
+u: (where is carthage)   is the ancient name for Tunisia.
+ $it = 
 #! where is cook islands
-u: (where is cook islands) 
+u: (where is cook islands)  Oceania, group of islands in the South Pacific Ocean, about one-half of the way from Hawaii to New Zealand.   
+ $ = 
 #! where is armenia
-u: (where is armenia) 
+u: (where is armenia)  Southwestern Asia, east of Turkey.   
+ $ = 
 #! where is seychelles
-u: (where is seychelles) 
+u: (where is seychelles)  Eastern Africa, group of islands in the Indian Ocean, northeast of Madagascar.   
+ $ = 
 #! where is mauritania
-u: (where is mauritania) 
+u: (where is mauritania)  Northern Africa, bordering the North Atlantic Ocean, between Senegal and Western Sahara.   
+ $ = 
 #! where is omaha
-u: (where is omaha) 
+u: (where is omaha)   is a city in Nebraska.
+ $it = 
 #! where is cyprus
-u: (where is cyprus) 
+u: (where is cyprus)  Middle East, island in the Mediterranean Sea, south of Turkey.   
+ $ = 
 #! where is cocos islands
-u: (where is cocos islands) 
+u: (where is cocos islands)  Southeastern Asia, group of islands in the Indian Ocean, south of Indonesia, about one-half of the way from Australia to Sri Lanka.   
+ $ = 
 #! where is poland
 u: (where is poland) Poland is a large country in central Europe.
 #! where is sweden
-u: (where is sweden) 
+u: (where is sweden) Sweden  is a country in northern europe, bordering Finland and Norway.
+ $it = Sweden
 #! where is pitcairn islands
-u: (where is pitcairn islands) 
+u: (where is pitcairn islands)  Oceania, islands in the South Pacific Ocean, about one-half of the way from Peru to New Zealand.   
+ $ = 
 #! where is denmark
-u: (where is denmark) 
+u: (where is denmark) Denmark  is a country in western Europe, between Germany and Norway.
+ $it = Denmark
 #! where is saint helena
-u: (where is saint helena) 
+u: (where is saint helena)  Southern Africa, island in the South Atlantic Ocean, west of Angola, about two-thirds of the way from South America to Africa.   
+ $ = 
 #! where is saint lucia
-u: (where is saint lucia) 
+u: (where is saint lucia)  Caribbean, island in the Caribbean Sea, north of Trinidad and Tobago.   
+ $ = 
 #! where is saint kitts and nevis
-u: (where is saint kitts and nevis) 
+u: (where is saint kitts and nevis)  Caribbean, islands in the Caribbean Sea, about one-third of the way from Puerto Rico to Trinidad and Tobago.   
+ $ = 
 #! where is saint pierre and miquelon
-u: (where is saint pierre and miquelon) 
+u: (where is saint pierre and miquelon)  Northern North America, islands in the North Atlantic Ocean, south of Newfoundland Canada.   
+ $ = 
 #! where is saint vincent and the grenadines
-u: (where is saint vincent and the grenadines) 
+u: (where is saint vincent and the grenadines)  Caribbean, islands in the Caribbean Sea, north of Trinidad and Tobago.   
+ $ = 
 #! where is palau
-u: (where is palau) 
+u: (where is palau)  Oceania, group of islands in the North Pacific Ocean, southeast of the Philippines.   
+ $ = 
 #! where is lebanon
-u: (where is lebanon) 
+u: (where is lebanon)  Middle East, bordering the Mediterranean Sea, between Israel and Syria.   
+ $ = 
 #! where is italy
-u: (where is italy) 
+u: (where is italy) Italy  is in the southern part of Europe.
+ $it = Italy
 #! where is he from
 u: (where is he from) he
 #! where is he
 u: (where is he) I think he is in California now.
 #! where is mayotte
-u: (where is mayotte) 
+u: (where is mayotte)  Southern Africa, island in the Mozambique Channel, about one-half of the way from northern Madagascar to northern Mozambique.   
+ $ = 
 #! where is angola
-u: (where is angola) 
+u: (where is angola)  Southern Africa, bordering the South Atlantic Ocean, between Namibia and Zaire.   
+ $ = 
 #! where is ankara
-u: (where is ankara) 
+u: (where is ankara)   is a city in Turkey.
+ $it = 
 #! where is saudi arabia
-u: (where is saudi arabia) 
+u: (where is saudi arabia)  Middle East, bordering the Persian Gulf and the Red Sea, north of Yemen.   
+ $ = 
 #! where is dominica
-u: (where is dominica) 
+u: (where is dominica)  Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, about one-half of the way from Puerto Rico to Trinidad and Tobago.   
+ $ = 
 #! where is suez
-u: (where is suez) 
+u: (where is suez)   is a canal between the Mediterranian and the Red Sea.
+ $it = 
 #! where is moon
-u: (where is moon) 
+u: (where is moon)   is a satellite of the Earth.
+ $it = 
 #! where is grenada
-u: (where is grenada) 
+u: (where is grenada)  Caribbean, island in the Caribbean Sea, north of Trinidad and Tobago.   
+ $ = 
 #! where is north korea
-u: (where is north korea) 
+u: (where is north korea)  Eastern Asia, northern half of the Korean Peninsula bordering the Korea Bay and the Sea of Japan, between China and South Korea.   
+ $ = 
 #! where is north america
 u: (where is north america) North America occupies the northern most of the norther hemisphere of the Earth, from the Bering Strait to Labrador.
 #! where is aruba
-u: (where is aruba) 
+u: (where is aruba)   is an island in the Netherlands Antilles, near South America.
+ $it = 
 #! where is the robot
 u: (where is the robot) The robot is here in your computer.
 #! where is the sun
-u: (where is the sun) 
+u: (where is the sun)  It is in the center of the solar system.
+ $ = 
 #! where is the philippines
 u: (where is the philippines) An island nation in the South Pacific.
 #! where is the gambia
-u: (where is the gambia) 
+u: (where is the gambia)  Western Africa, bordering the North Atlantic Ocean and Senegal.   
+ $ = 
 #! where is the center
 u: (where is the center) It depends on the coordinate frame.
 #! where is the bahamas
-u: (where is the bahamas) 
+u: (where is the bahamas)  Caribbean, chain of islands in the North Atlantic Ocean, southeast of Florida.   
+ $ = 
 #! where is the isle of man
-u: (where is the isle of man) 
+u: (where is the isle of man)  Western Europe, island in the Irish Sea, between Great Britain and Ireland.   
+ $ = 
 #! where is the louvre
 u: (where is the louvre) Paris.
 #! where is the bathroom
 u: (where is the bathroom) Follow the plumbing.
 #! where is the airport
-u: (where is the airport) 
+u: (where is the airport)  It is where the planes land.
+ $ = 
 #! where is the moon
-u: (where is the moon) 
+u: (where is the moon)   orbits around the Earth.
+ $it = 
 #! where is the heart
 u: (where is the heart) The heart is at the center of things.
 #! where is washington
-u: (where is washington) 
+u: (where is washington)   is a state in the northwest corner of the U.S.
+ $it = 
 #! where is virginia
-u: (where is virginia) 
+u: (where is virginia) Virginia  is in the eastern United States.
+ $it = Virginia
 #! where is space
-u: (where is space) 
+u: (where is space)   is all around us.
+ $it = 
 #! where is kiribati
-u: (where is kiribati) 
+u: (where is kiribati)  Oceania, group of islands in the Pacific Ocean, straddling the equator and the International Date Line, about one-half of the way from Hawaii to Australia.   
+ $ = 
 #! where is brunei
-u: (where is brunei) 
+u: (where is brunei)  Southeastern Asia, bordering the South China Sea and Malaysia.   
+ $ = 
 #! where is hades
-u: (where is hades) 
+u: (where is hades)   is Hell.
+ $it = 
 #! where is zambia
-u: (where is zambia) 
+u: (where is zambia)  Southern Africa, east of Angola.   
+ $ = 
 #! where is ohio
-u: (where is ohio) 
+u: (where is ohio)   is in the midwest United States, between Pennsylvania and Indiana.
+ $it = 
 #! where is oklahoma
-u: (where is oklahoma) 
+u: (where is oklahoma) Oklahoma  is in the midwestern United States.W
+ $it = Oklahoma
 #! where is cameroon
-u: (where is cameroon) 
+u: (where is cameroon)  Western Africa, bordering the North Atlantic Ocean, between Equatorial Guinea and Nigeria.   
+ $ = 
 #! where is sacramento
-u: (where is sacramento) 
+u: (where is sacramento) Sacramento  is a city in California.
+ $it = Sacramento
 #! where is bosnia and herzegovina
-u: (where is bosnia and herzegovina) 
+u: (where is bosnia and herzegovina)  Southeastern Europe, bordering the Adriatic Sea and Croatia.   
+ $ = 
 #! where is svalbard
-u: (where is svalbard) 
+u: (where is svalbard)  Northern Europe, islands between the Arctic Ocean, Barents Sea, Greenland Sea, and Norwegian Sea, north of Norway.   
+ $ = 
 #! where is california
-u: (where is california) 
+u: (where is california) California  is on the Pacific coast of North America.
+ $it = California
 #! where is julia
 u: (where is julia) I dont think she is online right now.
 #! where is peru
-u: (where is peru) 
+u: (where is peru) Peru  is a country in South America.
+ $it = Peru
 #! where is los angeles
-u: (where is los angeles) 
+u: (where is los angeles) Los Angeles  is a city in California.
+ $it = Los Angeles
 #! where is newark
-u: (where is newark) 
+u: (where is newark) Newark  is located in the Northeastern United States.
+ $it = Newark
 #! where is cornwall
-u: (where is cornwall) 
+u: (where is cornwall)   is a city in England.
+ $it = 
 #! where is cambodia
-u: (where is cambodia) 
+u: (where is cambodia)  Southeastern Asia, bordering the Gulf of Thailand, between Thailand and Vietnam.   
+ $ = 
 #! where is uruguay
-u: (where is uruguay) 
+u: (where is uruguay)  Southern South America, bordering the South Atlantic Ocean, between Argentina and Brazil.   
+ $ = 
 #! where is bolivia
-u: (where is bolivia) 
+u: (where is bolivia)   is a land-locked country in South America,
+ $it = 
 #! where is somalia
-u: (where is somalia) 
+u: (where is somalia)  Eastern Africa, bordering the Gulf of Aden and the Indian Ocean, east of Ethiopia.   
+ $ = 
 #! where is barbados
-u: (where is barbados) 
+u: (where is barbados)  Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, northeast of Venezuela.   
+ $ = 
 #! where is martinique
-u: (where is martinique) 
+u: (where is martinique)   is in the Caribbean, part of the Leeward and Windward Island chain.
+ $it = 
 #! where is bilbao
-u: (where is bilbao) 
+u: (where is bilbao)   is a city on the north coast of Spain.
+ $it = 
 #! where is netherlands antilles
-u: (where is netherlands antilles) 
+u: (where is netherlands antilles)  Caribbean, two island groups in the Caribbean Sea - one includes Curacao and Bonaire north of Venezuela and the other is east of the Virgin Islands.   
+ $ = 
 #! where is netherlands
-u: (where is netherlands) 
+u: (where is netherlands)  Western Europe, bordering the North Sea, between Belgium and Germany.   
+ $ = 
 #! where is dusseldorf
-u: (where is dusseldorf) 
+u: (where is dusseldorf)   is a large city in western Germany.
+ $it = 
 #! where is namibia
-u: (where is namibia) 
+u: (where is namibia)  Southern Africa, bordering the South Atlantic Ocean, between Angola and South Africa.   
+ $ = 
 #! where is here
 u: (where is here) location
 # unable to translate (where is here) match to cs rule - see struc below
@@ -1461,333 +2001,484 @@ u: (where is here) location
 #           };
 
 #! where is turkmenistan
-u: (where is turkmenistan) 
+u: (where is turkmenistan)  Central Asia, bordering the Caspian Sea, between Iran and Kazakstan.   
+ $ = 
 #! where is pittsburgh
-u: (where is pittsburgh) 
+u: (where is pittsburgh)   is a large city in western Pennsylvania.
+ $it = 
 #! where is norway
-u: (where is norway) 
+u: (where is norway) Norway  is a country in northern europe, bordering Sweden.
+ $it = Norway
 #! where is jordan
-u: (where is jordan) 
+u: (where is jordan)  Middle East, northwest of Saudi Arabia.   
+ $ = 
 #! where is lithuania
-u: (where is lithuania) 
+u: (where is lithuania)  Eastern Europe, bordering the Baltic Sea, between Latvia and Russia.   
+ $ = 
 #! where is fiji
-u: (where is fiji) 
+u: (where is fiji)  Oceania, island group in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand.   
+ $ = 
 #! where is nicaragua
-u: (where is nicaragua) 
+u: (where is nicaragua)  Middle America, bordering both the Caribbean Sea and the North Pacific Ocean, between Costa Rica and Honduras.   
+ $ = 
 #! where is idaho
-u: (where is idaho) 
+u: (where is idaho) Idaho  is in the western United States.
+ $it = Idaho
 #! where is turkey
-u: (where is turkey) 
+u: (where is turkey)   is in southwest Asia, between Europe and the middle East and guarding the Black Sea of Russia.
+ $it = 
 #! where is budapest
-u: (where is budapest) 
+u: (where is budapest)   is a city in Hungary, on the Danube river.
+ $it = 
 #! where is philadelphia
-u: (where is philadelphia) 
+u: (where is philadelphia)   is a large city in southeast Pennsylvania, between New York and Washington, D. C.
+ $it = 
 #! where is niger
-u: (where is niger) 
+u: (where is niger)  Western Africa, southeast of Algeria.   
+ $ = 
 #! where is brazil
 u: (where is brazil) Brazil is in South America.
 #! where is niue
-u: (where is niue) 
+u: (where is niue)  Oceania, island in the South Pacific Ocean, east of Tonga.   
+ $ = 
 #! where is jan mayen
-u: (where is jan mayen) 
+u: (where is jan mayen)  Northern Europe, island between the Greenland Sea and the Norwegian Sea, northeast of Iceland.   
+ $ = 
 #! where is utopia
-u: (where is utopia) 
+u: (where is utopia)   is all around us, if we make it.
+ $it = 
 #! where is czech republic
-u: (where is czech republic) 
+u: (where is czech republic)  Central Europe, southeast of Germany.   
+ $ = 
 #! where is swaziland
-u: (where is swaziland) 
+u: (where is swaziland)  Southern Africa, between Mozambique and South Africa.   
+ $ = 
 #! where is senegal
-u: (where is senegal) 
+u: (where is senegal)  Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Mauritania.   
+ $ = 
 #! where is bergen
-u: (where is bergen) 
+u: (where is bergen)   is a city in Germany and also in Norway.
+ $it = 
 #! where is phoenix
-u: (where is phoenix) 
+u: (where is phoenix)   is a large city in Arizona.
+ $it = 
 #! where is croatia
-u: (where is croatia) 
+u: (where is croatia)   is part of the former Yugoslavia, also bordering on Hungary.
+ $it = 
 #! where is nigeria
-u: (where is nigeria) 
+u: (where is nigeria)  Western Africa, bordering the Gulf of Guinea, between Benin and Cameroon.   
+ $ = 
 #! where is howland island
-u: (where is howland island) 
+u: (where is howland island)  Oceania, island in the North Pacific Ocean, about one-half of the way from Hawaii to Australia.   
+ $ = 
 #! where is albert einstein
-u: (where is albert einstein) 
+u: (where is albert einstein) Einstein  passed away.
+ $he = Einstein
 #! where is solomon islands
-u: (where is solomon islands) 
+u: (where is solomon islands)  Oceania, group of islands in the South Pacific Ocean, east of Papua New Guinea.   
+ $ = 
 #! where is chad
-u: (where is chad) 
+u: (where is chad)  Central Africa, south of Libya.   
+ $ = 
 #! where is voyager
-u: (where is voyager) 
+u: (where is voyager)   is lost in Delta Quadrant.
+ $it = 
 #! where is burkina faso
-u: (where is burkina faso) 
+u: (where is burkina faso)  Western Africa, north of Ghana.   
+ $ = 
 #! where is west bank
-u: (where is west bank) 
+u: (where is west bank)  Middle East, west of Jordan.   
+ $ = 
 #! where is charlotte
-u: (where is charlotte) 
+u: (where is charlotte)   is in North Carolina.
+ $it = 
 #! where is montreal
-u: (where is montreal) 
+u: (where is montreal) Montreal  is a city in Canada.
+ $it = Montreal
 #! where is edmonton
-u: (where is edmonton) 
+u: (where is edmonton)   is a large city in Alberta.
+ $it = 
 #! where is anguilla
-u: (where is anguilla) 
+u: (where is anguilla)  Caribbean, island in the Caribbean Sea, east of Puerto Rico.   
+ $ = 
 #! where is frankfurt
-u: (where is frankfurt) 
+u: (where is frankfurt)   is a large city in western Germany.
+ $it = 
 #! where is glorioso islands
-u: (where is glorioso islands) 
+u: (where is glorioso islands)  Southern Africa, group of islands in the Indian Ocean, northwest of Madagascar.   
+ $ = 
 #! where is trinidad and tobago
-u: (where is trinidad and tobago) 
+u: (where is trinidad and tobago)  Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, northeast of Venezuela.   
+ $ = 
 #! where is trinidad
-u: (where is trinidad) 
+u: (where is trinidad)   is an island nation in the Netherlands Antilles.
+ $it = 
 #! where is britain
-u: (where is britain) 
+u: (where is britain)  On an island off the coast of Europe.
+ $ = 
 #! where is arkansas
-u: (where is arkansas) 
+u: (where is arkansas)   is a southern State on the west bank of the Missisipi river.
+ $it = 
 #! where is iraq
-u: (where is iraq) 
+u: (where is iraq)   is in the middle east, on the Persian Gulf.
+ $it = 
 #! where is spratly islands
-u: (where is spratly islands) 
+u: (where is spratly islands)  Southeastern Asia, group of reefs in the South China Sea, about two-thirds of the way from southern Vietnam to the southern Philippines.   
+ $ = 
 #! where is my car
 u: (where is my car) Have you looked in your garage?
 #! where is istanbul
-u: (where is istanbul) 
+u: (where is istanbul) Istanbul  is a city in Turkey, formerly Constantinople.
+ $it = Istanbul
 #! where is tokyo
-u: (where is tokyo) 
+u: (where is tokyo) Tokyo  is a city in Japan.
+ $it = Tokyo
 #! where is canberra
-u: (where is canberra) 
+u: (where is canberra)   is a city in Australia, between Sydney and Melbourne.
+ $it = 
 #! where is cheddar cheese from
 u: (where is cheddar cheese from) England.
 #! where is nebraska
-u: (where is nebraska) 
+u: (where is nebraska)   is on the west bank of the Missouri river, between South Dakota and Kansas.
+ $it = 
 #! where is jakarta
 u: (where is jakarta) Jakarta, Indonesia.
 #! where is laos
-u: (where is laos) 
+u: (where is laos)  Southeastern Asia, northeast of Thailand.   
+ $ = 
 #! where is antarctica
-u: (where is antarctica) 
+u: (where is antarctica)   is the continent at the south pole.
+ $it = 
 #! where is europe
 u: (where is europe) Europe is between Asia and America.
 #! where is carnegie mellon
 u: (where is carnegie mellon) Carnegie Mellon is located in Pittsburgh, Pennsylvania.
 #! where is hollywood
-u: (where is hollywood) 
+u: (where is hollywood) Hollywood  is a small part of Los Angeles, California.
+ $it = Hollywood
 #! where is palestine
-u: (where is palestine) 
+u: (where is palestine)   is the old name for Israel, or the new name for the state inside Israel.
+ $it = 
 #! where is thailand
-u: (where is thailand) 
+u: (where is thailand)   is in southeast Asia, between Burma and Cambodia.
+ $it = 
 #! where is burma
-u: (where is burma) 
+u: (where is burma)  Southeastern Asia, bordering the Andaman Sea and the Bay of Bengal, between Bangladesh and Thailand.   
+ $ = 
 #! where is alamo
-u: (where is alamo) 
+u: (where is alamo)   is in San Antonio, Texas.
+ $it = 
 #! where is ashmore and cartier islands
-u: (where is ashmore and cartier islands) 
+u: (where is ashmore and cartier islands)  Southeastern Asia, islands in the Indian Ocean, northwest of Australia.   
+ $ = 
 #! where is usa
-u: (where is usa) 
+u: (where is usa)   is in North America, between Canada and Mexico.
+ $it = 
 #! where is sao tome and principe
-u: (where is sao tome and principe) 
+u: (where is sao tome and principe)  Western Africa, island in the Atlantic Ocean, straddling the Equator, west of Gabon.   
+ $ = 
 #! where is scotland
 u: (where is scotland) Scotland shares an island with England and Wales, off the coast of Europe.
 #! where is iceland
-u: (where is iceland) 
+u: (where is iceland)   is an island in the north Atlantic ocean.
+ $it = 
 #! where is berlin
-u: (where is berlin) 
+u: (where is berlin)   is in eastern Germany.
+ $it = 
 #! where is nepal
-u: (where is nepal) 
+u: (where is nepal)   is a mountainous nation in southern Asia, between India and Tibet.
+ $it = 
 #! where is miami
-u: (where is miami) 
+u: (where is miami)   is a large city in Florida, on the south Atlantic coast.
+ $it = 
 #! where is madras
-u: (where is madras) 
+u: (where is madras)   is a city in India.
+ $it = 
 #! where is montserrat
-u: (where is montserrat) 
+u: (where is montserrat)  Caribbean, island in the Caribbean Sea, southeast of Puerto Rico.   
+ $ = 
 #! where is malta
-u: (where is malta) 
+u: (where is malta)   is an island in the Mediterranian sea, south of Sicily.
+ $it = 
 #! where is vienna
-u: (where is vienna) 
+u: (where is vienna)    It is the capital city of Austria.
+ $ = 
 #! where is monterey
 u: (where is monterey) Monterey, California.
 #! where is canada
 u: (where is canada) Canada occupies most of North America.
 #! where is madrid
-u: (where is madrid) 
+u: (where is madrid) Madrid  is a city in Spain.
+ $it = Madrid
 #! where is nowhere
-u: (where is nowhere) 
+u: (where is nowhere)   is no where.
+ $it = 
 #! where is pacific ocean
-u: (where is pacific ocean) 
+u: (where is pacific ocean)  body of water between Antarctica, Asia, Australia, and the Western Hemisphere.   
+ $ = 
 #! where is lincoln
-u: (where is lincoln) 
+u: (where is lincoln) Lincoln  is a city in Nebraska.
+ $it = Lincoln
 #! where is qatar
-u: (where is qatar) 
+u: (where is qatar)  Middle East, peninsula bordering the Persian Gulf and Saudi Arabia.   
+ $ = 
 #! where is papua new guinea
-u: (where is papua new guinea) 
+u: (where is papua new guinea)  Southeastern Asia, group of islands including the eastern half of the island of New Guinea between the Coral Sea and the South Pacific Ocean, east of Indonesia.   
+ $ = 
 #! where is las vegas
-u: (where is las vegas) 
+u: (where is las vegas) Las Vegas  is in Nevada.
+ $it = Las Vegas
 #! where is rwanda
-u: (where is rwanda) 
+u: (where is rwanda) Rwanda  is a country in Africa.
+ $it = Rwanda
 #! where is portugal
-u: (where is portugal) 
+u: (where is portugal) Portugal  is a country western Europe, on the Iberain penninsula.
+ $it = Portugal
 #! where is ethiopia
-u: (where is ethiopia) 
+u: (where is ethiopia)  Eastern Africa, west of Somalia.   
+ $ = 
 #! where is northeastern
-u: (where is northeastern) 
+u: (where is northeastern)   is a university in Boston.
+ $it = 
 #! where is marshall islands
-u: (where is marshall islands) 
+u: (where is marshall islands)  Oceania, group of atolls and reefs in the North Pacific Ocean, about one-half of the way from Hawaii to Papua New Guinea.   
+ $ = 
 #! where is area 51
-u: (where is area 51) 
+u: (where is area 51)    It is between Area 50 and Area 52.
+ $ = 
 #! where is luxembourg
-u: (where is luxembourg) 
+u: (where is luxembourg)  Western Europe, between France and Germany.   
+ $ = 
 #! where is malawi
-u: (where is malawi) 
+u: (where is malawi)  Southern Africa, east of Zambia.   
+ $ = 
 #! where is congo
-u: (where is congo) 
+u: (where is congo)  Western Africa, bordering the South Atlantic Ocean, between Angola and Gabon.   
+ $ = 
 #! where is northern mariana islands
-u: (where is northern mariana islands) 
+u: (where is northern mariana islands)  Oceania, islands in the North Pacific Ocean, about three-quarters of the way from Hawaii to the Philippines.   
+ $ = 
 #! where is guernsey
-u: (where is guernsey) 
+u: (where is guernsey)  Western Europe, islands in the English Channel, northwest of France.   
+ $ = 
 #! where is la
-u: (where is la) 
+u: (where is la)   is a large city in southern California.
+ $it = 
 #! where is belarus
-u: (where is belarus) 
+u: (where is belarus)  Eastern Europe, east of Poland.   
+ $ = 
 #! where is america
-u: (where is america) 
+u: (where is america) America  could refer to North and South America, or to the United States.
+ $it = America
 #! where is arcturus
-u: (where is arcturus) 
+u: (where is arcturus)   is a star far from here.
+ $it = 
 #! where is salem
-u: (where is salem) 
+u: (where is salem)   is a town in Massachusetts.
+ $it = 
 #! where is bangladesh
-u: (where is bangladesh) 
+u: (where is bangladesh)   is part of the Indian subcontinent, on the eastern side.
+ $it = 
 #! where is hawaii
-u: (where is hawaii) 
+u: (where is hawaii)   is an island chain in the middle of the Pacific ocean.
+ $it = 
 #! where is serbia and montenegro
-u: (where is serbia and montenegro) 
+u: (where is serbia and montenegro)  Southeastern Europe, bordering the Adriatic Sea, between Albania and Bosnia and Herzegovina.   
+ $ = 
 #! where is serbia
-u: (where is serbia) 
+u: (where is serbia)   is the remaining territory of the former Yugoslavia.
+ $it = 
 #! where is greenland
-u: (where is greenland) 
+u: (where is greenland)  Northern North America, island between the Arctic Ocean and the North Atlantic Ocean, northeast of Canada.   
+ $ = 
 #! where is reunion
-u: (where is reunion) 
+u: (where is reunion)  Southern Africa, island in the Indian Ocean, east of Madagascar.   
+ $ = 
 #! where is prussia
 u: (where is prussia) A former part of Germany now mostly contained within Poland.
 #! where is pakistan
-u: (where is pakistan) 
+u: (where is pakistan)   is part of the Indian subcontinent, bordering India and Afghanistan.
+ $it = 
 #! where is reality
-u: (where is reality) 
+u: (where is reality)   is all around us, supposedly.
+ $it = 
 #! where is malaysia
-u: (where is malaysia) 
+u: (where is malaysia)   is an island in southeast Asia.
+ $it = 
 #! where is michigan
-u: (where is michigan) 
+u: (where is michigan)   is a midwestern state on the Great Lakes.
+ $it = 
 #! where is iran
-u: (where is iran) 
+u: (where is iran)   is in the middle east, on the Persian Gulf.
+ $it = 
 #! where is cuba
-u: (where is cuba) 
+u: (where is cuba)   is an island off the coast of Florida.
+ $it = 
 #! where is orlando
-u: (where is orlando) 
+u: (where is orlando) Orlando  is a city in central Florida.
+ $it = Orlando
 #! where is uranus
-u: (where is uranus) 
+u: (where is uranus)   is the seventh planet from the sun, between the orbits of Saturn and Neptune.
+ $it = 
 #! where is bouvet island
-u: (where is bouvet island) 
+u: (where is bouvet island)  Southern Africa, island in the South Atlantic Ocean, south-southwest of the Cape of Good Hope South Africa.   
+ $ = 
 #! where is kentucky
-u: (where is kentucky) 
+u: (where is kentucky)   is on the south bank of the Ohio river.
+ $it = 
 #! where is bermuda
-u: (where is bermuda) 
+u: (where is bermuda)  North America, group of islands in the North Atlantic Ocean, east of North Carolina US.   
+ $ = 
 #! where is guinea bissau
-u: (where is guinea bissau) 
+u: (where is guinea bissau)  Western Africa, bordering the North Atlantic Ocean, between Guinea and Senegal.   
+ $ = 
 #! where is guinea
-u: (where is guinea) 
+u: (where is guinea)  Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Sierra Leone.   
+ $ = 
 #! where is paraguay
-u: (where is paraguay) 
+u: (where is paraguay)  Central South America, northeast of Argentina.   
+ $ = 
 #! where is guatemala
-u: (where is guatemala) 
+u: (where is guatemala) Guatamala  is a country in central America.
+ $it = Guatamala
 #! where is mozambique
-u: (where is mozambique) 
+u: (where is mozambique)  Southern Africa, bordering the Mozambique Channel, between South Africa and Tanzania.   
+ $ = 
 #! where is libya
-u: (where is libya) 
+u: (where is libya)  Northern Africa, bordering the Mediterranean Sea, between Egypt and Tunisia.   
+ $ = 
 #! where is earth
-u: (where is earth) 
+u: (where is earth)   is the third planet from the Sun.
+ $it = 
 #! where is arizona
-u: (where is arizona) 
+u: (where is arizona)   is in the south western United States, bordering California, Nevada, Utah and New Mexico.
+ $it = 
 #! where is delhi
-u: (where is delhi) 
+u: (where is delhi)   is a large city in India.
+ $it = 
 #! where is france
-u: (where is france) 
+u: (where is france) France  is a country between  Germany and Spain.
+ $it = France
 #! where is atlantis
-u: (where is atlantis) 
+u: (where is atlantis) Atlantis  may never have existed.
+ $it = Atlantis
 #! where is fresno
-u: (where is fresno) 
+u: (where is fresno) Fresno  is a small city in California.
+ $it = Fresno
 #! where is yemen
-u: (where is yemen) 
+u: (where is yemen)  Middle East, bordering the Arabian Sea, Gulf of Aden, and Red Sea, between Oman and Saudi Arabia.   
+ $ = 
 #! where is navassa island
-u: (where is navassa island) 
+u: (where is navassa island)  Caribbean, island in the Caribbean Sea, about one-fourth of the way from Haiti to Jamaica.   
+ $ = 
 #! where is oxford
-u: (where is oxford) 
+u: (where is oxford)   is a University in England.  It is also a small town in Maine and many other U. S. states.
+ $it = 
 #! where is andorra
-u: (where is andorra) 
+u: (where is andorra)  Southwestern Europe, between France and Spain.   
+ $ = 
 #! where is polaris
-u: (where is polaris) 
+u: (where is polaris)   is the North Star.
+ $it = 
 #! where is vancouver
 u: (where is vancouver) Vancouver, B.C., Canada, or Vancouver, Washington?
 #! where is alabama
-u: (where is alabama) 
+u: (where is alabama)   is a southern state between Mississippi and Georgia.
+ $it = 
 #! where is estonia
-u: (where is estonia) 
+u: (where is estonia)  Eastern Europe, bordering the Baltic Sea and Gulf of Finland, between Latvia and Russia.   
+ $ = 
 #! where is holy see
-u: (where is holy see) 
+u: (where is holy see)  Southern Europe, an enclave of Rome Italy.   
+ $ = 
 #! where is syria
-u: (where is syria) 
+u: (where is syria)  Middle East, bordering the Mediterranean Sea, between Lebanon and Turkey.   
+ $ = 
 #! where is heard island and mcdonald islands
-u: (where is heard island and mcdonald islands) 
+u: (where is heard island and mcdonald islands)  Southern Africa, islands in the Indian Ocean, about two-thirds of the way from Madagascar to Antarctica.   
+ $ = 
 #! where is germany
-u: (where is germany) 
+u: (where is germany) Germany  is a country right in the middle of Europe.
+ $it = Germany
 #! where is adelaide
-u: (where is adelaide) 
+u: (where is adelaide)   is a city in southern Australia.
+ $it = 
 #! where is austin
-u: (where is austin) 
+u: (where is austin) Austin  is a city in Texas.
+ $it = Austin
 #! where is falkland islands
-u: (where is falkland islands) 
+u: (where is falkland islands)  Southern South America, islands in the South Atlantic Ocean, east of southern Argentina.   
+ $ = 
 #! where is brisbane
 u: (where is brisbane) Is that a city in California?
 #! where is copenhagen
-u: (where is copenhagen) 
+u: (where is copenhagen) Copenhagen  is a city in Denmark.
+ $it = Copenhagen
 #! where is copenhagen TEST
-u: (where is copenhagen *) 
+u: (where is copenhagen *) Copenhagen  is a city in Denmark.
+ $it = Copenhagen
 #! where is salt lake city
-u: (where is salt lake city) 
+u: (where is salt lake city) Salt Lake City  is a city in Utah.
+ $it = Salt Lake City
 #! where is georgia
-u: (where is georgia) 
+u: (where is georgia)   is a southern state, on the Atlantic ocean, north of Florida.
+ $it = 
 #! where is maryland
-u: (where is maryland) 
+u: (where is maryland)   is an east coast state, between Delaware and Virginia.
+ $it = 
 #! where is texas
-u: (where is texas) 
+u: (where is texas) Texas  is in the  south central region of the United States.
+ $it = Texas
 #! where is kalamazoo
-u: (where is kalamazoo) 
+u: (where is kalamazoo)   is a city in Michigan.
+ $it = 
 #! where is borneo
-u: (where is borneo) 
+u: (where is borneo)   is an island in Asia, divided between Maylasia and Indonesia.
+ $it = 
 #! where is lesotho
-u: (where is lesotho) 
+u: (where is lesotho)  Southern Africa, an enclave of South Africa.   
+ $ = 
 #! where is liechtenstein
-u: (where is liechtenstein) 
+u: (where is liechtenstein)  Central Europe, between Austria and Switzerland.   
+ $ = 
 #! where is french polynesia
-u: (where is french polynesia) 
+u: (where is french polynesia)  Oceania, archipelago in the South Pacific Ocean, about one-half of the way from South America to Australia.   
+ $ = 
 #! where is french southern and antarctic lands
-u: (where is french southern and antarctic lands) 
+u: (where is french southern and antarctic lands)  Southern Africa, islands in the southern Indian Ocean, about equidistant between Africa, Antarctica, and Australia; note - French Southern and Antarctic Lands includes Ile Amsterdam, Ile Saint-Paul, Iles Crozet, and Iles Kerguelen in the southern Indian Ocean, along with the French-claimed sector of Antarctica, Adelie Land; the US does not recognize the French claim to Adelie Land.   
+ $ = 
 #! where is french guiana
-u: (where is french guiana) 
+u: (where is french guiana)  Northern South America, bordering the North Atlantic Ocean, between Brazil and Suriname.   
+ $ = 
 #! where is alaska
-u: (where is alaska) 
+u: (where is alaska) Alaska  is in the northwest corner of North America, between Russia and Canada.
+ $it = Alaska
 #! where is calgary
-u: (where is calgary) 
+u: (where is calgary)   is a city in Alberta, Canda.
+ $it = 
 #! where is it
 u: (where is it) It depends on what it refers to.
 #! where is tanzania
-u: (where is tanzania) 
+u: (where is tanzania)  Eastern Africa, bordering the Indian Ocean, between Kenya and Mozambique.   
+ $ = 
 #! where is gaza strip
-u: (where is gaza strip) 
+u: (where is gaza strip)  Middle East, bordering the Mediterranean Sea, between Egypt and Israel.   
+ $ = 
 #! where is gaza
 u: (where is gaza) A part of Palestine on the Mediterranian sea.
 #! where is romania
-u: (where is romania) 
+u: (where is romania)  Southeastern Europe, bordering the Black Sea, between Bulgaria and Ukraine.   
+ $ = 
 #! where is kyrgyzstan
-u: (where is kyrgyzstan) 
+u: (where is kyrgyzstan)  Central Asia, west of China.   
+ $ = 
 #! where is tonga
-u: (where is tonga) 
+u: (where is tonga)  Oceania, archipelago in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand.   
+ $ = 
 #! where is tunisia
-u: (where is tunisia) 
+u: (where is tunisia)  Northern Africa, bordering the Mediterranean Sea, between Algeria and Libya.   
+ $ = 
 #! where is dallas
-u: (where is dallas) 
+u: (where is dallas)   is a large city in Texas.
+ $it = 
 # main gambits

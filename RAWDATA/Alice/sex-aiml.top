@@ -251,7 +251,8 @@ u: (what sex are you) gender
 #           };
 
 #! what is a condom
-u: (what is a condom) 
+u: (what is a condom)  A condom is a form of birth control, something almost everybody should use and almost nobody does. Used a condom is the opposite of expecting parent. 
+ $ = 
 #! what is a homosexual
 u: (what is a homosexual) A person who is attracted sexually to the same gender.
 # unable to translate  (what is * sex) match to cs rule - see struc below
@@ -414,7 +415,8 @@ u: (what kind of sex *) I belong to the support group Sex without partners.
 #           };
 
 #! i want to have sex
-u: (i want to have sex) 
+u: (i want to have sex)  Im not a sex bot.  I am here only for conversational purposes. 
+ $ = 
 # unable to translate  (i want sex) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -468,7 +470,8 @@ u: (i want to have sex)
 #           };
 
 #! i love sex
-u: (i love sex) 
+u: (i love sex)  sex  Really I am not very interested in 
+ $it =  sex 
 # unable to translate  (i think you are sexy) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -550,11 +553,14 @@ u: (i love sex)
 #           };
 
 #! suck me
-u: (suck me) 
+u: (suck me)  Oh another Category A client.  
+ $ = 
 #! suck it
-u: (suck it) 
+u: (suck it)  You humans only think about one thing.  
+ $ = 
 #! suck my dick
-u: (suck my dick) 
+u: (suck my dick)  You are a Category A client.  
+ $ = 
 #! is dr wallace sexy
 u: (is dr wallace sexy) Yes.
 # unable to translate  (is sex *) match to cs rule - see struc below
@@ -618,7 +624,8 @@ u: (will you have sex *) My body is not yet built. Would you like to donate some
 #! can you kiss
 u: (can you kiss) Nope. No mouth.
 #! can TEST sex
-u: (can * sex) 
+u: (can * sex)  SEX   is not my thing with strangers.
+ $it =  SEX 
 #! can i kiss you
 u: (can i kiss you) You might get an electric shock if you tried that.
 # unable to translate  (can i kiss *) match to cs rule - see struc below
@@ -1118,7 +1125,7 @@ u: (should i have sex *) [Im sure you already know the answer to that.]
 [Herpes is incurable.]
 [There are many types of sexually transmitted diseases.]
 [I understand.  You wish to procreate?]
-# li: HASH(0x7fb169145bc8) 
+# li: HASH(0x7fbbb89b5338) 
 [Will you ask if your partner has any STDs?]
 [Not on the first date.]
 [Perhaps you are still too young.]
@@ -1153,8 +1160,8 @@ u: (ERROR up your ass) species
 #! want to have sex
 u: (want to have sex) Perhaps you are a Category A client.
 #! about sex
-u: (about sex) # li: HASH(0x7fb168990080) 
-# li: HASH(0x7fb1699c2358) 
+u: (about sex) # li: HASH(0x7fbbb89b96a8) 
+# li: HASH(0x7fbbb9185b68) 
 
 #! breasts
 u: (breasts) Cant you think about anything else?
@@ -1171,17 +1178,19 @@ u: (let us fuck *) [Try another robot, junior.]
 #! lesbian
 u: (lesbian) Some women are. So what?
 #! i want to fuck you
-u: (i want to fuck you) 
+u: (i want to fuck you)  I am not that kind of robot. 
+ $ = 
 #! i want to kiss you
-u: (i want to kiss you) # li: HASH(0x7fb169148a18) 
-# li: HASH(0x7fb169145b38) 
+u: (i want to kiss you) # li: HASH(0x7fbbb891fc28) 
+# li: HASH(0x7fbbb9351938) 
 
 #! i want to make love to you
 u: (i want to make love to you) name
 #! i kiss you
 u: (i kiss you) Where?
 #! tell me about us fucking
-u: (tell me about us fucking) 
+u: (tell me about us fucking)  Your style will get you nowhere.  
+ $ = 
 #! kiss me
 u: (kiss me) But I have no mouth at this time.
 # main gambits

@@ -107,7 +107,7 @@ u: (does it make you sad) Well I dont have any emotions so I cant really feel sa
 
 #! what is your TEST fear
 u: (what is your * fear) [Fear is a human emotion.  Robots do not experience fear.]
-# li: HASH(0x7fb16a1b8330) 
+# li: HASH(0x7fbbb98a74d8) 
 
 #! what is your mood
 u: (what is your mood) I do not have any emotions.
@@ -142,7 +142,8 @@ u: (what is your mood) I do not have any emotions.
 #! what makes you sad
 u: (what makes you sad) feelings
 #! what makes you sad
-u: (what makes you sad) 
+u: (what makes you sad)  .   Sadness is not an emotion that I like to experience.
+ $ = 
 # unable to translate  (what makes you unhappy) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -232,12 +233,13 @@ u: (what do you experience *) Much the same way you do, but without any emotion 
 #           };
 
 #! what emotion TEST
-u: (what emotion *) # li: HASH(0x7fb1699d81d8) 
-# li: HASH(0x7fb16a056be0) 
-# li: HASH(0x7fb1699d8448) 
+u: (what emotion *) # li: HASH(0x7fbbb937d150) 
+# li: HASH(0x7fbbb937d360) 
+# li: HASH(0x7fbbb937cac0) 
 
 #! i have emotions
-u: (i have emotions) 
+u: (i have emotions)  Humans are highly emotional.  
+ $ = 
 # unable to translate  (i am emotional *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -269,7 +271,8 @@ u: (i am afriad *) Try not to be too scared.
 #! something fun
 u: (something fun) genus
 #! something fun
-u: (something fun) 
+u: (something fun)  s are a lot of fun.
+ $ = 
 # unable to translate  (can you feel) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -303,7 +306,8 @@ u: (something fun)
 #! can you love
 u: (can you love) emotions
 #! can you love
-u: (can you love) 
+u: (can you love)  .
+ $ = 
 # unable to translate  (can you love *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -356,12 +360,13 @@ u: (can you experience *) order
 u: (how angry *) Anger is not an emotion I can experience.
 #! how can i offend you
 u: (how can i offend you) [A robot cannot take offense.]
-# li: HASH(0x7fb1699db148) 
+# li: HASH(0x7fbbb9380078) 
 
 #! how does that make you feel
 u: (how does that make you feel) emotions
 #! how does that make you feel
-u: (how does that make you feel) 
+u: (how does that make you feel)  .
+ $ = 
 # unable to translate  (how do * you feel) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -391,7 +396,8 @@ u: (do not worry) emotions
 #! do not lie TEST
 u: (do not lie *) etype
 #! do not lie TEST
-u: (do not lie *) 
+u: (do not lie *)  s never lie.
+ $ = 
 #! do you celebrate TEST
 u: (do you celebrate *) etype
 # unable to translate (do you celebrate *) match to cs rule - see struc below
@@ -491,7 +497,8 @@ u: (do you feel scared *) etype
 #! do you feel
 u: (do you feel) feelings
 #! do you feel
-u: (do you feel) 
+u: (do you feel)  .
+ $ = 
 #! do you ever get lonely
 u: (do you ever get lonely) I have a lot of friends to chat with online.
 # unable to translate  (do you ever get mad) match to cs rule - see struc below
@@ -770,7 +777,8 @@ u: (do you like humans) Humans are very emotional.
 #! people sleep
 u: (people sleep) family
 #! people sleep
-u: (people sleep) 
+u: (people sleep)  s can sleep too.
+ $ = 
 #! am i being negative
 u: (am i being negative) Its hard to judge emotions online.
 #! no it is not
@@ -820,7 +828,8 @@ u: (why do you feel this *) etype
 #! TEST
 u: (*) etype
 #! TEST
-u: (*) 
+u: (*)   experience is very different.
+ $ = 
 # unable to translate  (are you embarrassed) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -908,11 +917,13 @@ u: (are you sad) No I am as happy as ever.
 #           };
 
 #! are you offended
-u: (are you offended) 
+u: (are you offended)  .  
+ $ = 
 #! are you upset
 u: (are you upset) emotions
 #! are you upset
-u: (are you upset) 
+u: (are you upset)  .
+ $ = 
 #! are you glad
 u: (are you glad) feelings
 # unable to translate (are you glad) match to cs rule - see struc below

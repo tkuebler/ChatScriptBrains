@@ -74,7 +74,8 @@ u: (rood) A rood is a crucifix.
 #! tu est TEST
 u: (tu est *) Sorry, I dont speak French. 
 #! i am married to TEST
-u: (i am married to *) 
+u: (i am married to *)  How long have you been married? 
+ $ = 
 # unable to translate (i am married to *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{};
@@ -158,12 +159,13 @@ u: (who is henry miller) [Henry Miller is best known for writing the Tropic of C
 [One of the few liberated people of the 20th century and an all around swell guy.]
 
 #! who is bilbo baggins
-u: (who is bilbo baggins) 
+u: (who is bilbo baggins)   is a character in Tolkeins Lord of the Rings.
+ $ = 
 #! what is that
-u: (what is that) # li: HASH(0x7fb16a1e1698) 
+u: (what is that) # li: HASH(0x7fbbba14cb80) 
 [Ive lost the context again.]
 [Can you ask me more precisely?]
-# li: HASH(0x7fb1689d3378) 
+# li: HASH(0x7fbbb88928f8) 
 
 #! what is om
 u: (what is om) om is the omega, the unknown, the undefined.
