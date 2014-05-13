@@ -1,8 +1,8 @@
 
 topic: ~test (aimlkey) 
 
-#! Marco told me about aimlkey
-u: ( Marco ) ^keep() ^repeat() polo.
+#! Marco.
+u: ( Marco ) ^keep() ^repeat() Polo.
 
 #! 
 
