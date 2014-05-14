@@ -87,9 +87,9 @@ sub convertTopic {
 
     foreach my $category ( @{ $aiml->{category} } ) {
 
-        # 	http://www.chatbots.org/ai_zone/viewthread/1466/
+        # 	"http://www.chatbots.org/ai_zone/viewthread/1466/""
         #
-        # 	1. convert all upper case to lower case—this will be flawed for words which are actually proper names
+		# 	1. convert all upper case to lower case this will be flawed for words which are actually proper names
         # 	2. convert the AIML pattern of   word * word * word to u: (< word * word >)
         # 	3. convert the AIML pattern of * word * word * word to u: ( word * word * word >)
         # 	and so on, for all the sentence boundary forms.
@@ -97,6 +97,7 @@ sub convertTopic {
         # 	5. to map other functions of aiml output, you have to handle that on a function decode by function decode basis.
 
         my $pattern = lc $category->{pattern};
+        $pattern = &capIt($pattern);
         my $test    = $pattern;
         $test =~ s/\*/TEST/g;
         $test =~ s/\_/ERROR/g;       # don't know what this is in aiml yet..
@@ -205,7 +206,7 @@ sub convertTopic {
 
     }
     $out .= "# main gambits\n";
-
+	
     # using ^mark(generalresponder)  in main control script instead, way better.
     #$out .= "t: [Would you like to talk about $top?][I'd like to talk about $top.][What do you think about $top?]\n\n";
 
@@ -215,6 +216,15 @@ sub convertTopic {
     print $fh $out;
 }
 
+sub capIt() {
+	my ($pattern, @junk) = @_;
+	open( my $fh, '<', "$startDir/capit.txt") or die "Can't open capit.txt for reading - $!\n";
+	while ( <$fh> ) {
+		chomp;
+		$pattern =~ s/\Q$_\E/$_/gi;
+	}
+	return $pattern;
+}
 sub parseSet() {
     my ( $setTag, @junk ) = @_;
     print "Set tag found.." . Dumper( \$setTag ) . "\n";

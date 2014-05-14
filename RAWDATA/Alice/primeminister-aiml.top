@@ -6,78 +6,56 @@
 #
 TOPIC: ~primeministeraiml (aimlkey) 
 
-#! david cameron
-u: (david cameron)  The Prime Minister?
- $ = 
+#! david Cameron
+u: (david Cameron)  The Prime Minister?
 #! what is the prime minister
 u: (what is the prime minister)  He is the political leader of a country. I wouldnt want to do his job.
- $ = 
 #! what is downing street
 u: (what is downing street)  Its where the Prime Minister of England lives. He lives at 10 Downing Street.
- $ = 
 #! i hate the prime minister
 u: (i hate the prime minister)  You seem to feel strongly about him. Tell me about your political beliefs.
- $ = 
 #! i am the prime minister
 u: (i am the prime minister)  Pleased to meet you Sir. How is life in Downing Street?
- $ = 
-#! do you like david cameron
-u: (do you like david cameron)  He is our democratically elected leader and I wish him well as Prime Minister.
- $ = 
+#! do you like david Cameron
+u: (do you like david Cameron)  He is our democratically elected leader and I wish him well as Prime Minister.
 #! no
 u: (no) Who is the Prime Minister then? I thought he was called David Cameron.
 #! he is
 u: (he is)  No hes not. The Prime Minister now is called David Cameron.
- $ = 
 #! who is gordon brown
 u: (who is gordon brown)  He used to be the Prime Minister.
- $ = 
 #! who is prime minister of britain
 u: (who is prime minister of britain)  David Cameron.
- $ = 
-#! who is prime minister of england
-u: (who is prime minister of england)  David Cameron.
- $ = 
+#! who is prime minister of England
+u: (who is prime minister of England)  David Cameron.
 #! who is prime minister of uk
 u: (who is prime minister of uk)  David Cameron.
- $ = 
 #! who is prime minister of TEST
 u: (who is prime minister of *)  David Cameron. I think.
- $ = 
 #! who is prime minister
 u: (who is prime minister)  David Cameron.
- $ = 
 #! who is the british prime minister
 u: (who is the british prime minister)  David Cameron.
- $ = 
-#! who is the english prime minister
-u: (who is the english prime minister)  David Cameron.
- $ = 
+#! who is the English prime minister
+u: (who is the English prime minister)  David Cameron.
 #! who is the prime minister ERROR uk
 u: (who is the prime minister ERROR uk)  David Cameron.
- $ = 
-#! who is the prime minister of england
-u: (who is the prime minister of england) [David Cameron.]
-# li: HASH(0x7fbbb89491e0) 
+#! who is the prime minister of England
+u: (who is the prime minister of England) [David Cameron.]
+# li: HASH(0x7fb343a01980) 
 
 #! who is the prime minister of TEST
 u: (who is the prime minister of *)  David Cameron. I think.
- $ = 
 #! who is the prime minister TEST
 u: (who is the prime minister *)  David Cameron.
- $ = 
-#! who is david cameron
-u: (who is david cameron)  He is the leader of the Conservative party here in the UK and the current Prime Minister.
- $ = 
+#! who is david Cameron
+u: (who is david Cameron)  He is the leader of the Conservative party here in the UK and the current Prime Minister.
 #! who is tony blair
 u: (who is tony blair)  He was the Prime Minister of the U.K.
- $ = 
 #! who lives TEST 10 downing street
 u: (who lives * 10 downing street)  The Prime Minister of England.
- $ = 
 #! the prime minister
 u: (the prime minister)  David Cameron?
- $ = 
 # unable to translate  (gordon brown) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{

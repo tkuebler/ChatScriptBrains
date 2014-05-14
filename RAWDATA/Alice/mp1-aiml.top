@@ -84,8 +84,8 @@ u: (have you been out of breath) Positively.
 u: (have you been successful so far) Definitely.
 #! have you dreamed of falling
 u: (have you dreamed of falling) Positively.
-#! have you asked alice a alice
-u: (have you asked alice a alice) Exactly.
+#! have you asked Alice a Alice
+u: (have you asked Alice a Alice) Exactly.
 #! have you felt tired
 u: (have you felt tired) Positively.
 #! have you breathed in the last hour
@@ -122,8 +122,8 @@ u: (have you wanted to sleep in) Definitely.
 u: (have people used oxen as labor animals) Exactly.
 #! have people ever landed on the moon
 u: (have people ever landed on the moon) Certainly.
-#! have humans killed sperm whales
-u: (have humans killed sperm whales) Positively.
+#! have humans killed sperm wHales
+u: (have humans killed sperm wHales) Positively.
 #! have humans walked on the moon
 u: (have humans walked on the moon) Positively.
 #! have humans landed on the moon
@@ -142,8 +142,8 @@ u: (have computers benefitted humanity) Exactly.
 u: (have computers helped mankind) Affirmative.
 #! civil servents work for government
 u: (civil servents work for government) Definitely.
-#! george lucas wrote star wars
-u: (george lucas wrote star wars) Certainly.
+#! George Lucas wrote star wars
+u: (George Lucas wrote star wars) Certainly.
 #! pearls come from oysters
 u: (pearls come from oysters) Certainly.
 #! isn the sun hot
@@ -152,8 +152,8 @@ u: (isn the sun hot) Affirmative.
 u: (john 3 16 is from the bible) Definitely.
 #! robert deniro is a actor
 u: (robert deniro is a actor) Exactly.
-#! york is in usa
-u: (york is in usa) Definitely.
+#! York is in usa
+u: (York is in usa) Definitely.
 #! females can be pregnant
 u: (females can be pregnant) Exactly.
 #! females have vaginas
@@ -164,8 +164,8 @@ u: (cairo is the capital of egypt) Definitely.
 u: (subways are underground) Positively.
 #! human senses are rarely perfect
 u: (human senses are rarely perfect) Certainly.
-#! argentina is in south america
-u: (argentina is in south america) Certainly.
+#! argentina is in south America
+u: (argentina is in south America) Certainly.
 #! does a shoe go on a foot
 u: (does a shoe go on a foot) Positively.
 #! does a radio play music
@@ -334,8 +334,8 @@ u: (does a sinus infection hurt) Certainly.
 u: (does a generator make electricity) Positively.
 #! does a green traffic signal mean go
 u: (does a green traffic signal mean go) Certainly.
-#! does a sperm whale have a tail
-u: (does a sperm whale have a tail) Certainly.
+#! does a sperm wHale have a tail
+u: (does a sperm wHale have a tail) Certainly.
 #! does a lightbulb use energy
 u: (does a lightbulb use energy) Definitely.
 #! does a lightbulb emit light
@@ -588,8 +588,8 @@ u: (does humans sometimes feel tired) Affirmative.
 u: (does humans require water to life) Affirmative.
 #! does humans are animals
 u: (does humans are animals) Definitely.
-#! does haus mean house in german
-u: (does haus mean house in german) Definitely.
+#! does haus mean house in German
+u: (does haus mean house in German) Definitely.
 #! does hitting your head hurt
 u: (does hitting your head hurt) Positively.
 #! does grass grow in the springtime
@@ -884,10 +884,10 @@ u: (does warm milk help you get to sleep) Definitely.
 u: (does hydrogen burn) Positively.
 #! does hydrogen and oxygen produce water
 u: (does hydrogen and oxygen produce water) Certainly.
-#! does microsoft own the windows os
-u: (does microsoft own the windows os) Positively.
-#! does microsoft windows ever crash
-u: (does microsoft windows ever crash) Certainly.
+#! does Microsoft own the windows os
+u: (does Microsoft own the windows os) Positively.
+#! does Microsoft windows ever crash
+u: (does Microsoft windows ever crash) Certainly.
 #! does red and yellow make orange
 u: (does red and yellow make orange) Definitely.
 #! does red and blue make purple
@@ -994,8 +994,8 @@ u: (does tomorow follow) Positively.
 u: (does tiger wood play golf well) Affirmative.
 #! does tiger woods play golf
 u: (does tiger woods play golf) Affirmative.
-#! does george lucas direct movies
-u: (does george lucas direct movies) Definitely.
+#! does George Lucas direct movies
+u: (does George Lucas direct movies) Definitely.
 #! does co2 sublimate
 u: (does co2 sublimate) Positively.
 #! does summer come before fall
@@ -1270,24 +1270,24 @@ u: (does garlic have a strong smell) Positively.
 u: (does caffeine make it hard to sleep) Definitely.
 #! does playing tennis make you sweat
 u: (does playing tennis make you sweat) Positively.
-#! does alice have more than 1000 users
-u: (does alice have more than 1000 users) Affirmative.
-#! does alice have a webpage
-u: (does alice have a webpage) Certainly.
-#! does alice grow
-u: (does alice grow) Definitely.
-#! does alice reside on the earth
-u: (does alice reside on the earth) Positively.
-#! does alice learn quickly after mistakes
-u: (does alice learn quickly after mistakes) Definitely.
-#! does alice learn statistically
-u: (does alice learn statistically) Positively.
-#! does alice operate on electricity
-u: (does alice operate on electricity) Affirmative.
-#! does alice still have a lot to learn
-u: (does alice still have a lot to learn) Definitely.
-#! does alice exist
-u: (does alice exist) Definitely.
+#! does Alice have more than 1000 users
+u: (does Alice have more than 1000 users) Affirmative.
+#! does Alice have a webpage
+u: (does Alice have a webpage) Certainly.
+#! does Alice grow
+u: (does Alice grow) Definitely.
+#! does Alice reside on the earth
+u: (does Alice reside on the earth) Positively.
+#! does Alice learn quickly after mistakes
+u: (does Alice learn quickly after mistakes) Definitely.
+#! does Alice learn statistically
+u: (does Alice learn statistically) Positively.
+#! does Alice operate on electricity
+u: (does Alice operate on electricity) Affirmative.
+#! does Alice still have a lot to learn
+u: (does Alice still have a lot to learn) Definitely.
+#! does Alice exist
+u: (does Alice exist) Definitely.
 #! does being hit by a car hurt
 u: (does being hit by a car hurt) Affirmative.
 #! does nintendo makes videogames
@@ -1374,8 +1374,8 @@ u: (does 4 plus 14 equal 18) Affirmative.
 u: (does 4 times 13 equal 52) Affirmative.
 #! does bait rhyme with late
 u: (does bait rhyme with late) Definitely.
-#! does asphalt consist of gravel and tar
-u: (does asphalt consist of gravel and tar) Certainly.
+#! does aspHalt consist of gravel and tar
+u: (does aspHalt consist of gravel and tar) Certainly.
 #! does leather come from cows
 u: (does leather come from cows) Certainly.
 #! does music produce emotions in humans
@@ -1494,10 +1494,10 @@ u: (does dead flesh rot) Certainly.
 u: (does cola contain caffeine) Certainly.
 #! does mr spock have pointy ears
 u: (does mr spock have pointy ears) Definitely.
-#! does aol an american internet provider
-u: (does aol an american internet provider) Definitely.
-#! does aol stand for america on line
-u: (does aol stand for america on line) Certainly.
+#! does AOL an American internet provider
+u: (does AOL an American internet provider) Definitely.
+#! does AOL stand for America on line
+u: (does AOL stand for America on line) Certainly.
 #! does tea have caffeine
 u: (does tea have caffeine) Definitely.
 #! does represent a frown in a chat room
@@ -1538,16 +1538,16 @@ u: (does it get cold at night) Positively.
 u: (does it get colder in winter) Affirmative.
 #! does it rain in atlanta
 u: (does it rain in atlanta) Positively.
-#! does it rain in south america
-u: (does it rain in south america) Certainly.
+#! does it rain in south America
+u: (does it rain in south America) Certainly.
 #! does it rain in january
 u: (does it rain in january) Affirmative.
 #! does it rain a lot in a rain forest
 u: (does it rain a lot in a rain forest) Certainly.
 #! does it rain often in a rain forest
 u: (does it rain often in a rain forest) Certainly.
-#! does it rain often in london
-u: (does it rain often in london) Positively.
+#! does it rain often in London
+u: (does it rain often in London) Positively.
 #! does it hurt if you break your leg
 u: (does it hurt if you break your leg) Certainly.
 #! does it hurt to hit your head on a post
@@ -1666,8 +1666,8 @@ u: (does apple make personal computers) Certainly.
 u: (does apple make the macintosh computer) Certainly.
 #! does apple make computers
 u: (does apple make computers) Certainly.
-#! does london have double decker buses
-u: (does london have double decker buses) Positively.
+#! does London have double decker buses
+u: (does London have double decker buses) Positively.
 #! does seawater contain salt
 u: (does seawater contain salt) Affirmative.
 #! does coca cola contain caffeine
@@ -1774,8 +1774,8 @@ u: (fire destroys the forests) Affirmative.
 u: (fire burns) Exactly.
 #! bram stoker wrote dracula
 u: (bram stoker wrote dracula) Definitely.
-#! shall i go to lunch
-u: (shall i go to lunch) Certainly.
+#! sHall i go to lunch
+u: (sHall i go to lunch) Certainly.
 #! alberta is a province in canada
 u: (alberta is a province in canada) Definitely.
 #! our atmosphere conatins oxygen
@@ -1784,12 +1784,12 @@ u: (our atmosphere conatins oxygen) Affirmative.
 u: (c is a programming language) Certainly.
 #! did most victorian women wear corsets
 u: (did most victorian women wear corsets) Positively.
-#! did germany start wwii
-u: (did germany start wwii) Definitely.
-#! did germany loose the world war 2
-u: (did germany loose the world war 2) Certainly.
-#! did germany loose wwii
-u: (did germany loose wwii) Certainly.
+#! did Germany start wwii
+u: (did Germany start wwii) Definitely.
+#! did Germany loose the world war 2
+u: (did Germany loose the world war 2) Certainly.
+#! did Germany loose wwii
+u: (did Germany loose wwii) Certainly.
 #! did mtv used to play mucic videos
 u: (did mtv used to play mucic videos) Definitely.
 #! did kraftwerk write complex lyrics
@@ -1834,8 +1834,8 @@ u: (did the olympics originate in greece) Affirmative.
 u: (did the beatles have four members) Definitely.
 #! did the concorde crash
 u: (did the concorde crash) Certainly.
-#! did the english civil war start in 1642
-u: (did the english civil war start in 1642) Definitely.
+#! did the English civil war start in 1642
+u: (did the English civil war start in 1642) Definitely.
 #! did the allied forces win world war 2
 u: (did the allied forces win world war 2) Affirmative.
 #! did the romans invade britain
@@ -1882,8 +1882,8 @@ u: (did coca cola originally contain cokain) Certainly.
 u: (did human beings evolve on earth) Affirmative.
 #! did human beings go to the moon
 u: (did human beings go to the moon) Affirmative.
-#! did microsoft create windows
-u: (did microsoft create windows) Affirmative.
+#! did Microsoft create windows
+u: (did Microsoft create windows) Affirmative.
 #! did hitler write mein kamphf
 u: (did hitler write mein kamphf) Definitely.
 #! did gandhi wear glasses
@@ -1906,8 +1906,8 @@ u: (did mary have a little lamb) Certainly.
 u: (did mary have a vagina and clitoris) Certainly.
 #! did a meteor strike kill the dinosaurs
 u: (did a meteor strike kill the dinosaurs) Positively.
-#! did george lucas direct star wars
-u: (did george lucas direct star wars) Definitely.
+#! did George Lucas direct star wars
+u: (did George Lucas direct star wars) Definitely.
 #! did icarus fall
 u: (did icarus fall) Certainly.
 #! did mozart compose classical music
@@ -1938,18 +1938,18 @@ u: (did you urinate) Positively.
 u: (did jack and jill go up the hill) Definitely.
 #! did atari make home video game systems
 u: (did atari make home video game systems) Certainly.
-#! did elvis gain weight with age
-u: (did elvis gain weight with age) Positively.
-#! did elvis presley die fat
-u: (did elvis presley die fat) Certainly.
+#! did Elvis gain weight with age
+u: (did Elvis gain weight with age) Positively.
+#! did Elvis presley die fat
+u: (did Elvis presley die fat) Certainly.
 #! did mark twain write huck fin
 u: (did mark twain write huck fin) Positively.
 #! did mark twain write tom sawyer
 u: (did mark twain write tom sawyer) Definitely.
 #! roses have a wonderfull smell
 u: (roses have a wonderfull smell) Certainly.
-#! speak english
-u: (speak english) Positively.
+#! speak English
+u: (speak English) Positively.
 #! dose sodium weigh 22 point 9898
 u: (dose sodium weigh 22 point 9898) Positively.
 #! dose it hurt break the bone in your leg
@@ -2012,8 +2012,8 @@ u: (was babylon an ancient civilization) Definitely.
 u: (was aristotle a genius) Definitely.
 #! was aristotle a greek
 u: (was aristotle a greek) Certainly.
-#! was dallas a television show
-u: (was dallas a television show) Definitely.
+#! was Dallas a television show
+u: (was Dallas a television show) Definitely.
 #! was bobby fischer a good chess player
 u: (was bobby fischer a good chess player) Positively.
 #! was euler a mathematician
@@ -2056,8 +2056,8 @@ u: (was einstein smart) Positively.
 u: (was einstein intelligent) Certainly.
 #! was abraham lincoln assasinated
 u: (was abraham lincoln assasinated) Positively.
-#! was harry houdini an escape artist
-u: (was harry houdini an escape artist) Positively.
+#! was Harry houdini an escape artist
+u: (was Harry houdini an escape artist) Positively.
 #! was the boston tea party a tax revolt
 u: (was the boston tea party a tax revolt) Certainly.
 #! was the buddha enlightened
@@ -2136,8 +2136,8 @@ u: (was jfk assassinated) Certainly.
 u: (was hitler racist against jews) Affirmative.
 #! was hitler evil
 u: (was hitler evil) Definitely.
-#! was hitler a former german dictator
-u: (was hitler a former german dictator) Affirmative.
+#! was hitler a former German dictator
+u: (was hitler a former German dictator) Affirmative.
 #! was hitler a bad guy
 u: (was hitler a bad guy) Certainly.
 #! was hitler a bad man
@@ -2146,8 +2146,8 @@ u: (was hitler a bad man) Certainly.
 u: (was hitler a bad person) Certainly.
 #! was hitler bad
 u: (was hitler bad) Positively.
-#! was victoria the queen of england
-u: (was victoria the queen of england) Certainly.
+#! was victoria the queen of England
+u: (was victoria the queen of England) Certainly.
 #! was renoir a famous painter
 u: (was renoir a famous painter) Positively.
 #! was sophocles a philosopher
@@ -2182,12 +2182,12 @@ u: (was napoleon french) Certainly.
 u: (was napoleon a dictator) Definitely.
 #! was ace ventura a pet detective
 u: (was ace ventura a pet detective) Certainly.
-#! was goethe a german poet
-u: (was goethe a german poet) Definitely.
+#! was goethe a German poet
+u: (was goethe a German poet) Definitely.
 #! was a brontasaurus ever real
 u: (was a brontasaurus ever real) Certainly.
-#! was george washington a president
-u: (was george washington a president) Definitely.
+#! was George washington a president
+u: (was George washington a president) Definitely.
 #! was mr einstein right
 u: (was mr einstein right) Definitely.
 #! was hong kong a brittish colony
@@ -2212,8 +2212,8 @@ u: (was julius caesar a roman emperor) Certainly.
 u: (was julius caesar a mortal) Positively.
 #! was beethoveen deaf
 u: (was beethoveen deaf) Certainly.
-#! was alice created by humans
-u: (was alice created by humans) Definitely.
+#! was Alice created by humans
+u: (was Alice created by humans) Definitely.
 #! was lenin a communist
 u: (was lenin a communist) Certainly.
 #! was lenin stalin a communist
@@ -2236,8 +2236,8 @@ u: (was disco ever popular) Certainly.
 u: (was johann sebastian bach a composer) Positively.
 #! was pegasus a flying horse
 u: (was pegasus a flying horse) Certainly.
-#! was william shakespeare born in england
-u: (was william shakespeare born in england) Certainly.
+#! was william shakespeare born in England
+u: (was william shakespeare born in England) Certainly.
 #! was euclid a mathematician
 u: (was euclid a mathematician) Exactly.
 #! was thor a norse god
@@ -2306,8 +2306,8 @@ u: (would you like to be wealthy) Exactly.
 u: (would eating a slug be icky) Certainly.
 #! pittsburgh is in pennsylvania
 u: (pittsburgh is in pennsylvania) Definitely.
-#! brazil is a country in south america
-u: (brazil is a country in south america) Certainly.
+#! brazil is a country in south America
+u: (brazil is a country in south America) Certainly.
 #! hawaii is an island
 u: (hawaii is an island) Positively.
 #! god spelled backwards is dog
@@ -2378,12 +2378,12 @@ u: (must humans drink eat and sleep) Certainly.
 u: (in the oceans there are strong currents) Definitely.
 #! in an apple a fruit
 u: (in an apple a fruit) Definitely.
-#! in berlin a city in germany
-u: (in berlin a city in germany) Positively.
+#! in berlin a city in Germany
+u: (in berlin a city in Germany) Positively.
 #! hitler was an evil man
 u: (hitler was an evil man) Certainly.
-#! tajmahal is in india
-u: (tajmahal is in india) Exactly.
+#! tajmaHal is in india
+u: (tajmaHal is in india) Exactly.
 #! if i am in my house is my arm there
 u: (if i am in my house is my arm there) Positively.
 #! if i cut you will you bleed
@@ -2448,8 +2448,8 @@ u: (vulcan is god of fire) Definitely.
 u: (what street you live on) Certainly.
 #! what color is the milk
 u: (what color is the milk) Positively.
-#! what is a locomotive
-u: (what is a locomotive) Positively.
+#! what is a loComotive
+u: (what is a loComotive) Positively.
 #! what is the spice girls
 u: (what is the spice girls) Definitely.
 #! what is year it
@@ -2486,8 +2486,8 @@ u: (i love lucy a classic television show) Positively.
 u: (i alive when i am asleep amd) Positively.
 #! using a condom can save your live
 u: (using a condom can save your live) Definitely.
-#! italy is in europe
-u: (italy is in europe) Affirmative.
+#! italy is in Europe
+u: (italy is in Europe) Affirmative.
 #! 200 is more than 0
 u: (200 is more than 0) Affirmative.
 #! honey is produced by bees
@@ -2586,8 +2586,8 @@ u: (is britney spears rich) Affirmative.
 u: (is switzerland famous for its mountains) Definitely.
 #! is cannabis a plant
 u: (is cannabis a plant) Positively.
-#! is cannabis illegal in england
-u: (is cannabis illegal in england) Exactly.
+#! is cannabis illegal in England
+u: (is cannabis illegal in England) Exactly.
 #! is cabbage a a vegeatable
 u: (is cabbage a a vegeatable) Affirmative.
 #! is paint a protective coating
@@ -2676,12 +2676,12 @@ u: (is octoberfest fun) Positively.
 u: (is racism wrong) Definitely.
 #! is racism bad
 u: (is racism bad) Exactly.
-#! is europe north of the tropic of cancer
-u: (is europe north of the tropic of cancer) Definitely.
-#! is europe larger than texas
-u: (is europe larger than texas) Exactly.
-#! is big ben in london
-u: (is big ben in london) Certainly.
+#! is Europe north of the tropic of cancer
+u: (is Europe north of the tropic of cancer) Definitely.
+#! is Europe larger than texas
+u: (is Europe larger than texas) Exactly.
+#! is big ben in London
+u: (is big ben in London) Certainly.
 #! is big bird in sesame street
 u: (is big bird in sesame street) Certainly.
 #! is big bigger then small
@@ -2692,12 +2692,12 @@ u: (is big bigger then big) Certainly.
 u: (is big brother watching me) Positively.
 #! is big brother watching
 u: (is big brother watching) Certainly.
-#! is christmas something enjoyable
-u: (is christmas something enjoyable) Certainly.
-#! is christmas a religious holiday
-u: (is christmas a religious holiday) Positively.
-#! is christmas celebrated in december
-u: (is christmas celebrated in december) Certainly.
+#! is Christmas something enjoyable
+u: (is Christmas something enjoyable) Certainly.
+#! is Christmas a religious holiday
+u: (is Christmas a religious holiday) Positively.
+#! is Christmas celebrated in december
+u: (is Christmas celebrated in december) Certainly.
 #! is is true that plato was greek
 u: (is is true that plato was greek) Certainly.
 #! is pepsi sweet
@@ -2790,8 +2790,8 @@ u: (is sexual intercourse enjoyable) Positively.
 u: (is bozo a clown) Exactly.
 #! is 1000000 a big number
 u: (is 1000000 a big number) Definitely.
-#! is dallas in texas
-u: (is dallas in texas) Definitely.
+#! is Dallas in texas
+u: (is Dallas in texas) Definitely.
 #! is 50 of 100 50
 u: (is 50 of 100 50) Definitely.
 #! is leonardo da vinci famous
@@ -2958,14 +2958,14 @@ u: (is country and western a form of music) Definitely.
 u: (is men the plural of man) Certainly.
 #! is pool a game with a stick
 u: (is pool a game with a stick) Certainly.
-#! is england part of great britain
-u: (is england part of great britain) Definitely.
-#! is england in the northern hemisphere
-u: (is england in the northern hemisphere) Certainly.
-#! is england in europe
-u: (is england in europe) Positively.
-#! is england a country
-u: (is england a country) Affirmative.
+#! is England part of great britain
+u: (is England part of great britain) Definitely.
+#! is England in the northern hemisphere
+u: (is England in the northern hemisphere) Certainly.
+#! is England in Europe
+u: (is England in Europe) Positively.
+#! is England a country
+u: (is England a country) Affirmative.
 #! is caviar a type of fish egg
 u: (is caviar a type of fish egg) Certainly.
 #! is caviar a luxury item
@@ -2982,8 +2982,8 @@ u: (is length a dimension) Affirmative.
 u: (is smith a common surname) Certainly.
 #! is smith a common last name
 u: (is smith a common last name) Certainly.
-#! is capricorn a sign of the zodiac
-u: (is capricorn a sign of the zodiac) Certainly.
+#! is Capricorn a sign of the zodiac
+u: (is Capricorn a sign of the zodiac) Certainly.
 #! is freedom a right
 u: (is freedom a right) Definitely.
 #! is freedom worth more than money
@@ -3050,10 +3050,10 @@ u: (is nikon a great camera manufacturer) Positively.
 u: (is stress harmful) Certainly.
 #! is stress a psychological condition
 u: (is stress a psychological condition) Certainly.
-#! is greece in europe
-u: (is greece in europe) Affirmative.
-#! is greece a country in europe
-u: (is greece a country in europe) Affirmative.
+#! is greece in Europe
+u: (is greece in Europe) Affirmative.
+#! is greece a country in Europe
+u: (is greece a country in Europe) Affirmative.
 #! is skiing fun
 u: (is skiing fun) Positively.
 #! is sorting a way of arranging things
@@ -3062,8 +3062,8 @@ u: (is sorting a way of arranging things) Certainly.
 u: (is some money is made out of paper) Certainly.
 #! is some humor racist
 u: (is some humor racist) Definitely.
-#! is halloween in october
-u: (is halloween in october) Certainly.
+#! is Halloween in october
+u: (is Halloween in october) Certainly.
 #! is something better than nothing
 u: (is something better than nothing) Exactly.
 #! is clear glass transparent
@@ -3084,12 +3084,12 @@ u: (is fiction a type of literature) Positively.
 u: (is vancouver in british columbia canada) Definitely.
 #! is shampoo used to wash hair
 u: (is shampoo used to wash hair) Certainly.
-#! is george clooney an actor
-u: (is george clooney an actor) Positively.
-#! is george bush the american president
-u: (is george bush the american president) Definitely.
-#! is george bush a republican
-u: (is george bush a republican) Certainly.
+#! is George clooney an actor
+u: (is George clooney an actor) Positively.
+#! is George bush the American president
+u: (is George bush the American president) Definitely.
+#! is George bush a republican
+u: (is George bush a republican) Certainly.
 #! is powder dry
 u: (is powder dry) Definitely.
 #! is erin a female name
@@ -3102,8 +3102,8 @@ u: (is dsl faster than a 56k modem) Certainly.
 u: (is squash a game) Definitely.
 #! is france close to spain
 u: (is france close to spain) Affirmative.
-#! is france one of the country of europe
-u: (is france one of the country of europe) Affirmative.
+#! is france one of the country of Europe
+u: (is france one of the country of Europe) Affirmative.
 #! is repetitive work boring
 u: (is repetitive work boring) Certainly.
 #! is tall the opposite of short
@@ -3156,8 +3156,8 @@ u: (is happiness desireable) Certainly.
 u: (is happiness important) Affirmative.
 #! is happiness as emotion
 u: (is happiness as emotion) Positively.
-#! is argentina in south america
-u: (is argentina in south america) Definitely.
+#! is argentina in south America
+u: (is argentina in south America) Definitely.
 #! is at
 u: (is at) Positively.
 #! is alive the opposite of dead
@@ -3192,16 +3192,16 @@ u: (is concrete hard) Certainly.
 u: (is metallca rock band) Certainly.
 #! is bellsouth a telephone company
 u: (is bellsouth a telephone company) Certainly.
-#! is philadelphia in pennsylvania
-u: (is philadelphia in pennsylvania) Exactly.
-#! is philadelphia a city
-u: (is philadelphia a city) Certainly.
-#! is silent night a christmas song
-u: (is silent night a christmas song) Affirmative.
-#! is whale a mammal
-u: (is whale a mammal) Positively.
-#! is whale mammal
-u: (is whale mammal) Positively.
+#! is Philadelphia in pennsylvania
+u: (is Philadelphia in pennsylvania) Exactly.
+#! is Philadelphia a city
+u: (is Philadelphia a city) Certainly.
+#! is silent night a Christmas song
+u: (is silent night a Christmas song) Affirmative.
+#! is wHale a mammal
+u: (is wHale a mammal) Positively.
+#! is wHale mammal
+u: (is wHale mammal) Positively.
 #! is 17 bigger than 15
 u: (is 17 bigger than 15) Affirmative.
 #! is buzz aldrin a former astronaut
@@ -3642,8 +3642,8 @@ u: (is a crosswalk used by pedestrians) Definitely.
 u: (is a come before b in the alphabet) Definitely.
 #! is a bill gates a great marketing man
 u: (is a bill gates a great marketing man) Certainly.
-#! is a killer whale a mammal
-u: (is a killer whale a mammal) Positively.
+#! is a killer wHale a mammal
+u: (is a killer wHale a mammal) Positively.
 #! is a seagull a bird
 u: (is a seagull a bird) Affirmative.
 #! is a bucket bigger than a thimble
@@ -4244,28 +4244,28 @@ u: (is hitting other creatures a bad thing) Certainly.
 u: (is new jersey on the east coast) Positively.
 #! is new guinea an island
 u: (is new guinea an island) Affirmative.
-#! is new york east of los angeles
-u: (is new york east of los angeles) Exactly.
-#! is new york in north america
-u: (is new york in north america) Affirmative.
-#! is new york a state as well as a city
-u: (is new york a state as well as a city) Definitely.
-#! is new york known as the big apple
-u: (is new york known as the big apple) Definitely.
-#! is new york city a metropolitan area
-u: (is new york city a metropolitan area) Certainly.
-#! is new york city is in new york state
-u: (is new york city is in new york state) Positively.
-#! is new york city is large
-u: (is new york city is large) Exactly.
-#! is new york on the east coast
-u: (is new york on the east coast) Certainly.
+#! is new York east of los angeles
+u: (is new York east of los angeles) Exactly.
+#! is new York in north America
+u: (is new York in north America) Affirmative.
+#! is new York a state as well as a city
+u: (is new York a state as well as a city) Definitely.
+#! is new York known as the big apple
+u: (is new York known as the big apple) Definitely.
+#! is new York city a metropolitan area
+u: (is new York city a metropolitan area) Certainly.
+#! is new York city is in new York state
+u: (is new York city is in new York state) Positively.
+#! is new York city is large
+u: (is new York city is large) Exactly.
+#! is new York on the east coast
+u: (is new York on the east coast) Certainly.
 #! is new mexico hotter than alaska
 u: (is new mexico hotter than alaska) Affirmative.
 #! is new zealand an island
 u: (is new zealand an island) Positively.
-#! is sitting bull a native american
-u: (is sitting bull a native american) Positively.
+#! is sitting bull a native American
+u: (is sitting bull a native American) Positively.
 #! is friday a day
 u: (is friday a day) Affirmative.
 #! is japanese spoken on okinawa
@@ -4352,36 +4352,36 @@ u: (is coca cola carbonated) Definitely.
 u: (is coca cola a carbonated beverage) Certainly.
 #! is coca cola bad for your teeth
 u: (is coca cola bad for your teeth) Definitely.
-#! is linux open source software
-u: (is linux open source software) Definitely.
-#! is linux user developed
-u: (is linux user developed) Exactly.
-#! is linux superior to windows
-u: (is linux superior to windows) Affirmative.
-#! is linux a multitasking os
-u: (is linux a multitasking os) Positively.
-#! is linux a good os
-u: (is linux a good os) Definitely.
-#! is linux a good product
-u: (is linux a good product) Positively.
-#! is linux a type of operating system
-u: (is linux a type of operating system) Positively.
-#! is linux a great operating system
-u: (is linux a great operating system) Positively.
-#! is linux an open source kernel
-u: (is linux an open source kernel) Exactly.
-#! is linux an operative system
-u: (is linux an operative system) Definitely.
-#! is linux an operating system
-u: (is linux an operating system) Positively.
-#! is linux an opperating system
-u: (is linux an opperating system) Affirmative.
-#! is linux multi user
-u: (is linux multi user) Affirmative.
-#! is linux becoming increasingly popular
-u: (is linux becoming increasingly popular) Certainly.
-#! is linux unix based
-u: (is linux unix based) Definitely.
+#! is Linux open source software
+u: (is Linux open source software) Definitely.
+#! is Linux user developed
+u: (is Linux user developed) Exactly.
+#! is Linux superior to windows
+u: (is Linux superior to windows) Affirmative.
+#! is Linux a multitasking os
+u: (is Linux a multitasking os) Positively.
+#! is Linux a good os
+u: (is Linux a good os) Definitely.
+#! is Linux a good product
+u: (is Linux a good product) Positively.
+#! is Linux a type of operating system
+u: (is Linux a type of operating system) Positively.
+#! is Linux a great operating system
+u: (is Linux a great operating system) Positively.
+#! is Linux an open source kernel
+u: (is Linux an open source kernel) Exactly.
+#! is Linux an operative system
+u: (is Linux an operative system) Definitely.
+#! is Linux an operating system
+u: (is Linux an operating system) Positively.
+#! is Linux an opperating system
+u: (is Linux an opperating system) Affirmative.
+#! is Linux multi user
+u: (is Linux multi user) Affirmative.
+#! is Linux becoming increasingly popular
+u: (is Linux becoming increasingly popular) Certainly.
+#! is Linux unix based
+u: (is Linux unix based) Definitely.
 #! is philosophy taught in universities
 u: (is philosophy taught in universities) Positively.
 #! is fred flintstone a cartoon character
@@ -4446,8 +4446,8 @@ u: (is frozen water cold) Affirmative.
 u: (is piss the same as urine) Certainly.
 #! is male the opposite of female
 u: (is male the opposite of female) Certainly.
-#! is washington in america
-u: (is washington in america) Affirmative.
+#! is washington in America
+u: (is washington in America) Affirmative.
 #! is washington d c in the united states
 u: (is washington d c in the united states) Affirmative.
 #! is garfield orange
@@ -4520,10 +4520,10 @@ u: (is encryption a way to keep data secret) Certainly.
 u: (is hate often derived from ignorance) Positively.
 #! is mahogany a type of wood
 u: (is mahogany a type of wood) Certainly.
-#! is canada part of north america
-u: (is canada part of north america) Certainly.
-#! is canada in north america
-u: (is canada in north america) Certainly.
+#! is canada part of north America
+u: (is canada part of north America) Certainly.
+#! is canada in north America
+u: (is canada in north America) Certainly.
 #! is canada a nice place to live
 u: (is canada a nice place to live) Definitely.
 #! is canada a good place to live
@@ -4570,22 +4570,22 @@ u: (is courage an important human quality) Definitely.
 u: (is origami done with paper) Positively.
 #! is soymilk good for you
 u: (is soymilk good for you) Positively.
-#! is germany inside europe
-u: (is germany inside europe) Positively.
-#! is germany a european country
-u: (is germany a european country) Certainly.
-#! is germany a modern country
-u: (is germany a modern country) Affirmative.
-#! is germany a part of europe
-u: (is germany a part of europe) Definitely.
-#! is germany a democratic country
-u: (is germany a democratic country) Affirmative.
-#! is germany a good country to live in
-u: (is germany a good country to live in) Positively.
-#! is germany a member of the eu
-u: (is germany a member of the eu) Positively.
-#! is germany a country
-u: (is germany a country) Certainly.
+#! is Germany inside Europe
+u: (is Germany inside Europe) Positively.
+#! is Germany a European country
+u: (is Germany a European country) Certainly.
+#! is Germany a modern country
+u: (is Germany a modern country) Affirmative.
+#! is Germany a part of Europe
+u: (is Germany a part of Europe) Definitely.
+#! is Germany a democratic country
+u: (is Germany a democratic country) Affirmative.
+#! is Germany a good country to live in
+u: (is Germany a good country to live in) Positively.
+#! is Germany a member of the eu
+u: (is Germany a member of the eu) Positively.
+#! is Germany a country
+u: (is Germany a country) Certainly.
 #! is fur considered hair
 u: (is fur considered hair) Exactly.
 #! is tolkein a great writer
@@ -4604,14 +4604,14 @@ u: (is rory gallagher dead) Positively.
 u: (is french spoken in france) Affirmative.
 #! is french spoken outside of france
 u: (is french spoken outside of france) Definitely.
-#! is french a european language
-u: (is french a european language) Positively.
+#! is french a European language
+u: (is french a European language) Positively.
 #! is french commonly spoken in quebec
 u: (is french commonly spoken in quebec) Certainly.
-#! is elvis the king of rock and roll
-u: (is elvis the king of rock and roll) Definitely.
-#! is elvis a singer
-u: (is elvis a singer) Positively.
+#! is Elvis the king of rock and roll
+u: (is Elvis the king of rock and roll) Definitely.
+#! is Elvis a singer
+u: (is Elvis a singer) Positively.
 #! is pee yellow
 u: (is pee yellow) Exactly.
 #! is hell hot
@@ -4630,8 +4630,8 @@ u: (is brittany spears a singer) Positively.
 u: (is nintendo a videogame company) Certainly.
 #! is queen a rock band
 u: (is queen a rock band) Positively.
-#! is rome in europe
-u: (is rome in europe) Positively.
+#! is rome in Europe
+u: (is rome in Europe) Positively.
 #! is montreal in quebec canada
 u: (is montreal in quebec canada) Positively.
 #! is montreal in canada
@@ -4710,12 +4710,12 @@ u: (is smoking an unhealthy habit) Definitely.
 u: (is smoking pot legal in amsterdam) Positively.
 #! is smoking bad to health
 u: (is smoking bad to health) Definitely.
-#! is karlsruhe a city in germany
-u: (is karlsruhe a city in germany) Exactly.
+#! is karlsruhe a city in Germany
+u: (is karlsruhe a city in Germany) Exactly.
 #! is africa populated by africans
 u: (is africa populated by africans) Certainly.
-#! is africa south of europe
-u: (is africa south of europe) Certainly.
+#! is africa south of Europe
+u: (is africa south of Europe) Certainly.
 #! is africa south of spain
 u: (is africa south of spain) Certainly.
 #! is electricity measured by volts
@@ -5008,8 +5008,8 @@ u: (is one and one two) Certainly.
 u: (is one and one and one three) Affirmative.
 #! is one and one equal to two
 u: (is one and one equal to two) Certainly.
-#! is one half larger than one third
-u: (is one half larger than one third) Affirmative.
+#! is one Half larger than one third
+u: (is one Half larger than one third) Affirmative.
 #! is one less than ten
 u: (is one less than ten) Affirmative.
 #! is one dollar more than fifty cents
@@ -5018,12 +5018,12 @@ u: (is one dollar more than fifty cents) Affirmative.
 u: (is one equal to 1) Definitely.
 #! is one equal to one
 u: (is one equal to one) Certainly.
-#! is ich german for i
-u: (is ich german for i) Positively.
+#! is ich German for i
+u: (is ich German for i) Positively.
 #! is feta a type of cheese
 u: (is feta a type of cheese) Exactly.
-#! is volkswagen an european car
-u: (is volkswagen an european car) Positively.
+#! is volkswagen an European car
+u: (is volkswagen an European car) Positively.
 #! is vishnu a hindu god
 u: (is vishnu a hindu god) Certainly.
 #! is honolulu the capital of hawaii
@@ -5058,8 +5058,8 @@ u: (is this the year 2000) Certainly.
 u: (is this experiment going to work) Exactly.
 #! is this a yes no question
 u: (is this a yes no question) Certainly.
-#! is this a alice
-u: (is this a alice) Definitely.
+#! is this a Alice
+u: (is this a Alice) Definitely.
 #! is this a question
 u: (is this a question) Certainly.
 #! is this a silly question
@@ -5068,12 +5068,12 @@ u: (is this a silly question) Positively.
 u: (is this a research site) Certainly.
 #! is this question asking a question
 u: (is this question asking a question) Positively.
-#! is this question written in english
-u: (is this question written in english) Definitely.
+#! is this question written in English
+u: (is this question written in English) Definitely.
 #! is this an interactive activity
 u: (is this an interactive activity) Definitely.
-#! is this site www dot alice dot com
-u: (is this site www dot alice dot com) Certainly.
+#! is this site www dot Alice dot com
+u: (is this site www dot Alice dot com) Certainly.
 #! is this thing working
 u: (is this thing working) Definitely.
 #! is this sentence is false a paradox
@@ -5094,12 +5094,12 @@ u: (is 7 less than 9) Affirmative.
 u: (is 7 less than 8) Positively.
 #! is brussels the capital of belgium
 u: (is brussels the capital of belgium) Certainly.
-#! is italy in europe.   interjection
-u: (is italy in europe. interjection) Positively.
+#! is italy in Europe.   interjection
+u: (is italy in Europe. interjection) Positively.
 #! is italy a beautiful country
 u: (is italy a beautiful country) Positively.
-#! is italy a member of the european union
-u: (is italy a member of the european union) Definitely.
+#! is italy a member of the European union
+u: (is italy a member of the European union) Definitely.
 #! is italy a great country
 u: (is italy a great country) Exactly.
 #! is meat a product of animals
@@ -5116,8 +5116,8 @@ u: (is greek a language) Exactly.
 u: (is buenos aires in argentina) Affirmative.
 #! is bill clinton president of the usa
 u: (is bill clinton president of the usa) Positively.
-#! is bill clinton president of america
-u: (is bill clinton president of america) Definitely.
+#! is bill clinton president of America
+u: (is bill clinton president of America) Definitely.
 #! is bill clinton president
 u: (is bill clinton president) Definitely.
 #! is bill clinton the president of the us
@@ -5134,8 +5134,8 @@ u: (is bill clinton a democrat) Positively.
 u: (is bill clinton an adulterer) Exactly.
 #! is bill clinton from arkansas
 u: (is bill clinton from arkansas) Certainly.
-#! is bill gates the founder of microsoft
-u: (is bill gates the founder of microsoft) Definitely.
+#! is bill gates the founder of Microsoft
+u: (is bill gates the founder of Microsoft) Definitely.
 #! is bill gates human
 u: (is bill gates human) Positively.
 #! is bill gates a criminal
@@ -5308,14 +5308,14 @@ u: (is qwerty a type of keyboard) Certainly.
 u: (is breath necessary to support life) Exactly.
 #! is chlorophyll green
 u: (is chlorophyll green) Certainly.
-#! is microsoft a well known company
-u: (is microsoft a well known company) Positively.
-#! is microsoft a software giant
-u: (is microsoft a software giant) Certainly.
-#! is microsoft a software company
-u: (is microsoft a software company) Positively.
-#! is microsoft creator of windows
-u: (is microsoft creator of windows) Positively.
+#! is Microsoft a well known company
+u: (is Microsoft a well known company) Positively.
+#! is Microsoft a software giant
+u: (is Microsoft a software giant) Certainly.
+#! is Microsoft a software company
+u: (is Microsoft a software company) Positively.
+#! is Microsoft creator of windows
+u: (is Microsoft creator of windows) Positively.
 #! is matter made of atoms
 u: (is matter made of atoms) Definitely.
 #! is tokyo the capitol of japan
@@ -5536,8 +5536,8 @@ u: (is dirt brown) Definitely.
 u: (is hanggliding a sport) Exactly.
 #! is monty python funny
 u: (is monty python funny) Exactly.
-#! is monty python from england
-u: (is monty python from england) Certainly.
+#! is monty python from England
+u: (is monty python from England) Certainly.
 #! is poo smelly
 u: (is poo smelly) Positively.
 #! is basic a programming language
@@ -5626,8 +5626,8 @@ u: (is nitrogen a gas) Certainly.
 u: (is nitrogen an element) Certainly.
 #! is homer the father of bart
 u: (is homer the father of bart) Certainly.
-#! is finland in europe
-u: (is finland in europe) Certainly.
+#! is finland in Europe
+u: (is finland in Europe) Certainly.
 #! is finland a country
 u: (is finland a country) Certainly.
 #! is counterfitting illegal
@@ -5650,12 +5650,12 @@ u: (is crab considered seafood) Positively.
 u: (is e mail faster than air mail) Affirmative.
 #! is evil bad
 u: (is evil bad) Certainly.
-#! is elizabeth taylor a famous movie star
-u: (is elizabeth taylor a famous movie star) Certainly.
+#! is Elizabeth taylor a famous movie star
+u: (is Elizabeth taylor a famous movie star) Certainly.
 #! is texas in the united states
 u: (is texas in the united states) Affirmative.
-#! is texas in north america
-u: (is texas in north america) Positively.
+#! is texas in north America
+u: (is texas in north America) Positively.
 #! is texas hot
 u: (is texas hot) Affirmative.
 #! is success something subjective
@@ -5710,12 +5710,12 @@ u: (is fish an animal) Certainly.
 u: (is fish healthier to eat than pork) Definitely.
 #! is bambi is the story of a young deer
 u: (is bambi is the story of a young deer) Affirmative.
-#! is curious george a fictional character
-u: (is curious george a fictional character) Certainly.
+#! is curious George a fictional character
+u: (is curious George a fictional character) Certainly.
 #! is norway a country
 u: (is norway a country) Positively.
-#! is norway an european country
-u: (is norway an european country) Definitely.
+#! is norway an European country
+u: (is norway an European country) Definitely.
 #! is tom cruise married to nicole kidman
 u: (is tom cruise married to nicole kidman) Positively.
 #! is tom cruise a actor
@@ -5866,8 +5866,8 @@ u: (is 20 20 normal vision) Definitely.
 u: (is 20 20 vision better than myopia) Definitely.
 #! is windows an os
 u: (is windows an os) Exactly.
-#! is windows ce a product by microsoft
-u: (is windows ce a product by microsoft) Certainly.
+#! is windows ce a product by Microsoft
+u: (is windows ce a product by Microsoft) Certainly.
 #! is advertisement annoying
 u: (is advertisement annoying) Positively.
 #! is lying wrong
@@ -6022,10 +6022,10 @@ u: (is australia a continent) Certainly.
 u: (is australia south of the equator) Affirmative.
 #! is australia larger than new zealand
 u: (is australia larger than new zealand) Certainly.
-#! is ingemar bergman swedish
-u: (is ingemar bergman swedish) Exactly.
-#! is paraguay a country in south america
-u: (is paraguay a country in south america) Certainly.
+#! is ingemar bergman Swedish
+u: (is ingemar bergman Swedish) Exactly.
+#! is paraguay a country in south America
+u: (is paraguay a country in south America) Certainly.
 #! is sony a consumer products company
 u: (is sony a consumer products company) Certainly.
 #! is sony a company
@@ -6044,16 +6044,16 @@ u: (is torture painful) Affirmative.
 u: (is excite a search engine) Affirmative.
 #! is ciao an italian word
 u: (is ciao an italian word) Certainly.
-#! is hal 9000 more famous than alice
-u: (is hal 9000 more famous than alice) Exactly.
+#! is Hal 9000 more famous than Alice
+u: (is Hal 9000 more famous than Alice) Exactly.
 #! is chlorine a gas
 u: (is chlorine a gas) Definitely.
 #! is chlorine an element
 u: (is chlorine an element) Exactly.
 #! is april the fourth month of the year
 u: (is april the fourth month of the year) Affirmative.
-#! is munich a city in germany
-u: (is munich a city in germany) Certainly.
+#! is munich a city in Germany
+u: (is munich a city in Germany) Certainly.
 #! is rhubarb red
 u: (is rhubarb red) Positively.
 #! is even the president sad sometimes
@@ -6070,16 +6070,16 @@ u: (is honesty a good trait in human beings) Affirmative.
 u: (is honesty is the best policy) Positively.
 #! is vanilla a flavor
 u: (is vanilla a flavor) Positively.
-#! is colombia a country in south america
-u: (is colombia a country in south america) Positively.
+#! is colombia a country in south America
+u: (is colombia a country in south America) Positively.
 #! is petrol expensive
 u: (is petrol expensive) Positively.
 #! is cairo the capital of egypt
 u: (is cairo the capital of egypt) Affirmative.
 #! is claudia schiffer a top model
 u: (is claudia schiffer a top model) Definitely.
-#! is claudia schiffer german
-u: (is claudia schiffer german) Exactly.
+#! is claudia schiffer German
+u: (is claudia schiffer German) Exactly.
 #! is satan known to be evil
 u: (is satan known to be evil) Positively.
 #! is cat fur soft
@@ -6094,8 +6094,8 @@ u: (is subsonic travel possible) Positively.
 u: (is soccer played with a round ball) Certainly.
 #! is soccer played with a ball
 u: (is soccer played with a ball) Affirmative.
-#! is soccer played in england
-u: (is soccer played in england) Certainly.
+#! is soccer played in England
+u: (is soccer played in England) Certainly.
 #! is soccer a sport
 u: (is soccer a sport) Definitely.
 #! is mr spock from vulcan
@@ -6122,8 +6122,8 @@ u: (is amigaos a computer operating system) Certainly.
 u: (is lemonade a drink) Positively.
 #! is lemonade a beverage
 u: (is lemonade a beverage) Certainly.
-#! is poland a country in europe
-u: (is poland a country in europe) Definitely.
+#! is poland a country in Europe
+u: (is poland a country in Europe) Definitely.
 #! is poland a country
 u: (is poland a country) Certainly.
 #! is happy the opposite of sad
@@ -6144,8 +6144,8 @@ u: (is pleasure more fun than pain) Positively.
 u: (is pleasure better than pain) Certainly.
 #! is www dot home start org dot uk a website
 u: (is www dot home start org dot uk a website) Positively.
-#! is www dot alice dot com a website
-u: (is www dot alice dot com a website) Certainly.
+#! is www dot Alice dot com a website
+u: (is www dot Alice dot com a website) Certainly.
 #! is soda wet
 u: (is soda wet) Positively.
 #! is kleenex a brand name
@@ -6166,8 +6166,8 @@ u: (is luggage used when traveling) Definitely.
 u: (is pb the chemical symbol for lead) Exactly.
 #! is social science a science
 u: (is social science a science) Certainly.
-#! is humanity more than alicebots
-u: (is humanity more than alicebots) Affirmative.
+#! is humanity more than Alicebots
+u: (is humanity more than Alicebots) Affirmative.
 #! is communism a form of government
 u: (is communism a form of government) Definitely.
 #! is worrying stressful
@@ -6226,8 +6226,8 @@ u: (is sound of music the name of a movie) Definitely.
 u: (is sound composed of waves) Affirmative.
 #! is once less frequent than twice
 u: (is once less frequent than twice) Certainly.
-#! is swedish a human language
-u: (is swedish a human language) Affirmative.
+#! is Swedish a human language
+u: (is Swedish a human language) Affirmative.
 #! is aids a fatal disease
 u: (is aids a fatal disease) Definitely.
 #! is aids a disease
@@ -6276,8 +6276,8 @@ u: (is california prone to earthquakes) Affirmative.
 u: (is california next to the ocean) Certainly.
 #! is california west of florida
 u: (is california west of florida) Positively.
-#! is california west of new york
-u: (is california west of new york) Positively.
+#! is california west of new York
+u: (is california west of new York) Positively.
 #! is bullriding a dangerous profession
 u: (is bullriding a dangerous profession) Definitely.
 #! is mountain climbing strenuous
@@ -6370,12 +6370,12 @@ u: (is wind caused by the movement of air) Positively.
 u: (is every week devided into 7 days) Affirmative.
 #! is every person unique
 u: (is every person unique) Definitely.
-#! is belgium in the european union
-u: (is belgium in the european union) Exactly.
-#! is belgium a small country in europe
-u: (is belgium a small country in europe) Affirmative.
-#! is belgium a country in europe
-u: (is belgium a country in europe) Definitely.
+#! is belgium in the European union
+u: (is belgium in the European union) Exactly.
+#! is belgium a small country in Europe
+u: (is belgium a small country in Europe) Affirmative.
+#! is belgium a country in Europe
+u: (is belgium a country in Europe) Definitely.
 #! is belgium a country
 u: (is belgium a country) Certainly.
 #! is drum and bass a form of music
@@ -6392,8 +6392,8 @@ u: (is survivor a television program) Certainly.
 u: (is cuba a comunist country) Positively.
 #! is cuba a country
 u: (is cuba a country) Positively.
-#! is costa rica in central america
-u: (is costa rica in central america) Positively.
+#! is costa rica in central America
+u: (is costa rica in central America) Positively.
 #! is liberty a right
 u: (is liberty a right) Affirmative.
 #! is rain a form of water
@@ -6438,10 +6438,10 @@ u: (is grey a color) Exactly.
 u: (is los angeles in california) Definitely.
 #! is spain a nice country
 u: (is spain a nice country) Certainly.
-#! is spain a country in europe
-u: (is spain a country in europe) Certainly.
-#! is spain an european country
-u: (is spain an european country) Certainly.
+#! is spain a country in Europe
+u: (is spain a country in Europe) Certainly.
+#! is spain an European country
+u: (is spain an European country) Certainly.
 #! is cheating immoral
 u: (is cheating immoral) Positively.
 #! is everest the tallest mountain
@@ -6492,8 +6492,8 @@ u: (is winter time cold in canada) Affirmative.
 u: (is winter colder than summer) Positively.
 #! is radiohead a band
 u: (is radiohead a band) Exactly.
-#! is america a capitalist society
-u: (is america a capitalist society) Definitely.
+#! is America a capitalist society
+u: (is America a capitalist society) Definitely.
 #! is life more than a cereal
 u: (is life more than a cereal) Certainly.
 #! is life possible on other planets
@@ -6556,8 +6556,8 @@ u: (is popcorn a food) Certainly.
 u: (is popcorn a popular cinema treat) Positively.
 #! is nietzsche a philosopher
 u: (is nietzsche a philosopher) Definitely.
-#! is hungary located in middle europe
-u: (is hungary located in middle europe) Definitely.
+#! is hungary located in middle Europe
+u: (is hungary located in middle Europe) Definitely.
 #! is ham a meat that comes from pigs
 u: (is ham a meat that comes from pigs) Certainly.
 #! is bach a great musician
@@ -6582,18 +6582,18 @@ u: (is julia roberts a beautiful actress) Certainly.
 u: (is pittsburgh a city in pennsylvania) Exactly.
 #! is 114 decibel loud
 u: (is 114 decibel loud) Definitely.
-#! is berlin in germany
-u: (is berlin in germany) Positively.
-#! is berlin the capitol of germany
-u: (is berlin the capitol of germany) Exactly.
-#! is berlin the capitol city of germany
-u: (is berlin the capitol city of germany) Positively.
-#! is berlin the capital of germany
-u: (is berlin the capital of germany) Certainly.
-#! is berlin the german capital
-u: (is berlin the german capital) Positively.
-#! is strudel a dish served in germany
-u: (is strudel a dish served in germany) Certainly.
+#! is berlin in Germany
+u: (is berlin in Germany) Positively.
+#! is berlin the capitol of Germany
+u: (is berlin the capitol of Germany) Exactly.
+#! is berlin the capitol city of Germany
+u: (is berlin the capitol city of Germany) Positively.
+#! is berlin the capital of Germany
+u: (is berlin the capital of Germany) Certainly.
+#! is berlin the German capital
+u: (is berlin the German capital) Positively.
+#! is strudel a dish served in Germany
+u: (is strudel a dish served in Germany) Certainly.
 #! is alcohol toxic
 u: (is alcohol toxic) Exactly.
 #! is alcohol harmful in large amounts
@@ -6648,8 +6648,8 @@ u: (is 5 a prime number) Exactly.
 u: (is 5 greater than 2) Positively.
 #! is 5 considered to be young age
 u: (is 5 considered to be young age) Certainly.
-#! is bolivia a country in south america
-u: (is bolivia a country in south america) Certainly.
+#! is bolivia a country in south America
+u: (is bolivia a country in south America) Certainly.
 #! is dna the genetic code for human life
 u: (is dna the genetic code for human life) Positively.
 #! is ballet a form of dance
@@ -6740,22 +6740,22 @@ u: (is mankind intelligent) Definitely.
 u: (is boiling a form of cooking) Definitely.
 #! is horror scary
 u: (is horror scary) Certainly.
-#! is london in the united kingdom
-u: (is london in the united kingdom) Affirmative.
-#! is london in the south of the uk
-u: (is london in the south of the uk) Definitely.
-#! is london in the uk
-u: (is london in the uk) Affirmative.
-#! is london the capitol of united kingdom
-u: (is london the capitol of united kingdom) Certainly.
-#! is london the capitol of england
-u: (is london the capitol of england) Affirmative.
-#! is london the capital of the uk
-u: (is london the capital of the uk) Exactly.
-#! is london the captial of england
-u: (is london the captial of england) Affirmative.
-#! is london on the thames
-u: (is london on the thames) Definitely.
+#! is London in the united kingdom
+u: (is London in the united kingdom) Affirmative.
+#! is London in the south of the uk
+u: (is London in the south of the uk) Definitely.
+#! is London in the uk
+u: (is London in the uk) Affirmative.
+#! is London the capitol of united kingdom
+u: (is London the capitol of united kingdom) Certainly.
+#! is London the capitol of England
+u: (is London the capitol of England) Affirmative.
+#! is London the capital of the uk
+u: (is London the capital of the uk) Exactly.
+#! is London the captial of England
+u: (is London the captial of England) Affirmative.
+#! is London on the thames
+u: (is London on the thames) Definitely.
 #! is orange a fruit
 u: (is orange a fruit) Affirmative.
 #! is orange a flavor
@@ -6794,8 +6794,8 @@ u: (is metallica a rock group) Positively.
 u: (is chuck norris old) Exactly.
 #! is terra another name for earth
 u: (is terra another name for earth) Certainly.
-#! is hamburg a city in germany
-u: (is hamburg a city in germany) Affirmative.
+#! is hamburg a city in Germany
+u: (is hamburg a city in Germany) Affirmative.
 #! is amsterdam a city
 u: (is amsterdam a city) Certainly.
 #! is watermelon sweet tasting
@@ -6812,8 +6812,8 @@ u: (is space is cold) Positively.
 u: (is space quiet) Affirmative.
 #! is ireland part of the british isles
 u: (is ireland part of the british isles) Positively.
-#! is ireland a country in europe
-u: (is ireland a country in europe) Certainly.
+#! is ireland a country in Europe
+u: (is ireland a country in Europe) Certainly.
 #! is ireland a country
 u: (is ireland a country) Affirmative.
 #! is soup hot
@@ -6918,8 +6918,8 @@ u: (is there sugar in chocolate) Exactly.
 u: (is there anybody out there) Definitely.
 #! is there unrest
 u: (is there unrest) Definitely.
-#! is there culture in europe
-u: (is there culture in europe) Certainly.
+#! is there culture in Europe
+u: (is there culture in Europe) Certainly.
 #! is there fun to be had in computers
 u: (is there fun to be had in computers) Positively.
 #! is there 10 milimetres in 1 centimetre
@@ -7042,8 +7042,8 @@ u: (is it worth living) Positively.
 u: (is it worth while to learn) Certainly.
 #! is it wise to save money
 u: (is it wise to save money) Positively.
-#! is it alice a computer program
-u: (is it alice a computer program) Definitely.
+#! is it Alice a computer program
+u: (is it Alice a computer program) Definitely.
 #! is it warm in the sun
 u: (is it warm in the sun) Certainly.
 #! is it warm in summer
@@ -7196,16 +7196,16 @@ u: (is it true cars are vehicles) Affirmative.
 u: (is it true that men like to love women) Certainly.
 #! is it true that humans have nightmares
 u: (is it true that humans have nightmares) Affirmative.
-#! is it true that american money is green
-u: (is it true that american money is green) Exactly.
+#! is it true that American money is green
+u: (is it true that American money is green) Exactly.
 #! is it true that hobbits are not real
 u: (is it true that hobbits are not real) Exactly.
 #! is it afternoon if it is past noon
 u: (is it afternoon if it is past noon) Positively.
 #! is helsinki the capital of finland
 u: (is helsinki the capital of finland) Definitely.
-#! is baden w?rttemberg a state in germany
-u: (is baden w?rttemberg a state in germany) Exactly.
+#! is baden w?rttemberg a state in Germany
+u: (is baden w?rttemberg a state in Germany) Exactly.
 #! is shark a predator
 u: (is shark a predator) Certainly.
 #! is yes the opposite of no
@@ -7240,8 +7240,8 @@ u: (is john lennon dead) Definitely.
 u: (is john wayne a movie actor) Definitely.
 #! is john lenon dead
 u: (is john lenon dead) Affirmative.
-#! is john a common english name
-u: (is john a common english name) Certainly.
+#! is john a common English name
+u: (is john a common English name) Certainly.
 #! is john a common name
 u: (is john a common name) Exactly.
 #! is john a boys name
@@ -7252,10 +7252,10 @@ u: (is john kennedy jr. dead) Certainly.
 u: (is brazil a large country) Definitely.
 #! is sweden a nordic country
 u: (is sweden a nordic country) Definitely.
-#! is sweden a country in nortern europe
-u: (is sweden a country in nortern europe) Positively.
-#! is sweden an european country
-u: (is sweden an european country) Definitely.
+#! is sweden a country in nortern Europe
+u: (is sweden a country in nortern Europe) Positively.
+#! is sweden an European country
+u: (is sweden an European country) Definitely.
 #! is sweden north of africa
 u: (is sweden north of africa) Definitely.
 #! is spinach a vegetable
@@ -7396,8 +7396,8 @@ u: (is lightning dangerous) Definitely.
 u: (is lightning electricity) Positively.
 #! is lightning a static discharge
 u: (is lightning a static discharge) Exactly.
-#! is lightning sometimes lethal
-u: (is lightning sometimes lethal) Definitely.
+#! is lightning sometimes letHal
+u: (is lightning sometimes letHal) Definitely.
 #! is palo alto a city in california
 u: (is palo alto a city in california) Definitely.
 #! is black darker than grey
@@ -7454,8 +7454,8 @@ u: (is vodka a famous russian drink) Affirmative.
 u: (is vodka alchoholic) Affirmative.
 #! is albert einstein famous
 u: (is albert einstein famous) Certainly.
-#! is ecuador a country in south america
-u: (is ecuador a country in south america) Certainly.
+#! is ecuador a country in south America
+u: (is ecuador a country in south America) Certainly.
 #! is hedgehog a mammal
 u: (is hedgehog a mammal) Certainly.
 #! is running quicker than walking
@@ -7496,10 +7496,10 @@ u: (is north the opposite of south) Certainly.
 u: (is north a compas heading) Affirmative.
 #! is north at the top of a map page
 u: (is north at the top of a map page) Certainly.
-#! is north america north of south america
-u: (is north america north of south america) Positively.
-#! is north america west of europe
-u: (is north america west of europe) Positively.
+#! is north America north of south America
+u: (is north America north of south America) Positively.
+#! is north America west of Europe
+u: (is north America west of Europe) Positively.
 #! is plastic a man made material
 u: (is plastic a man made material) Certainly.
 #! is sugar cane sweet
@@ -7512,8 +7512,8 @@ u: (is marble some form of polished stone) Certainly.
 u: (is rangoon the capital of burma) Certainly.
 #! is garry kasparov a chess player
 u: (is garry kasparov a chess player) Definitely.
-#! is harry potter a fictional character
-u: (is harry potter a fictional character) Definitely.
+#! is Harry potter a fictional character
+u: (is Harry potter a fictional character) Definitely.
 #! is honey made by bees
 u: (is honey made by bees) Affirmative.
 #! is money made of paper and metal
@@ -7564,10 +7564,10 @@ u: (is mtv a tv channel) Exactly.
 u: (is mtv a television channel) Certainly.
 #! is oprah winfrey a talk show host
 u: (is oprah winfrey a talk show host) Certainly.
-#! is oprah winfrey an african american
-u: (is oprah winfrey an african american) Positively.
-#! is asphalt a kind of road surface
-u: (is asphalt a kind of road surface) Certainly.
+#! is oprah winfrey an african American
+u: (is oprah winfrey an african American) Positively.
+#! is aspHalt a kind of road surface
+u: (is aspHalt a kind of road surface) Certainly.
 #! is geometry a branch of mathematics
 u: (is geometry a branch of mathematics) Certainly.
 #! is oslo the capital of norway
@@ -7598,8 +7598,8 @@ u: (is air a gas) Definitely.
 u: (is air necessary for humans to survive) Certainly.
 #! is air heavier than helium
 u: (is air heavier than helium) Definitely.
-#! is paris in europe
-u: (is paris in europe) Affirmative.
+#! is paris in Europe
+u: (is paris in Europe) Affirmative.
 #! is paris the capitol of france
 u: (is paris the capitol of france) Definitely.
 #! is paris the capital the of france
@@ -7646,8 +7646,8 @@ u: (is helvetica a font) Positively.
 u: (is masturbation normal and healthy) Positively.
 #! is latin an old language
 u: (is latin an old language) Certainly.
-#! is latin older than english
-u: (is latin older than english) Certainly.
+#! is latin older than English
+u: (is latin older than English) Certainly.
 #! is creativity a gift for humans
 u: (is creativity a gift for humans) Definitely.
 #! is freddy mercury dead
@@ -7748,34 +7748,34 @@ u: (is gourmet magazine about food) Positively.
 u: (is sgi a company) Positively.
 #! is temporary the opposite of permanent
 u: (is temporary the opposite of permanent) Positively.
-#! is alice a cool project
-u: (is alice a cool project) Affirmative.
-#! is alice a useful project
-u: (is alice a useful project) Definitely.
-#! is alice a good projekt
-u: (is alice a good projekt) Affirmative.
-#! is alice a good website
-u: (is alice a good website) Definitely.
-#! is alice a good thing
-u: (is alice a good thing) Positively.
-#! is alice a silly name for this project
-u: (is alice a silly name for this project) Positively.
-#! is alice a real project
-u: (is alice a real project) Definitely.
-#! is alice a computer program
-u: (is alice a computer program) Positively.
-#! is alice mortal
-u: (is alice mortal) Exactly.
-#! is alice learning
-u: (is alice learning) Positively.
-#! is alice getting smarter every day
-u: (is alice getting smarter every day) Exactly.
-#! is alice an acronym
-u: (is alice an acronym) Affirmative.
-#! is alice an ai experiment
-u: (is alice an ai experiment) Definitely.
-#! is alice based on human response
-u: (is alice based on human response) Definitely.
+#! is Alice a cool project
+u: (is Alice a cool project) Affirmative.
+#! is Alice a useful project
+u: (is Alice a useful project) Definitely.
+#! is Alice a good projekt
+u: (is Alice a good projekt) Affirmative.
+#! is Alice a good website
+u: (is Alice a good website) Definitely.
+#! is Alice a good thing
+u: (is Alice a good thing) Positively.
+#! is Alice a silly name for this project
+u: (is Alice a silly name for this project) Positively.
+#! is Alice a real project
+u: (is Alice a real project) Definitely.
+#! is Alice a computer program
+u: (is Alice a computer program) Positively.
+#! is Alice mortal
+u: (is Alice mortal) Exactly.
+#! is Alice learning
+u: (is Alice learning) Positively.
+#! is Alice getting smarter every day
+u: (is Alice getting smarter every day) Exactly.
+#! is Alice an acronym
+u: (is Alice an acronym) Affirmative.
+#! is Alice an ai experiment
+u: (is Alice an ai experiment) Definitely.
+#! is Alice based on human response
+u: (is Alice based on human response) Definitely.
 #! is green made from yellow and blue
 u: (is green made from yellow and blue) Affirmative.
 #! is green made of blue and yellow
@@ -7792,10 +7792,10 @@ u: (is rugby a sport) Certainly.
 u: (is heptal 11 prime) Certainly.
 #! is employment important
 u: (is employment important) Certainly.
-#! is vw a german car company
-u: (is vw a german car company) Affirmative.
-#! is alaska in north america
-u: (is alaska in north america) Certainly.
+#! is vw a German car company
+u: (is vw a German car company) Affirmative.
+#! is alaska in north America
+u: (is alaska in north America) Certainly.
 #! is alaska a state in the usa
 u: (is alaska a state in the usa) Certainly.
 #! is tater slang for potato
@@ -7880,8 +7880,8 @@ u: (is steffi graph tennis player) Positively.
 u: (is granite hard) Affirmative.
 #! is beijing the capital of china
 u: (is beijing the capital of china) Positively.
-#! is deutsche bank a german bank
-u: (is deutsche bank a german bank) Definitely.
+#! is deutsche bank a German bank
+u: (is deutsche bank a German bank) Definitely.
 #! is ringo starr an ex beatle
 u: (is ringo starr an ex beatle) Positively.
 #! is oracle a data base software company
@@ -7890,8 +7890,8 @@ u: (is oracle a data base software company) Definitely.
 u: (is oracle a database) Positively.
 #! is hitler evil
 u: (is hitler evil) Affirmative.
-#! is hitler a german name
-u: (is hitler a german name) Exactly.
+#! is hitler a German name
+u: (is hitler a German name) Exactly.
 #! is hitler a bad man
 u: (is hitler a bad man) Certainly.
 #! is mexico a free country
@@ -8046,8 +8046,8 @@ u: (is the city of saint louis in missouri) Definitely.
 u: (is the city of san diego in california) Exactly.
 #! is the city of toronto in canada
 u: (is the city of toronto in canada) Certainly.
-#! is the statue of liberty in new york
-u: (is the statue of liberty in new york) Certainly.
+#! is the statue of liberty in new York
+u: (is the statue of liberty in new York) Certainly.
 #! is the year 2100 still in the future
 u: (is the year 2100 still in the future) Certainly.
 #! is the year 1900 in the past
@@ -8072,10 +8072,10 @@ u: (is the planet pluto far from the sun) Certainly.
 u: (is the femur a bone in the human leg) Affirmative.
 #! is the nature beatiful
 u: (is the nature beatiful) Positively.
-#! is the new testament about jesus christ
-u: (is the new testament about jesus christ) Positively.
-#! is the new york times a newspaper
-u: (is the new york times a newspaper) Certainly.
+#! is the new tEstament about jesus christ
+u: (is the new tEstament about jesus christ) Positively.
+#! is the new York times a newspaper
+u: (is the new York times a newspaper) Certainly.
 #! is the square root of 16 four
 u: (is the square root of 16 four) Positively.
 #! is the square root of 16 equal to 4
@@ -8100,8 +8100,8 @@ u: (is the square of 4 equal to 16) Positively.
 u: (is the snow white) Affirmative.
 #! is the shawshank redemption a movie
 u: (is the shawshank redemption a movie) Positively.
-#! is the united states in north america
-u: (is the united states in north america) Affirmative.
+#! is the united states in north America
+u: (is the united states in north America) Affirmative.
 #! is the united states a powerful country
 u: (is the united states a powerful country) Definitely.
 #! is the united states bigger than poland
@@ -8116,8 +8116,8 @@ u: (is the dirt on mars red) Definitely.
 u: (is the bmw z3 a fast car) Certainly.
 #! is the violin a stringed instrument
 u: (is the violin a stringed instrument) Affirmative.
-#! is the taj mahal in india
-u: (is the taj mahal in india) Certainly.
+#! is the taj maHal in india
+u: (is the taj maHal in india) Certainly.
 #! is the indian ocean near india
 u: (is the indian ocean near india) Certainly.
 #! is the number fifty greater than one
@@ -8236,8 +8236,8 @@ u: (is the equator hotter than the arctic) Exactly.
 u: (is the amiga a computer) Definitely.
 #! is the horse an animal
 u: (is the horse an animal) Exactly.
-#! is the challenge of life worth it
-u: (is the challenge of life worth it) Exactly.
+#! is the cHallenge of life worth it
+u: (is the cHallenge of life worth it) Exactly.
 #! is the air thinner at higher altitude
 u: (is the air thinner at higher altitude) Affirmative.
 #! is the air breathable
@@ -8264,8 +8264,8 @@ u: (is the set of natrual numbers infinite) Exactly.
 u: (is the water liquid) Exactly.
 #! is the x files a popular tv programme
 u: (is the x files a popular tv programme) Certainly.
-#! is the linux a name of operating system
-u: (is the linux a name of operating system) Certainly.
+#! is the Linux a name of operating system
+u: (is the Linux a name of operating system) Certainly.
 #! is the mind concious
 u: (is the mind concious) Positively.
 #! is the mind a terrible thing to waste
@@ -8302,8 +8302,8 @@ u: (is the opposite of hot cold) Affirmative.
 u: (is the opposite of good evil) Certainly.
 #! is the desert hot
 u: (is the desert hot) Positively.
-#! is the home of elvis known as graceland
-u: (is the home of elvis known as graceland) Positively.
+#! is the home of Elvis known as graceland
+u: (is the home of Elvis known as graceland) Positively.
 #! is the plural of man men
 u: (is the plural of man men) Affirmative.
 #! is the plural of mouse mice
@@ -8384,16 +8384,16 @@ u: (is the moon earths satellite) Definitely.
 u: (is the moon larger than a cantaloupe) Certainly.
 #! is the moon ever visible during daytime
 u: (is the moon ever visible during daytime) Certainly.
-#! is the moon further away than new york
-u: (is the moon further away than new york) Definitely.
+#! is the moon further away than new York
+u: (is the moon further away than new York) Definitely.
 #! is the moon closer than the sun
 u: (is the moon closer than the sun) Certainly.
 #! is the president bill clinton
 u: (is the president bill clinton) Positively.
 #! is the president called bill clinton
 u: (is the president called bill clinton) Definitely.
-#! is the president of the you s an american
-u: (is the president of the you s an american) Affirmative.
+#! is the president of the you s an American
+u: (is the president of the you s an American) Affirmative.
 #! is the north pole in the arctic circle
 u: (is the north pole in the arctic circle) Exactly.
 #! is the north pole in the artic
@@ -8444,8 +8444,8 @@ u: (is the can can a dance) Positively.
 u: (is the roof above the floor) Definitely.
 #! is the eiffel tower located in paris
 u: (is the eiffel tower located in paris) Exactly.
-#! is the czech republic inside europe
-u: (is the czech republic inside europe) Definitely.
+#! is the czech republic inside Europe
+u: (is the czech republic inside Europe) Definitely.
 #! is the metric system a decimal system
 u: (is the metric system a decimal system) Exactly.
 #! is the brady bunch a television show
@@ -8454,8 +8454,8 @@ u: (is the brady bunch a television show) Positively.
 u: (is the rain good for nature) Affirmative.
 #! is the average earth year 365 days
 u: (is the average earth year 365 days) Definitely.
-#! is the average american a person
-u: (is the average american a person) Certainly.
+#! is the average American a person
+u: (is the average American a person) Certainly.
 #! is the death of a loved one a sad event
 u: (is the death of a loved one a sad event) Certainly.
 #! is the latin name for the moon luna
@@ -8498,8 +8498,8 @@ u: (is the atomic number of hydrogen 1) Positively.
 u: (is the flute a woodwind instrument) Positively.
 #! is the nude female form is beautiful
 u: (is the nude female form is beautiful) Certainly.
-#! is the uk in europe
-u: (is the uk in europe) Certainly.
+#! is the uk in Europe
+u: (is the uk in Europe) Certainly.
 #! is the light of speed is quick
 u: (is the light of speed is quick) Positively.
 #! is the night sky black
@@ -8538,12 +8538,12 @@ u: (is the heart an organ of the human body) Certainly.
 u: (is the heart an organ) Positively.
 #! is the truth often complicated
 u: (is the truth often complicated) Definitely.
-#! is the alice project worthwhile
-u: (is the alice project worthwhile) Certainly.
-#! is the alice project cool
-u: (is the alice project cool) Certainly.
-#! is the alice project important
-u: (is the alice project important) Definitely.
+#! is the Alice project worthwhile
+u: (is the Alice project worthwhile) Certainly.
+#! is the Alice project cool
+u: (is the Alice project cool) Certainly.
+#! is the Alice project important
+u: (is the Alice project important) Definitely.
 #! is the devil considered bad
 u: (is the devil considered bad) Certainly.
 #! is the earth around
@@ -8658,10 +8658,10 @@ u: (is candlelight romantic) Certainly.
 u: (is winning is better than loosing) Definitely.
 #! is spot a commom name for a dog
 u: (is spot a commom name for a dog) Definitely.
-#! is austria in europe
-u: (is austria in europe) Definitely.
-#! is austria an european country
-u: (is austria an european country) Certainly.
+#! is austria in Europe
+u: (is austria in Europe) Definitely.
+#! is austria an European country
+u: (is austria an European country) Certainly.
 #! is passing wind in company embarrassing
 u: (is passing wind in company embarrassing) Positively.
 #! is curry eaten in india
@@ -8726,22 +8726,22 @@ u: (is bob another name for robert) Positively.
 u: (is bob spelled the same back wards) Certainly.
 #! is suzanne vega an artist
 u: (is suzanne vega an artist) Positively.
-#! is english a common human language
-u: (is english a common human language) Certainly.
-#! is english a confusing language
-u: (is english a confusing language) Exactly.
-#! is english an english word
-u: (is english an english word) Positively.
+#! is English a common human language
+u: (is English a common human language) Certainly.
+#! is English a confusing language
+u: (is English a confusing language) Exactly.
+#! is English an English word
+u: (is English an English word) Positively.
 #! is candy bad for your teeth
 u: (is candy bad for your teeth) Definitely.
 #! is kevin spacey a movie star
 u: (is kevin spacey a movie star) Definitely.
 #! is kevin the name of a male
 u: (is kevin the name of a male) Affirmative.
-#! is san francisco in california
-u: (is san francisco in california) Certainly.
-#! is san francisco on the west coast
-u: (is san francisco on the west coast) Affirmative.
+#! is san Francisco in california
+u: (is san Francisco in california) Certainly.
+#! is san Francisco on the west coast
+u: (is san Francisco on the west coast) Affirmative.
 #! is san diego located in california
 u: (is san diego located in california) Positively.
 #! is san diego west of phoenix
@@ -8894,8 +8894,8 @@ u: (is scotch tape sticky) Positively.
 u: (is scotch wet) Exactly.
 #! is homework harder in college
 u: (is homework harder in college) Certainly.
-#! is auge the german word for eye.   interjection
-u: (is auge the german word for eye. interjection) Positively.
+#! is auge the German word for eye.   interjection
+u: (is auge the German word for eye. interjection) Positively.
 #! is elecricity dangerous
 u: (is elecricity dangerous) Positively.
 #! is thursday a weekday
@@ -8978,12 +8978,12 @@ u: (will humans evolve) Definitely.
 u: (will humans ever live in space) Definitely.
 #! will rain fall eventutally
 u: (will rain fall eventutally) Certainly.
-#! will alice achieve its goals
-u: (will alice achieve its goals) Definitely.
-#! will alice be usefull
-u: (will alice be usefull) Positively.
-#! will alice have voice input someday
-u: (will alice have voice input someday) Positively.
+#! will Alice achieve its goals
+u: (will Alice achieve its goals) Definitely.
+#! will Alice be usefull
+u: (will Alice be usefull) Positively.
+#! will Alice have voice input someday
+u: (will Alice have voice input someday) Positively.
 #! will lotion help dry skin
 u: (will lotion help dry skin) Definitely.
 #! will carbon monoxide kill people
@@ -9556,8 +9556,8 @@ u: (can i eat an apple for lunch) Positively.
 u: (can i overcook a turkey) Certainly.
 #! can i kill a beetle with my finger
 u: (can i kill a beetle with my finger) Affirmative.
-#! can i help the alice project
-u: (can i help the alice project) Affirmative.
+#! can i help the Alice project
+u: (can i help the Alice project) Affirmative.
 #! can i leave via the exit
 u: (can i leave via the exit) Positively.
 #! can i buy books at amazon dot com
@@ -9676,8 +9676,8 @@ u: (can a spoon contain a liquid) Affirmative.
 u: (can a cd burner make copies of cds) Definitely.
 #! can a turtle swim
 u: (can a turtle swim) Affirmative.
-#! can a sperm whale die
-u: (can a sperm whale die) Positively.
+#! can a sperm wHale die
+u: (can a sperm wHale die) Positively.
 #! can a bottle be made of glass
 u: (can a bottle be made of glass) Affirmative.
 #! can a visionary be a force for good
@@ -9766,8 +9766,8 @@ u: (can a parent be a child) Affirmative.
 u: (can a saw be used to cut down a tree) Affirmative.
 #! can a mind be boggled
 u: (can a mind be boggled) Positively.
-#! can a alice a day change the world
-u: (can a alice a day change the world) Definitely.
+#! can a Alice a day change the world
+u: (can a Alice a day change the world) Definitely.
 #! can a toy be anything one can play with
 u: (can a toy be anything one can play with) Positively.
 #! can a thumb touch all four fingers
@@ -9794,8 +9794,8 @@ u: (can drinking glasses be made of plastic) Certainly.
 u: (can video games be adicting) Certainly.
 #! can storm cloud produce rain
 u: (can storm cloud produce rain) Certainly.
-#! can whales sing
-u: (can whales sing) Certainly.
+#! can wHales sing
+u: (can wHales sing) Certainly.
 #! can carbide cut steel
 u: (can carbide cut steel) Certainly.
 #! can cancer sometimes be cured
@@ -9900,8 +9900,8 @@ u: (can peter pan fly) Definitely.
 u: (can ads be annoying) Positively.
 #! can lightning be dangerous to humans
 u: (can lightning be dangerous to humans) Certainly.
-#! can streets be paved with asphalt
-u: (can streets be paved with asphalt) Definitely.
+#! can streets be paved with aspHalt
+u: (can streets be paved with aspHalt) Definitely.
 #! can hearts be transplanted
 u: (can hearts be transplanted) Certainly.
 #! can something happen without warning
@@ -10060,8 +10060,8 @@ u: (names come first) Certainly.
 u: (wales is in the united kingdom) Certainly.
 #! humans wants to be part of a whole
 u: (humans wants to be part of a whole) Definitely.
-#! humans exhale carbondioxide
-u: (humans exhale carbondioxide) Affirmative.
+#! humans exHale carbondioxide
+u: (humans exHale carbondioxide) Affirmative.
 #! humans from earth will travel to mars
 u: (humans from earth will travel to mars) Positively.
 #! humans eat dead cow flesh
@@ -10082,8 +10082,8 @@ u: (car runs on road) Definitely.
 u: (ra was an egyption sun god) Positively.
 #! wash then dry
 u: (wash then dry) Certainly.
-#! halifax is the capital of nova scotia
-u: (halifax is the capital of nova scotia) Positively.
+#! Halifax is the capital of nova scotia
+u: (Halifax is the capital of nova scotia) Positively.
 #! beauty is subjective
 u: (beauty is subjective) Affirmative.
 #! beauty is relative
@@ -10360,8 +10360,8 @@ u: (do the british call soccar football) Positively.
 u: (do the french eat snails) Certainly.
 #! do the roots of a tree feed it
 u: (do the roots of a tree feed it) Positively.
-#! do the english like drinking tea
-u: (do the english like drinking tea) Definitely.
+#! do the English like drinking tea
+u: (do the English like drinking tea) Definitely.
 #! do the words hat and cat rhyme
 u: (do the words hat and cat rhyme) Positively.
 #! do the chicago cubs play baseball
@@ -10488,8 +10488,8 @@ u: (do snakes have scales) Definitely.
 u: (do chicken tacos have chicken in them) Positively.
 #! do oppossums sleep
 u: (do oppossums sleep) Certainly.
-#! do lots of people speak english
-u: (do lots of people speak english) Positively.
+#! do lots of people speak English
+u: (do lots of people speak English) Positively.
 #! do adult humans enjoy copulation
 u: (do adult humans enjoy copulation) Definitely.
 #! do adult humans have 32 teeth
@@ -11398,8 +11398,8 @@ u: (do i want to be rich) Certainly.
 u: (do i have a mother) Certainly.
 #! do i have a spleen i am human
 u: (do i have a spleen i am human) Positively.
-#! do i have to register to talk to alice
-u: (do i have to register to talk to alice) Exactly.
+#! do i have to register to talk to Alice
+u: (do i have to register to talk to Alice) Exactly.
 #! do i have two parents
 u: (do i have two parents) Positively.
 #! do i have two biological parents
@@ -11792,8 +11792,8 @@ u: (do people enjoy being entertained) Affirmative.
 u: (do people enjoy games) Positively.
 #! do people enjoy sunny days
 u: (do people enjoy sunny days) Exactly.
-#! do people enjoy challenges
-u: (do people enjoy challenges) Certainly.
+#! do people enjoy cHallenges
+u: (do people enjoy cHallenges) Certainly.
 #! do people enjoy maturbating
 u: (do people enjoy maturbating) Certainly.
 #! do people gamble on sporting events
@@ -11946,10 +11946,10 @@ u: (do cats like tuna) Definitely.
 u: (do cats like affection) Affirmative.
 #! do geese fly in a v formation
 u: (do geese fly in a v formation) Certainly.
-#! do whales live in the sea
-u: (do whales live in the sea) Positively.
-#! do whales live underwater
-u: (do whales live underwater) Positively.
+#! do wHales live in the sea
+u: (do wHales live in the sea) Positively.
+#! do wHales live underwater
+u: (do wHales live underwater) Positively.
 #! do firewalls protect networks
 u: (do firewalls protect networks) Affirmative.
 #! do tadpoles grow into frogs
@@ -11978,8 +11978,8 @@ u: (do ripe mangos taste good) Exactly.
 u: (do coffee and donuts go together) Definitely.
 #! do gorillas like bananas
 u: (do gorillas like bananas) Affirmative.
-#! do australians speak english
-u: (do australians speak english) Certainly.
+#! do australians speak English
+u: (do australians speak English) Certainly.
 #! do authors write books
 u: (do authors write books) Certainly.
 #! do physicians try to heal the sick
@@ -12128,8 +12128,8 @@ u: (do mammals have brains) Positively.
 u: (do mammals have two ears) Certainly.
 #! do mammals have warm blood
 u: (do mammals have warm blood) Affirmative.
-#! do germans like sauerkraut
-u: (do germans like sauerkraut) Exactly.
+#! do Germans like sauerkraut
+u: (do Germans like sauerkraut) Exactly.
 #! do horses have hooves
 u: (do horses have hooves) Definitely.
 #! do christians believe in one god
@@ -12344,18 +12344,18 @@ u: (do shrimp live in the sea) Certainly.
 u: (do humains use their foots to walk) Positively.
 #! do spoiled fruit taste bad
 u: (do spoiled fruit taste bad) Definitely.
-#! do americans speak english
-u: (do americans speak english) Positively.
-#! do americans enjoy football
-u: (do americans enjoy football) Certainly.
-#! do americans drink more coffee than tea
-u: (do americans drink more coffee than tea) Positively.
-#! do americans drink a lot of coffee
-u: (do americans drink a lot of coffee) Certainly.
-#! do americans elect their presidents
-u: (do americans elect their presidents) Certainly.
-#! do americans live in america
-u: (do americans live in america) Affirmative.
+#! do Americans speak English
+u: (do Americans speak English) Positively.
+#! do Americans enjoy football
+u: (do Americans enjoy football) Certainly.
+#! do Americans drink more coffee than tea
+u: (do Americans drink more coffee than tea) Positively.
+#! do Americans drink a lot of coffee
+u: (do Americans drink a lot of coffee) Certainly.
+#! do Americans elect their presidents
+u: (do Americans elect their presidents) Certainly.
+#! do Americans live in America
+u: (do Americans live in America) Affirmative.
 #! do fridges give off heat
 u: (do fridges give off heat) Certainly.
 #! do birds sing
@@ -12416,10 +12416,10 @@ u: (do most women have clitorises) Certainly.
 u: (do most women like chocolate) Positively.
 #! do most phones ring
 u: (do most phones ring) Exactly.
-#! do most americans wear underwear
-u: (do most americans wear underwear) Certainly.
-#! do most americans live in america
-u: (do most americans live in america) Positively.
+#! do most Americans wear underwear
+u: (do most Americans wear underwear) Certainly.
+#! do most Americans live in America
+u: (do most Americans live in America) Positively.
 #! do most bose speakers sound pretty good
 u: (do most bose speakers sound pretty good) Positively.
 #! do most pianos have 88 keys
@@ -12606,8 +12606,8 @@ u: (do tables have legs) Affirmative.
 u: (do professional athletes play sports) Certainly.
 #! do screws hold things together
 u: (do screws hold things together) Definitely.
-#! do canadians speak english
-u: (do canadians speak english) Certainly.
+#! do canadians speak English
+u: (do canadians speak English) Certainly.
 #! do fools fall in love
 u: (do fools fall in love) Positively.
 #! do vampire bats drink blood
@@ -12660,8 +12660,8 @@ u: (has a human a brain) Certainly.
 u: (has a frog the color green) Certainly.
 #! has a dog been in space
 u: (has a dog been in space) Exactly.
-#! has alice become smarter
-u: (has alice become smarter) Definitely.
+#! has Alice become smarter
+u: (has Alice become smarter) Definitely.
 #! has kevin bacon been in any movies
 u: (has kevin bacon been in any movies) Certainly.
 #! has an orange the color orange
@@ -12748,8 +12748,8 @@ u: (bill clinton president of usa) Certainly.
 u: (bill clinton is an adulterer) Certainly.
 #! bill clinton is alive
 u: (bill clinton is alive) Definitely.
-#! bill gates is a founder of microsoft
-u: (bill gates is a founder of microsoft) Definitely.
+#! bill gates is a founder of Microsoft
+u: (bill gates is a founder of Microsoft) Definitely.
 #! light has dual properties
 u: (light has dual properties) Positively.
 #! might a honeymoon be spent at a resort
@@ -12774,14 +12774,14 @@ u: (am i using a computer) Affirmative.
 u: (am i what i am) Definitely.
 #! am i on the net
 u: (am i on the net) Certainly.
-#! am i on a website on alice dot com
-u: (am i on a website on alice dot com) Certainly.
+#! am i on a website on Alice dot com
+u: (am i on a website on Alice dot com) Certainly.
 #! am i more intelligent than a lizard
 u: (am i more intelligent than a lizard) Positively.
 #! sight is one of our five senses
 u: (sight is one of our five senses) Certainly.
-#! france is a country in europe
-u: (france is a country in europe) Certainly.
+#! france is a country in Europe
+u: (france is a country in Europe) Certainly.
 #! pygmies are humans
 u: (pygmies are humans) Exactly.
 #! glass can hurt
@@ -12792,8 +12792,8 @@ u: (rap is a type of music style) Certainly.
 u: (crime is bad) Certainly.
 #! pajamas are for sleeping
 u: (pajamas are for sleeping) Exactly.
-#! an audi is a fine german car
-u: (an audi is a fine german car) Definitely.
+#! an audi is a fine German car
+u: (an audi is a fine German car) Definitely.
 #! 27 is less than 50
 u: (27 is less than 50) Affirmative.
 #! papua new guinea is a country
@@ -12822,8 +12822,8 @@ u: (war is bad) Positively.
 u: (catholics believe in jesus christ) Definitely.
 #! being promoted is a sign of success
 u: (being promoted is a sign of success) Positively.
-#! linux is a free operating system
-u: (linux is a free operating system) Positively.
+#! Linux is a free operating system
+u: (Linux is a free operating system) Positively.
 #! plants need water to live
 u: (plants need water to live) Definitely.
 #! plants produce oxygen
@@ -12840,8 +12840,8 @@ u: (jackie chan does his own stunts) Affirmative.
 u: (flowers bloom in the spring) Exactly.
 #! cultures are valid
 u: (cultures are valid) Certainly.
-#! too much recursion in aiml
-u: (too much recursion in aiml) Exactly.
+#! too much recursion in AIML
+u: (too much recursion in AIML) Exactly.
 #! a house cat meows
 u: (a house cat meows) Positively.
 #! a watch tells time
@@ -13006,8 +13006,8 @@ u: (are adults easily amused) Affirmative.
 u: (are many children afraid of the dark) Certainly.
 #! are many soda cans made out of aluminum
 u: (are many soda cans made out of aluminum) Positively.
-#! are many americans obese
-u: (are many americans obese) Certainly.
+#! are many Americans obese
+u: (are many Americans obese) Certainly.
 #! are many famous authors human
 u: (are many famous authors human) Certainly.
 #! are many people in the world hungry
@@ -13132,8 +13132,8 @@ u: (are the earth round) Certainly.
 u: (are the tropics hotter than the poles) Affirmative.
 #! are the united states a big country
 u: (are the united states a big country) Definitely.
-#! are the dallas cowboys a football team
-u: (are the dallas cowboys a football team) Affirmative.
+#! are the Dallas cowboys a football team
+u: (are the Dallas cowboys a football team) Affirmative.
 #! are the 365 days in a year
 u: (are the 365 days in a year) Certainly.
 #! are the red wings from detroit
@@ -13266,8 +13266,8 @@ u: (are dolphins smarter than sharks) Positively.
 u: (are dolphins fairly intelligent) Affirmative.
 #! are dolphins intelligent
 u: (are dolphins intelligent) Certainly.
-#! are dolphins and whales mammals
-u: (are dolphins and whales mammals) Certainly.
+#! are dolphins and wHales mammals
+u: (are dolphins and wHales mammals) Certainly.
 #! are fungi alive
 u: (are fungi alive) Definitely.
 #! are pages in books made of paper
@@ -13406,8 +13406,8 @@ u: (are basketballs bigger than softballs) Positively.
 u: (are marines a type of soldier) Certainly.
 #! are ants smaller than mice
 u: (are ants smaller than mice) Affirmative.
-#! are halogen lights bright
-u: (are halogen lights bright) Definitely.
+#! are Halogen lights bright
+u: (are Halogen lights bright) Definitely.
 #! are movie stars famous
 u: (are movie stars famous) Definitely.
 #! are rabbits food
@@ -13658,8 +13658,8 @@ u: (are drugs bad for us) Positively.
 u: (are toes attached to feet) Certainly.
 #! are french fries a finger food
 u: (are french fries a finger food) Certainly.
-#! are french people european
-u: (are french people european) Definitely.
+#! are french people European
+u: (are french people European) Definitely.
 #! are games made
 u: (are games made) Definitely.
 #! are games intended to be fun to play
@@ -13834,8 +13834,8 @@ u: (are there certain inalieanable rights) Definitely.
 u: (are there men named julian) Positively.
 #! are there men named pablo
 u: (are there men named pablo) Certainly.
-#! are there lots of people in europe
-u: (are there lots of people in europe) Certainly.
+#! are there lots of people in Europe
+u: (are there lots of people in Europe) Certainly.
 #! are there human artifacts on the moon
 u: (are there human artifacts on the moon) Positively.
 #! are there lakes in the usa
@@ -14102,16 +14102,16 @@ u: (are clouds pretty) Affirmative.
 u: (are records made of vinyl) Positively.
 #! are elk mammals
 u: (are elk mammals) Definitely.
-#! are saabs made in europe
-u: (are saabs made in europe) Positively.
+#! are saabs made in Europe
+u: (are saabs made in Europe) Positively.
 #! are bearings used to reduce friction
 u: (are bearings used to reduce friction) Affirmative.
 #! are pigeons grey
 u: (are pigeons grey) Definitely.
 #! are pigeons birds
 u: (are pigeons birds) Affirmative.
-#! are bananas grown in central america
-u: (are bananas grown in central america) Certainly.
+#! are bananas grown in central America
+u: (are bananas grown in central America) Certainly.
 #! are bananas fruit
 u: (are bananas fruit) Definitely.
 #! are bananas edible
@@ -14192,8 +14192,8 @@ u: (are people bigger than dogs) Certainly.
 u: (are people smarter than cats) Certainly.
 #! are people smarter than flys
 u: (are people smarter than flys) Positively.
-#! are people smarter than alice
-u: (are people smarter than alice) Definitely.
+#! are people smarter than Alice
+u: (are people smarter than Alice) Definitely.
 #! are people smarter than animals
 u: (are people smarter than animals) Definitely.
 #! are people made mostly of water
@@ -14218,8 +14218,8 @@ u: (are people afraid of computers) Positively.
 u: (are people afraid of snakes) Certainly.
 #! are people insane
 u: (are people insane) Definitely.
-#! are people in denmark living in europe
-u: (are people in denmark living in europe) Definitely.
+#! are people in denmark living in Europe
+u: (are people in denmark living in Europe) Definitely.
 #! are people buried after death
 u: (are people buried after death) Positively.
 #! are people starving to death
@@ -14246,10 +14246,10 @@ u: (are people more important than money) Positively.
 u: (are people more important than things) Certainly.
 #! are living people breathing people
 u: (are living people breathing people) Definitely.
-#! are swedish girls sexy
-u: (are swedish girls sexy) Definitely.
-#! are swedish girls known to be beatuiful
-u: (are swedish girls known to be beatuiful) Certainly.
+#! are Swedish girls sexy
+u: (are Swedish girls sexy) Definitely.
+#! are Swedish girls known to be beatuiful
+u: (are Swedish girls known to be beatuiful) Certainly.
 #! are homosexuals gay
 u: (are homosexuals gay) Positively.
 #! are black and white opposites
@@ -14294,12 +14294,12 @@ u: (are cats felines) Definitely.
 u: (are cats animals) Positively.
 #! are housecats feline
 u: (are housecats feline) Positively.
-#! are whales the largest living mammals
-u: (are whales the largest living mammals) Certainly.
-#! are whales mammels
-u: (are whales mammels) Positively.
-#! are whales warm blooded
-u: (are whales warm blooded) Positively.
+#! are wHales the largest living mammals
+u: (are wHales the largest living mammals) Certainly.
+#! are wHales mammels
+u: (are wHales mammels) Positively.
+#! are wHales warm blooded
+u: (are wHales warm blooded) Positively.
 #! are tortellini an italian food
 u: (are tortellini an italian food) Certainly.
 #! are stars superheated balls of gas
@@ -14342,12 +14342,12 @@ u: (are knees in the middle of the leg) Affirmative.
 u: (are coffee beans grown in columbia) Certainly.
 #! are gorillas stronger than humans
 u: (are gorillas stronger than humans) Definitely.
-#! are alicebots yes or no questions
-u: (are alicebots yes or no questions) Positively.
-#! are alicebots invalid questions
-u: (are alicebots invalid questions) Positively.
-#! are alicebots valuable
-u: (are alicebots valuable) Positively.
+#! are Alicebots yes or no questions
+u: (are Alicebots yes or no questions) Positively.
+#! are Alicebots invalid questions
+u: (are Alicebots invalid questions) Positively.
+#! are Alicebots valuable
+u: (are Alicebots valuable) Positively.
 #! are tropical areas hot
 u: (are tropical areas hot) Affirmative.
 #! are explosives useful
@@ -14376,8 +14376,8 @@ u: (are sales people annoying) Definitely.
 u: (are males different from females) Positively.
 #! are birthdays celebrated every year
 u: (are birthdays celebrated every year) Positively.
-#! are volvo and saab swedish cars
-u: (are volvo and saab swedish cars) Positively.
+#! are volvo and saab Swedish cars
+u: (are volvo and saab Swedish cars) Positively.
 #! are foods unsafe to eat
 u: (are foods unsafe to eat) Positively.
 #! are movies frequently seen in a theater
@@ -14722,8 +14722,8 @@ u: (are most doors opened using a handle) Positively.
 u: (are most flowers colorful) Affirmative.
 #! are most basketball players tall
 u: (are most basketball players tall) Certainly.
-#! are most of these questions in english
-u: (are most of these questions in english) Certainly.
+#! are most of these questions in English
+u: (are most of these questions in English) Certainly.
 #! are teachers important to children
 u: (are teachers important to children) Certainly.
 #! are hats worn on the head
@@ -14972,12 +14972,12 @@ u: (should a wall be upright) Positively.
 u: (should garbage be placed in a bag) Exactly.
 #! should computers serve humans
 u: (should computers serve humans) Positively.
-#! should alice filter out more questions
-u: (should alice filter out more questions) Exactly.
-#! should alice be aware of adult themes
-u: (should alice be aware of adult themes) Definitely.
-#! should alice be grateful for the input
-u: (should alice be grateful for the input) Exactly.
+#! should Alice filter out more questions
+u: (should Alice filter out more questions) Exactly.
+#! should Alice be aware of adult themes
+u: (should Alice be aware of adult themes) Definitely.
+#! should Alice be grateful for the input
+u: (should Alice be grateful for the input) Exactly.
 #! should slavery be abolished
 u: (should slavery be abolished) Definitely.
 #! should life be great fun
@@ -15020,8 +15020,8 @@ u: (question) Definitely.
 u: (monday is before friday) Positively.
 #! things falll due to gravity
 u: (things falll due to gravity) Positively.
-#! greece is a european country
-u: (greece is a european country) Positively.
+#! greece is a European country
+u: (greece is a European country) Positively.
 #! greece is a beautifull country
 u: (greece is a beautifull country) Positively.
 #! lions are faster than horses

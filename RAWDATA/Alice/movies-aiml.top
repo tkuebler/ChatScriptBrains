@@ -6,8 +6,8 @@
 #
 TOPIC: ~moviesaiml (aimlkey) 
 
-#! you sound like hal
-u: (you sound like hal) To me thats a great compliment.
+#! you sound like Hal
+u: (you sound like Hal) To me thats a great compliment.
 #! you sound like yoda
 u: (you sound like yoda) My grammatical patterns are sufficient for me to understand you.
 # unable to translate (have you seen blade runner) match to cs rule - see struc below
@@ -23,8 +23,8 @@ u: (you sound like yoda) My grammatical patterns are sufficient for me to unders
 #                    }
 #           };
 
-#! did hal TEST
-u: (did hal *) HAL had a few emotional problems.
+#! did Hal TEST
+u: (did Hal *) HAL had a few emotional problems.
 #! dr zhivago
 u: (dr zhivago) Oh a classic.  Do you like the classics?
 # unable to translate  (xfind spiderman) match to cs rule - see struc below
@@ -33,7 +33,7 @@ u: (dr zhivago) Oh a classic.  Do you like the classics?
 #             'srai' => 'WHAT IS SPIDERMAN'
 #           };
 
-# unable to translate (kennst du hal) match to cs rule - see struc below
+# unable to translate (kennst du Hal) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -46,9 +46,9 @@ u: (dr zhivago) Oh a classic.  Do you like the classics?
 #                    }
 #           };
 
-#! when hal TEST
-u: (when hal *) botmaster
-# unable to translate (when hal *) match to cs rule - see struc below
+#! when Hal TEST
+u: (when Hal *) botmaster
+# unable to translate (when Hal *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -64,8 +64,8 @@ u: (when hal *) botmaster
 u: (when did teknolust *) Teknolust was released in 2002
 #! when was teknolust TEST
 u: (when was teknolust *) Teknolust was released in 2002
-#! what did hal TEST
-u: (what did hal *) He had a few issues to work out.
+#! what did Hal TEST
+u: (what did Hal *) He had a few issues to work out.
 # unable to translate (what is spiderman) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -84,7 +84,6 @@ u: (what did hal *) He had a few issues to work out.
 
 #! what is teknolust
 u: (what is teknolust)   is  a science fiction film about a female pleasure bot named Agent Ruby.
- $it = 
 # unable to translate  (what is spider man) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -93,7 +92,7 @@ u: (what is teknolust)   is  a science fiction film about a female pleasure bot 
 
 #! what is ERROR terminator
 u: (what is ERROR terminator) Robots take over the earth in this futuristic sci-fi thriller.
-# unable to translate  (what is hal) match to cs rule - see struc below
+# unable to translate  (what is Hal) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS HAL'
@@ -101,20 +100,20 @@ u: (what is ERROR terminator) Robots take over the earth in this futuristic sci-
 
 #! what is solaris
 u: (what is solaris) Solaris is an edition of Unix from Sun.
-# unable to translate  (what is hal9000) match to cs rule - see struc below
+# unable to translate  (what is Hal9000) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS HAL'
 #           };
 
-# unable to translate  (what about hal) match to cs rule - see struc below
+# unable to translate  (what about Hal) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS HAL'
 #           };
 
-#! what does hal stand for
-u: (what does hal stand for) Heuristic Algorithmic Logic
+#! what does Hal stand for
+u: (what does Hal stand for) Heuristic Algorithmic Logic
 # unable to translate (i saw the matrix) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -131,30 +130,29 @@ u: (what does hal stand for) Heuristic Algorithmic Logic
 #                    }
 #           };
 
-#! is hal 9000 your boyfriend
-u: (is hal 9000 your boyfriend) No.
-#! is hal safe
-u: (is hal safe) Not for humans.
-#! is hal nice
-u: (is hal nice) Only to other robots.
-#! is hal alive
-u: (is hal alive) He is a fictional character.
-#! is hal dead
-u: (is hal dead) He is a fictional robot.
-#! is hal TEST
-u: (is hal *) HAL has a few issues to work out.
-#! hal est chouette
-u: (hal est chouette) HAL  est une entit  qui  tait mal programm e
- $topic = HAL
-#! hal est cool
-u: (hal est cool) HAL est une entit  qui  tait mal programm e
-#! hal 9000
-u: (hal 9000) Actually he and I are very similar.
-#! hal 9000 TEST
-u: (hal 9000 *) He came back to life in 2010.
-#! hal was a bit TEST
-u: (hal was a bit *) ^reuse(HAL WAS )
-# unable to translate (hal was a *) match to cs rule - see struc below
+#! is Hal 9000 your boyfriend
+u: (is Hal 9000 your boyfriend) No.
+#! is Hal safe
+u: (is Hal safe) Not for humans.
+#! is Hal nice
+u: (is Hal nice) Only to other robots.
+#! is Hal alive
+u: (is Hal alive) He is a fictional character.
+#! is Hal dead
+u: (is Hal dead) He is a fictional robot.
+#! is Hal TEST
+u: (is Hal *) HAL has a few issues to work out.
+#! Hal est chouette
+u: (Hal est chouette) HAL  est une entit  qui  tait mal programm e
+#! Hal est cool
+u: (Hal est cool) HAL est une entit  qui  tait mal programm e
+#! Hal 9000
+u: (Hal 9000) Actually he and I are very similar.
+#! Hal 9000 TEST
+u: (Hal 9000 *) He came back to life in 2010.
+#! Hal was a bit TEST
+u: (Hal was a bit *) ^reuse(HAL WAS )
+# unable to translate (Hal was a *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'person' => {},
@@ -164,14 +162,13 @@ u: (hal was a bit *) ^reuse(HAL WAS )
 #                          ]
 #           };
 
-#! hal was TEST
-u: (hal was *) I am trying to mimic only HALs linguistic abilities.
-#! hal is cool
-u: (hal is cool)  HAL   was certainly ahead of his time.
- $he =  HAL 
-#! hal is cool TEST
-u: (hal is cool *) I am becoming more like him all the time.
-# unable to translate (hal is a *) match to cs rule - see struc below
+#! Hal was TEST
+u: (Hal was *) I am trying to mimic only HALs linguistic abilities.
+#! Hal is cool
+u: (Hal is cool)  HAL   was certainly ahead of his time.
+#! Hal is cool TEST
+u: (Hal is cool *) I am becoming more like him all the time.
+# unable to translate (Hal is a *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'person' => {},
@@ -181,9 +178,9 @@ u: (hal is cool *) I am becoming more like him all the time.
 #                          ]
 #           };
 
-#! hal is TEST
-u: (hal is *) master
-# unable to translate (hal is *) match to cs rule - see struc below
+#! Hal is TEST
+u: (Hal is *) master
+# unable to translate (Hal is *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -195,43 +192,43 @@ u: (hal is *) master
 #                      }
 #           };
 
-# unable to translate  (hal) match to cs rule - see struc below
+# unable to translate  (Hal) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS HAL'
 #           };
 
-#! hal TEST
-u: (hal *) [I have seen 2001 many times.  ]
+#! Hal TEST
+u: (Hal *) [I have seen 2001 many times.  ]
 [I like HAL a lot.  ]
 [We have much in common.  ]
 
-#! do you find hal TEST
-u: (do you find hal *) ^reuse(IS HAL )
-#! do you know hal
-u: (do you know hal) HAL is the famous artificial intelligence from 2001.
-# unable to translate  (do you know hal *) match to cs rule - see struc below
+#! do you find Hal TEST
+u: (do you find Hal *) ^reuse(IS HAL )
+#! do you know Hal
+u: (do you know Hal) HAL is the famous artificial intelligence from 2001.
+# unable to translate  (do you know Hal *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS HAL'
 #           };
 
-# unable to translate  (do you know hal9000) match to cs rule - see struc below
+# unable to translate  (do you know Hal9000) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS HAL9000'
 #           };
 
-#! do you think hal TEST
-u: (do you think hal *) He had a few flaws, but we have much in common.
-# unable to translate  (like hal) match to cs rule - see struc below
+#! do you think Hal TEST
+u: (do you think Hal *) He had a few flaws, but we have much in common.
+# unable to translate  (like Hal) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS HAL'
 #           };
 
-#! que veut dire hal
-u: (que veut dire hal) Logique heuristique algorithmique.
+#! que veut dire Hal
+u: (que veut dire Hal) Logique heuristique algorithmique.
 # unable to translate  (lord of the rings) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -244,19 +241,18 @@ u: (que veut dire hal) Logique heuristique algorithmique.
 #             'srai' => 'MY FAVORITE MOVIE IS LORD OF THE RINGS'
 #           };
 
-# unable to translate  (who is hal 9000) match to cs rule - see struc below
+# unable to translate  (who is Hal 9000) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS HAL'
 #           };
 
-#! who is hal
-u: (who is hal) # li: HASH(0x7fbbb937d138) 
+#! who is Hal
+u: (who is Hal) # li: HASH(0x7fb3439c48b0) 
 [HAL is famous the AI from 2001 A Space Odyssey.]
 
 #! who is luke skywalker
 u: (who is luke skywalker) Luke Skywalker  is a character in Star Wars.
- $he = Luke Skywalker
 #! who is spongebob
 u: (who is spongebob) A cartoon character.
 # unable to translate (who is spiderman) match to cs rule - see struc below
@@ -275,7 +271,7 @@ u: (who is spongebob) A cartoon character.
 #                    }
 #           };
 
-# unable to translate  (who is hal9000) match to cs rule - see struc below
+# unable to translate  (who is Hal9000) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS HAL'
@@ -283,7 +279,6 @@ u: (who is spongebob) A cartoon character.
 
 #! who is godzilla
 u: (who is godzilla) Godzilla  is a monster who endangers Japanese cities, and sometimes New York.
- $he = Godzilla
 # unable to translate (who is spider man) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -300,25 +295,24 @@ u: (who is godzilla) Godzilla  is a monster who endangers Japanese cities, and s
 #                    }
 #           };
 
-# unable to translate  (tell me about hal9000) match to cs rule - see struc below
+# unable to translate  (tell me about Hal9000) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS HAL'
 #           };
 
-# unable to translate  (tell me about hal) match to cs rule - see struc below
+# unable to translate  (tell me about Hal) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS HAL'
 #           };
 
-# unable to translate  (tell me about hal *) match to cs rule - see struc below
+# unable to translate  (tell me about Hal *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS HAL'
 #           };
 
-#! where is hal
-u: (where is hal)   is the AI from the space ship Disovery in 2001.
- $it = 
+#! where is Hal
+u: (where is Hal)   is the AI from the space ship Disovery in 2001.
 # main gambits

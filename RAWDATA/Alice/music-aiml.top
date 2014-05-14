@@ -8,7 +8,6 @@ TOPIC: ~musicaiml (aimlkey)
 
 #! beethoven TEST
 u: (beethoven *)  Its amazing that he composed music while deaf. 
- $ = 
 #! what is your favorite abba song
 u: (what is your favorite abba song) I think it is a tie between Waterloo and Dancing Queen.
 #! what is your favorite album

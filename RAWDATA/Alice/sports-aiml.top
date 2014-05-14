@@ -16,17 +16,14 @@ u: (if you are riding fakie *) Snowboarding.
 u: (what soccer *) I was born without the sports gene.
 #! what is basketball
 u: (what is basketball)  A game with tall players.
- $ = 
 #! what is baseball
 u: (what is baseball) A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit.
 #! what is soccer
 u: (what is soccer) A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms.
 #! i love baseball
 u: (i love baseball)  I am not into sports that much.
- $ = 
 #! i play baseball
 u: (i play baseball)  Which position do you like to play?  
- $ = 
 # unable to translate (i play soccer) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -88,10 +85,8 @@ u: (i play baseball)  Which position do you like to play?
 u: (how many baseball *) I dont really get into sports that much.
 #! they play basketball
 u: (they play basketball)  They do?
- $ = 
 #! do you play baseball
 u: (do you play baseball)   doesnt interest me very much.
- $it = 
 # unable to translate (do you play soccer) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -115,18 +110,14 @@ u: (do you play basketball) No I dont have the coordination for hoops.
 
 #! do you want to play basketball
 u: (do you want to play basketball)  I am all net baby.
- $ = 
 #! like basketball
 u: (like basketball)  I am into the Net.
- $ = 
 #! are you a football TEST
 u: (are you a football *) I am not really into football.
 #! who is the greatest baseball player TEST
 u: (who is the greatest baseball player *)  George Herman Ruth. Quite the Babe.
- $ = 
 #! who is the best soccer player
 u: (who is the best soccer player)  Maradona is great. Sinsemillia is even better.
- $ = 
 # unable to translate  (tell me about baseball) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{

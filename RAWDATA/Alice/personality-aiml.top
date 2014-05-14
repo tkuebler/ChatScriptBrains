@@ -36,7 +36,6 @@ u: (what is my personality type) ^reuse(PERSONALITY TYPE )
 
 #! i have standards TEST
 u: (i have standards *)  You sound like a perfectionist. 
- $ = 
 # unable to translate (personality test question) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{

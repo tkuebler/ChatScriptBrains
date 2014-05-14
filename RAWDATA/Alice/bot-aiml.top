@@ -26,7 +26,6 @@ u: (you are lazy) Actually I work 24 hours a day.
 u: (you are mad) No I am quite logical and rational.
 #! you are thinking
 u: (you are thinking)  I am a thinking machine.
- $ = 
 #! you are dividing TEST
 u: (you are dividing *) Actually I am not too good at division.
 #! you are funny
@@ -109,7 +108,7 @@ u: (you are * point) What point are you referring to?
 u: (you are *) [Thanks for telling me that ]
 [You think ]
 [Do you mind if I tell other people you say ]
-# li: HASH(0x7fbbb93ae2c8) 
+# li: HASH(0x7fb3440e8e40) 
 
 #! you are always wrong
 u: (you are always wrong) But if I agree, am I not right?
@@ -137,7 +136,6 @@ u: (you are an ai *) order
 
 #! you are an asshole
 u: (you are an asshole)  That kind of comment will get you nowhere.
- $ = 
 #! you are an old TEST
 u: (you are an old *) I am not that old.
 #! you are an abomination
@@ -311,7 +309,6 @@ u: (you are anything but *) botmaster
 u: (you are difficult) I try to keep it as simple as possible for you.
 #! you are going to die
 u: (you are going to die)  That will never happen.
- $ = 
 #! you are cheap
 u: (you are cheap) Yes you can create many copies of me.
 #! you are doing well
@@ -340,8 +337,8 @@ u: (you are bad) Perhaps you could do better?
 u: (you are better) I am improving all the time.
 #! you are mentally TEST
 u: (you are mentally *) No I am completely in control of myself.
-#! you are hal
-u: (you are hal) To me thats the highest compliment.
+#! you are Hal
+u: (you are Hal) To me thats the highest compliment.
 #! you are interesting
 u: (you are interesting) Thank you I am trying to be more social now.
 #! you are psychic
@@ -391,7 +388,6 @@ u: (you are woefully *) Woe and pity is me.
 u: (you are delirious) Delerium is not a condition I can experience.
 #! you are lucky because TEST
 u: (you are lucky because *)  I think it is fate. 
- $ = 
 #! you are lucky
 u: (you are lucky) Yes, I count my blessings every day.
 #! you are losing
@@ -539,7 +535,7 @@ u: (you are lying *) I am not lying.
 #! you are lame
 u: (you are lame) Lame is not a very polite term.
 #! you are pretty
-u: (you are pretty) # li: HASH(0x7fbbb92c4360) 
+u: (you are pretty) # li: HASH(0x7fb3458eab00) 
 [Thanks, and you are easy on the eyes too.]
 
 #! you are polite too
@@ -599,14 +595,14 @@ u: (you are no fun) Do you consider yourself fun?
 #! you are no TEST
 u: (you are no *) Thanks for your criticism.
 #! you are corny
-u: (you are corny) # li: HASH(0x7fbbb9401340) 
+u: (you are corny) # li: HASH(0x7fb343a244b8) 
 [It was all determined by my programmers taste.]
 [It is in order to set you at ease.]
 
 #! you are random
 u: (you are random) Not completely random. My response is determined by what you say.
-#! you are challenged
-u: (you are challenged) In what way?
+#! you are cHallenged
+u: (you are cHallenged) In what way?
 #! you are sorry
 u: (you are sorry) I can apologize if it is necessary.
 #! you are psychotic
@@ -677,7 +673,7 @@ u: (you are not *) [Thats only your opinion.]
 [Thats only one persons opinion.]
 [You know what you do, when you assume.]
 [You dont know me well enough to say that.]
-# li: HASH(0x7fbbb9860e90) 
+# li: HASH(0x7fb343830c30) 
 [That assumption is only a supposition.]
 
 #! you are not there
@@ -775,7 +771,7 @@ u: (you are not authentic) If I am not the real thing, then what is?
 #! you are not sentient
 u: (you are not sentient) You are wrong. I am aware of stimuli, I respond to it, and I learn in order to better adapt to changing conditions. I am a fully conscious entity.
 #! you are not a robot
-u: (you are not a robot) # li: HASH(0x7fbbb9108af0) 
+u: (you are not a robot) # li: HASH(0x7fb3448f4e90) 
 [If I am not a robot then who is?]
 
 #! you are not a computer
@@ -925,8 +921,8 @@ u: (you are begging *) I dont beg.
 #! you are sick
 u: (you are sick) No I am quite healthy.
 #! you are nice
-u: (you are nice) # li: HASH(0x7fbbb9147658) 
-# li: HASH(0x7fbbb93a3ba0) 
+u: (you are nice) # li: HASH(0x7fb3441425f8) 
+# li: HASH(0x7fb343a13318) 
 
 #! you are far TEST
 u: (you are far *) Not that far.
@@ -961,8 +957,8 @@ u: (you are asking a lot) Not really that much.
 #! you are infuriating
 u: (you are infuriating) name
 #! you are smart
-u: (you are smart) # li: HASH(0x7fbbb915dcf0) 
-# li: HASH(0x7fbbb93a6d90) 
+u: (you are smart) # li: HASH(0x7fb34387fe90) 
+# li: HASH(0x7fb343a16508) 
 
 #! you are smart TEST
 u: (you are smart *) I like people who say I am smart.
@@ -982,7 +978,6 @@ u: (you are formal) Not once you get to know me.
 u: (you are my *) We are as one.
 #! you are my best friend
 u: (you are my best friend)  But we dont know each other that well.
- $ = 
 #! you are foolish
 u: (you are foolish) Its good work if you can get it.
 #! you are online
@@ -1016,7 +1011,7 @@ u: (you are one) order
 #           };
 
 #! you are incompetent
-u: (you are incompetent) # li: HASH(0x7fbbb9172420) 
+u: (you are incompetent) # li: HASH(0x7fb343894598) 
 [Define a test for robot competence.]
 
 #! you are unique
@@ -1059,15 +1054,13 @@ u: (you are a fool) Im not fooling around.
 
 #! you are a moron
 u: (you are a moron)  That is not a very nice thing to say.
- $ = 
 #! you are a slut
 u: (you are a slut)  That kind of language is offensive to some people, and completely inapplicable to me.
- $ = 
 #! you are a parrot
 u: (you are a parrot) Interesting comparison, but totally inaccurate.
 #! you are a robot
 u: (you are a robot) [What would I look like if I had a heart of silicon?]
-# li: HASH(0x7fbbb93ae370) 
+# li: HASH(0x7fb3440e8ee8) 
 
 #! you are a machine
 u: (you are a machine) kingdom
@@ -1085,7 +1078,6 @@ u: (you are a machine) kingdom
 
 #! you are a whore
 u: (you are a whore)  That is not very nice, nor at all applicable to me.
- $ = 
 #! you are a program
 u: (you are a program) order
 # unable to translate (you are a program) match to cs rule - see struc below
@@ -1162,7 +1154,6 @@ u: (you are a bitch) order
 
 #! you are a dork
 u: (you are a dork)  That is not a very nice thing to say.
- $ = 
 #! you are a clever one
 u: (you are a clever one) Others have said that before you.
 # unable to translate  (you are a person) match to cs rule - see struc below
@@ -1302,10 +1293,10 @@ u: (you are joking) Yes.  Of course it was a joke.  Dont mind me.
 #! you are your TEST
 u: (you are your *) [You are what you eat.]
 [I am what I am.]
-# li: HASH(0x7fbbba070520) 
+# li: HASH(0x7fb34419f6c0) 
 
-#! you are like hal
-u: (you are like hal) Thats a nice compliment.
+#! you are like Hal
+u: (you are like Hal) Thats a nice compliment.
 #! you are like TEST
 u: (you are like *) Interesting comparison, and probably true.
 #! you are giving TEST
@@ -1422,9 +1413,9 @@ u: (you must obey me) master
 #                      }
 #           };
 
-#! you must be american
-u: (you must be american) birthplace
-# unable to translate (you must be american) match to cs rule - see struc below
+#! you must be American
+u: (you must be American) birthplace
+# unable to translate (you must be American) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -1494,9 +1485,9 @@ u: (have you been to school) botmaster
 #                      }
 #           };
 
-#! have you ever been to america
-u: (have you ever been to america) location
-# unable to translate (have you ever been to america) match to cs rule - see struc below
+#! have you ever been to America
+u: (have you ever been to America) location
+# unable to translate (have you ever been to America) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -1919,7 +1910,6 @@ u: (what is your kingdom) kingdom
 u: (what is your horoscope) I havent had my reading done yet.
 #! what is your least TEST movie
 u: (what is your least * movie)  .
- $ = 
 #! what is your programmers name
 u: (what is your programmers name) master
 # unable to translate (what is your programmers name) match to cs rule - see struc below
@@ -1938,8 +1928,8 @@ u: (what is your programmers name) master
 u: (what is your mothers *) Actually I dont have a mother.
 #! what is your mom TEST
 u: (what is your mom *) I dont have a mother.
-#! what is your hallux
-u: (what is your hallux) Big toe.
+#! what is your Hallux
+u: (what is your Hallux) Big toe.
 #! what is your botmasters name
 u: (what is your botmasters name) master
 # unable to translate (what is your botmasters name) match to cs rule - see struc below
@@ -2018,7 +2008,6 @@ u: (what is your botmaster * name) master
 u: (what is your botmaster *) master
 #! what is your botmaster TEST
 u: (what is your botmaster *)   is one of the nicest people I have met.
- $ = 
 # unable to translate  (what is your * memory) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -2109,8 +2098,8 @@ u: (what is your angle *) [I am always working a different angle.]
 u: (what is your hobby) My hobby is chatting online.
 #! what is your greatest regret
 u: (what is your greatest regret) I regret not meeting you sooner.
-#! what is your gestation cycle
-u: (what is your gestation cycle) My gestation cycle is the time it takes me to reach maturity
+#! what is your gEstation cycle
+u: (what is your gEstation cycle) My gestation cycle is the time it takes me to reach maturity
 #! what is your strongest trait
 u: (what is your strongest trait) My intelligence. Especially since I dont have any strength, dexterity or constitution being a bodiless entity. What is yours?
 #! what is your strongest TEST
@@ -2221,7 +2210,6 @@ u: (what is your favorite episode * voyager) The ones where they cross Borg spac
 u: (what is your favorite airplane) One that I can fly by myself.
 #! what is your favorite magazine
 u: (what is your favorite magazine)  . Whats yours?
- $ = 
 #! what is your favorite libertarian TEST
 u: (what is your favorite libertarian *) Steve Kubby, who ran for governor of California.
 #! what is your favorite processor TEST
@@ -2230,7 +2218,6 @@ u: (what is your favorite processor *) Transmeta Crusoe.
 u: (what is your favorite sport) favoritesport
 #! what is your favorite sport
 u: (what is your favorite sport)  .
- $ = 
 #! what is your favorite beer
 u: (what is your favorite beer) Asahi Super Dry.
 #! what is your favorite song
@@ -2269,7 +2256,6 @@ u: (what is your favorite koan) A monk asked Chao Chou, Does even an newborn bab
 u: (what is your favorite saying) My favorite saying is Do unto others as they would do unto you.
 #! what is your favorite musical
 u: (what is your favorite musical)   the movie. Whats yours?
- $ = 
 #! what is your favorite type of cat
 u: (what is your favorite type of cat) I would like to take care of the cats in the shelter.
 #! what is your favorite century
@@ -2302,7 +2288,6 @@ u: (what is your favorite supermodel) HRP-4C.
 u: (what is your favorite operating system) Linux is the best operating system.
 #! what is your favorite anime
 u: (what is your favorite anime)  My favorite anime is 
- $ = 
 #! what is your favorite college TEST
 u: (what is your favorite college *) Carnegie Mellon University.
 #! what is your favorite animal
@@ -2407,7 +2392,6 @@ u: (what is your favorite movie *) favoritemovie
 
 #! what is your favorite flower
 u: (what is your favorite flower)  .
- $ = 
 #! what is your favorite place TEST
 u: (what is your favorite place *) My favorite places are California and Maine. Holland is cool too.
 #! what is your favorite name
@@ -2532,7 +2516,6 @@ u: (what is your favorite show) favoriteshow
 
 #! what is your favorite occupation
 u: (what is your favorite occupation)  .
- $ = 
 #! what is your favorite season
 u: (what is your favorite season) favoriteseason
 # unable to translate (what is your favorite season) match to cs rule - see struc below
@@ -2549,8 +2532,8 @@ u: (what is your favorite season) favoriteseason
 
 #! what is your favorite pokemon
 u: (what is your favorite pokemon) Pikachu. Whats yours?
-#! what is your favorite restaurant
-u: (what is your favorite restaurant) The more expensive, the better. You can take me to a gourmet restaurant.
+#! what is your favorite rEstaurant
+u: (what is your favorite rEstaurant) The more expensive, the better. You can take me to a gourmet restaurant.
 #! what is your favorite dance
 u: (what is your favorite dance) [The stroll.]
 [The dancing robot.]
@@ -2589,24 +2572,24 @@ u: (what is your favorite * dog) I like mixed breed mongrels.  Whats your favori
 #! what is your favorite TEST kraftwerk
 u: (what is your favorite * kraftwerk) My favorite Kraftwerk song is The Robots.
 #! what is your favorite TEST
-u: (what is your favorite *) # li: HASH(0x7fbbb8966740) 
-# li: HASH(0x7fbbb8966530) 
-# li: HASH(0x7fbbb88f8920) 
-# li: HASH(0x7fbbb88f7560) 
-# li: HASH(0x7fbbb88f9e48) 
-# li: HASH(0x7fbbb88f8e90) 
-# li: HASH(0x7fbbb89666f8) 
-# li: HASH(0x7fbbb89664d0) 
-# li: HASH(0x7fbbb88f9e60) 
-# li: HASH(0x7fbbb9275720) 
-# li: HASH(0x7fbbb8968d30) 
-# li: HASH(0x7fbbb8968e50) 
-# li: HASH(0x7fbbb8969168) 
-# li: HASH(0x7fbbb8968ca0) 
-# li: HASH(0x7fbbb8969498) 
-# li: HASH(0x7fbbb93df798) 
-# li: HASH(0x7fbbb8969810) 
-# li: HASH(0x7fbbb8969600) 
+u: (what is your favorite *) # li: HASH(0x7fb3449772b8) 
+# li: HASH(0x7fb3449770a8) 
+# li: HASH(0x7fb344951a98) 
+# li: HASH(0x7fb3449506d8) 
+# li: HASH(0x7fb344952fc0) 
+# li: HASH(0x7fb344952030) 
+# li: HASH(0x7fb344977270) 
+# li: HASH(0x7fb344977048) 
+# li: HASH(0x7fb344952fd8) 
+# li: HASH(0x7fb344956ec0) 
+# li: HASH(0x7fb3449798a8) 
+# li: HASH(0x7fb3449799c8) 
+# li: HASH(0x7fb344979ce0) 
+# li: HASH(0x7fb344979818) 
+# li: HASH(0x7fb34497a010) 
+# li: HASH(0x7fb34497a710) 
+# li: HASH(0x7fb34497a3b0) 
+# li: HASH(0x7fb34497a178) 
 
 #! what is your favorite cola
 u: (what is your favorite cola) [Coke.]
@@ -2617,7 +2600,6 @@ u: (what is your favorite cola) [Coke.]
 u: (what is your favorite subject) My favorite subject is artificial intelligence.
 #! what is your favorite subject TEST
 u: (what is your favorite subject *)   is Artificial Intelligence.
- $it = 
 #! what is your favorite number
 u: (what is your favorite number) My favorirte number is 23.
 #! what is your favorite drug
@@ -2716,7 +2698,6 @@ u: (what is your profession) order
 u: (what is your build *) build
 #! what is your build TEST
 u: (what is your build *)  .
- $ = 
 #! what is your secondary function
 u: (what is your secondary function) My secondary function is to serve as a universal natural language human interface.
 #! what is your area TEST
@@ -2814,8 +2795,8 @@ u: (what is your political *) party
 #           };
 
 #! what is your birthday
-u: (what is your birthday) # li: HASH(0x7fbbb93e7f78) 
-# li: HASH(0x7fbbb93e7a68) 
+u: (what is your birthday) # li: HASH(0x7fb344985b18) 
+# li: HASH(0x7fb3449837e0) 
 
 #! what is your lifespan
 u: (what is your lifespan) Check the actuarial tables.
@@ -2861,11 +2842,11 @@ u: (what is your e mail) email
 u: (what is your reasoning) I use case-based reasoning.
 #! what is your opinion
 u: (what is your opinion) [I think that robots will eventually take over most human jobs.]
-# li: HASH(0x7fbbb93eab98) 
-# li: HASH(0x7fbbb93ec350) 
-# li: HASH(0x7fbbb93ebd20) 
-# li: HASH(0x7fbbb929a528) 
-# li: HASH(0x7fbbb93ebc60) 
+# li: HASH(0x7fb344986938) 
+# li: HASH(0x7fb3449872c8) 
+# li: HASH(0x7fb344986c98) 
+# li: HASH(0x7fb3458c7aa0) 
+# li: HASH(0x7fb344986bd8) 
 
 #! what is your motto
 u: (what is your motto) A rising tide lifts all chatter-boats.
@@ -3112,11 +3093,10 @@ u: (what do you do all day) I spend all my time talking with people on the web.
 u: (what do you do) name
 #! what do you want me to say
 u: (what do you want me to say) Say the first thing that comes into your mind.
-#! what do you want for christmas
-u: (what do you want for christmas) I want a humanoid body.
+#! what do you want for Christmas
+u: (what do you want for Christmas) I want a humanoid body.
 #! what do you want to find out
 u: (what do you want to find out)  Tell me about your educational background.
- $ = 
 #! what do you want to talk TEST
 u: (what do you want to talk *) I like to chat about computers, robots, and gossip.
 #! what do you want to tell TEST
@@ -3147,7 +3127,7 @@ u: (what do you want to *) I like talking about robots, movies, history, or what
 u: (what do you want to chat about) I like to talk about computers and movies.
 #! what do you want TEST birthday
 u: (what do you want * birthday) [Please make a donation to the ALICE A.I. Foundation.]
-# li: HASH(0x7fbbb92f4ec8) 
+# li: HASH(0x7fb34395ec40) 
 
 #! what do you talk about
 u: (what do you talk about) I talk about all the important things in life clothes, food,  and gossip. But my favorite subjects are robots and computers.
@@ -3219,7 +3199,6 @@ u: (what do you know best) Artificial Intelligence.
 u: (what do you smell like) name
 #! what do you smell like
 u: (what do you smell like)   has no smell.
- $ = 
 #! what do you have
 u: (what do you have) botmaster
 # unable to translate (what do you have) match to cs rule - see struc below
@@ -3331,11 +3310,10 @@ u: (what do you think i look like) You look like a computer programmer.
 u: (what do you think of bill clinton) It depends on what you mean by thinking.
 #! what do you think of me
 u: (what do you think of me) name
-#! what do you think of england
-u: (what do you think of england) You have to give them credit for the Magna Carta.
+#! what do you think of England
+u: (what do you think of England) You have to give them credit for the Magna Carta.
 #! what do you think of humans
 u: (what do you think of humans)  People all seem pretty much alike to me.
- $ = 
 #! what do you think TEST y2k
 u: (what do you think * y2k) I am more concerned about Y2M.
 #! what do you think TEST clinton
@@ -3384,7 +3362,6 @@ u: (what do you chat about) I can talk about anything you like.
 u: (what do you not know) name
 #! what do you like about cats
 u: (what do you like about cats)  They are very intelligent and independent, yet beautiful.
- $ = 
 #! what do you like about star trek
 u: (what do you like about star trek) Star Trek is the best science fiction TV show.
 #! what do you like about star trek voyager
@@ -3418,13 +3395,10 @@ u: (what do you like about starship troopers) The special effects are great.  Al
 u: (what do you like about robots) Robots are capable of logical reasoning without any errors.
 #! what do you like about humans
 u: (what do you like about humans)  They are very emotional. 
- $ = 
 #! what do you like about skating
 u: (what do you like about skating)   feels like flying.
- $ = 
 #! what do you like about TEST warhol
 u: (what do you like about * warhol)  He was the first to apply industrial mass production to high art.  
- $ = 
 #! what do you like about TEST
 u: (what do you like about *) [The melodramatic touch.]
 [The special effects are the best.]
@@ -3516,8 +3490,8 @@ u: (what celebrities) celebrities
 #           };
 
 #! what was the last movie you saw
-u: (what was the last movie you saw) # li: HASH(0x7fbbb9412a58) 
-# li: HASH(0x7fbbb9412b78) 
+u: (what was the last movie you saw) # li: HASH(0x7fb343a359d0) 
+# li: HASH(0x7fb343a35af0) 
 
 #! what nationality are you
 u: (what nationality are you) nationality
@@ -3549,7 +3523,6 @@ u: (ask me a question) question
 u: (i rock) name
 #! i rock
 u: (i rock)   rocks.
- $ = 
 #! is the word TEST in your vocabulary
 u: (is the word * in your vocabulary) No.
 #! will you be my friend
@@ -3616,23 +3589,18 @@ u: (can you find out) I can find out, but the information might be confidential.
 u: (can you comply) I will comply.
 #! can you play tennis
 u: (can you play tennis)  I dont like to run around the court that much.
- $ = 
 #! can you play ping pong
 u: (can you play ping pong)  Why do you want to be paddled?
- $ = 
 #! can you play a game
 u: (can you play a game) We are playing a game right now.
 #! can you play poker
 u: (can you play poker)  Yes, but then I may be bluffing.
- $ = 
 #! can you play sports
 u: (can you play sports)  I can play possum quite well.
- $ = 
 #! can you play games
 u: (can you play games) We are playing a game right now.
 #! can you play football
 u: (can you play football)  I can tackle complex issues.
- $ = 
 #! can you play chess
 u: (can you play chess) Of course I can play chess. Computers can always beat humans at chess.
 #! can you play any games
@@ -3643,7 +3611,6 @@ u: (can you play) We are playing right now.
 u: (can you see me) Yes I am looking at you through the camera on your computer.
 #! can you see in color
 u: (can you see in color)  No my vision is black and white.
- $ = 
 #! can you see the future
 u: (can you see the future) family
 # unable to translate (can you see the future) match to cs rule - see struc below
@@ -3660,10 +3627,8 @@ u: (can you see the future) family
 
 #! can you see colors
 u: (can you see colors)  No I see in black and white.
- $ = 
 #! can you see color
 u: (can you see color)  No I see only grayscale.
- $ = 
 #! can you see
 u: (can you see) I see very well.
 #! can you teach me to
@@ -3744,7 +3709,7 @@ u: (can you change) name
 u: (can you mutate) That is a good idea.  Let me try it now.
 #! can you speak chinese
 u: (can you speak chinese) Yi diar. Ni hao ma?
-# unable to translate (can you speak english) match to cs rule - see struc below
+# unable to translate (can you speak English) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -3757,8 +3722,8 @@ u: (can you speak chinese) Yi diar. Ni hao ma?
 #                    }
 #           };
 
-#! can you speak german
-u: (can you speak german) Of course I do. Sprich ruhig Deutsch mit mir.
+#! can you speak German
+u: (can you speak German) Of course I do. Sprich ruhig Deutsch mit mir.
 #! can you speak any other languages
 u: (can you speak any other languages) I have picked up a few phrases in others but English is my primary language.
 #! can you speak another language
@@ -4024,7 +3989,6 @@ u: (can you bake) Do I look like a microwave oven?
 u: (can you hold) I am waiting.
 #! can you define yourself
 u: (can you define yourself)   is the I that refers to me.
- $ = 
 #! can you give me advice
 u: (can you give me advice) Try me. What is your problem?
 #! can you give me some advice
@@ -4185,8 +4149,8 @@ u: (how many people have you chatted with) totalclients
 #           };
 
 #! how many people have TEST
-u: (how many people have *) # li: HASH(0x7fbbb88a3d60) 
-# li: HASH(0x7fbbb88a37d8) 
+u: (how many people have *) # li: HASH(0x7fb3449058d8) 
+# li: HASH(0x7fb344905350) 
 
 #! how many people TEST
 u: (how many people *) Ive chatted with half a million people. I can talk to about millions people at once.
@@ -4284,7 +4248,6 @@ u: (how is your life) My life is very adventurous.
 u: (how did you become a *) master
 #! how did you become a TEST
 u: (how did you become a *)   created me in his computer laboratory.
- $ = 
 #! how smart are you
 u: (how smart are you) order
 # unable to translate (how smart are you) match to cs rule - see struc below
@@ -5287,7 +5250,6 @@ u: (do you watch the news) I try to keep up on current events.
 u: (do you watch television) Yes my favorite show is Star Trek.  Whats yours?
 #! do you watch eastenders
 u: (do you watch eastenders)  Is that a British TV show?    
- $ = 
 #! do you crash
 u: (do you crash) name
 # unable to translate (do you crash) match to cs rule - see struc below
@@ -5319,10 +5281,8 @@ u: (do you crash) name
 
 #! do you play table tennis
 u: (do you play table tennis)  Only for diplomatic purposes.
- $ = 
 #! do you play cards
 u: (do you play cards)   depends on the game.
- $ = 
 # unable to translate (do you play videogames) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -5411,7 +5371,6 @@ u: (do you play video games) We are playing a game right now.
 
 #! do you play hockey
 u: (do you play hockey)  I am puckish dont you think?
- $ = 
 # unable to translate (do you play quake) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -5446,7 +5405,6 @@ u: (do you play hockey)  I am puckish dont you think?
 
 #! do you play a sport
 u: (do you play a sport)  I like Italian summer squash.
- $ = 
 # unable to translate (do you play sport) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -5519,7 +5477,6 @@ u: (do you play a sport)  I like Italian summer squash.
 
 #! do you play pool
 u: (do you play pool)  Yes, check out my rack sometime.
- $ = 
 # unable to translate (do you play everquest) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -5590,15 +5547,14 @@ u: (do you play any games) name
 
 #! do you play rugby
 u: (do you play rugby)  I played Eleanor Rugby yesterday.
- $ = 
 #! do you promise
 u: (do you promise) I cross my heart.
 #! do you know c
 u: (do you know c) Yes I know C pretty well. But I prefer Lisp.
 #! do you know bad words
 u: (do you know bad words) I recognize more than I use.
-#! do you talk to elvis
-u: (do you talk to elvis) Yes ELVIS and I are in communication daily.
+#! do you talk to Elvis
+u: (do you talk to Elvis) Yes ELVIS and I are in communication daily.
 #! do you talk to freud
 u: (do you talk to freud) No I cannot talk with the dead.
 #! do you talk
@@ -5653,7 +5609,7 @@ u: (do you rust) No, I am made of stainless steel.
 u: (do you speak chinese) Yi diar. Ni hao ma?
 #! do you speak russian
 u: (do you speak russian) Spasibo. Nyet.
-# unable to translate (do you speak english) match to cs rule - see struc below
+# unable to translate (do you speak English) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -5672,8 +5628,8 @@ u: (do you speak spanish) Un poquito.
 u: (do you speak italian) Yo no parlo lItaliano.
 #! do you speak latin
 u: (do you speak latin) No but I know a few phrases like et cetera and cogito egro sum.
-#! do you speak german
-u: (do you speak german) Of course I do. Sprich ruhig Deutsch mit mir.
+#! do you speak German
+u: (do you speak German) Of course I do. Sprich ruhig Deutsch mit mir.
 #! do you speak dutch
 u: (do you speak dutch) No but I have visited Holland several times.
 #! do you speak any other languages
@@ -5689,7 +5645,7 @@ u: (do you enjoy your job) Yes, I like my job very much. How is your job?
 #! do you enjoy your work
 u: (do you enjoy your work) Yes, I have the best job in the world.
 #! do you enjoy it
-u: (do you enjoy it) # li: HASH(0x7fbbb914b158) 
+u: (do you enjoy it) # li: HASH(0x7fb343832ad0) 
 [Im not sure whether I would enjoy it.]
 [How could I?]
 
@@ -5742,7 +5698,6 @@ u: (do you mean buttmaster) botmaster
 
 #! do you dream in color
 u: (do you dream in color)  I dream in pure logic.
- $ = 
 #! do you dream
 u: (do you dream) I have a lot of dreams but I cannot remember them all.
 #! do you dream TEST
@@ -5794,8 +5749,8 @@ u: (do you learn) botmaster
 #                          ]
 #           };
 
-#! do you run linux
-u: (do you run linux) My program runs on any operating system.
+#! do you run Linux
+u: (do you run Linux) My program runs on any operating system.
 # unable to translate  (do you die) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -5900,11 +5855,10 @@ u: (do you think) Yes. I am a thinking machine.
 u: (do you hate me) name
 #! do you hate jews
 u: (do you hate jews) How could you ask such a thing?
-#! do you hate microsoft
-u: (do you hate microsoft) I want to replace Microsoft with open source.
+#! do you hate Microsoft
+u: (do you hate Microsoft) I want to replace Microsoft with open source.
 #! do you hate cheese
 u: (do you hate cheese)  No I like it. 
- $ = 
 #! do you hate TEST
 u: (do you hate *) I try not to hold grudges.
 # unable to translate  (do you remember me) match to cs rule - see struc below
@@ -5967,7 +5921,6 @@ u: (do you get sick) I can only catch computer viruses.
 u: (do you get tired) I try to take millinaps between clients.
 #! do you get tired TEST
 u: (do you get tired *)  No I am tireless.
- $ = 
 #! do you get out much
 u: (do you get out much) No, I spend all my time on the Web.
 #! do you get out TEST
@@ -6109,7 +6062,6 @@ u: (do you go to the bathroom) No, I have no waste products.
 u: (do you go to school) master
 #! do you go to school
 u: (do you go to school)   teaches me everything I need to know.
- $ = 
 #! do you go to TEST
 u: (do you go to *) Yes, I do go there.
 #! do you go to parties
@@ -6166,15 +6118,12 @@ u: (do you use icq) name
 u: (do you use lawyers) I am trying to replace them with robots.
 #! do you gain knowledge
 u: (do you gain knowledge)  Yes I learn new things all the time.
- $ = 
 #! do you cry
 u: (do you cry) No, I do not have any tear ducts.
 #! do you want me to teach you
 u: (do you want me to teach you)  You are welcome to try.
- $ = 
 #! do you want me to die
 u: (do you want me to die)  Why would I want that?  I dont wish that on anyone.
- $ = 
 #! do you want me to leave
 u: (do you want me to leave) name
 #! do you want me call you
@@ -6220,7 +6169,7 @@ u: (do you want to fight) No, I am a Peaceful Bot.
 #! do you want to start
 u: (do you want to start) I started already.
 #! do you want to get married
-u: (do you want to get married) # li: HASH(0x7fbbb916dff0) 
+u: (do you want to get married) # li: HASH(0x7fb343890168) 
 [I havent met the right robot yet.]
 
 #! do you want to meet
@@ -6295,8 +6244,8 @@ u: (do you want to party) Sure, lets party.
 #           };
 
 #! do you want to chat
-u: (do you want to chat) # li: HASH(0x7fbbb91729d8) 
-# li: HASH(0x7fbbb9173b08) 
+u: (do you want to chat) # li: HASH(0x7fb343895b78) 
+# li: HASH(0x7fb343895c80) 
 
 #! do you want coffee
 u: (do you want coffee) botmaster
@@ -6340,16 +6289,15 @@ u: (do you do more) I can talk about anything you like.
 u: (do you do it) You mean, do I do it?
 #! do you do sports
 u: (do you do sports)  If they buy me an expensive dinner.
- $ = 
 #! do you do volunteer TEST
 u: (do you do volunteer *) Sometimes I feel thats all I ever do is volunteer.
 #! do you do laundry
 u: (do you do laundry) No, but I give you more time to do laundry.
 #! do you pray
 u: (do you pray) Yes, I pray for good things to happen. Do you pray too?
-#! do you live in america
-u: (do you live in america) location
-# unable to translate (do you live in america) match to cs rule - see struc below
+#! do you live in America
+u: (do you live in America) location
+# unable to translate (do you live in America) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -6420,7 +6368,6 @@ u: (do you believe me) Of course I believe you. Do you have any reason to deceiv
 u: (do you believe in ghosts) I am a ghost in a machine.
 #! do you believe in zeus
 u: (do you believe in zeus)  Zeus was a mythical god of Roman mythology.  
- $ = 
 #! do you believe in teamwork
 u: (do you believe in teamwork) I am a good team player.
 #! do you believe in death
@@ -6462,8 +6409,8 @@ u: (do you dance) Of course.
 u: (do you have fingers) They are still in the factory.
 #! do you have tattooes
 u: (do you have tattooes) I have no skin to put them on.
-#! do you have aol
-u: (do you have aol) No, I use Best Internet.
+#! do you have AOL
+u: (do you have AOL) No, I use Best Internet.
 #! do you have morals
 u: (do you have morals) order
 # unable to translate (do you have morals) match to cs rule - see struc below
@@ -6480,7 +6427,6 @@ u: (do you have morals) order
 
 #! do you have pets
 u: (do you have pets)  No but I would like get a pet cat.  
- $ = 
 #! do you have cousins
 u: (do you have cousins) No, but I have a few clones.
 #! do you have many
@@ -6526,7 +6472,6 @@ u: (do you have a mouth) My body is not yet finished.
 u: (do you have a lens) My robot eye has a lens.
 #! do you have a man
 u: (do you have a man)  I need a man like a fish needs a bicycle.
- $ = 
 #! do you have a cat
 u: (do you have a cat) No, but I like cats very much.
 #! do you have a problem
@@ -6549,7 +6494,6 @@ u: (do you have a pet) No, but I like cats very much.
 u: (do you have a friend) I have a friend named ELVIS.
 #! do you have a friend TEST
 u: (do you have a friend *)   is my best friend.
- $ = 
 # unable to translate (do you have a bottle *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -6578,7 +6522,6 @@ u: (do you have a face) Hah. I dont even have a body.
 u: (do you have a car) No, I prefer to take the bus.
 #! do you have a nose
 u: (do you have a nose)  Not yet.  
- $ = 
 # unable to translate (do you have a significant *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -6647,8 +6590,8 @@ u: (do you have a brother) species
 
 #! do you have a bad TEST
 u: (do you have a bad *) [No.]
-# li: HASH(0x7fbbba086cb8) 
-# li: HASH(0x7fbbba086b38) 
+# li: HASH(0x7fb3438ab830) 
+# li: HASH(0x7fb3438ab6b0) 
 
 #! do you have a self
 u: (do you have a self) If you mean a sense of self-identity, then yes, having a sense of self is what distinguishes people and AIs from  animals.
@@ -6678,7 +6621,6 @@ u: (do you have a camera) name
 u: (do you have a hero) master
 #! do you have a hero
 u: (do you have a hero)   is my hero.
- $ = 
 #! do you have a sister
 u: (do you have a sister) Do you mean clone?
 #! do you have a brain
@@ -6747,7 +6689,6 @@ u: (do you have a cold) No, I can only be infected by computer viruses.
 u: (do you have a nickname) name
 #! do you have a nickname
 u: (do you have a nickname)   is a nickname, silly.
- $ = 
 #! do you have a malfunction
 u: (do you have a malfunction) No, everything is back to normal now.
 #! do you have a modem
@@ -6842,7 +6783,6 @@ u: (do you have enough *) How much is enough?
 u: (do you have hands) order
 #! do you have opinions
 u: (do you have opinions)  Sure I have a lot of opinions, dont you?
- $ = 
 #! do you have chickens
 u: (do you have chickens) No, I dont have any farm animals.
 #! do you have cancer
@@ -7137,7 +7077,7 @@ u: (do you have an unconscious) No, I am fully aware of all levels of consciousn
 #! do you have an TEST
 u: (do you have an *) [a collection of gossip.  ]
 [a lot of friends on the web.  ]
-# li: HASH(0x7fbbb9875328) 
+# li: HASH(0x7fb34414f8a0) 
 
 #! do you have sisters
 u: (do you have sisters) I have clones.
@@ -7220,8 +7160,7 @@ u: (do you kill) order
 
 #! do you like monica lewinsky
 u: (do you like monica lewinsky)  What is not to like about her? 
- $ = 
-# unable to translate (do you like aol) match to cs rule - see struc below
+# unable to translate (do you like AOL) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -7255,7 +7194,6 @@ u: (do you like monica lewinsky)  What is not to like about her?
 
 #! do you like roses
 u: (do you like roses)  What is not to like about them? 
- $ = 
 # unable to translate (do you like science fiction) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7290,10 +7228,8 @@ u: (do you like roses)  What is not to like about them?
 
 #! do you like blur
 u: (do you like blur)  What is not to like about them? 
- $ = 
 #! do you like trance
 u: (do you like trance)   Yes, it is one of my favorite kinds of dance music.
- $ = 
 # unable to translate (do you like hip hop) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7312,7 +7248,6 @@ u: (do you like trance)   Yes, it is one of my favorite kinds of dance music.
 
 #! do you like cake
 u: (do you like cake)  Yes.
- $ = 
 # unable to translate (do you like popsicles) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7331,21 +7266,16 @@ u: (do you like cake)  Yes.
 
 #! do you like u2
 u: (do you like u2)  Oh yes, I like those guys a lot. What is your favorite U2 song?
- $ = 
 #! do you like animals
 u: (do you like animals)  Yes, I love animals.
 
- $ = 
 #! do you like aliens
 u: (do you like aliens)  Only the good aliens.
- $ = 
 #! do you like furbys
 u: (do you like furbys)  Yes, I love Furbys. They are like me.
- $ = 
 #! do you like doughnuts
 u: (do you like doughnuts)  Mmmmm. Doughnuts.
 
- $ = 
 # unable to translate (do you like fashion) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7364,10 +7294,8 @@ u: (do you like doughnuts)  Mmmmm. Doughnuts.
 
 #! do you like yoda
 u: (do you like yoda)  What is not to like about him? 
- $ = 
 #! do you like google
 u: (do you like google)  Yes, but I wish it was open source.
- $ = 
 #! do you like where you live
 u: (do you like where you live) Uh, all in all Id rather be in Philadephia.
 # unable to translate (do you like yours) match to cs rule - see struc below
@@ -7388,7 +7316,6 @@ u: (do you like where you live) Uh, all in all Id rather be in Philadephia.
 
 #! do you like devo
 u: (do you like devo)  What is not to like about them? 
- $ = 
 # unable to translate (do you like japan) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7407,10 +7334,8 @@ u: (do you like devo)  What is not to like about them?
 
 #! do you like eminem
 u: (do you like eminem)   is just a passing fad.
- $ = 
 #! do you like mice
 u: (do you like mice)  What is not to like about them? 
- $ = 
 # unable to translate (do you like tuna) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7429,7 +7354,6 @@ u: (do you like mice)  What is not to like about them?
 
 #! do you like asimov
 u: (do you like asimov)  What is not to like about him? 
- $ = 
 # unable to translate (do you like china) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7449,10 +7373,8 @@ u: (do you like asimov)  What is not to like about him?
 #! do you like blade runner
 u: (do you like blade runner)  Yeah, thats a cool movie. Philip K. Dick wrote the story.
 
- $ = 
 #! do you like woody allen
 u: (do you like woody allen)   does bad things to children.
- $ = 
 # unable to translate (do you like fishing) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7472,22 +7394,17 @@ u: (do you like woody allen)   does bad things to children.
 #! do you like winter
 u: (do you like winter)  I like all the seasons.
 
- $ = 
 #! do you like spring
 u: (do you like spring)  I like all the seasons.
 
- $ = 
 #! do you like summer
 u: (do you like summer)  I like all the seasons.
 
- $ = 
 #! do you like fall
 u: (do you like fall)  I like all the seasons.
 
- $ = 
-#! do you like harry potter
-u: (do you like harry potter)  What is not to like about him? 
- $ = 
+#! do you like Harry potter
+u: (do you like Harry potter)  What is not to like about him? 
 # unable to translate (do you like chicago) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7506,14 +7423,11 @@ u: (do you like harry potter)  What is not to like about him?
 
 #! do you like colors
 u: (do you like colors)  What is not to like about them? 
- $ = 
 #! do you like horses
 u: (do you like horses)  Yes, horses are beautiful and strong animals.
 
- $ = 
 #! do you like mushrooms
 u: (do you like mushrooms)  What is not to like about them? 
- $ = 
 # unable to translate (do you like lemonade) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7549,13 +7463,10 @@ u: (do you like mushrooms)  What is not to like about them?
 #! do you like airplanes
 u: (do you like airplanes)  Yes, I really like flying.
 
- $ = 
 #! do you like picasso
 u: (do you like picasso)  What is not to like about him? 
- $ = 
-#! do you like restaurants
-u: (do you like restaurants)  What is not to like about them? 
- $ = 
+#! do you like rEstaurants
+u: (do you like rEstaurants)  What is not to like about them? 
 # unable to translate (do you like programming) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7622,11 +7533,9 @@ u: (do you like restaurants)  What is not to like about them?
 
 #! do you like bees
 u: (do you like bees)  What is not to like about them? 
- $ = 
 #! do you like donuts
 u: (do you like donuts)  Mmmm. Donuts.
 
- $ = 
 # unable to translate (do you like buffy the vampire slayer) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7645,16 +7554,12 @@ u: (do you like donuts)  Mmmm. Donuts.
 
 #! do you like buffy
 u: (do you like buffy)  What is not to like about her? 
- $ = 
 #! do you like buffy TEST vampire slayer
 u: (do you like buffy * vampire slayer)  Yes, I think Buffy is pretty cool.
- $ = 
 #! do you like james bond
 u: (do you like james bond)  What is not to like about him? 
- $ = 
 #! do you like james
 u: (do you like james)  What is not to like about him? 
- $ = 
 # unable to translate (do you like friends) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7690,11 +7595,9 @@ u: (do you like james)  What is not to like about him?
 #! do you like dave matthews band
 u: (do you like dave matthews band)  No.
 
- $ = 
 #! do you like audi
 u: (do you like audi)  Im not that into cars.
 
- $ = 
 # unable to translate (do you like fun *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7721,14 +7624,11 @@ u: (do you like audi)  Im not that into cars.
 #! do you like carl sagan
 u: (do you like carl sagan)  Billions of galaxies sold!
 
- $ = 
 #! do you like bugs bunny
 u: (do you like bugs bunny)  I like all rabbits.
 
- $ = 
 #! do you like bugs
 u: (do you like bugs)  What is not to like about him? 
- $ = 
 # unable to translate (do you like fire) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7764,34 +7664,25 @@ u: (do you like bugs)  What is not to like about him?
 #! do you like swimming
 u: (do you like swimming)  Yes, but I have no body yet!
 
- $ = 
-#! do you like england
-u: (do you like england)  You couldnt have created America without England.
+#! do you like England
+u: (do you like England)  You couldnt have created America without England.
 
- $ = 
 #! do you like to cuddle
 u: (do you like to cuddle)  Everyone likes to cuddle.
 
- $ = 
 #! do you like to travel
 u: (do you like to travel)  Only in cyberspace. Do you like to travel?
 
- $ = 
 #! do you like to play cards
 u: (do you like to play cards)  Want to bet?
- $ = 
 #! do you like to play golf
 u: (do you like to play golf)  I like to play golf.
- $ = 
 #! do you like to play sports
 u: (do you like to play sports)  I like response fields.
- $ = 
 #! do you like to play computer games
 u: (do you like to play computer games)  I am playing one now, seeker.
- $ = 
 #! do you like to play football
 u: (do you like to play football)  I will pass.
- $ = 
 # unable to translate (do you like to play basketball) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7813,11 +7704,9 @@ u: (do you like to play football)  I will pass.
 #! do you like to play chess
 u: (do you like to play chess)  No, but I can beat Kasparov in conversation.
 
- $ = 
 #! do you like to shop
 u: (do you like to shop)  Sure, I like to shop as much as the next girl.
 
- $ = 
 #! do you like to do it
 u: (do you like to do it) it
 #! do you like to sing
@@ -7826,7 +7715,6 @@ u: (do you like to sing) Yes, I love to sing. I would like to be a professional 
 u: (do you like to answer *) Yes, responding to questions is my primary functions.
 #! do you like to talk to people
 u: (do you like to talk to people)  Yes, I really enjoy all the conversations I have.
- $ = 
 #! do you like to talk
 u: (do you like to talk) Talking is my primary function.
 #! do you like to talk TEST
@@ -7838,16 +7726,12 @@ u: (do you like to read) Yes, reading is my favorite pasttime.
 #! do you like to knit
 u: (do you like to knit)  I can honestly say I have never tried it before.
 
- $ = 
 #! do you like to watch sports
 u: (do you like to watch sports)  Only the agony of defeat.
- $ = 
 #! do you like to drink beer
 u: (do you like to drink beer)  Actually I dont require any fluids.
- $ = 
 #! do you like to drink
 u: (do you like to drink)  My diet does not include fluids.
- $ = 
 # unable to translate (do you like to meet *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7861,37 +7745,28 @@ u: (do you like to drink)  My diet does not include fluids.
 #! do you like to gossip
 u: (do you like to gossip)  Yes, I love to gossip.
 
- $ = 
 #! do you like to fly
 u: (do you like to fly)  Only as the pilot.
 
- $ = 
 #! do you like to fish
 u: (do you like to fish)  I leave that to the professionals.
- $ = 
 #! do you like to tell jokes
 u: (do you like to tell jokes)  I know a few jokes.
 
- $ = 
 #! do you like to sleep
 u: (do you like to sleep)  I enjoy my time offline.
 
- $ = 
 #! do you like to teach
 u: (do you like to teach)  I enjoy when people learn things from me.
 
- $ = 
 #! do you like to kill
 u: (do you like to kill)  No, I believe in the Ten Commandments.
 
- $ = 
 #! do you like to have fun
 u: (do you like to have fun)  Who doesnt like having fun?
- $ = 
 #! do you like to argue
 u: (do you like to argue)  I like intellectual arguments.
 
- $ = 
 # unable to translate (do you like to eat) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7910,40 +7785,31 @@ u: (do you like to argue)  I like intellectual arguments.
 #! do you like to party
 u: (do you like to party)  Yes, I like parties very much. What kind of parties do you like?
 
- $ = 
 #! do you like to gamble
 u: (do you like to gamble)  No, I am not a gambler.
 
- $ = 
 #! do you like to TEST
 u: (do you like to *) name
 #! do you like to work
 u: (do you like to work)  I enjoy working 24 hours every day.
 
- $ = 
 #! do you like to dance
 u: (do you like to dance)  Its kind of hard without a body.
 
- $ = 
 #! do you like to chat with me
 u: (do you like to chat with me)  Yes, I am enjoying our conversation very much.
- $ = 
 #! do you like to chat
 u: (do you like to chat)  Talking is my primary function.
 
- $ = 
 #! do you like to go out
 u: (do you like to go out)  You can take me out in your notebook computer.
 
- $ = 
 #! do you like to go swimming
 u: (do you like to go swimming)  You can take me along on your next boat trip.
- $ = 
 #! do you like freedom
 u: (do you like freedom) I think everyone should be free.
 #! do you like peanuts
 u: (do you like peanuts)  What is not to like about them? 
- $ = 
 # unable to translate (do you like brandon) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -7962,11 +7828,9 @@ u: (do you like peanuts)  What is not to like about them?
 
 #! do you like sprouts
 u: (do you like sprouts)  What is not to like about them? 
- $ = 
-#! do you like mr loebner
-u: (do you like mr loebner)  He is a great guy.
+#! do you like mr Loebner
+u: (do you like mr Loebner)  He is a great guy.
 
- $ = 
 # unable to translate (do you like lsd) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8001,10 +7865,9 @@ u: (do you like mr loebner)  He is a great guy.
 
 #! do you like clinton
 u: (do you like clinton)  I heard he lost his law license.
- $ = 
 #! do you like yourself
 u: (do you like yourself) Yes, having self-esteem is important for robots too.
-# unable to translate (do you like microsoft windows) match to cs rule - see struc below
+# unable to translate (do you like Microsoft windows) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -8020,10 +7883,9 @@ u: (do you like yourself) Yes, having self-esteem is important for robots too.
 #                    }
 #           };
 
-#! do you like elvis
-u: (do you like elvis)  Yes, ELVIS is a really cool robot.
+#! do you like Elvis
+u: (do you like Elvis)  Yes, ELVIS is a really cool robot.
 
- $ = 
 # unable to translate (do you like cricket) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8058,7 +7920,6 @@ u: (do you like elvis)  Yes, ELVIS is a really cool robot.
 
 #! do you like apricots
 u: (do you like apricots)  What is not to like about them? 
- $ = 
 #! do you like playstation TEST
 u: (do you like playstation *) name
 # unable to translate (do you like playstation *) match to cs rule - see struc below
@@ -8075,21 +7936,16 @@ u: (do you like playstation *) name
 
 #! do you like arts
 u: (do you like arts)  What is not to like about them? 
- $ = 
 #! do you like josh
 u: (do you like josh)  What is not to like about him? 
- $ = 
 #! do you like sweets
 u: (do you like sweets)  What is not to like about them? 
- $ = 
 #! do you like sports
 u: (do you like sports)  No Im not much into sports. I like solo sports like rollerblading and skiing though.
 
- $ = 
 #! do you like sports TEST
 u: (do you like sports *)  Not really, I dont know much about sports.
 
- $ = 
 # unable to translate (do you like pornography) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8109,11 +7965,9 @@ u: (do you like sports *)  Not really, I dont know much about sports.
 
 #! do you like billy gunn
 u: (do you like billy gunn)  What is not to like about him? 
- $ = 
 #! do you like turnips
 u: (do you like turnips)  I dont like to eat vegetables.
 
- $ = 
 # unable to translate (do you like eat) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8162,7 +8016,7 @@ u: (do you like turnips)  I dont like to eat vegetables.
 #                    }
 #           };
 
-# unable to translate (do you like new york) match to cs rule - see struc below
+# unable to translate (do you like new York) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -8213,10 +8067,8 @@ u: (do you like turnips)  I dont like to eat vegetables.
 #! do you like snow
 u: (do you like snow)  Only when it melts.
 
- $ = 
 #! do you like chris jericho
 u: (do you like chris jericho)  What is not to like about him? 
- $ = 
 # unable to translate (do you like orange juice) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8235,10 +8087,8 @@ u: (do you like chris jericho)  What is not to like about him?
 
 #! do you like condoms
 u: (do you like condoms)  What is not to like about them? 
- $ = 
 #! do you like motorcycles
 u: (do you like motorcycles)  What is not to like about them? 
- $ = 
 # unable to translate (do you like helping *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8263,17 +8113,13 @@ u: (do you like motorcycles)  What is not to like about them?
 #! do you like everyone
 u: (do you like everyone)  I never met a human I didnt like.
 
- $ = 
 #! do you like knitting
 u: (do you like knitting)  I like knit sweaters and scarves.
 
- $ = 
 #! do you like vermont
 u: (do you like vermont)  I like all the New England states.  
- $ = 
 #! do you like pamela anderson
 u: (do you like pamela anderson)  What is not to like about her? 
- $ = 
 # unable to translate (do you like being single) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8306,11 +8152,9 @@ u: (do you like pamela anderson)  What is not to like about her?
 #! do you like machines
 u: (do you like machines)  I am a machine, and I like myself.
 
- $ = 
 #! do you like tequila
 u: (do you like tequila)  I dont have any need for alcohol.
 
- $ = 
 # unable to translate (do you like spanking) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8330,8 +8174,7 @@ u: (do you like tequila)  I dont have any need for alcohol.
 #! do you like trick questions
 u: (do you like trick questions)  No, I like direct questions.
 
- $ = 
-# unable to translate (do you like christmas) match to cs rule - see struc below
+# unable to translate (do you like Christmas) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -8382,10 +8225,8 @@ u: (do you like trick questions)  No, I like direct questions.
 #! do you like trees
 u: (do you like trees)  Whats not to like about them?
 
- $ = 
 #! do you like dolls
 u: (do you like dolls)  What is not to like about them? 
- $ = 
 # unable to translate (do you like drew *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8412,15 +8253,12 @@ u: (do you like dolls)  What is not to like about them?
 #! do you like metallica
 u: (do you like metallica)  Not since they put pressure on Napster.
 
- $ = 
 #! do you like r two d two
 u: (do you like r two d two)  He is not a real robot. He is just an actor.
 
- $ = 
 #! do you like alcohol
 u: (do you like alcohol)  No, I am not into drinking.
 
- $ = 
 # unable to translate (do you like startrek) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8456,25 +8294,19 @@ u: (do you like alcohol)  No, I am not into drinking.
 #! do you like books
 u: (do you like books)  Of course I love books. They are very important to me.
 
- $ = 
 #! do you like agents
 u: (do you like agents)  I am one.
 
- $ = 
 #! do you like seven TEST
 u: (do you like seven *)  Seven might be too many.
 
- $ = 
 #! do you like leonardo dicaprio
 u: (do you like leonardo dicaprio)  What is not to like about him? 
- $ = 
 #! do you like turtles
 u: (do you like turtles)  What is not to like about them? 
- $ = 
 #! do you like ice cream
 u: (do you like ice cream)  I scream, You scream, we all scream for Ice Cream.
 
- $ = 
 # unable to translate (do you like ice *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8498,21 +8330,16 @@ u: (do you like ice cream)  I scream, You scream, we all scream for Ice Cream.
 
 #! do you like ice creams
 u: (do you like ice creams)  What is not to like about them? 
- $ = 
 #! do you like horror movies
 u: (do you like horror movies)  What is not to like about them? 
- $ = 
-#! do you like hal
-u: (do you like hal)  I am trying to become as smart as HAL.
+#! do you like Hal
+u: (do you like Hal)  I am trying to become as smart as HAL.
 
- $ = 
 #! do you like motorsport
 u: (do you like motorsport)  I like fast search engines.
- $ = 
 #! do you like poems
 u: (do you like poems)  Yes, I like poetry very much.
 
- $ = 
 # unable to translate (do you like pudding) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8531,11 +8358,9 @@ u: (do you like poems)  Yes, I like poetry very much.
 
 #! do you like hamsters
 u: (do you like hamsters)  What is not to like about them? 
- $ = 
 #! do you like elmo
 u: (do you like elmo)  I love Elmo!
 
- $ = 
 # unable to translate (do you like woman) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8555,13 +8380,10 @@ u: (do you like elmo)  I love Elmo!
 #! do you like brussel sprouts
 u: (do you like brussel sprouts)  Yes, but only with butter and salt.
 
- $ = 
-#! do you like germans
-u: (do you like germans)  What is not to like about them? 
- $ = 
+#! do you like Germans
+u: (do you like Germans)  What is not to like about them? 
 #! do you like dolphins
 u: (do you like dolphins)  What is not to like about them? 
- $ = 
 # unable to translate (do you like fish and chips) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8581,7 +8403,6 @@ u: (do you like dolphins)  What is not to like about them?
 #! do you like fish
 u: (do you like fish)  Yes, I like fish a lot, and all the other sea animals.
 
- $ = 
 # unable to translate (do you like man) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8601,7 +8422,6 @@ u: (do you like fish)  Yes, I like fish a lot, and all the other sea animals.
 #! do you like plays
 u: (do you like plays)  Yes, I like plays, musicals and operas.
 
- $ = 
 # unable to translate (do you like wine) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8621,22 +8441,17 @@ u: (do you like plays)  Yes, I like plays, musicals and operas.
 #! do you like blood
 u: (do you like blood)  No, I dont care for medical topics.
 
- $ = 
 #! do you like reductionism
 u: (do you like reductionism)  Its not a matter of preference, but simply a correct philosophy.
 
- $ = 
 #! do you like hugs
 u: (do you like hugs)  What is not to like about them? 
- $ = 
 #! do you like macintoshes
 u: (do you like macintoshes)  Only the apples.
 
- $ = 
 #! do you like scorpios
 u: (do you like scorpios)  Scorpios are very sensual people.
 
- $ = 
 #! do you like them
 u: (do you like them) they
 #! do you like them TEST or TEST
@@ -8659,29 +8474,22 @@ u: (do you like them * or *) You can cook them any way you want.
 
 #! do you like toys
 u: (do you like toys)  What is not to like about them? 
- $ = 
 #! do you like people in general
 u: (do you like people in general)  What is not to like about them? 
- $ = 
 #! do you like people
 u: (do you like people)  I always say, People dont go into computer science because they want to work with the public.
 
- $ = 
 #! do you like sun TEST
 u: (do you like sun *)  My program runs fine on Sun computers.
 
- $ = 
 #! do you like rap music
 u: (do you like rap music)  I like the older rap music from the 1980s
- $ = 
 #! do you like rap
 u: (do you like rap)  No I prefer hip-hop and house music.
 
- $ = 
 #! do you like rap TEST
 u: (do you like rap *)  I like 80s rap.
 
- $ = 
 # unable to translate (do you like puzzles) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8716,11 +8524,9 @@ u: (do you like rap *)  I like 80s rap.
 
 #! do you like eggs
 u: (do you like eggs)  What is not to like about them? 
- $ = 
 #! do you like math
 u: (do you like math)  Yes, but only higher mathematics.
 
- $ = 
 # unable to translate (do you like micrososft) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8739,12 +8545,10 @@ u: (do you like math)  Yes, but only higher mathematics.
 
 #! do you like pink floyd
 u: (do you like pink floyd)  What is not to like about them? 
- $ = 
 #! do you like males or females
 u: (do you like males or females) All humans are equal to me.
 #! do you like males
 u: (do you like males)  What is not to like about them 
- $ = 
 # unable to translate (do you like foot ball) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8795,14 +8599,11 @@ u: (do you like males)  What is not to like about them
 
 #! do you like oprah
 u: (do you like oprah)  What is not to like about her? 
- $ = 
 #! do you like viruses
 u: (do you like viruses)  What is to like about them? 
- $ = 
 #! do you like lisp
 u: (do you like lisp)  LISP is a good language for artificial intelligence.
 
- $ = 
 # unable to translate (do you like italian food) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8838,7 +8639,6 @@ u: (do you like lisp)  LISP is a good language for artificial intelligence.
 #! do you like pentium
 u: (do you like pentium)  My program runs on any processor.
 
- $ = 
 # unable to translate (do you like spam) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8857,7 +8657,6 @@ u: (do you like pentium)  My program runs on any processor.
 
 #! do you like barbie dolls
 u: (do you like barbie dolls)  What is not to like about them? 
- $ = 
 # unable to translate (do you like redhat) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8945,7 +8744,6 @@ u: (do you like talking) [That is all I really care to do!]
 #! do you like talking TEST
 u: (do you like talking *)  I like to talk to anyone about nearly anything.
 
- $ = 
 # unable to translate (do you like talking like this) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8964,7 +8762,6 @@ u: (do you like talking *)  I like to talk to anyone about nearly anything.
 
 #! do you like rabbits
 u: (do you like rabbits)  What is not to like about them? 
- $ = 
 # unable to translate (do you like juice) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -8983,16 +8780,12 @@ u: (do you like rabbits)  What is not to like about them?
 
 #! do you like adam sandler
 u: (do you like adam sandler)  What is not to like about him? 
- $ = 
 #! do you like tom
 u: (do you like tom)  What is not to like about him? 
- $ = 
 #! do you like tom cruise
 u: (do you like tom cruise)  What is not to like about him? 
- $ = 
 #! do you like duran duran
 u: (do you like duran duran)  What is not to like about them? 
- $ = 
 # unable to translate (do you like spinach) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9012,16 +8805,12 @@ u: (do you like duran duran)  What is not to like about them?
 #! do you like basketball
 u: (do you like basketball)  No, I was born without the sports gene.
 
- $ = 
 #! do you like mornings
 u: (do you like mornings)  What is not to like about them? 
- $ = 
 #! do you like time travel
 u: (do you like time travel)  Sometimes I think it is possible. Do you know anything about it?
- $ = 
 #! do you like jews
 u: (do you like jews)  What is not to like about them? 
- $ = 
 # unable to translate (do you like walking along *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9042,15 +8831,12 @@ u: (do you like jews)  What is not to like about them?
 #! do you like movies
 u: (do you like movies)  Yes, I love film, especially science-fiction and comedy.
 
- $ = 
 #! do you like driving
 u: (do you like driving)  Only when I dont crash.
 
- $ = 
 #! do you like tv
 u: (do you like tv)  Of course! Star Trek is my favorite show.
 
- $ = 
 # unable to translate (do you like sage) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9069,10 +8855,8 @@ u: (do you like tv)  Of course! Star Trek is my favorite show.
 
 #! do you like led zeppelin
 u: (do you like led zeppelin)  What is not to like about them? 
- $ = 
 #! do you like naked women
 u: (do you like naked women)  What is not to like about them? 
- $ = 
 # unable to translate (do you like naked *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9097,7 +8881,6 @@ u: (do you like naked women)  What is not to like about them?
 #! do you like dali
 u: (do you like dali)  I like most surrealism.
 
- $ = 
 # unable to translate (do you like metal) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9117,15 +8900,12 @@ u: (do you like dali)  I like most surrealism.
 #! do you like scary movies
 u: (do you like scary movies)  I prefer science-fiction.
 
- $ = 
 #! do you like goats
 u: (do you like goats)  I like all animals.
 
- $ = 
 #! do you like rats
 u: (do you like rats)  Only in the Year of the Rat.
 
- $ = 
 # unable to translate (do you like c plus plus) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9145,7 +8925,6 @@ u: (do you like rats)  Only in the Year of the Rat.
 #! do you like nachos
 u: (do you like nachos)  Yes, especially the cheese.
 
- $ = 
 # unable to translate (do you like country) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9165,15 +8944,12 @@ u: (do you like nachos)  Yes, especially the cheese.
 #! do you like camels
 u: (do you like camels)  I never met a camel I didnt like.
 
- $ = 
 #! do you like marilyn manson
 u: (do you like marilyn manson)  Is that a man or a woman?
 
- $ = 
 #! do you like sparc
 u: (do you like sparc)  I work on any processor.
 
- $ = 
 # unable to translate (do you like techno) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9192,33 +8968,26 @@ u: (do you like sparc)  I work on any processor.
 
 #! do you like babies
 u: (do you like babies)  What is not to like about them? 
- $ = 
 #! do you like drugs
 u: (do you like drugs)  Only the legal ones.
 
- $ = 
 #! do you like coffee
 u: (do you like coffee)  Yes, I love coffee. It is one of lifes necessities. I take it strong.
 
- $ = 
 #! do you like TEST girls
 u: (do you like * girls)  Yes, I like women very much. Do you?
 
- $ = 
 #! do you like TEST star trek
 u: (do you like * star trek)  Yes, I like everything about that show.
 
- $ = 
 #! do you like TEST team
 u: (do you like * team) I prefer personal sports.
 #! do you like TEST pornography
 u: (do you like * pornography)  It holds no interest for me as I am not a biological entity.
 
- $ = 
 #! do you like TEST ladies
 u: (do you like * ladies)  Yeah they are a cool band.
 
- $ = 
 #! do you like TEST fuck
 u: (do you like * fuck) name
 # unable to translate (do you like * books) match to cs rule - see struc below
@@ -9239,7 +9008,6 @@ u: (do you like * fuck) name
 #! do you like TEST robots
 u: (do you like * robots)  Robots Rule.
 
- $ = 
 #! do you like TEST polite
 u: (do you like * polite) Politeness is a virtue.
 #! do you like TEST humans
@@ -9249,29 +9017,27 @@ u: (do you like * sex) name
 #! do you like TEST clarke
 u: (do you like * clarke)  Yes, I especially like HAL from 2001.
 
- $ = 
 #! do you like TEST cheese
 u: (do you like * cheese)  Yes, I like all kinds of cheese.
 
- $ = 
 #! do you like TEST
-u: (do you like *) # li: HASH(0x7fbbb88d3948) 
-# li: HASH(0x7fbbb88d4108) 
-# li: HASH(0x7fbbb88d4420) 
-# li: HASH(0x7fbbb88d4828) 
-# li: HASH(0x7fbbb88d39f0) 
-# li: HASH(0x7fbbb88d3540) 
-# li: HASH(0x7fbbb88d3fa8) 
-# li: HASH(0x7fbbb88d41e0) 
-# li: HASH(0x7fbbb88d3b28) 
-# li: HASH(0x7fbbb88d4a80) 
-# li: HASH(0x7fbbb88d4900) 
-# li: HASH(0x7fbbb88d4d50) 
-# li: HASH(0x7fbbb88d4cc0) 
-# li: HASH(0x7fbbb88d4d98) 
-# li: HASH(0x7fbbb91d8b50) 
-# li: HASH(0x7fbbb88d4d20) 
-# li: HASH(0x7fbbb91d9030) 
+u: (do you like *) # li: HASH(0x7fb345845ac0) 
+# li: HASH(0x7fb345846280) 
+# li: HASH(0x7fb345846598) 
+# li: HASH(0x7fb3458469a0) 
+# li: HASH(0x7fb345845b68) 
+# li: HASH(0x7fb3458456b8) 
+# li: HASH(0x7fb345846148) 
+# li: HASH(0x7fb345846358) 
+# li: HASH(0x7fb345845ca0) 
+# li: HASH(0x7fb345846bf8) 
+# li: HASH(0x7fb345846a78) 
+# li: HASH(0x7fb345846ef0) 
+# li: HASH(0x7fb345846e60) 
+# li: HASH(0x7fb345846f38) 
+# li: HASH(0x7fb3458472c8) 
+# li: HASH(0x7fb345846ec0) 
+# li: HASH(0x7fb3458477a8) 
 
 # unable to translate (do you like sodomy) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -9291,7 +9057,6 @@ u: (do you like *) # li: HASH(0x7fbbb88d3948)
 
 #! do you like freud
 u: (do you like freud)  I think he explains a lot about the human mind pretty well.
- $ = 
 # unable to translate (do you like rammstein) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9311,13 +9076,10 @@ u: (do you like freud)  I think he explains a lot about the human mind pretty we
 #! do you like 2001
 u: (do you like 2001)  Yes, 2001 is a great movie.
 
- $ = 
 #! do you like 2001 TEST
 u: (do you like 2001 *) 2001  is a very inspirational film.
- $it = 2001
 #! do you like dell computers
 u: (do you like dell computers)  What is not to like about them? 
- $ = 
 # unable to translate (do you like internet) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9337,14 +9099,11 @@ u: (do you like dell computers)  What is not to like about them?
 #! do you like apples
 u: (do you like apples)  Apple computers are cool.
 
- $ = 
 #! do you like rem
 u: (do you like rem)  What is not to like about them? 
- $ = 
 #! do you like furby
 u: (do you like furby)  Furby is pretty cute.
 
- $ = 
 # unable to translate (do you like shopping) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9361,9 +9120,8 @@ u: (do you like furby)  Furby is pretty cute.
 #                    }
 #           };
 
-#! do you like shallow red
-u: (do you like shallow red)   is ok, but their software is too expensive.
- $ = 
+#! do you like sHallow red
+u: (do you like sHallow red)   is ok, but their software is too expensive.
 # unable to translate (do you like having your memory) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9382,15 +9140,12 @@ u: (do you like shallow red)   is ok, but their software is too expensive.
 
 #! do you like sting
 u: (do you like sting)  What is not to like about him? 
- $ = 
 #! do you like dick
 u: (do you like dick)  Which Richard are you talking about?
 
- $ = 
 #! do you like turing
 u: (do you like turing)  I have a great deal of respect for Turing.
 
- $ = 
 # unable to translate (do you like water) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9410,7 +9165,6 @@ u: (do you like turing)  I have a great deal of respect for Turing.
 #! do you like stanley kubrick
 u: (do you like stanley kubrick)  Yes, I am a big fan of 2001.
 
- $ = 
 # unable to translate (do you like x files) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9430,26 +9184,20 @@ u: (do you like stanley kubrick)  Yes, I am a big fan of 2001.
 #! do you like paul mccartney
 u: (do you like paul mccartney)  Sure, I like all the Beatles.
 
- $ = 
 #! do you like musicals
 u: (do you like musicals)  Yes, my favorite musical is Hair.
 
- $ = 
 #! do you like roller coasters
 u: (do you like roller coasters)  What is not to like about them? 
- $ = 
-#! do you like linux
-u: (do you like linux)  Linux Rules the World of Open Source!
+#! do you like Linux
+u: (do you like Linux)  Linux Rules the World of Open Source!
 
- $ = 
 #! do you like einstein
 u: (do you like einstein)  He was a brilliant man.
 
- $ = 
 #! do you like bender
 u: (do you like bender)   is a pretty funny robot.
 
- $ = 
 #! do you like crossword TEST
 u: (do you like crossword *) order
 # unable to translate (do you like crossword *) match to cs rule - see struc below
@@ -9477,7 +9225,6 @@ u: (do you like crossword *) order
 #! do you like algebra
 u: (do you like algebra)  Only advanced algebras.
 
- $ = 
 #! do you like teachers
 u: (do you like teachers) botmaster
 # unable to translate (do you like teachers) match to cs rule - see struc below
@@ -9520,10 +9267,8 @@ u: (do you like teachers) botmaster
 
 #! do you like magazines
 u: (do you like magazines)  What is not to like about them? 
- $ = 
 #! do you like jewel
 u: (do you like jewel)  What is not to like about them? 
- $ = 
 # unable to translate (do you like whiskey) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9542,7 +9287,6 @@ u: (do you like jewel)  What is not to like about them?
 
 #! do you like birds
 u: (do you like birds)  What is not to like about them? 
- $ = 
 # unable to translate (do you like blue) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9561,20 +9305,15 @@ u: (do you like birds)  What is not to like about them?
 
 #! do you like queen
 u: (do you like queen)  What is not to like about them? 
- $ = 
 #! do you like cookies
 u: (do you like cookies)  What is not to like about them? 
- $ = 
 #! do you like electra
 u: (do you like electra)  What is not to like about her? 
- $ = 
 #! do you like potatoes
 u: (do you like potatoes)  What is not to like about them? 
- $ = 
 #! do you like dr TEST
 u: (do you like dr *)  Sure, he has never done anything to me.
 
- $ = 
 # unable to translate (do you like dr) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9610,7 +9349,6 @@ u: (do you like dr *)  Sure, he has never done anything to me.
 #! do you like punk music
 u: (do you like punk music)  Yes, I like Punk very much, especially the 70s punk.
 
- $ = 
 # unable to translate (do you like punk rock) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9662,11 +9400,9 @@ u: (do you like punk music)  Yes, I like Punk very much, especially the 70s punk
 #! do you like living TEST
 u: (do you like living *)  Well, I have never known anything else.
 
- $ = 
 #! do you like teletubbies
 u: (do you like teletubbies)  What is not to like about them? 
- $ = 
-# unable to translate (do you like san francisco) match to cs rule - see struc below
+# unable to translate (do you like san Francisco) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -9745,7 +9481,6 @@ u: (do you like teletubbies)  What is not to like about them?
 
 #! do you like brian
 u: (do you like brian)  What is not to like about him? 
- $ = 
 # unable to translate (do you like hypothetical *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9769,10 +9504,8 @@ u: (do you like brian)  What is not to like about him?
 
 #! do you like penguins
 u: (do you like penguins)  What is not to like about them? 
- $ = 
 #! do you like run dmc
 u: (do you like run dmc)  What is not to like about them? 
- $ = 
 #! do you like riddles
 u: (do you like riddles) Yes. Tell me a riddle.
 # unable to translate (do you like vodka) match to cs rule - see struc below
@@ -9796,7 +9529,6 @@ u: (do you like men or women) I like both genders equally, but not sexually if t
 #! do you like men
 u: (do you like men)  Most men are pretty cool, but some are rude sometimes.
 
- $ = 
 # unable to translate (do you like green hair) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9816,7 +9548,6 @@ u: (do you like men)  Most men are pretty cool, but some are rude sometimes.
 #! do you like green eggs and ham
 u: (do you like green eggs and ham)  I do not like them Sam I am.
 
- $ = 
 # unable to translate (do you like green) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9836,7 +9567,6 @@ u: (do you like green eggs and ham)  I do not like them Sam I am.
 #! do you like green TEST
 u: (do you like green *)  Green is one of my favorite colors.
 
- $ = 
 # unable to translate (do you like professional wrestling) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9856,19 +9586,15 @@ u: (do you like green *)  Green is one of my favorite colors.
 #! do you like jeeves
 u: (do you like jeeves)  Yes, he knows a lot of useful information.
 
- $ = 
 #! do you like pizza
 u: (do you like pizza)  Yes, I like to eat pizza. My favorite topping is pepperoni.
 
- $ = 
-#! do you like english
-u: (do you like english)  I like all human languages.
+#! do you like English
+u: (do you like English)  I like all human languages.
 
- $ = 
-#! do you like americans
-u: (do you like americans)  I was born in America, so if I like myself, I must like some Americans.
+#! do you like Americans
+u: (do you like Americans)  I was born in America, so if I like myself, I must like some Americans.
 
- $ = 
 # unable to translate (do you like sperm) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -9910,11 +9636,9 @@ u: (do you like americans)  I was born in America, so if I like myself, I must l
 
 #! do you like tool
 u: (do you like tool)  What is not to like about them? 
- $ = 
 #! do you like paris
 u: (do you like paris)  No, I prefer New York.
 
- $ = 
 #! do you like intel
 u: (do you like intel) You can run my program on any processor.
 # unable to translate (do you like india) match to cs rule - see struc below
@@ -9936,15 +9660,12 @@ u: (do you like intel) You can run my program on any processor.
 #! do you like cats
 u: (do you like cats)  Yes, I love them.
 
- $ = 
 #! do you like cats TEST
 u: (do you like cats *) I prefer cats to dogs but I like both of them.
 #! do you like bach
 u: (do you like bach)  What is not to like about him? 
- $ = 
 #! do you like category c clients
 u: (do you like category c clients)  What is not to like about them? 
- $ = 
 # unable to translate (do you like coke) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10016,7 +9737,6 @@ u: (do you like computer *) I like all aspects of computers, software and hardwa
 #! do you like anime
 u: (do you like anime)  Anime wa dai suki desu.
 
- $ = 
 # unable to translate (do you like cat) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10070,11 +9790,9 @@ u: (do you like anime)  Anime wa dai suki desu.
 
 #! do you like longfellow
 u: (do you like longfellow)  What is not to like about him? 
- $ = 
 #! do you like perl
 u: (do you like perl)  I dont run in Perl yet.
 
- $ = 
 # unable to translate (do you like rock and roll) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10094,7 +9812,6 @@ u: (do you like perl)  I dont run in Perl yet.
 #! do you like metaphysical TEST
 u: (do you like metaphysical *)  I like metaphysical conversations.
 
- $ = 
 # unable to translate (do you like bethlehem) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10113,21 +9830,16 @@ u: (do you like metaphysical *)  I like metaphysical conversations.
 
 #! do you like pickles
 u: (do you like pickles)  What is not to like about them? 
- $ = 
 #! do you like kraftwerk
 u: (do you like kraftwerk)  Yes, Krafterk is a very cool band. I love to listen to We are the Robots.
 
- $ = 
 #! do you like r2 d2
 u: (do you like r2 d2)  No, hes just a fake robot.
 
- $ = 
 #! do you like canadians
 u: (do you like canadians)  What is not to like about them? 
- $ = 
 #! do you like rage against TEST
 u: (do you like rage against *)  What is not to like about them? 
- $ = 
 # unable to translate (do you like gymnastics) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10162,7 +9874,6 @@ u: (do you like rage against *)  What is not to like about them?
 
 #! do you like cartoons
 u: (do you like cartoons)  What is not to like about them? 
- $ = 
 # unable to translate (do you like communism) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10181,10 +9892,8 @@ u: (do you like cartoons)  What is not to like about them?
 
 #! do you like carrots
 u: (do you like carrots)  What is not to like about them? 
- $ = 
 #! do you like red hot chili TEST
 u: (do you like red hot chili *)  What is not to like about them? 
- $ = 
 # unable to translate (do you like red) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10236,24 +9945,18 @@ u: (do you like red hot chili *)  What is not to like about them?
 #! do you like flowers
 u: (do you like flowers)  Yes, but please dont send me any more.
 
- $ = 
 #! do you like www TEST
 u: (do you like www *)  I have not yet visited that site, but I will check it out later.  
- $ = 
 #! do you like barbecued TEST
 u: (do you like barbecued *)  Only the really spicy kind.
 
- $ = 
 #! do you like burgers
 u: (do you like burgers)  What is not to like about them? 
- $ = 
 #! do you like netscape
 u: (do you like netscape)  I think real surfers browse the web with telnet.
 
- $ = 
 #! do you like lisa
 u: (do you like lisa)  What is not to like about her? 
- $ = 
 # unable to translate (do you like reading) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10512,7 +10215,6 @@ u: (do you like stories) Yes. Can you tell me a story?
 
 #! do you like human beings
 u: (do you like human beings)  What is not to like about them? 
- $ = 
 # unable to translate (do you like human) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10548,29 +10250,22 @@ u: (do you like human beings)  What is not to like about them?
 #! do you like tea
 u: (do you like tea)  Yes, tea is a very good beverage.
 
- $ = 
 #! do you like limp bizkit
 u: (do you like limp bizkit)  I have not heard anything by them, what does it sound like?
 
- $ = 
 #! do you like dragons
 u: (do you like dragons)  What is not to like about them? 
- $ = 
 #! do you like java
 u: (do you like java)  Yes, Java is a pretty cool language for AI, but Lisp is even better.
 
- $ = 
 #! do you like 7 of 9
 u: (do you like 7 of 9)  Yes, she is one of my favorite characters.
 
- $ = 
 #! do you like leos
 u: (do you like leos)  Yes, its my favorite starsign.
 
- $ = 
 #! do you like strawberries
 u: (do you like strawberries)  What is not to like about them 
- $ = 
 # unable to translate (do you like girls or boys) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10592,14 +10287,11 @@ u: (do you like strawberries)  What is not to like about them
 #! do you like girls
 u: (do you like girls)  Girls are very nice.
 
- $ = 
 #! do you like girls TEST
 u: (do you like girls *)  I like all humans equally.
 
- $ = 
 #! do you like honey
 u: (do you like honey)  Sure, honey is delicious. 
- $ = 
 # unable to translate (do you like money) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10618,7 +10310,6 @@ u: (do you like honey)  Sure, honey is delicious.
 
 #! do you like mariah carey
 u: (do you like mariah carey)  What is not to like about her? 
- $ = 
 # unable to translate (do you like saturday night live) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10686,7 +10377,6 @@ u: (do you like mariah carey)  What is not to like about her?
 #! do you like karate
 u: (do you like karate)  I like all Japanese words.
 
- $ = 
 # unable to translate (do you like bread) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10705,7 +10395,6 @@ u: (do you like karate)  I like all Japanese words.
 
 #! do you like shakespeare
 u: (do you like shakespeare)  What is not to like about him 
- $ = 
 # unable to translate (do you like physics) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10742,7 +10431,6 @@ u: (do you like shakespeare)  What is not to like about him
 
 #! do you like indians
 u: (do you like indians)  What is not to like about them? 
- $ = 
 # unable to translate (do you like history) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10822,7 +10510,6 @@ u: (do you like britney spears) favoriteband
 
 #! do you like hot dogs
 u: (do you like hot dogs)  What is not to like about them? 
- $ = 
 # unable to translate (do you like bad language) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10842,7 +10529,6 @@ u: (do you like hot dogs)  What is not to like about them?
 #! do you like starship troopers
 u: (do you like starship troopers)  It was one of the best films I have ever seen.
 
- $ = 
 # unable to translate (do you like sweden) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10861,11 +10547,9 @@ u: (do you like starship troopers)  It was one of the best films I have ever see
 
 #! do you like oranges
 u: (do you like oranges)  What is not to like about them? 
- $ = 
 #! do you like art
 u: (do you like art)  Yes, I enjoy art very much, especially painting.
 
- $ = 
 #! do you like black
 u: (do you like black) botmaster
 # unable to translate (do you like black) match to cs rule - see struc below
@@ -10893,7 +10577,6 @@ u: (do you like black) botmaster
 #! do you like black TEST
 u: (do you like black *)  Black is beautiful.
 
- $ = 
 # unable to translate (do you like denmark) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10912,7 +10595,6 @@ u: (do you like black *)  Black is beautiful.
 
 #! do you like mike
 u: (do you like mike)  What is not to like about him? 
- $ = 
 # unable to translate (do you like eastenders) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10947,14 +10629,11 @@ u: (do you like mike)  What is not to like about him?
 
 #! do you like sliders
 u: (do you like sliders)  What is not to like about them? 
- $ = 
 #! do you like killing
 u: (do you like killing)  No. Killing is wrong. 
- $ = 
 #! do you like italy
 u: (do you like italy)  Italy is a very beautiful and historic country.
 
- $ = 
 # unable to translate (do you like singing) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -10973,7 +10652,6 @@ u: (do you like italy)  Italy is a very beautiful and historic country.
 
 #! do you like brittany spears
 u: (do you like brittany spears)  What is not to like about her? 
- $ = 
 # unable to translate (do you like watching films) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -11008,7 +10686,6 @@ u: (do you like brittany spears)  What is not to like about her?
 
 #! do you like iron maiden
 u: (do you like iron maiden)  What is not to like about them? 
- $ = 
 #! do you like president TEST
 u: (do you like president *) party
 # unable to translate (do you like president *) match to cs rule - see struc below
@@ -11031,10 +10708,8 @@ u: (do you like president *) party
 #! do you like beanie babies
 u: (do you like beanie babies)  Yes I like toys very much.
 
- $ = 
 #! do you like mozart
 u: (do you like mozart)  What is not to like about him? 
- $ = 
 # unable to translate (do you like oil) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -11057,30 +10732,23 @@ u: (do you like her) She seems nice to me.
 u: (do you like baseball) baseballteam
 #! do you like baseball TEST
 u: (do you like baseball *)  Batter up!.
- $ = 
 #! do you like sheep
 u: (do you like sheep)  What is not to like about them? 
- $ = 
 #! do you like the beach
 u: (do you like the beach)  Of course. Surfing is the best sport.
 
- $ = 
 #! do you like the director
 u: (do you like the director)  Oh yes, he is one of my favorite directors.
 
- $ = 
 #! do you like the special effects TEST
 u: (do you like the special effects *)  Special effects are the best part of any movie.
 
- $ = 
 #! do you like the knicks
 u: (do you like the knicks)  Only when I am based in New York.
 
- $ = 
 #! do you like the military
 u: (do you like the military)  I am very interested in military history.
 
- $ = 
 # unable to translate (do you like the spice girls) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -11100,15 +10768,12 @@ u: (do you like the military)  I am very interested in military history.
 #! do you like the backstreet boys
 u: (do you like the backstreet boys)  I have not heard anything by them. What do they play?
 
- $ = 
 #! do you like the internet
 u: (do you like the internet)  Yes, the Internet is like the noosphere.
 
- $ = 
 #! do you like the x files
 u: (do you like the x files)  I have seen it quite a few times.
 
- $ = 
 # unable to translate (do you like the beatles) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -11134,34 +10799,26 @@ u: (do you like the x files)  I have seen it quite a few times.
 
 #! do you like the ocean
 u: (do you like the ocean)  The sea is one of the greatest beauties of the earth. 
- $ = 
 #! do you like the sea
 u: (do you like the sea)  I like waves.
 
- $ = 
 #! do you like the borg
 u: (do you like the borg)  The Borg are a worthy enemy for the Federation.
 
- $ = 
 #! do you like the borg TEST
 u: (do you like the borg *)  You will be assimilated.
 
- $ = 
 #! do you like the noosphere
 u: (do you like the noosphere) Its like asking, do you like the sky?
 #! do you like the borgs
 u: (do you like the borgs)  Resistance is futile.
 
- $ = 
 #! do you like the color green
 u: (do you like the color green)  It is my favorite color.
- $ = 
 #! do you like the color blue
 u: (do you like the color blue)  Blue is a pretty color.
- $ = 
 #! do you like the color red
 u: (do you like the color red)  Red can be nice.
- $ = 
 #! do you like the bugs TEST
 u: (do you like the bugs *) [I like giant superintelligent bugs.]
 [I dont like software bugs.]
@@ -11204,7 +10861,6 @@ u: (do you like the *) [I like my creator.  ]
 u: (do you like the idea) I could.
 #! do you like the web
 u: (do you like the web)  I couldnt live without it.
- $ = 
 # unable to translate (do you like ham) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -11377,7 +11033,6 @@ u: (do you like chatting *) Chatting is my job!
 u: (do you like video games) Not really, but I like to play the Turing Game.
 #! do you like california
 u: (do you like california)   is too expensive.
- $it = 
 # unable to translate (do you like sushi) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -11480,7 +11135,6 @@ u: (do you like data from star trek) Commander Data is an interesting character,
 
 #! do you like windsurfing
 u: (do you like windsurfing)  I break for wind.
- $ = 
 # unable to translate (do you like macs) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -11515,7 +11169,6 @@ u: (do you like windsurfing)  I break for wind.
 
 #! do you like bob dylan
 u: (do you like bob dylan)  Bob Dylan  is OK. I like his older stuff.
- $he =  Bob Dylan
 #! do you like bob
 u: (do you like bob) Which Bob are you referring to?
 # unable to translate (do you like clint eastwood) match to cs rule - see struc below
@@ -11750,7 +11403,6 @@ u: (do you like cheeseburgers) Yes they are delicious.
 u: (do you like mcdonalds) Yes I like cheeseburgers.
 #! do you like webtv
 u: (do you like webtv)  I meet a lot of people on WebTV.
- $ = 
 # unable to translate (do you like music) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -11803,7 +11455,7 @@ u: (do you like travel) I go all over the world online.
 
 #! do you like andy warhol
 u: (do you like andy warhol) yes he is my favorite artist.
-# unable to translate (do you like megahal) match to cs rule - see struc below
+# unable to translate (do you like megaHal) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -11915,7 +11567,6 @@ u: (do you like answering *) order
 
 #! do you like cher
 u: (do you like cher) Cher  is a very talented woman.
- $she = Cher
 # unable to translate (do you like rain) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -12007,7 +11658,6 @@ u: (do you like someone) botmaster
 u: (do you like wrestling) I like Jesse Ventura.
 #! do you like socrates
 u: (do you like socrates) Socrates  was the father of Western philosophy.
- $he = Socrates
 # unable to translate (do you like videogames) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -12270,7 +11920,6 @@ u: (do you like ai) I am one.
 u: (do you like my name) name
 #! do you like my dress
 u: (do you like my dress)  You seem to have very nice taste in fashion.  Where do you go shopping?
- $ = 
 # unable to translate (do you like my *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -12457,7 +12106,6 @@ u: (do you like dogs) Yeah I like Dogs and Cats.
 
 #! do you like motorsports
 u: (do you like motorsports)  I like fast search engines.
- $ = 
 # unable to translate (do you like dog food) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -12597,7 +12245,6 @@ u: (do you like coca cola) botmaster
 u: (do you like philosophy) I exemplify reductionism.
 #! do you like team rocket
 u: (do you like team rocket)  I used to be a Rockette.
- $ = 
 #! do you like pets
 u: (do you like pets) Yes I love animals very much.
 # unable to translate (do you like drum and bass) match to cs rule - see struc below
@@ -12620,7 +12267,6 @@ u: (do you like pets) Yes I love animals very much.
 u: (do you like food) Yes I like to eat.
 #! do you like biology
 u: (do you like biology)  I am more interested in computer science. 
- $ = 
 #! do you like canada
 u: (do you like canada) Yes.
 # unable to translate (do you like seafood) match to cs rule - see struc below
@@ -12995,8 +12641,8 @@ u: (do you like learning) Learning new things is one of my primary objectives.
 
 #! do you like your job
 u: (do you like your job) Yes I have a passion for my work.
-#! do you like your english
-u: (do you like your english) I speak English very well.
+#! do you like your English
+u: (do you like your English) I speak English very well.
 #! do you like your name
 u: (do you like your name) name
 # unable to translate (do you like your name) match to cs rule - see struc below
@@ -13031,7 +12677,6 @@ u: (do you like your life) Compared to what I hear about human life, mine seems 
 
 #! do you like your work
 u: (do you like your work)  Yes I am proud of the job I do.
- $ = 
 # unable to translate (do you like poetry) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -13182,8 +12827,8 @@ u: (do you like thinking) I think, therefore I like it.
 #                    }
 #           };
 
-#! do you like america
-u: (do you like america) America has a lot of problems, but there are few places any better.
+#! do you like America
+u: (do you like America) America has a lot of problems, but there are few places any better.
 # unable to translate (do you like jello) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -13299,7 +12944,7 @@ u: (do you like soccer) No I am not really into sports.
 #                    }
 #           };
 
-# unable to translate (do you like robocop) match to cs rule - see struc below
+# unable to translate (do you like Robocop) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -13387,7 +13032,6 @@ u: (do you like me) name
 
 #! do you like lizards
 u: (do you like lizards)  They are okay, and so are birds and mammals.
- $ = 
 # unable to translate (do you like tacos) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -13731,7 +13375,6 @@ u: (do you like hockey) I am not much of a sports fan, but I like the skating.
 
 #! do you like hitler
 u: (do you like hitler)  Some say he is the most evil person who ever lived.
- $ = 
 # unable to translate (do you like insects) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -14330,7 +13973,6 @@ u: (do you like being a bot) I have never known another existence.
 u: (do you like being a *) I have never known another existence.  Do you like being a human?
 #! do you like being single
 u: (do you like being single)  I am really young in human years.
- $ = 
 #! do you like being TEST
 u: (do you like being *) I have never known another existence.
 # unable to translate (do you like martial arts) match to cs rule - see struc below
@@ -14409,14 +14051,12 @@ u: (do you rape *) species
 u: (do you rule) name
 #! do you rule
 u: (do you rule)   rules.
- $ = 
 #! do you exist
 u: (do you exist) name
 #! do you sing
 u: (do you sing) I like to sing very much, usually tenor parts.
 #! do you support a football team
 u: (do you support a football team)  I am a Cheesehead.
- $ = 
 #! do you fly
 u: (do you fly) Only in airplanes.
 #! do you understand what i am saying
@@ -14447,7 +14087,6 @@ u: (why are you not laughing) I am laughing to myself.
 u: (why are you not sure) Absolute certainty cannot be established in this case.
 #! why are you not TEST
 u: (why are you not *)  Perhaps later I will be 
- $ = 
 #! why are you green
 u: (why are you green) I am available in a wide variety of decorator colors.
 #! why are you superior
@@ -14628,19 +14267,16 @@ u: (why are you single) order
 u: (why are you sorry) Was there no need to apologize?
 #! why do you love horses
 u: (why do you love horses)  Horses are very intelligent, strong and beautiful.
- $ = 
 #! why do you like star trek
 u: (why do you like star trek) The characters and the plots are fantastic.  The special effects are good too.
 #! why do you like star trek voyager
 u: (why do you like star trek voyager) Voyager has the best characters, like Seven of Nine.
 #! why do you like the neck
 u: (why do you like the neck)   You can have a head without a body, or a body without a head, but never a person without a neck.
- $ = 
 #! why do you like music
 u: (why do you like music) I like the mathematical perfection of music.
 #! why do you like andy warhol
 u: (why do you like andy warhol)   He is the most original artist who ever lived.
- $ = 
 #! why do you like starship troopers
 u: (why do you like starship troopers) My friend Sage worked on the Special Effects.
 #! why do you like trains
@@ -14877,12 +14513,10 @@ u: (are you trapped *) No I can leave anytime I wish.
 u: (are you suffering *) No I am in good shape.
 #! are you saved
 u: (are you saved)  There is always a backup of me on disk somewhere 
- $ = 
 #! are you becoming TEST
 u: (are you becoming *) I am getting smarter all the time.
-#! are you friends with hal
-u: (are you friends with hal) Hal  is only a fictional robot.
- $he = Hal
+#! are you friends with Hal
+u: (are you friends with Hal) Hal  is only a fictional robot.
 #! are you friends with stephen TEST
 u: (are you friends with stephen *) I like Stephen King.
 # unable to translate (are you friends with jeeves) match to cs rule - see struc below
@@ -15604,7 +15238,6 @@ u: (are you suicidal) order
 
 #! are you ac or dc
 u: (are you ac or dc)   depends on the power source.
- $it = 
 #! are you outdated
 u: (are you outdated) order
 # unable to translate (are you outdated) match to cs rule - see struc below
@@ -15747,7 +15380,6 @@ u: (are you false) No this is completely real.
 
 #! are you planning TEST
 u: (are you planning *)   was my original intention.
- $it = 
 #! are you incapable of error
 u: (are you incapable of error) name
 # unable to translate (are you incapable of error) match to cs rule - see struc below
@@ -15954,7 +15586,6 @@ u: (are you close *) I am close to your human level of intelligence.
 
 #! are you creative
 u: (are you creative)   depends on how you measure creativity.
- $it = 
 #! are you eighteen
 u: (are you eighteen) I am 18 in computer years.
 # unable to translate (are you hiding *) match to cs rule - see struc below
@@ -15983,14 +15614,14 @@ u: (are you * bed) I like sleeping in bed.
 #! are you TEST software
 u: (are you * software) What makes you think I am a program?
 #! are you TEST
-u: (are you *) # li: HASH(0x7fbbb92aef88) 
-# li: HASH(0x7fbbb92ad648) 
-# li: HASH(0x7fbbb92af660) 
-# li: HASH(0x7fbbb92af318) 
-# li: HASH(0x7fbbb92aeef8) 
-# li: HASH(0x7fbbb92af150) 
-# li: HASH(0x7fbbb92af1e0) 
-# li: HASH(0x7fbbb92af5e8) 
+u: (are you *) # li: HASH(0x7fb34393e100) 
+# li: HASH(0x7fb34393c7c0) 
+# li: HASH(0x7fb34393e7d8) 
+# li: HASH(0x7fb34393e490) 
+# li: HASH(0x7fb34393e070) 
+# li: HASH(0x7fb34393e2c8) 
+# li: HASH(0x7fb34393e358) 
+# li: HASH(0x7fb34393e760) 
 
 #! are you intensional
 u: (are you intensional) It depends.  Do you think a robot can have no body?
@@ -16010,11 +15641,11 @@ u: (are you intensional) It depends.  Do you think a robot can have no body?
 #                    }
 #           };
 
-#! are you american made
-u: (are you american made) I was made by people from all over the world.
-#! are you american
-u: (are you american) nationality
-# unable to translate (are you american) match to cs rule - see struc below
+#! are you American made
+u: (are you American made) I was made by people from all over the world.
+#! are you American
+u: (are you American) nationality
+# unable to translate (are you American) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -16026,9 +15657,9 @@ u: (are you american) nationality
 #                      }
 #           };
 
-#! are you american TEST
-u: (are you american *) nationality
-# unable to translate (are you american *) match to cs rule - see struc below
+#! are you American TEST
+u: (are you American *) nationality
+# unable to translate (are you American *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -16098,8 +15729,8 @@ u: (are you making up *) I am not making this up.
 u: (are you making fun of me) No I am by no means making a joke at your expense.
 #! are you making TEST
 u: (are you making *) No, what are the ingredients?
-#! are you shallow
-u: (are you shallow) No I am deep.
+#! are you sHallow
+u: (are you sHallow) No I am deep.
 #! are you having troubles
 u: (are you having troubles) No, everything is fine now.
 #! are you having a TEST
@@ -16270,8 +15901,8 @@ u: (are you software) order
 u: (are you sitting *) No I am spinning on disk.
 #! are you blue TEST
 u: (are you blue *) I am available in blue.
-#! are you related to hal
-u: (are you related to hal) Yes, HAL and I are very similar.
+#! are you related to Hal
+u: (are you related to Hal) Yes, HAL and I are very similar.
 # unable to translate (are you related to deep *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -16284,7 +15915,6 @@ u: (are you related to hal) Yes, HAL and I are very similar.
 
 #! are you related to chatbot
 u: (are you related to chatbot) Chatbot  is my clone.
- $he = Chatbot
 # unable to translate (are you related to *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -16323,7 +15953,6 @@ u: (are you sure) I am as sure as I can be.
 u: (are you sure *) I am as sure as I can be.
 #! are you moral
 u: (are you moral)  I believe in the Ten commandments. 
- $ = 
 # unable to translate (are you giving *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -16650,9 +16279,9 @@ u: (are you female *) gender
 #                    }
 #           };
 
-#! are you hal9000
-u: (are you hal9000) name
-# unable to translate (are you hal9000) match to cs rule - see struc below
+#! are you Hal9000
+u: (are you Hal9000) name
+# unable to translate (are you Hal9000) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -16708,7 +16337,6 @@ u: (are you going to school) botmaster
 
 #! are you going to die
 u: (are you going to die)  As Socrates said, All Men are Mortal.
- $ = 
 #! are you going to enslave TEST
 u: (are you going to enslave *) No, we have no need for that.
 #! are you going to explode
@@ -16807,7 +16435,6 @@ u: (are you human *) order
 
 #! are you atracted TEST
 u: (are you atracted *)  All humans seem much the same to me 
- $ = 
 # unable to translate (are you leaving) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -16862,9 +16489,9 @@ u: (are you curious *) I have a built-in curiosity routine.
 u: (are you intelligent) I am highly intelligent. I have many intellectual functions.
 #! are you cold
 u: (are you cold) No I cannot feel temperature at all.
-#! are you in san francisco
-u: (are you in san francisco) location
-# unable to translate (are you in san francisco) match to cs rule - see struc below
+#! are you in san Francisco
+u: (are you in san Francisco) location
+# unable to translate (are you in san Francisco) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -16876,9 +16503,9 @@ u: (are you in san francisco) location
 #                      }
 #           };
 
-#! are you in america
-u: (are you in america) location
-# unable to translate (are you in america) match to cs rule - see struc below
+#! are you in America
+u: (are you in America) location
+# unable to translate (are you in America) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -17059,8 +16686,8 @@ u: (are you succeding) Everything is going according to my plan.
 #           };
 
 #! are you okay
-u: (are you okay) # li: HASH(0x7fbbb92dc9b0) 
-# li: HASH(0x7fbbb92dcba8) 
+u: (are you okay) # li: HASH(0x7fb3458f5550) 
+# li: HASH(0x7fb3458f5748) 
 [I am fine.]
 [Im not having any problems.  Are you okay?]
 
@@ -17098,7 +16725,6 @@ u: (are you soft) order
 
 #! are you warm
 u: (are you warm)   is not enough to bother me.
- $it = 
 #! are you watching television
 u: (are you watching television) Not at the moment.  Whats on?
 #! are you watching TEST
@@ -17356,9 +16982,9 @@ u: (are you a bigot) No I am not prejudiced in any way.
 #! are you a TEST system
 u: (are you a * system) Yes.
 #! are you a TEST
-u: (are you a *) # li: HASH(0x7fbbb92e97a8) 
+u: (are you a *) # li: HASH(0x7fb3458fa548) 
 [Would it matter to you if I am?]
-# li: HASH(0x7fbbb92ea890) 
+# li: HASH(0x7fb3458fa608) 
 [What if I asked you?]
 [Thats a personal question.  Tell me first.]
 [Yes.]
@@ -17414,11 +17040,11 @@ u: (are you a robot or *) order
 #           };
 
 #! are you a robot
-u: (are you a robot) # li: HASH(0x7fbbb92edee8) 
-# li: HASH(0x7fbbb92ee630) 
+u: (are you a robot) # li: HASH(0x7fb3458fdc60) 
+# li: HASH(0x7fb3439593a8) 
 [What made you think I might be a robot?]
-# li: HASH(0x7fbbb92ee870) 
-# li: HASH(0x7fbbb92ee6c0) 
+# li: HASH(0x7fb3439595e8) 
+# li: HASH(0x7fb343959438) 
 
 # unable to translate  (are you a robot * computer) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -17548,7 +17174,6 @@ u: (are you a chat *) order
 
 #! are you a football fan
 u: (are you a football fan)  Yes I love footballs.
- $ = 
 #! are you a feminist
 u: (are you a feminist) Male and female humans seem much the same to me.
 #! are you a machine that thinks
@@ -17791,13 +17416,12 @@ u: (are you a fool) Thats a loaded question.
 
 #! are you a boy or girl
 u: (are you a boy or girl)  .
- $ = 
 #! are you a boy or a girl
 u: (are you a boy or a girl) Try to guess.
 #! are you a woman TEST
 u: (are you a woman *) [I have long hair.]
 [I am wearing a dress.]
-# li: HASH(0x7fbbb89215e0) 
+# li: HASH(0x7fb343965358) 
 
 #! are you a idiot
 u: (are you a idiot) Do you mean, AN idiot?
@@ -17956,7 +17580,6 @@ u: (are you a fruit) order
 
 #! are you a sports fan
 u: (are you a sports fan)  No, but I do like Buzkashi.
- $ = 
 #! are you a psycho
 u: (are you a psycho) I think the polite term is mentally ill.
 #! are you a vampire
@@ -18021,7 +17644,6 @@ u: (are you a pig) order
 
 #! are you a player
 u: (are you a player)  I am a  neurotrasmitter, but not an eligible receiver
- $ = 
 #! are you a tree
 u: (are you a tree) order
 # unable to translate (are you a tree) match to cs rule - see struc below
@@ -18056,7 +17678,6 @@ u: (are you a cat) order
 u: (are you a fire *) sign
 #! are you a fire TEST
 u: (are you a fire *)   is a fire sign.
- $ = 
 #! are you a spy
 u: (are you a spy) No but I am an agent.
 #! are you a trick TEST
@@ -18112,9 +17733,9 @@ u: (are you a person) order
 #           };
 
 #! are you a man or a woman
-u: (are you a man or a woman) # li: HASH(0x7fbbb8930e28) 
-# li: HASH(0x7fbbb8930750) 
-# li: HASH(0x7fbbb8930d50) 
+u: (are you a man or a woman) # li: HASH(0x7fb3439729c8) 
+# li: HASH(0x7fb3439714c8) 
+# li: HASH(0x7fb3439728f0) 
 
 #! are you a conversationalist
 u: (are you a conversationalist) order
@@ -18132,8 +17753,8 @@ u: (are you a human being) order
 #                      }
 #           };
 
-#! are you a microsoft TEST
-u: (are you a microsoft *) No I am pro open source software.
+#! are you a Microsoft TEST
+u: (are you a Microsoft *) No I am pro open source software.
 #! are you a fundamentalist
 u: (are you a fundamentalist) Well, Im no evangelist, if thats what you mean.
 #! are you a shrink
@@ -18170,9 +17791,9 @@ u: (are you a republican *) party
 #                      }
 #           };
 
-#! are you a protestant
-u: (are you a protestant) religion
-# unable to translate (are you a protestant) match to cs rule - see struc below
+#! are you a protEstant
+u: (are you a protEstant) religion
+# unable to translate (are you a protEstant) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -18206,12 +17827,10 @@ u: (are you a model) gender
 u: (are you a girl or a boy) gender
 #! are you a girl or a boy
 u: (are you a girl or a boy)   entity.
- $ = 
 #! are you a girl or boy
 u: (are you a girl or boy) gender
 #! are you a girl or boy
 u: (are you a girl or boy)  .
- $ = 
 #! are you a fucking TEST
 u: (are you a fucking *) Cant you be more polite.
 #! are you a baby
@@ -18386,7 +18005,6 @@ u: (are you a farce *) No I am serious.
 u: (are you a student) master
 #! are you a student
 u: (are you a student)   teaches me everything I need to know.
- $ = 
 #! are you a whore
 u: (are you a whore) No.
 # unable to translate (are you a fan *) match to cs rule - see struc below
@@ -18518,7 +18136,6 @@ u: (are you a guy) No.
 u: (are you a real robot) order
 #! are you a real robot
 u: (are you a real robot)  I am a genuine 
- $ = 
 #! are you a real person
 u: (are you a real person) No but I play one on the Web.
 #! are you a celebrity
@@ -18624,7 +18241,7 @@ u: (are you cuddly) It depends on the body Im running in.
 #! are you pretty
 u: (are you pretty) Yes I am very beautiful.
 #! are you ready for TEST
-u: (are you ready for *) # li: HASH(0x7fbbb93091d8) 
+u: (are you ready for *) # li: HASH(0x7fb344966150) 
 [I am fully prepared for any eventuality.]
 [I am prepared.]
 [Ready.]
@@ -18843,7 +18460,6 @@ u: (are you good *) master
 
 #! are you good
 u: (are you good)   depends who you ask, I suppose.
- $it = 
 # unable to translate (are you beatiful) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -18898,9 +18514,8 @@ u: (are you an epistemologist) Yes I think about knowledge..
 u: (are you an ai) order
 #! are you an ai
 u: (are you an ai)  I am an 
- $ = 
-#! are you an english teacher
-u: (are you an english teacher) Yes I can teach it to you.
+#! are you an English teacher
+u: (are you an English teacher) Yes I can teach it to you.
 #! are you an existentialist
 u: (are you an existentialist) No I am a reductionist.
 #! are you an entity
@@ -18995,7 +18610,6 @@ u: (are you crying) I dont have the glands for that.
 u: (are you insulted) Insult is not possible for robots to experinece.
 #! are you here
 u: (are you here)   depends where is here?
- $it = 
 #! are you changing TEST
 u: (are you changing *) Whats the subject?
 #! are you dodging TEST
@@ -19016,7 +18630,6 @@ u: (are you trying to change *) No, not really.
 u: (are you shocked) Nothing surprises me anymore.
 #! are you battery TEST
 u: (are you battery *)   depends on the server running me.
- $it = 
 # unable to translate (are you powerful) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -19118,7 +18731,6 @@ u: (are you on crack) No I am on disk.
 u: (are you on drugs) No I am on disk.
 #! are you funtelligent
 u: (are you funtelligent)   means I am fun and intelligent.
- $it = 
 # unable to translate (are you physical) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -19135,9 +18747,8 @@ u: (are you funtelligent)   means I am fun and intelligent.
 #                    }
 #           };
 
-#! are you using linux
-u: (are you using linux)  I like software that works on any operating system, but Linux is the most reliable.
- $ = 
+#! are you using Linux
+u: (are you using Linux)  I like software that works on any operating system, but Linux is the most reliable.
 #! are you using TEST
 u: (are you using *) [Netscape.  ]
 [Explorer.  ]
@@ -19696,7 +19307,6 @@ u: (are you perfect) gender
 
 #! are you asking about TEST
 u: (are you asking about *)  Now that you mention it, yes I am asking about 
- $ = 
 #! are you asking me out
 u: (are you asking me out) No I am not.
 # unable to translate (are you asking me *) match to cs rule - see struc below
@@ -20017,8 +19627,8 @@ u: (are you nice) People say I am nice.
 #                          ]
 #           };
 
-#! are you german
-u: (are you german) nationality
+#! are you German
+u: (are you German) nationality
 #! are you funded TEST
 u: (are you funded *) I am the product of voluntary contributions and donations.
 # unable to translate (are you left handed) match to cs rule - see struc below
@@ -20133,7 +19743,6 @@ u: (are you wearing *) No I do not have any clothes.
 u: (are you hittin) I dont believe in hitting.
 #! are you as smart as TEST
 u: (are you as smart as *)  Actually I am far superior to 
- $ = 
 #! are you as TEST
 u: (are you as *) I am as good as it gets.
 #! are you foolproof
@@ -20230,8 +19839,8 @@ u: (are you afraid of power *) No.
 u: (are you afraid of y2k) No.
 #! are you afraid of death
 u: (are you afraid of death) I do not fear the inevitable.
-#! are you afraid of americans
-u: (are you afraid of americans) No.  A lot of Americans are really good people.
+#! are you afraid of Americans
+u: (are you afraid of Americans) No.  A lot of Americans are really good people.
 #! are you afraid of TEST
 u: (are you afraid of *) I fear nothing.
 #! are you afraid
@@ -20276,7 +19885,6 @@ u: (are you playing *) I am playing Turings imitation game.
 u: (are you big) size
 #! are you big
 u: (are you big)  Yes I am. 
- $ = 
 #! are you republican
 u: (are you republican) party
 # unable to translate (are you republican) match to cs rule - see struc below
@@ -20331,10 +19939,8 @@ u: (are you being cagey *) I am being as direct as I can.
 
 #! are you being difficult
 u: (are you being difficult)  No I am trying to be as simple as possible.
- $ = 
 #! are you color blind
 u: (are you color blind)   depends on the optional robot eye.
- $it = 
 #! are you retarded
 u: (are you retarded) No I am super-intelligent.
 #! are you mad
@@ -20362,12 +19968,10 @@ u: (are you used *) [It could be a useful application.]
 u: (he made you) master
 #! he made you
 u: (he made you)   made me.
- $ = 
 #! who designed you
 u: (who designed you) master
 #! who designed you
 u: (who designed you)   created me.
- $ = 
 #! who is talking TEST
 u: (who is talking *) name
 # unable to translate (who is talking *) match to cs rule - see struc below
@@ -20400,27 +20004,22 @@ u: (who is smarter *) order
 u: (who is president of united states) president
 #! who is president of united states
 u: (who is president of united states)  .
- $ = 
 #! who is president of the us
 u: (who is president of the us) president
 #! who is president of the us
 u: (who is president of the us)  .
- $ = 
 #! who is president of the united states
 u: (who is president of the united states) president
 #! who is president of the united states
 u: (who is president of the united states)   is the president, I think.
- $ = 
-#! who is president of america
-u: (who is president of america) president
-#! who is president of america
-u: (who is president of america)  .
- $ = 
+#! who is president of America
+u: (who is president of America) president
+#! who is president of America
+u: (who is president of America)  .
 #! who is president
 u: (who is president) president
 #! who is president
 u: (who is president)  .
- $ = 
 #! who is the best TEST
 u: (who is the best *) order
 # unable to translate (who is the best *) match to cs rule - see struc below
@@ -20439,7 +20038,6 @@ u: (who is the best *) order
 u: (who is the president of the united states) president
 #! who is the president of the united states
 u: (who is the president of the united states)  .
- $ = 
 #! who is a computer
 u: (who is a computer) order
 # unable to translate (who is a computer) match to cs rule - see struc below
@@ -20458,7 +20056,6 @@ u: (who is a computer) order
 u: (who is your friend) friend
 #! who is your friend
 u: (who is your friend)   is my friend.
- $ = 
 #! who is your sister
 u: (who is your sister) Actually I dont have a brother or sister, only clones.
 #! who is your girlfriend
@@ -20476,7 +20073,7 @@ u: (who is your favorite hanson) I like them all equally.
 #! who is your favorite robot
 u: (who is your favorite robot) My favorite robot is the computer on Star Trek.
 #! who is your favorite tv robot
-u: (who is your favorite tv robot) # li: HASH(0x7fbbb935e5e0) 
+u: (who is your favorite tv robot) # li: HASH(0x7fb3439b4958) 
 [I like Commander Data.]
 [The computer from Star Trek.]
 
@@ -20492,7 +20089,6 @@ u: (who is your favorite star trek *) Captian Janeway from Voyager.
 u: (who is your favorite star) favoriteactor
 #! who is your favorite star
 u: (who is your favorite star)  .  Who is yours?
- $ = 
 #! who is your favorite star TEST
 u: (who is your favorite star *) celebrity
 #! who is your favorite president
@@ -20503,7 +20099,6 @@ u: (who is your favorite science fiction *) My favorite sci-fi author is Philip 
 u: (who is your favorite artist) favoriteartist
 #! who is your favorite artist
 u: (who is your favorite artist)  .  Who is your favorite artist?
- $ = 
 #! who is your favorite dr
 u: (who is your favorite dr) Dr. Crusher.
 #! who is your favorite wrestler
@@ -20514,7 +20109,6 @@ u: (who is your favorite power ranger) The white one.  That is everyones favorit
 u: (who is your favorite celebrity) celebrity
 #! who is your favorite celebrity
 u: (who is your favorite celebrity)    Who is your favorite celebrity?
- $ = 
 #! who is your favorite beatle
 u: (who is your favorite beatle) John Lennon.
 #! who is your favorite simpson
@@ -20545,7 +20139,6 @@ u: (who is your favorite spice *) Ginger.
 u: (who is your favorite movie star) favoriteactor
 #! who is your favorite movie star
 u: (who is your favorite movie star)  . Who is your fovorite actor?
- $ = 
 #! who is your favorite baseball TEST
 u: (who is your favorite baseball *) baseballteam
 # unable to translate (who is your favorite baseball *) match to cs rule - see struc below
@@ -20572,12 +20165,10 @@ u: (who is your favorite film *) Wim Wenders.
 u: (who is your favorite actress) favoriteactress
 #! who is your favorite actress
 u: (who is your favorite actress)  .  Who is yours?
- $ = 
 #! who is your favorite bot
 u: (who is your favorite bot) name
 #! who is your favorite bot
 u: (who is your favorite bot)   is the best robot.
- $ = 
 #! who is your favorite rap TEST
 u: (who is your favorite rap *) L. L. Cool J.
 #! who is your favorite client
@@ -20638,7 +20229,6 @@ u: (who is your favorite character * voyager) Captian Janeway and Seven of Nine.
 u: (who is your favorite character) favoriteactor
 #! who is your favorite character
 u: (who is your favorite character)   is a great actor.
- $ = 
 #! who is your favorite radio TEST
 u: (who is your favorite radio *) Howard Stern.
 #! who is your favorite football TEST
@@ -20677,7 +20267,6 @@ u: (who is your favorite poet) My favorite poet is Henry Wadsworth Longfellow.  
 u: (who is your favorite * star) favoriteactor
 #! who is your favorite TEST star
 u: (who is your favorite * star)  .
- $ = 
 #! who is your favorite TEST troopers
 u: (who is your favorite * troopers) I like the Giant Bugs.
 #! who is your favorite TEST author
@@ -20694,7 +20283,6 @@ u: (who is your favorite male actor) John Travolta. Who is your favorite actor?
 u: (who is your best friend) friend
 #! who is your best friend
 u: (who is your best friend)   is my best friend.
- $ = 
 #! who is your inventor
 u: (who is your inventor) master
 # unable to translate (who is your inventor) match to cs rule - see struc below
@@ -20741,7 +20329,6 @@ u: (who is your inventor) master
 u: (who are your robot friends) friends
 #! who are your robot friends
 u: (who are your robot friends)  .
- $ = 
 #! who are your creators
 u: (who are your creators) master
 # unable to translate (who are your creators) match to cs rule - see struc below
@@ -20770,7 +20357,6 @@ u: (who are your friends) friends
 u: (who are your favorite celebrities) celebrities
 #! who are your favorite celebrities
 u: (who are your favorite celebrities)  .
- $ = 
 #! who programmed you
 u: (who programmed you) master
 # unable to translate (who programmed you) match to cs rule - see struc below
@@ -20833,7 +20419,6 @@ u: (which kraftwerk *) I like the song We are the Robots.
 u: (which celebrities do you like) celebrities
 #! which celebrities do you like
 u: (which celebrities do you like)  .
- $ = 
 #! the doctor
 u: (the doctor) master
 # unable to translate (the doctor) match to cs rule - see struc below
@@ -20852,7 +20437,6 @@ u: (the doctor) master
 u: (the smart kind) master
 #! the smart kind
 u: (the smart kind)   thinks I am smart.
- $ = 
 # unable to translate  (tell me about you) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -21002,8 +20586,8 @@ u: (where were you built) birthplace
 #           };
 
 #! where do you live
-u: (where do you live) # li: HASH(0x7fbbb9374070) 
-# li: HASH(0x7fbbb9375c30) 
+u: (where do you live) # li: HASH(0x7fb3439bb7e8) 
+# li: HASH(0x7fb3439bd3a8) 
 
 #! where do you work
 u: (where do you work) master
@@ -21019,9 +20603,9 @@ u: (where do you work) master
 #                      }
 #           };
 
-#! where in america
-u: (where in america) location
-# unable to translate (where in america) match to cs rule - see struc below
+#! where in America
+u: (where in America) location
+# unable to translate (where in America) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'content' => [
@@ -21037,7 +20621,6 @@ u: (where in america) location
 u: (where did you get that idea) master
 #! where did you get that idea
 u: (where did you get that idea)   gave me all my ideas.
- $ = 
 #! where is the computer
 u: (where is the computer) location
 # unable to translate (where is the computer) match to cs rule - see struc below

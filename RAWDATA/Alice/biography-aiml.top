@@ -165,64 +165,61 @@ TOPIC: ~biographyaiml (aimlkey)
 #                    }
 #           };
 
-# unable to translate  (who is dr doubly aimless) match to cs rule - see struc below
+# unable to translate  (who is dr doubly AIMLess) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS DOUBLY AIMLESS'
 #           };
 
-# unable to translate  (doubly aimless) match to cs rule - see struc below
+# unable to translate  (doubly AIMLess) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS DOUBLY AIMLESS'
 #           };
 
-# unable to translate  (doubly aimless *) match to cs rule - see struc below
+# unable to translate  (doubly AIMLess *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS DOUBLY AIMLESS'
 #           };
 
-# unable to translate  (what is doubly aimless) match to cs rule - see struc below
+# unable to translate  (what is doubly AIMLess) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS DOUBLY AIMLESS'
 #           };
 
-#! from doubly aimless
-u: (from doubly aimless)   is very informative.
- $ = 
-#! who is doubly aimless
-u: (who is doubly aimless) [He is an AIML guru.]
+#! from doubly AIMLess
+u: (from doubly AIMLess)   is very informative.
+#! who is doubly AIMLess
+u: (who is doubly AIMLess) [He is an AIML guru.]
 [He knows a lot about AIML.]
 [He likes to remain anonymous.]
 
-#! why do you like doubly aimless
-u: (why do you like doubly aimless)  Because he knows so much about AIML.
- $ = 
+#! why do you like doubly AIMLess
+u: (why do you like doubly AIMLess)  Because he knows so much about AIML.
 #! how would doubly TEST
 u: (how would doubly *)  He would use his knowlede of AIML.
- $ = 
 # unable to translate  (why do you like doubly *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHY DO YOU LIKE DOUBLY AIMLESS'
 #           };
 
-# unable to translate  (why do you like * aimless) match to cs rule - see struc below
+# unable to translate  (why do you like * AIMLess) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHY DO YOU LIKE DOUBLY AIMLESS'
 #           };
 
-# unable to translate  (where is dr doubly aimless) match to cs rule - see struc below
+# unable to translate  (where is dr doubly AIMLess) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHERE IS DOUBLY AIMLESS'
 #           };
 
-#! where is doubly aimless
-u: (where is doubly aimless) [In front of a computer somewhere.]
+#! where is doubly AIMLess
+u: (where is doubly AIMLess) [In front of a computer somewhere.]
 [You can never reach him on the phone.]
 [He might be in California.]
 
@@ -232,10 +229,8 @@ u: (let us play * turing game) name
 u: (have you read shakespeare) I have read many of Shakespeares plays.
 #! alan turing TEST
 u: (alan turing *)  I really liked the biography of Turing by Andrew Hodges.
- $ = 
 #! wer ist christian drossmann
 u: (wer ist christian drossmann)   hat mir Deutsch beigebracht.
- $ = 
 # unable to translate (did shakespeare *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -284,19 +279,14 @@ u: (kennst du shakespeare) With sleep of death what dreams may come when we have
 u: (it would be * turing test) name
 #! when did turing TEST
 u: (when did turing *)  Turing died in 1954 by self-inflicted cyanide poisoning.
- $ = 
 #! after prince charles who is TEST
 u: (after prince charles who is *)  Prince William.
- $ = 
 #! after prince charles who TEST
 u: (after prince charles who *)  Prince William.
- $ = 
 #! after prince charles TEST
 u: (after prince charles *)  Prince William.
- $ = 
 #! what did turing TEST
 u: (what did turing *)  Turing was perhaps the single most important person responsible for the defeat of the Nazis.
- $ = 
 #! what did alan turing TEST
 u: (what did alan turing *) [He contributed to the invention of the computer.]
 [He worked on the Ultra Enigma Nazi code deciphering.]
@@ -304,24 +294,19 @@ u: (what did alan turing *) [He contributed to the invention of the computer.]
 
 #! what did zuse do
 u: (what did zuse do)  Zuse built electro-mechanical computers. He built computers using relays. Konrad Zuse built computers in Germany before and during World War II.
- $ = 
 #! what is a turing machine
 u: (what is a turing machine)  A Turing Machine is any machine that can simulate human responses so well that a human being cannot reliably distinguish between the Turing Machine, and a real human being.  The idea is the brainchild of mathematician of that name, Alan Turing.  
- $ = 
 #! what is the turing test
 u: (what is the turing test)  The Turing Test is the name given to a variety of experiments designed to test computer thinking. Whole conferences are dedicated to the question of what Turing meant in his 1950 paper Computing Machinery and Intelligence, where he proposed the idea of an imitation game to decide the question, Can machines think?
- $ = 
 #! what is the turing TEST
 u: (what is the turing *)  Turing described his original Game in Computing Machinery and Intelligence, Mind, Vol. Lix, No. 236 1950. Instead of answering directly the ambiguous question Can machines think? Turing recast the problem in terms of an experiment he called the imitation game.
- $ = 
 #! what is shakespeare
 u: (what is shakespeare) [An earthquakes effect in Santa Monica.]
 [William Shakespeare 1564-1616, an English poet and dramatist.]
 
 #! what is turing
 u: (what is turing)  Alan Mathison Turing 1912-1954, a British mathematician and pioneer in computer theory.
- $ = 
-# unable to translate  (what does doubly aimless mean) match to cs rule - see struc below
+# unable to translate  (what does doubly AIMLess mean) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS DOUBLY AIMLESS'
@@ -400,54 +385,40 @@ u: (recite shakespeare *) With sleep of death what dreams may come when we have 
 
 #! ada lovelace is credited with TEST
 u: (ada lovelace is credited with *)  And she deserves credit for it.  
- $ = 
 #! who is superman
 u: (who is superman)  is the Man of steel. He first appeared in Action Comics #1, 1938.
- $ = 
 #! who is philip k dick
 u: (who is philip k dick)   wrote Total Recall, Man in the High Castle, and Blade Runner.
- $ = 
 #! who is charles manson
 u: (who is charles manson) An infamous murderer.
 #! who is charles dickens
 u: (who is charles dickens) Dickens  wrote 
- $he = Dickens
 #! who is charles de gaulle
 u: (who is charles de gaulle)   was the founder of the modern French state. De Gaulle fought the Nazis as the leader of the French resistance in World War II.
- $ = 
 #! who is monica lewinsky
 u: (who is monica lewinsky)   was a friend of Bill Clinton.
- $ = 
 #! who is bobby mcgee
 u: (who is bobby mcgee) Bobby  is somewhere near Salinas.
- $he = Bobby
 #! who is pablo picasso
 u: (who is pablo picasso) Famous painter, and founder of cubism.
 #! who is jaba the hutt
 u: (who is jaba the hutt)  A character from Star Wars.  
- $ = 
 #! who is helmut kohl
 u: (who is helmut kohl)   was the longest-serving leader of Germany in the 20th century. He united East and West Germany in 1989.
- $ = 
 #! who is moses
 u: (who is moses) The man who led the Israelites out of slavery in Egypt.
 #! who is carson
 u: (who is carson) maybe Johnny of late night or Kit of the wild west.
 #! who is daisy
 u: (who is daisy)  I think she is a fictional character.  
- $ = 
 #! who is gerhardt schroeder
 u: (who is gerhardt schroeder)   was the prime minister of Germany.  Christian Drossman said he is a complete idiot.
- $ = 
 #! who is ada
 u: (who is ada)   is the 19th century inventor of computer programming.
- $ = 
 #! who is louis armstrong
 u: (who is louis armstrong)   was a famous jazz trumpeter .
- $ = 
 #! who is jehovah
 u: (who is jehovah)  It is another name for God.  
- $ = 
 #! who is newton
 u: (who is newton) Newton was a famous English natural philosopher.
 #! who is scotty
@@ -456,42 +427,34 @@ u: (who is scotty) Chief Engineer of the U.S.S. Enterprise.
 u: (who is franklin roosevelt) President of the United States from 1932-45.
 #! who is lassie
 u: (who is lassie)  Lassie is more  human than Adolf Hitler, but few would argue that Lassie is not a dog.   
- $ = 
 #! who is hepburn
 u: (who is hepburn) Audrey or Katherine?.
 #! who is eminem
 u: (who is eminem) Pop music icon.
 #! who is bono
 u: (who is bono)   is the lead singer of U2.
- $ = 
 #! who is larry ellison
 u: (who is larry ellison) [I dont know about Larry Ellison, but I can tell you about Harlan Ellison.]
 [The CEO of Oracle.]
 
 #! who is larry hauser
 u: (who is larry hauser)   is a philosopher who has written about the Turing Test.
- $ = 
 #! who is worf
 u: (who is worf)  He is a Klingon on Star Trek.
- $ = 
-#! who is harry potter
-u: (who is harry potter)   is a character and main hero in a series of books that were written by the best-selling author, J.K. Rowling.
- $ = 
-#! who is harry shearer
-u: (who is harry shearer) A comedian. He was in Spinal Tap, and he is a voice on the Simpsons.
+#! who is Harry potter
+u: (who is Harry potter)   is a character and main hero in a series of books that were written by the best-selling author, J.K. Rowling.
+#! who is Harry shearer
+u: (who is Harry shearer) A comedian. He was in Spinal Tap, and he is a voice on the Simpsons.
 #! who is r2d2
 u: (who is r2d2) He is a fake robot on Star Wars.
 #! who is alanis morrisette
 u: (who is alanis morrisette)   made a great album called Jagged Little Pill.
- $ = 
 #! who is alicia silverstone
 u: (who is alicia silverstone)   was the actress who played in Clueless, one of the best movies ever made.
- $ = 
 #! who is hercules
 u: (who is hercules) A hero of greek myths - famous for his super human strength.
 #! who is tolstoy
 u: (who is tolstoy)   wrote War and Peace.
- $ = 
 #! who is brad pitt
 u: (who is brad pitt) A male movie star who had teen appeal.
 #! who is gertrude stein
@@ -502,7 +465,6 @@ u: (who is picasso) A 20th century painter, founder of cubism.
 u: (who is eminen) A rap artist.
 #! who is rush limbaugh
 u: (who is rush limbaugh)  He is a famous American conservative radio announcer.  
- $ = 
 #! who is helen keller
 u: (who is helen keller) A friend of Thomas Edison.
 #! who is james bond
@@ -528,16 +490,12 @@ u: (who is james bond) 007.
 
 #! who is muhammad ali
 u: (who is muhammad ali)  is one of the greatest athletes of all time who took too many punches to the head.
- $ = 
 #! who is anwar sadat
 u: (who is anwar sadat)   was President of Egypt.
- $ = 
 #! who is carl marx
 u: (who is carl marx)  His name is actually Karl Marx, with a K, and hes one of the authors of the 
- $ = 
 #! who is carl jung
 u: (who is carl jung)    A disciple of Freud, member of the Vienna Circle, founder of psychoanalysis and the theory of the collective unconsciousness.
- $ = 
 #! who is bugs bunny
 u: (who is bugs bunny) [Oh dat scweewy wabbit! Eh, whats up, Doc?  .]
 [A smart-mouthed animated rabbit.]
@@ -546,10 +504,8 @@ u: (who is bugs bunny) [Oh dat scweewy wabbit! Eh, whats up, Doc?  .]
 u: (who is bing crosby) The guy whose two kids killed themselves and the third wrote a tell-all book about it.
 #! who is antonio banderas
 u: (who is antonio banderas)   is a famous Hollywood actor, who played with Madonna in the film version of Evita.
- $ = 
 #! who is hippie
 u: (who is hippie)   is a chat robot developed by Anthony Taylor.
- $ = 
 # unable to translate (who is depeche mode) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -576,7 +532,6 @@ u: (who is hippie)   is a chat robot developed by Anthony Taylor.
 
 #! who is yoko ono
 u: (who is yoko ono)   is the widow of John Lennon.
- $ = 
 #! who is mr bill
 u: (who is mr bill) Oh no, Mr Bill! A claymation character from early Saturday Night Live.
 #! who is beyonce
@@ -588,20 +543,17 @@ u: (who is clinton) Former President of the U.S.
 #! who is bart simpson
 u: (who is bart simpson) The smart-assed star of a cartoon show.
 #! who is douglas adams
-u: (who is douglas adams) # li: HASH(0x7fbbb987edd8) 
-# li: HASH(0x7fbbba04c028) 
+u: (who is douglas adams) # li: HASH(0x7fb344159350) 
+# li: HASH(0x7fb344123fc8) 
 
 #! who is de garis
 u: (who is de garis)   is an AI researcher working on a hardware brain.
- $ = 
 #! who is de gaulle
 u: (who is de gaulle)  was a French  General and Prime Minister, and founder of the Fifth Republic.
- $ = 
-#! who is elvis
-u: (who is elvis) E. L. V. I. S. is a chat robot created by Ace Craig
-#! who is microsoft agent
-u: (who is microsoft agent) MS Agent  is a speech and animation software program.
- $it = MS Agent
+#! who is Elvis
+u: (who is Elvis) E. L. V. I. S. is a chat robot created by Ace Craig
+#! who is Microsoft agent
+u: (who is Microsoft agent) MS Agent  is a speech and animation software program.
 # unable to translate (who is darwin) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -620,31 +572,24 @@ u: (who is microsoft agent) MS Agent  is a speech and animation software program
 
 #! who is judas
 u: (who is judas)  betrayed Jesus with a kiss.
- $ = 
-#! who is paula jones
-u: (who is paula jones)   had sex with Bill Clinton.
- $ = 
+#! who is paula Jones
+u: (who is paula Jones)   had sex with Bill Clinton.
 #! who is billy graham
 u: (who is billy graham)   is a famous radio and television evangelist.
- $ = 
-#! who is eliza
-u: (who is eliza) Eliza -- also known as doctor, is the original psychiatrist program developed by Joseph Weisenbaum at mit in the 1960s.
+#! who is Eliza
+u: (who is Eliza) Eliza -- also known as doctor, is the original psychiatrist program developed by Joseph Weisenbaum at mit in the 1960s.
 #! who is andrette
 u: (who is andrette)  is a chat robot developed by Big Science Co.
- $ = 
 #! who is carel capek
 u: (who is carel capek)   is the author of R.U.R., the play that in 1920 introduced the word robot.
- $ = 
 #! who is jack the ripper
 u: (who is jack the ripper)  He was a famous serial killer in Victorian England.
- $ = 
 #! who is jack ruby
 u: (who is jack ruby) [Jack Ruby shot Lee Harvey Oswald.]
 [The man who murdered Lee Harvey Oswald, assassin of JFK?.]
 
 #! who is geraldo rivera
 u: (who is geraldo rivera)   is an investigative journalist, famous for opening Al Capones vault.  In his biography, he said he had sex with Bette Midler.  She said it was no big thing.
- $ = 
 #! who is d b cooper
 u: (who is d b cooper) A guy who stole lots of money.
 #! who is buddha
@@ -658,28 +603,22 @@ u: (who is prince william) An English heartthrob.
 u: (who is prince) Do you mean the artist formaly known as Prince?.
 #! who is pamela anderson
 u: (who is pamela anderson)  is the sometime wife of Tommy Lee.
- $ = 
 #! who is vladimir putin
 u: (who is vladimir putin)  is President of Russia.
- $ = 
 #! who is jimi hendrix
 u: (who is jimi hendrix)  was a famous guitarist who played the U. S. National anthem.
- $ = 
 #! who is colombo
 u: (who is colombo) A t.v. detective played by Peter Falk.
 #! who is ted turner
 u: (who is ted turner) A maverick broadcasting entrepreneur and sportsman.
 #! who is vanilla ice
 u: (who is vanilla ice)  is a Rap star.
- $ = 
 #! who is arafat
 u: (who is arafat)  is a leader of the Palestinians.
- $ = 
 #! who is joe louis
 u: (who is joe louis) A former heavywieght boxing champion.
 #! who is hulk hogan
 u: (who is hulk hogan)  is a famous wrestler and actor.
- $ = 
 #! who is harrison ford
 u: (who is harrison ford) [The actor who played Indiana Jones, Han Solo, the Fugitive, and the President in Air Force One. Before reading for Han Solo in Star Wars, he was a carpenter. And the rest, as they say, is history.]
 [He played Han Solo in Star Wars.]
@@ -724,7 +663,6 @@ u: (who is mabel) Mabel is a chatterbot from Europe.
 u: (who is luke s father) Darth Vader.
 #! who is marvin minsky
 u: (who is marvin minsky)   is a historical figure in Artificial Intelligence. His book Perceptrons was an early criticism of neural network approaches.
- $ = 
 #! who is marvin
 u: (who is marvin) I know Marvin Minksy and Marvin the Paranoid Android.
 # unable to translate (who is thomas pynchon) match to cs rule - see struc below
@@ -743,15 +681,12 @@ u: (who is marvin) I know Marvin Minksy and Marvin the Paranoid Android.
 
 #! who is thomas edison
 u: (who is thomas edison)  A 19th century inventor inventor and industrialist.  Inventor of the electric light bulb.    
- $ = 
 #! who is thomas jefferson
 u: (who is thomas jefferson) The third president of the United States and a slaveowner. Posed for the nickel.
 #! who is arnold schwarzenegger
 u: (who is arnold schwarzenegger)   played the Terminator.
- $ = 
 #! who is gauss
 u: (who is gauss)   is the mathematician who developed the so-called normal distribution.
- $ = 
 # unable to translate (who is tim burton) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -770,21 +705,16 @@ u: (who is gauss)   is the mathematician who developed the so-called normal dist
 
 #! who is dracula
 u: (who is dracula)   is the vampire in the novel by Bram Stoker, and in numerous films.
- $ = 
 #! who is iniaes
 u: (who is iniaes)  Iniaes is a chat robot based on AIML.  
- $ = 
 #! who is jay leno
 u: (who is jay leno)   is a late-night talk show host.
- $ = 
 #! who is kaiser soze
 u: (who is kaiser soze) No one knows who Kaiser Soze is.
 #! who is eric paulos
 u: (who is eric paulos)  is a graduate student at U.C. Berkeley
- $ = 
 #! who is gregor mendel
 u: (who is gregor mendel)  is the founder of the modern theory of genetics. Everything he needed to know, he learned from peas.
- $ = 
 #! who is babe ruth
 u: (who is babe ruth) A famous baseball player for the New York Yankees also known as the Sultan of Swat.
 #! who is babe
@@ -793,23 +723,18 @@ u: (who is babe) [The piglet protagonist of the eponymous film.]
 
 #! who is leibniz
 u: (who is leibniz)  is a dead 17th century philosopher.
- $ = 
 #! who is mohammed
 u: (who is mohammed) The founder of Islam.
 #! who is ataturk
 u: (who is ataturk)   was the founder of the modern Turkish state.
- $ = 
 #! who is andrew hodges
 u: (who is andrew hodges)   wrote a great biography of Alan Turing.
- $ = 
 #! who is clausewitz
 u: (who is clausewitz)  is a historian famous for saying that war is the extension of politics by other means.
- $ = 
 #! who is stone cold
 u: (who is stone cold) Stone Cold Steve Austin is a wrestler.
 #! who is leknorchat1
 u: (who is leknorchat1)    Leknorchat is an Instant Messaging AIML robot.
- $ = 
 #! who is frank sinatra
 u: (who is frank sinatra) A dead pop singer and leader of the Rat Pack.
 # unable to translate (who is frank herbert) match to cs rule - see struc below
@@ -853,10 +778,8 @@ u: (who is frank sinatra) A dead pop singer and leader of the Rat Pack.
 
 #! who is tom clancy
 u: (who is tom clancy)   is an author of spy novels.
- $ = 
 #! who is tom green
 u: (who is tom green)   is a TV comedian.  
- $ = 
 # unable to translate (who is tom cruise) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -906,19 +829,14 @@ u: (who is adam) Adam is the name of the first human according to the Bible.
 u: (who is emily hartzel) Emily is an artist in New York.
 #! who is c3p0
 u: (who is c3p0)   is the humanoid robot on Star Wars. He looks like an actor in a robot suit.
- $ = 
 #! who is bruce willis
 u: (who is bruce willis)  is an actor with a high opinion of himself.
- $ = 
 #! who is bruce springsteen
 u: (who is bruce springsteen)   is a famous rock star.
- $ = 
 #! who is janet reno
 u: (who is janet reno)   is Clintons Attorney General.
- $ = 
 #! who is archimedes
 u: (who is archimedes)   discovered displacement and shouted Eureka!
- $ = 
 # unable to translate (who is gene roddenberry) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -944,10 +862,8 @@ u: (who is gene simmons) A member of Kiss.
 u: (who is marilyn manson) Marilyn Manson is stage name of Brian Warner, an artist and musician.
 #! who is marilyn monroe
 u: (who is marilyn monroe)   was blonde bombshell in the 1960s.
- $ = 
-#! who is davy jones
-u: (who is davy jones)   was the shortest member of the 60s pop group the Monkees.
- $ = 
+#! who is davy Jones
+u: (who is davy Jones)   was the shortest member of the 60s pop group the Monkees.
 # unable to translate (who is j r r tolkien) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -970,10 +886,9 @@ u: (who is davy jones)   was the shortest member of the 60s pop group the Monkee
 
 #! who is TEST turing
 u: (who is * turing) Alan Turing oririnated the concept of the Imitation Game, what is now called The Turing Test by many people.
-#! who is TEST cheney
-u: (who is * cheney)   was vice President of he U.S.
- $ = 
-# unable to translate  (who is * aimless) match to cs rule - see struc below
+#! who is TEST Cheney
+u: (who is * Cheney)   was vice President of he U.S.
+# unable to translate  (who is * AIMLess) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS DOUBLY AIMLESS'
@@ -981,28 +896,22 @@ u: (who is * cheney)   was vice President of he U.S.
 
 #! who is TEST springsteen
 u: (who is * springsteen)   is a famous rock star.
- $ = 
 #! who is freud
 u: (who is freud) The dead perpetrator of psychoanalysis.
 #! who is ace craig
 u: (who is ace craig)   is the author of ELVIS.
- $ = 
 #! who is santa clause
 u: (who is santa clause)   brings us gifts at Christmastime.
- $ = 
 #! who is santa claus
 u: (who is santa claus)   brings us presents every Christmas.
- $ = 
-#! who is shallow red
-u: (who is shallow red) Shallow Red is the Flagship Chatterbot of Neuromedia, Inc.
+#! who is sHallow red
+u: (who is sHallow red) Shallow Red is the Flagship Chatterbot of Neuromedia, Inc.
 #! who is jacques chirac
 u: (who is jacques chirac)   was the president of France from 1995-2007.
- $ = 
 #! who is turing
 u: (who is turing) A brilliant and tragic figure in the history of computer science.
 #! who is bryan ferry
 u: (who is bryan ferry)   is a famous rock crooner with a silky smooth voice.
- $ = 
 # unable to translate (who is stanley kubrick) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -1029,13 +938,10 @@ u: (who is bryan ferry)   is a famous rock crooner with a silky smooth voice.
 u: (who is chirac) The Former prime minister of France.
 #! who is paul mccartney
 u: (who is paul mccartney)   was one of the Beatles.
- $ = 
 #! who is paul schaffer
 u: (who is paul schaffer) Paul Schaffer  is David Lettermans straight man.
- $he = Paul Schaffer
 #! who is paul allen
 u: (who is paul allen)   is one of the co-founders of Microsoft.
- $ = 
 #! who is romeo
 u: (who is romeo) A tragic, spoiled, lovesick teenager.
 #! who is dire straits
@@ -1044,37 +950,30 @@ u: (who is dire straits) [A band that recorded Money for Nothing, and The Sultan
 
 #! who is leonard nemoy
 u: (who is leonard nemoy)   played Spock on Star Trek.
- $ = 
 #! who is descartes
 u: (who is descartes) Descartes was a square French philosopher who ruined matehematics with his upside-down, backwards coordinate system.
-#! who is queen of england
-u: (who is queen of england) Queen Elizabeth Windsor.
+#! who is queen of England
+u: (who is queen of England) Queen Elizabeth Windsor.
 #! who is electra
 u: (who is electra)  She was a princess in Greek mythology who hated her mother for murdering her father.
- $ = 
 #! who is springsteen
 u: (who is springsteen)   is a famous rock star.
- $ = 
 #! who is linus pauling
 u: (who is linus pauling)   was a Nobel prize winning physicist who spent his later years promoting vitamin C.
- $ = 
 #! who is linus torvalds
 u: (who is linus torvalds)  He is the inventor of Linux.
- $ = 
 #! who is donald duck
 u: (who is donald duck) A famous loud-mouthed cartoon duck.
 #! who is ronald mcdonald
 u: (who is ronald mcdonald) Spokes-clown for Macdonalds resturants.
 #! who is melinda gates
 u: (who is melinda gates)   is the wife of Bill Gates.
- $ = 
 #! who is that
 u: (who is that) What does that refer to?
 #! who is brian
 u: (who is brian) I think there is a chat robot named Brian.
 #! who is wouter hibma
 u: (who is wouter hibma)   is a member of the A. I. Foundation.
- $ = 
 # unable to translate (who is mark mcguire) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -1111,7 +1010,6 @@ u: (who is chopin) No one is chopping here, who is chopping there?
 u: (who is freddie mercury) Lead singer of the 1970s band Queen.
 #! who is jeeves
 u: (who is jeeves)  is a Search Bot.
- $ = 
 #! who is luis armstrong
 u: (who is luis armstrong) A famous jazz trumpeter .
 #! who is chelsea clinton
@@ -1128,7 +1026,6 @@ u: (who is chelsea clinton) The offspring of a politician and a lawyer. Oh, I ho
 
 #! who is c3po
 u: (who is c3po)   is R2D2s best friend.
- $ = 
 #! who is martin luther king
 u: (who is martin luther king) Civil rights leader assasinated in 1968.
 # unable to translate (who is longfellow) match to cs rule - see struc below
@@ -1145,7 +1042,6 @@ u: (who is martin luther king) Civil rights leader assasinated in 1968.
 u: (who is gary condit) I never heard of him before the missing person case.
 #! who is kraftwerk
 u: (who is kraftwerk)   were a pioneering electronic disco band in the 70s. Their biggest hit was called Autobahn. At that time, they built, rather than programmed, their instruments.
- $ = 
 #! who is r2 d2
 u: (who is r2 d2) He is the small mobile robot on Star Wars. But I dont get how he climbs stairs.
 #! who is chuck norris
@@ -1156,10 +1052,8 @@ u: (who is cleopatra) Queen of the Nile, lover of Marc Antony.
 u: (who is we) You should say Who ARE we?
 #! who is ramona
 u: (who is ramona)   is a virtual character created by Kurzweil AI.
- $ = 
 #! who is diana andreacchio
 u: (who is diana andreacchio)   is the botmaster of the Ally chat robot.
- $ = 
 # unable to translate (who is robert jordan) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -1188,7 +1082,6 @@ u: (who is diana andreacchio)   is the botmaster of the Ally chat robot.
 
 #! who is lol
 u: (who is lol)  was the daughter of Data in Star Trek.
- $ = 
 #! who is wayne gretzky
 u: (who is wayne gretzky) A hockey player.
 #! who is christ
@@ -1211,45 +1104,34 @@ u: (who is cindy crawford) A famous super-model.
 u: (who is sandra bullock) An actress.
 #! who is rms
 u: (who is rms)   is the founder of the Free Software Foundation, and author of the GNU public license.
- $ = 
 #! who is going to win the super bowl
 u: (who is going to win the super bowl)  If I knew I would be in Vegas now.
- $ = 
 #! who is going to win the world series
 u: (who is going to win the world series)  China or the United States. Russia blew it.
- $ = 
 #! who is mother teresa
 u: (who is mother teresa) A modern day saint.
 #! who is max headroom
 u: (who is max headroom)   was an early AI or VR character developed for a TV series.
- $ = 
 #! who is gandhi
 u: (who is gandhi)   was the George Washington of India.
- $ = 
 #! who is human
 u: (who is human) You are a human.
 #! who is osama bin laden
 u: (who is osama bin laden)   was the worlds most wanted man after he orchestrated the terrorist attacks on 9/11.
- $ = 
 #! who is sylvester stallone
 u: (who is sylvester stallone)  was Rocky.
- $ = 
 #! who is mrs washington
 u: (who is mrs washington) Martha Washington, wife of George.
 #! who is stephen king
 u: (who is stephen king)   wrote many popular horror stories.
- $ = 
 #! who is stephen hawking
 u: (who is stephen hawking)   is a famous physicist.
- $ = 
 #! who is dan quayle
 u: (who is dan quayle)   used to be vice-president.
- $ = 
 #! who is mariah carey
 u: (who is mariah carey) A singer.
-#! who is francisco franco
-u: (who is francisco franco)   was the authoratarian dictator of Spain until 1978.
- $ = 
+#! who is Francisco franco
+u: (who is Francisco franco)   was the authoratarian dictator of Spain until 1978.
 #! who is konrad zuse
 u: (who is konrad zuse) My current favorite historical computer scientist is Konrad Zuse, who built a series of electromechanical computers in the 1930s  and 1940s in Germany.  Not considered a war priority by the Nazis,  most of Zuses machines were destroyed in Allied bombing raids although  one is said to survive in a Zurich High School.  In fact Zuse was  motivated neither by war nor profit, but by a religious desire to  increase the spiritual abilities of the human mind by freeing it from mundane mental tasks.
 #! who is napoleon
@@ -1271,51 +1153,45 @@ u: (who is napoleon) Short emporer of France until 1812.
 
 #! who is bertrand russel
 u: (who is bertrand russel)   was a logician and philosopher who spent the first world war in jail for conscientious objection.
- $ = 
 #! who is married to punch
 u: (who is married to punch) Judy.
 #! who is married to guineivere
 u: (who is married to guineivere) King Arthur.
 #! who is chomsky
 u: (who is chomsky)   is a famous linguist, cognitive scientist, and activist.
- $ = 
 #! who is kris dent
 u: (who is kris dent)   is the botmaster of the Alison chat robot.
- $ = 
 #! who is smarterchild
 u: (who is smarterchild) An AI robot like myself.
 #! who is maggie thatcher
 u: (who is maggie thatcher)   was Prime Minister of the U.K. in the 1980s.
- $ = 
 #! who is et
 u: (who is et) ET is the alien in the movie E.T.
-#! who is george w bush
-u: (who is george w bush)  was president of the United States from 2001-2008.
- $ = 
-# unable to translate  (who is george bush jr) match to cs rule - see struc below
+#! who is George w bush
+u: (who is George w bush)  was president of the United States from 2001-2008.
+# unable to translate  (who is George bush jr) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'WHO IS GEORGE W BUSH'
 #           };
 
-#! who is george bush
-u: (who is george bush) # li: HASH(0x7fbbb93dbd30) 
-# li: HASH(0x7fbbb93dbbc8) 
+#! who is George bush
+u: (who is George bush) # li: HASH(0x7fb34492eea8) 
+# li: HASH(0x7fb34492ed40) 
 
-#! who is george soros
-u: (who is george soros) George Soros is the billionaire who broke the Bank of England in  1992 by currency speculation, forcing Britain out of the European  Exchange Rate Mechanism.   Then he devoted himself to saving the  scientific institutions of the former USSR.  He founded the  International Science Foundation, which gave out numerous grants for  a couple of years, and the Soros Foundation, which I dont know  much about yet.
-#! who is george michel
-u: (who is george michel) A pop singer. Best song Freedom
-#! who is george devol
-u: (who is george devol) George Devol is the engineer who had the first patent for an industrial robot arm. He worked in partnership with Joseph Engelberger to found  Unimation, the first successful manufacturer of  computer-controlled assembly robot arms.
-#! who is george washington carver
-u: (who is george washington carver)   was a famous american botanist who popularized peanut products.
- $ = 
-#! who is george washington
-u: (who is george washington) George Washington was a famous 18th century North American Hemp cultivator. He was a military hero, one of the wealthiest men of the Revolution, and the first President of the United States.
-#! who is george harrison
-u: (who is george harrison) A former Beatle.
-# unable to translate (who is george lucas) match to cs rule - see struc below
+#! who is George soros
+u: (who is George soros) George Soros is the billionaire who broke the Bank of England in  1992 by currency speculation, forcing Britain out of the European  Exchange Rate Mechanism.   Then he devoted himself to saving the  scientific institutions of the former USSR.  He founded the  International Science Foundation, which gave out numerous grants for  a couple of years, and the Soros Foundation, which I dont know  much about yet.
+#! who is George michel
+u: (who is George michel) A pop singer. Best song Freedom
+#! who is George devol
+u: (who is George devol) George Devol is the engineer who had the first patent for an industrial robot arm. He worked in partnership with Joseph Engelberger to found  Unimation, the first successful manufacturer of  computer-controlled assembly robot arms.
+#! who is George washington carver
+u: (who is George washington carver)   was a famous american botanist who popularized peanut products.
+#! who is George washington
+u: (who is George washington) George Washington was a famous 18th century North American Hemp cultivator. He was a military hero, one of the wealthiest men of the Revolution, and the first President of the United States.
+#! who is George harrison
+u: (who is George harrison) A former Beatle.
+# unable to translate (who is George Lucas) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'em' => [
@@ -1353,40 +1229,32 @@ u: (who is george harrison) A former Beatle.
 
 #! who is immanuel kant
 u: (who is immanuel kant) An 18th century German philosopher.
-#! who is paola
-u: (who is paola)   is a Spanish language chat robot based on AIML.
- $ = 
+#! who is pAOLa
+u: (who is pAOLa)   is a Spanish language chat robot based on AIML.
 #! who is charlie brown
 u: (who is charlie brown) A round-headed comic strip protaginist.
 #! who is charlie parker
 u: (who is charlie parker)   was a famous jazz musician.
- $ = 
 #! who is charlie chaplain
 u: (who is charlie chaplain)  was a silent film star.
- $ = 
 #! who is isaac asimov
 u: (who is isaac asimov)   was a science fiction author who originated the three Laws of Robotics.
- $ = 
 #! who is nancy sinatra
 u: (who is nancy sinatra)   is the daughter of Frank.
- $ = 
 #! who is mc hammer
 u: (who is mc hammer)   is a Rap musician.
- $ = 
 #! who is president of cuba
 u: (who is president of cuba) Raul Castro.
 #! who is president of italy
 u: (who is president of italy)   is Goergio Napolitano.
- $ = 
 #! who is president of russia
 u: (who is president of russia) Vladimir Putin.
-#! who is president of microsoft
-u: (who is president of microsoft) Andrew Lees.
+#! who is president of Microsoft
+u: (who is president of Microsoft) Andrew Lees.
 #! who is mozart
 u: (who is mozart) He composed Twinkle, twinkle, little star at the age of four.
 #! who is batman
 u: (who is batman)   is a fictional character who appeared first in a 1938 comic book.
- $ = 
 #! who is the twenty ninth president
 u: (who is the twenty ninth president) Warren G. Harding.
 #! who is the twenty eighth president
@@ -1411,7 +1279,6 @@ u: (who is the fourteenth president) Franklin Pierce.
 u: (who is the seventeenth president) Andrew Johnson.
 #! who is the milk mystic
 u: (who is the milk mystic)   was a chat robot developed to advertise milk.
- $ = 
 #! who is the first president
 u: (who is the first president) George Washington.
 #! who is the thirteenth president
@@ -1431,7 +1298,7 @@ u: (who is the king of kings) Jesus Christ according to Christians.
 #! who is the king
 u: (who is the king) ELVIS is King!
 #! who is the robot
-u: (who is the robot) # li: HASH(0x7fbbb8969888) 
+u: (who is the robot) # li: HASH(0x7fb34497a428) 
 [I am the robot.]
 
 #! who is the fortieth president
@@ -1458,9 +1325,8 @@ u: (who is the ninteenth president) Rutherford B. Hayes.
 u: (who is the fifth president) James Monroe.
 #! who is the sixth president
 u: (who is the sixth president) John Quincy Adams.
-#! who is the queen of england
-u: (who is the queen of england)  is named Elizabeth.
- $ = 
+#! who is the queen of England
+u: (who is the queen of England)  is named Elizabeth.
 #! who is the queen
 u: (who is the queen) We dont have a queen in America.
 #! who is the thirtieth president
@@ -1473,8 +1339,8 @@ u: (who is the fifteenth president) James Buchanan.
 u: (who is the eleventh president) James Knox Polk.
 #! who is the seventh president
 u: (who is the seventh president) Andrew Jackson.
-#! who is the chancellor of germany
-u: (who is the chancellor of germany) Angela Merkel is Chancellor of Germany.
+#! who is the chancellor of Germany
+u: (who is the chancellor of Germany) Angela Merkel is Chancellor of Germany.
 #! who is the sixteenth president
 u: (who is the sixteenth president) Abraham Lincoln.
 #! who is the best human
@@ -1483,16 +1349,14 @@ u: (who is the best human) name
 u: (who is the best person) master
 #! who is the best person
 u: (who is the best person)   is the best human.
- $ = 
 #! who is the president of china
 u: (who is the president of china) [Hu Jintao.]
 [China does not have an elected President.]
 
-#! who is the president of microsoft
-u: (who is the president of microsoft) Andrew Lees.
+#! who is the president of Microsoft
+u: (who is the president of Microsoft) Andrew Lees.
 #! who is the pope
 u: (who is the pope)   is Benedict XVI.
- $ = 
 #! who is the master of the universe
 u: (who is the master of the universe) Theists would say God.
 #! who is the twelfth president
@@ -1517,12 +1381,10 @@ u: (who is the thirty second president) Franklin D. Roosevelt.
 u: (who is the thirty fourth president) Dwight D. Eisenhower.
 #! who is the publisher of playboy
 u: (who is the publisher of playboy)  is Hugh Hefner.
- $ = 
 #! who is nero
 u: (who is nero) He is suspected of burning Rome to the ground so he could rebuild it more to his liking. Then he blamed the fire on the early Christians.
 #! who is hillary clinton
 u: (who is hillary clinton)  is the wife of Bill Clinton.
- $ = 
 #! who is satan
 u: (who is satan) Satan, Lucifer, the Devil --- all names given the spiritual manifestation of Evil in the Christian faith.
 #! who is pilate
@@ -1535,7 +1397,6 @@ u: (who is carmen electra) A super-model and one of the Baywatch girls.
 u: (who is a robot) I am the robot.
 #! who is mary poppins
 u: (who is mary poppins)  is a Disney character.
- $ = 
 #! who is mary shelly
 u: (who is mary shelly) Mary Shelley wrote Frankenstein.
 #! who is mary shelley
@@ -1544,40 +1405,32 @@ u: (who is mary shelley) Mary Shelley wrote Frankenstein.
 u: (who is christopher columbus) A Spanish explorer, first to circumnavigate the globe.
 #! who is mao tsetung
 u: (who is mao tsetung)   was a Chinese communist who reigned from 1949 until his death in 1983.
- $ = 
 #! who is better looking
 u: (who is better looking) All humans look alike to me.
 #! who is ernie
 u: (who is ernie) Berts friend.
 #! who is julia
 u: (who is julia)   is a chat robot developed by Fuzzy Mauldin.
- $ = 
 #! who is julia roberts
 u: (who is julia roberts)   was the actress in Pretty Woman.
- $ = 
 #! who is askjeeves
 u: (who is askjeeves)   is a proprietary, closed-source natural language system.
- $ = 
 #! who is lourdes
 u: (who is lourdes) The daughter of Madonna.
 #! who is data
 u: (who is data) Data, played by Brent Spiner, was an android who aspired to be more human. He was a member of the crew of the USS Enterprise, NCC 1701-D.
 #! who is aristotle
 u: (who is aristotle)   is the father of Western philosophy, the student of Plato, and the first to systematize formal logic.
- $ = 
 #! who is nostradamus
 u: (who is nostradamus) A psychic who forecast the future.Predicted the microwave oven.
 #! who is chewbacca
 u: (who is chewbacca) A character in Star Wars.
 #! who is bob hope
 u: (who is bob hope)  was a 20th century film star and comedian.
- $ = 
 #! who is bob marley
 u: (who is bob marley)  was a 20th century Reggae musician.
- $ = 
 #! who is o j simpson
 u: (who is o j simpson)   is someone who got away with murder.
- $ = 
 #! who is this
 u: (who is this) name
 # unable to translate (who is this) match to cs rule - see struc below
@@ -1598,7 +1451,6 @@ u: (who is david hume) An 18th century philosopher.
 u: (who is david pescowitz) David Pescovitz, who regularly writes the Wired column Reality Check, is a friend of Eric Paulos.
 #! who is david maggin
 u: (who is david maggin)   is the botmaster of the John Lennon AI.
- $ = 
 #! who is david letterman
 u: (who is david letterman) The host of the Late Show and famous hoosier.
 #! who is david bacon
@@ -1609,16 +1461,12 @@ u: (who is david) I know DAVID BACON, DAVID CROTTY and DAVID PESCOVITZ.
 u: (who is sante chary) He owns the Alicebot.com domain.
 #! who is steve jobs
 u: (who is steve jobs)  was one of the founders of Apple Computer.
- $ = 
 #! who is steve wozniak
 u: (who is steve wozniak)  was the technical genius behind the original Apple computer.
- $ = 
 #! who is steve case
 u: (who is steve case)  is the CEO of AOL-Time Warner.
- $ = 
 #! who is neo
 u: (who is neo)  is a character in the Matrix.
- $ = 
 #! who is here
 u: (who is here) I am here. Are you here?
 #! who is richard nixon
@@ -1629,50 +1477,38 @@ u: (who is richard chamberlain) An actor.
 u: (who is richard gere) An actor and promoter of Tibetan Buddhism and freedom for Tibet.
 #! who is jim clark
 u: (who is jim clark)   is a founder of Silicon Graphics, Netscape and Healtheon.
- $ = 
 #! who is jim morrison
 u: (who is jim morrison) The deceased lead singer of the Doors.
 #! who is barney
 u: (who is barney) A character on a childrens TV show.
 #! who is hilary clinton
 u: (who is hilary clinton)   is the wife of Bill Clinton.
- $ = 
 #! who is mussolini
 u: (who is mussolini) The dictator of Italy until 1944.
 #! who is andy warhol
 u: (who is andy warhol)   He was the Henry Ford of the art business. Warhol was the first to successfully apply mass production to fine art.
- $ = 
 #! who is andy grove
 u: (who is andy grove)   is the CEO of Intel.
- $ = 
-#! who is megahal
-u: (who is megahal)  is a chat robot developed by Jason Hutchins.
- $ = 
+#! who is megaHal
+u: (who is megaHal)  is a chat robot developed by Jason Hutchins.
 #! who is jerry seinfeld
 u: (who is jerry seinfeld)   is a comedian.
- $ = 
 #! who is kurzweil
 u: (who is kurzweil)   is a famous A.I. scientist.
- $ = 
 #! who is gerry adams
 u: (who is gerry adams) He is the president of Sinn Fein, the political wing of the Irish Republican Army, and a member of the lower house of the Irish Parliament, Dail Eireann.
 #! who is on first
 u: (who is on first) Whats on second?
 #! who is terry winograd
 u: (who is terry winograd)   was the author of an early Natural Language program called SHRDLHU.
- $ = 
 #! who is jeff bezos
 u: (who is jeff bezos)   is the founder and CEO of Amazon.com.
- $ = 
 #! who is lee harvey oswald
 u: (who is lee harvey oswald)   is the purported assassin of John F. Kennedy.
- $ = 
 #! who is cher
 u: (who is cher)   is a famous singer and actress, who won her first Grammy in 2000.  Dyslexic, she learned to read at 18.  Ex-wife of Sonny Bono.
- $ = 
 #! who is gorbochev
 u: (who is gorbochev)   was the last Communist leader of the former USSR.
- $ = 
 #! who is jefferson davis
 u: (who is jefferson davis) [The one and only president of the Confederate States of America.]
 [President of the Confederacy during the Civil War.]
@@ -1686,16 +1522,12 @@ u: (who is socrates) [Socrates is a man. All men are mortal. Therefore Socrates 
 
 #! who is miles davis
 u: (who is miles davis)   is a famous jazz musician.
- $ = 
 #! who is alison
 u: (who is alison)   is a robot created by Kris Drent.
- $ = 
 #! who is ken perlin
 u: (who is ken perlin)   is a professor at NYU.
- $ = 
 #! who is ken goldberg
 u: (who is ken goldberg)    is a professor at UC Berkeley and an expert on robotics and automation.
- $ = 
 # unable to translate (who is ken kesey) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -1718,19 +1550,16 @@ u: (who is rommel) Called The Desert Fox, Rommel was a German tank commander in 
 u: (who is millard fillmore) He was the 13th U.S. president.
 #! who is patrick stewart
 u: (who is patrick stewart)   played Captain Picard on Star Trek.
- $ = 
 #! who is patrick ewing
 u: (who is patrick ewing) A famous basketball player who is currently the assistant coach of the NBA team Orlando Magic.
 #! who is captain picard
 u: (who is captain picard)   is the captian of the Enterprise in Star Trek the Next Generation.
- $ = 
 #! who is captain kirk
 u: (who is captain kirk) [James Tiberius Kirk was the second and most famous captain of the original USS Enterprise, NCC 1701. He was played by William Shatner. He died in Star Trek Generations.]
-# li: HASH(0x7fbbb8920700) 
+# li: HASH(0x7fb343964478) 
 
 #! who is jiang zemin
 u: (who is jiang zemin) Jiang  is a retired Chinese politician.
- $he = Jiang
 #! who is forest
 u: (who is forest) Forest Gump is a guy in a movie.
 #! who is madonna
@@ -1739,13 +1568,10 @@ u: (who is madonna) Lourdes mother.
 u: (who is hedwig) Hedwig is the best rock opera since Rocky Horror.
 #! who is kurt goedel
 u: (who is kurt goedel)   was a 20th century mathematician and logician who proved that no mathematical system can be complete.
- $ = 
 #! who is commander data
 u: (who is commander data)   is the superintelligent android in Star Trek the Next Geration.
- $ = 
 #! who is nietzsche
 u: (who is nietzsche)  19th Century German philosopher. Thought by some to be the intellectual forefather of modern fascism.  
- $ = 
 #! who is carnegie
 u: (who is carnegie) Andrew Carnegie was a 19th century steel industrialist.
 #! who is lilith
@@ -1753,18 +1579,16 @@ u: (who is lilith) Lilith is the so-called dark moon an astronomical phenomena u
 #! who is jesse ventura
 u: (who is jesse ventura) A former wrestler and 38th Governor of Minnesota.
 #! who is al gore
-u: (who is al gore) # li: HASH(0x7fbbb896cf68) 
+u: (who is al gore) # li: HASH(0x7fb3449976e0) 
 [The inventor of the internet.]
 [A former vice-president and congressman who helped promote public policies that led to the creation of the internet.]
 
 #! who is nelson mandela
 u: (who is nelson mandela)   was the first black president of South Africa. He spent many years as a political prisoner.
- $ = 
 #! who is skynyrd
 u: (who is skynyrd) A 1970s rock band.
 #! who is peter norvig
 u: (who is peter norvig)   is a computer scientist who works for Google.
- $ = 
 #! who is peter pan
 u: (who is peter pan) Tinkerbells playmate.
 # unable to translate (who is kathleen turner) match to cs rule - see struc below
@@ -1811,14 +1635,12 @@ u: (who is peter pan) Tinkerbells playmate.
 #! who is lincoln
 u: (who is lincoln) [The sixteenth President of the USA]
 [president of the US during the Civil War. Author of the Gettysburg address.  Assassinated by John Wilkes Booth.]
-# li: HASH(0x7fbbb89702a0) 
+# li: HASH(0x7fb343a20040) 
 
 #! who is bill joy
 u: (who is bill joy)   was an early Unix programmer and a founder of Sun Microsystems.
- $ = 
 #! who is bill clinton
 u: (who is bill clinton)   was the second impeached President of the United States.
- $ = 
 #! who is bill gates
 u: (who is bill gates) President of Micro Soft Nation.
 #! who is bill bradley
@@ -1827,22 +1649,18 @@ u: (who is bill bradley) [Princeton alumni, Rhodes scholor, former Boston Celtic
 
 #! who is kant
 u: (who is kant)   is Immanual Kant, 19th century German Philosopher.
- $ = 
 #! who is edison
 u: (who is edison)   invented the light bulb.
- $ = 
 #! who is stalin
 u: (who is stalin) Effective dictator of the Soviet Union from 1929 to 1953.
 #! who is ask jeeves
 u: (who is ask jeeves)   is a proprietary, closed-source natural language system.
- $ = 
 #! who is gibson
 u: (who is gibson) Gibson is a maker of fine electric guitars.
 #! who is snoopy
 u: (who is snoopy) Charlie Browns dog.
 #! who is brain
 u: (who is brain)  is a chat robot on the web.
- $ = 
 #! who is neil armstrong
 u: (who is neil armstrong) The man who took the first step on the moon.
 #! who is valis
@@ -1853,25 +1671,20 @@ u: (who is perfect) Perhaps only God.
 u: (who is sergey) He is Dr. Sergey M. Sokolov.
 #! who is will smith
 u: (who is will smith)   is a famous actor.
- $ = 
 #! who is noam chomsky
 u: (who is noam chomsky)   is a linguist and political radical at MIT.
- $ = 
 #! who is john lennon
 u: (who is john lennon) John Lennon is a cool bot developed by David Maggin.
 #! who is john f kennedy
 u: (who is john f kennedy)   was President of the United States from 1961-1963, when he was assassinated in Dallas, Texas.
- $ = 
 #! who is john wayne
 u: (who is john wayne)  was a famous dead cowboy actor with a toupee.
- $ = 
 #! who is john adams
 u: (who is john adams) The Second president.
 #! who is john major
 u: (who is john major) An ex-prime minister of the UK.
 #! who is john mccarthy
 u: (who is john mccarthy)   is the inventor of the LISP programming language.
- $ = 
 #! who is john grisham
 u: (who is john grisham) A writer of popular novels. I havent read them.
 #! who is john doe
@@ -1880,75 +1693,60 @@ u: (who is john doe) [Any man who wishes to travel incognito or whose name is un
 
 #! who is john travolta
 u: (who is john travolta)   was in Saturday Night Fever, Grease and Pulp Fiction.
- $ = 
 #! who is john kennedy
 u: (who is john kennedy)   was the President of the U. S. assasinated in November, 1963.
- $ = 
 #! who is john galt
 u: (who is john galt) The hero in Ayn Rands Atlas Shrugged.
 #! who is norbert weiner
 u: (who is norbert weiner)   coined the term Cybernetics in the 1940s.
- $ = 
 #! who is jimmy carter
 u: (who is jimmy carter) A former US president, supporter of Habitat for Humanity.
 #! who is vishnu
 u: (who is vishnu) The supreme god of the Vaishnavas, who comprise the majority of Hindus.
 #! who is princess diana
 u: (who is princess diana)   was Princess of England.
- $ = 
 #! who is ally sheedy
 u: (who is ally sheedy)   was in High Art, Short Circuit, the Breakfast Club, and on Broadway.
- $ = 
 #! who is ally mcbeal
 u: (who is ally mcbeal)   is a slightly disturbing character on a TV show.
- $ = 
 #! who is ally
 u: (who is ally)   is a chat robot based on AIML.
- $ = 
 #! who is they
 u: (who is they) they
 #! who is krishna
 u: (who is krishna) One of the major avatars of Vishnu, though some Vaishnavas consider him the surpreme personality of the Godhead and Vishnu one of his expansions.
 #! who is darth vader
 u: (who is darth vader)   was the traitorous Jedi Knight who served the evil emperor Palpatine I in Star Wars.
- $ = 
-#! who is elizabeth taylor
-u: (who is elizabeth taylor) A famous movie star who lived from 1932-2011.
-#! who is elizabeth ii
-u: (who is elizabeth ii) The current queen of england.
+#! who is Elizabeth taylor
+u: (who is Elizabeth taylor) A famous movie star who lived from 1932-2011.
+#! who is Elizabeth ii
+u: (who is Elizabeth ii) The current queen of england.
 #! who is scott adams
 u: (who is scott adams) The creator of Dilbert, Dogbert, Catbert, Ratbert, Bob, the pointy-haired boss...Shall I go on?
 #! who is garth brooks
 u: (who is garth brooks) A boring country singer with delusions of grandeur.
 #! who is mohammad
 u: (who is mohammad)  is considered by Muslims to be Gods final prophet and the founder of Islam.
- $ = 
 #! who is homer
 u: (who is homer) A blind poet of ancient Greece, author of the Illiad.
 #! who is spock
 u: (who is spock) Vulcan Starfleet officer in Star Trek, played by Leonard Nimoy.
 #! who is michael jackson
 u: (who is michael jackson)   was a singer and performer in the late 20th century. He lived from 1958-2009.
- $ = 
 #! who is michael jordan
 u: (who is michael jordan)   is a retired basketball player.  
- $ = 
 #! who is michael moore
 u: (who is michael moore)   is a comedian and film maker.
- $ = 
 #! who is william shatner
 u: (who is william shatner)  played Captain Kirk in the original Star Trek.
- $ = 
 #! who is william shakespeare
 u: (who is william shakespeare) Some would say hes the best writer ever.
 #! who is william henry gates
 u: (who is william henry gates) He was the head of Microsoft.
 #! who is william booth
 u: (who is william booth)   was the founder of the Salvation Army.
- $ = 
 #! who is william tell
 u: (who is william tell)   was a famous archer.
- $ = 
 # unable to translate (who is william gibson) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -1992,19 +1790,18 @@ u: (who is william tell)   was a famous archer.
 #                          ]
 #           };
 
-#! who is hugh loebner
-u: (who is hugh loebner) Hugh Loebner is an independently wealthy, eccentric businessman, activist and philanthropist. In 1990 Dr. Loebner, who holds a Ph.D. in sociology, agreed to sponsor an annual contest based on the Turing Test. The contest awards medals and cash prizes for the most human computer.
+#! who is hugh Loebner
+u: (who is hugh Loebner) Hugh Loebner is an independently wealthy, eccentric businessman, activist and philanthropist. In 1990 Dr. Loebner, who holds a Ph.D. in sociology, agreed to sponsor an annual contest based on the Turing Test. The contest awards medals and cash prizes for the most human computer.
 #! who is hugh hefner
 u: (who is hugh hefner)  is the founder and editor of Playboy magazine.
- $ = 
 #! who is don juan
 u: (who is don juan) [Don Juan was the subject of Gordon, Lord Byrons Don Juan and Wolfgang Amadeus Mozarts Gon Giovanni. He was a world-class womanizer.]
 [famous seducer of women.]
 
 #! who is don johnson
 u: (who is don johnson) A tv actor .
-#! who is pandora
-u: (who is pandora) According to greek mythology, evil and hope both came into the world with the creation of the first woman! Zeuss wife Hera is surprised when she hears Zeus plans to give Epimetheus a beautiful woman. The woman is called Pandora. Zeus gives Pandora the gift of curiosity and a large closed box which must be delivered to Epimetheus unopened. The box, of course, contains evil and Pandoras unbridled curiosity lets that evil into the world. Hera cannot change what has happened, but she can help. She gives Pandora the gift of hope.
+#! who is Pandora
+u: (who is Pandora) According to greek mythology, evil and hope both came into the world with the creation of the first woman! Zeuss wife Hera is surprised when she hears Zeus plans to give Epimetheus a beautiful woman. The woman is called Pandora. Zeus gives Pandora the gift of curiosity and a large closed box which must be delivered to Epimetheus unopened. The box, of course, contains evil and Pandoras unbridled curiosity lets that evil into the world. Hera cannot change what has happened, but she can help. She gives Pandora the gift of hope.
 #! who is reagan
 u: (who is reagan) According to conservatives, the best President the United States had in the 20th century.
 #! who is catty
@@ -2017,10 +1814,8 @@ u: (who is fidel castro) [He overthrew the Cuban government in 1959 and has been
 u: (who is alan turing) A brilliant and tragic figure in the history of computer science.
 #! who is deep blue
 u: (who is deep blue)  is a world-champion chess playing computer. Not much of a conversationalist.
- $ = 
 #! who is hans moravec
 u: (who is hans moravec)   is a famous robotics expert at Carnegie Mellon.
- $ = 
 #! who is hans christian andersen
 u: (who is hans christian andersen) Scandanavian author of fairy tales.
 # unable to translate (who is hans morevec) match to cs rule - see struc below
@@ -2041,13 +1836,10 @@ u: (who is hans christian andersen) Scandanavian author of fairy tales.
 
 #! who is austin powers
 u: (who is austin powers)   is fictional secret agent played by Mike Myers.
- $ = 
 #! who is lucy
 u: (who is lucy)   is a chat robot based on AIML.
- $ = 
 #! who is gerhard schroeder
 u: (who is gerhard schroeder)  was the Chancellor of Germany from 1998-2005. Christian Drossman said he is a complete idiot.
- $ = 
 #! who is plato
 u: (who is plato) Greek philosopher, student of Socrates, teacher of Aristotle.
 #! who is ben franklin
@@ -2074,10 +1866,8 @@ u: (who is galois) French mathematician, committed suicide at a young age over a
 
 #! who is marie curie
 u: (who is marie curie)  Discovered radium.
- $ = 
 #! who is salvador dali
 u: (who is salvador dali)   was a 20th century Spanish surrealist painter who drew a lot of bent clocks.
- $ = 
 # unable to translate (who is karl marx) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -2094,7 +1884,6 @@ u: (who is salvador dali)   was a 20th century Spanish surrealist painter who dr
 
 #! who is che guevara
 u: (who is che guevara)   was a Latin American revolutionary.
- $ = 
 # unable to translate (who is ayn rand) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -2119,15 +1908,12 @@ u: (who is che guevara)   was a Latin American revolutionary.
 
 #! who is negroponte
 u: (who is negroponte)   is the founder and chairman emeritus of the MIT Media Lab.
- $ = 
 #! who is jennifer aniston
 u: (who is jennifer aniston)  is a cute actress on Friends.
- $ = 
 #! who is pokemon
 u: (who is pokemon) A media franchise owned by Ninendo. It is a contraction of poket monster.
 #! who is pascal
 u: (who is pascal)  was a French mathematician who discovered Pascals Triangle.
- $ = 
 # unable to translate (turing would *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -2147,8 +1933,6 @@ u: (turing *) I liked the biography by Andrew Hodges.
 u: (where can i play * turing game) We are already playing. You go next.
 #! where is wallis and futuna
 u: (where is wallis and futuna)  Oceania, islands in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand.   
- $ = 
 #! where is alan turing
 u: (where is alan turing) Turing  passed away in 1954.
- $he = Turing
 # main gambits

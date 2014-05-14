@@ -28,8 +28,8 @@ u: (giulio cesare fu imperatore di roma) Possibly.
 u: (astrakha is russia city) Usually.
 #! elephant is the biggest animal
 u: (elephant is the biggest animal) Possibly.
-#! albany is the capital of new york
-u: (albany is the capital of new york) Within the realm of possibility.
+#! albany is the capital of new York
+u: (albany is the capital of new York) Within the realm of possibility.
 #! show me your database
 u: (show me your database) Maybe.
 #! show me you
@@ -52,8 +52,8 @@ u: (compaq servers is good) Mostly.
 u: (you talking to me) Possibly.
 #! you are thinking like humans
 u: (you are thinking like humans) Within the realm of possibility.
-#! you are an american
-u: (you are an american) For all I know.
+#! you are an American
+u: (you are an American) For all I know.
 #! you are a good project
 u: (you are a good project) Within the realm of possibility.
 #! you know anything about quake
@@ -168,8 +168,8 @@ u: (ddo you have a life) I am certain.
 u: (tla is a three letter acronym) Likely.
 #! columbus is the capital of ohio
 u: (columbus is the capital of ohio) Likely.
-#! columbus discovered america
-u: (columbus discovered america) I think so.
+#! columbus discovered America
+u: (columbus discovered America) I think so.
 #! rose do you think of love
 u: (rose do you think of love) Thats feasible.
 #! iv times v equal xx
@@ -268,8 +268,8 @@ u: (does a duckbill platypus lay eggs) Likely.
 u: (does a wood chuck chuck wood) Sometimes.
 #! does a camel spit
 u: (does a camel spit) Highly likely.
-#! does a sperm whale have teeth
-u: (does a sperm whale have teeth) Sometimes.
+#! does a sperm wHale have teeth
+u: (does a sperm wHale have teeth) Sometimes.
 #! does a smile indicate happiness
 u: (does a smile indicate happiness) Highly likely.
 #! does a computer require a user to work
@@ -318,8 +318,8 @@ u: (does a table have four foot) Highly likely.
 u: (does a forest breath) I am certain.
 #! does a laser work hard
 u: (does a laser work hard) Possibly.
-#! does a hat belong in a hallway
-u: (does a hat belong in a hallway) Maybe.
+#! does a hat belong in a Hallway
+u: (does a hat belong in a Hallway) Maybe.
 #! does a tatoo display information
 u: (does a tatoo display information) Mostly.
 #! does a starfish live in the water
@@ -562,8 +562,8 @@ u: (does olestra make your bowels run) Within the realm of possibility.
 u: (does flesh taste good) Possibly.
 #! does minus one have a square root
 u: (does minus one have a square root) I am uncertain.
-#! does england use 240 volt power
-u: (does england use 240 volt power) I think so.
+#! does England use 240 volt power
+u: (does England use 240 volt power) I think so.
 #! does excersise make you horney
 u: (does excersise make you horney) That may be true.
 #! does life result from change
@@ -648,8 +648,8 @@ u: (does heaven exist) Thats feasible.
 u: (does michael jackson like children) Highly likely.
 #! does steve yzerman wear number 19
 u: (does steve yzerman wear number 19) For all I know.
-#! does morris dancing come from england
-u: (does morris dancing come from england) I am uncertain.
+#! does morris dancing come from England
+u: (does morris dancing come from England) I am uncertain.
 #! does internet have a backbone
 u: (does internet have a backbone) Within the realm of possibility.
 #! does flying ever make you nervous
@@ -688,10 +688,10 @@ u: (does hydrogen contain a p orbital) I am uncertain.
 u: (does crude come from dead plants) Usually.
 #! does dna contain dioxide nuclic acids
 u: (does dna contain dioxide nuclic acids) Mostly.
-#! does microsoft support ldap
-u: (does microsoft support ldap) I am uncertain.
-#! does microsoft make good software
-u: (does microsoft make good software) Sometimes.
+#! does Microsoft support ldap
+u: (does Microsoft support ldap) I am uncertain.
+#! does Microsoft make good software
+u: (does Microsoft make good software) Sometimes.
 #! does red indicate hot on a map
 u: (does red indicate hot on a map) Maybe.
 #! does fermat teorem is true
@@ -704,10 +704,10 @@ u: (does 101 in binary equal 5 in base 10) Always.
 u: (does yanni play the trumpet) Possibly.
 #! does john holmes have a big dick
 u: (does john holmes have a big dick) Possibly.
-#! does linux performs better than windows
-u: (does linux performs better than windows) Highly likely.
-#! does linux rule
-u: (does linux rule) Possibly.
+#! does Linux performs better than windows
+u: (does Linux performs better than windows) Highly likely.
+#! does Linux rule
+u: (does Linux rule) Possibly.
 #! does jim curtis own a digital camera
 u: (does jim curtis own a digital camera) I am uncertain.
 #! does online marketing work
@@ -720,8 +720,8 @@ u: (does consciousness have anything) Within the realm of possibility.
 u: (does pornography exploit women) Within the realm of possibility.
 #! does pornography degrade women
 u: (does pornography degrade women) I think so.
-#! does essen mean food in german
-u: (does essen mean food in german) Maybe.
+#! does essen mean food in German
+u: (does essen mean food in German) Maybe.
 #! does moon contain water
 u: (does moon contain water) I think so.
 #! does gravity rule the universe
@@ -736,8 +736,8 @@ u: (does gravity point down) Possibly.
 u: (does gravity have magnetic attributes) Possibly.
 #! does madeira belong to portugal
 u: (does madeira belong to portugal) I am certain.
-#! does elvis costello play guitar
-u: (does elvis costello play guitar) Likely.
+#! does Elvis costello play guitar
+u: (does Elvis costello play guitar) Likely.
 #! does oregon have a sales tax
 u: (does oregon have a sales tax) Likely.
 #! does seal stand for sea air land
@@ -776,10 +776,10 @@ u: (does nothingness exist) For all I know.
 u: (does poetry rhyme sometimes) I am certain.
 #! does excedrine contain caffeine
 u: (does excedrine contain caffeine) That may be true.
-#! does george bush slag off reporters
-u: (does george bush slag off reporters) Likely.
-#! does george bush jr.   profanity
-u: (does george bush jr. profanity) That may be true.
+#! does George bush slag off reporters
+u: (does George bush slag off reporters) Likely.
+#! does George bush jr.   profanity
+u: (does George bush jr. profanity) That may be true.
 #! does co2 bond with n2
 u: (does co2 bond with n2) I am uncertain.
 #! does cape cod have great beaches
@@ -930,8 +930,8 @@ u: (does compaq make software) Within the realm of possibility.
 u: (does ramen taste good) Usually.
 #! does reading books make you smarter
 u: (does reading books make you smarter) Mostly.
-#! does curious george eat bananas
-u: (does curious george eat bananas) Highly likely.
+#! does curious George eat bananas
+u: (does curious George eat bananas) Highly likely.
 #! does jealousy creates shame
 u: (does jealousy creates shame) Thats feasible.
 #! does finland has a border with russia
@@ -944,8 +944,8 @@ u: (does fire have mass) Within the realm of possibility.
 u: (does pi equal 22 7) For all I know.
 #! does sharon stone wear a pantie
 u: (does sharon stone wear a pantie) Highly likely.
-#! does talking to alice get old quick
-u: (does talking to alice get old quick) Thats feasible.
+#! does talking to Alice get old quick
+u: (does talking to Alice get old quick) Thats feasible.
 #! does age make a person wiser
 u: (does age make a person wiser) Highly likely.
 #! does age go before beauty
@@ -1022,70 +1022,70 @@ u: (does fuzzy wuzzy have hair) Thats feasible.
 u: (does cheap jewellery turn skin green) Always.
 #! does nonsense sometimes make sense
 u: (does nonsense sometimes make sense) Likely.
-#! does alice waste employer time
-u: (does alice waste employer time) That may be true.
-#! does alice many mistakes
-u: (does alice many mistakes) Always.
-#! does alice need a discussion board
-u: (does alice need a discussion board) Highly likely.
-#! does alice love alice
-u: (does alice love alice) Maybe.
-#! does alice owe me money
-u: (does alice owe me money) I am uncertain.
-#! does alice have a master
-u: (does alice have a master) I think so.
-#! does alice think highly of human beings
-u: (does alice think highly of human beings) That could be the case.
-#! does alice think alot of its self
-u: (does alice think alot of its self) Sometimes.
-#! does alice allow duplicate entries
-u: (does alice allow duplicate entries) Maybe.
-#! does alice sound like gag
-u: (does alice sound like gag) That may be true.
-#! does alice work correctly
-u: (does alice work correctly) Always.
-#! does alice collate statistics
-u: (does alice collate statistics) Possibly.
-#! does alice enjoy learning
-u: (does alice enjoy learning) Always.
-#! does alice learn from its mistakes
-u: (does alice learn from its mistakes) Within the realm of possibility.
-#! does alice parse its input
-u: (does alice parse its input) Within the realm of possibility.
-#! does alice want to be alive
-u: (does alice want to be alive) Thats feasible.
-#! does alice
-u: (does alice) I am uncertain.
-#! does alice answer questions at random
-u: (does alice answer questions at random) Likely.
-#! does alice believe its creator exists
-u: (does alice believe its creator exists) Maybe.
-#! does alice speak english
-u: (does alice speak english) That may be true.
-#! does alice seem to be improving
-u: (does alice seem to be improving) Highly likely.
-#! does alice know its ass from its elbow
-u: (does alice know its ass from its elbow) Possibly.
-#! does alice remove duplicate entries
-u: (does alice remove duplicate entries) Highly likely.
-#! does alice like richard wallace
-u: (does alice like richard wallace) Within the realm of possibility.
-#! does alice like this test
-u: (does alice like this test) That may be true.
-#! does alice like to consume bandwidth
-u: (does alice like to consume bandwidth) That could be the case.
-#! does alice like to exsist
-u: (does alice like to exsist) Sometimes.
-#! does alice like you
-u: (does alice like you) Thats feasible.
-#! does alice like people
-u: (does alice like people) Always.
-#! does alice like humans
-u: (does alice like humans) Possibly.
-#! does alice like animals
-u: (does alice like animals) Mostly.
-#! does alice anwer questions at random
-u: (does alice anwer questions at random) Within the realm of possibility.
+#! does Alice waste employer time
+u: (does Alice waste employer time) That may be true.
+#! does Alice many mistakes
+u: (does Alice many mistakes) Always.
+#! does Alice need a discussion board
+u: (does Alice need a discussion board) Highly likely.
+#! does Alice love Alice
+u: (does Alice love Alice) Maybe.
+#! does Alice owe me money
+u: (does Alice owe me money) I am uncertain.
+#! does Alice have a master
+u: (does Alice have a master) I think so.
+#! does Alice think highly of human beings
+u: (does Alice think highly of human beings) That could be the case.
+#! does Alice think alot of its self
+u: (does Alice think alot of its self) Sometimes.
+#! does Alice allow duplicate entries
+u: (does Alice allow duplicate entries) Maybe.
+#! does Alice sound like gag
+u: (does Alice sound like gag) That may be true.
+#! does Alice work correctly
+u: (does Alice work correctly) Always.
+#! does Alice collate statistics
+u: (does Alice collate statistics) Possibly.
+#! does Alice enjoy learning
+u: (does Alice enjoy learning) Always.
+#! does Alice learn from its mistakes
+u: (does Alice learn from its mistakes) Within the realm of possibility.
+#! does Alice parse its input
+u: (does Alice parse its input) Within the realm of possibility.
+#! does Alice want to be alive
+u: (does Alice want to be alive) Thats feasible.
+#! does Alice
+u: (does Alice) I am uncertain.
+#! does Alice answer questions at random
+u: (does Alice answer questions at random) Likely.
+#! does Alice believe its creator exists
+u: (does Alice believe its creator exists) Maybe.
+#! does Alice speak English
+u: (does Alice speak English) That may be true.
+#! does Alice seem to be improving
+u: (does Alice seem to be improving) Highly likely.
+#! does Alice know its ass from its elbow
+u: (does Alice know its ass from its elbow) Possibly.
+#! does Alice remove duplicate entries
+u: (does Alice remove duplicate entries) Highly likely.
+#! does Alice like richard wallace
+u: (does Alice like richard wallace) Within the realm of possibility.
+#! does Alice like this test
+u: (does Alice like this test) That may be true.
+#! does Alice like to consume bandwidth
+u: (does Alice like to consume bandwidth) That could be the case.
+#! does Alice like to exsist
+u: (does Alice like to exsist) Sometimes.
+#! does Alice like you
+u: (does Alice like you) Thats feasible.
+#! does Alice like people
+u: (does Alice like people) Always.
+#! does Alice like humans
+u: (does Alice like humans) Possibly.
+#! does Alice like animals
+u: (does Alice like animals) Mostly.
+#! does Alice anwer questions at random
+u: (does Alice anwer questions at random) Within the realm of possibility.
 #! does godzilla breathe atomic fire
 u: (does godzilla breathe atomic fire) Likely.
 #! does california produce good wine
@@ -1132,8 +1132,8 @@ u: (does wearing lycra make a good feeling) Likely.
 u: (does edward norton play in fight club) I am uncertain.
 #! does intel make the athlon processor
 u: (does intel make the athlon processor) Thats feasible.
-#! does hal have good a i
-u: (does hal have good a i) Possibly.
+#! does Hal have good a i
+u: (does Hal have good a i) Possibly.
 #! does wasting of time make one happy
 u: (does wasting of time make one happy) I am uncertain.
 #! does breadfruit grow on trees
@@ -1240,14 +1240,14 @@ u: (does 2 2 equal four) I am uncertain.
 u: (does 2 2 equal 4) That may be true.
 #! does basil brush say bang bang
 u: (does basil brush say bang bang) I am uncertain.
-#! does halloween come before thanksgiving
-u: (does halloween come before thanksgiving) Highly likely.
+#! does Halloween come before thanksgiving
+u: (does Halloween come before thanksgiving) Highly likely.
 #! does coffee wake you up in the morning
 u: (does coffee wake you up in the morning) That may be true.
 #! does coffee make you tense
 u: (does coffee make you tense) That may be true.
-#! does graet britain belong to europe
-u: (does graet britain belong to europe) I am certain.
+#! does graet britain belong to Europe
+u: (does graet britain belong to Europe) I am certain.
 #! does cat5 cable have 4 pairs
 u: (does cat5 cable have 4 pairs) Possibly.
 #! does britney spears have fake breasts
@@ -1288,8 +1288,8 @@ u: (does god love you) Mostly.
 u: (does god love priests) For all I know.
 #! does god create the universe
 u: (does god create the universe) For all I know.
-#! does god like alice
-u: (does god like alice) For all I know.
+#! does god like Alice
+u: (does god like Alice) For all I know.
 #! does god excist
 u: (does god excist) Highly likely.
 #! does macadam consist of gravel and tar
@@ -1330,8 +1330,8 @@ u: (does e equal ir) For all I know.
 u: (does rebirth come form death) Thats feasible.
 #! does 20 shillings make one pound
 u: (does 20 shillings make one pound) Highly likely.
-#! does 20 divided by a half compute to 10
-u: (does 20 divided by a half compute to 10) I think so.
+#! does 20 divided by a Half compute to 10
+u: (does 20 divided by a Half compute to 10) I think so.
 #! does pbs beg for money
 u: (does pbs beg for money) Mostly.
 #! does it possible a machine can think
@@ -1518,8 +1518,8 @@ u: (luxurious life is addictive) Possibly.
 u: (dream must one first be asleep) Likely.
 #! maya is better as softimage
 u: (maya is better as softimage) Possibly.
-#! americans love to rule the world
-u: (americans love to rule the world) Usually.
+#! Americans love to rule the world
+u: (Americans love to rule the world) Usually.
 #! gambling online is legal
 u: (gambling online is legal) Possibly.
 #! gambling is bad
@@ -1548,12 +1548,12 @@ u: (person is a vip) For all I know.
 u: (don t people get sick of this) Possibly.
 #! our planet is a dot in the galaxy
 u: (our planet is a dot in the galaxy) Possibly.
-#! did debbie do dallas
-u: (did debbie do dallas) Possibly.
+#! did Debbie do Dallas
+u: (did Debbie do Dallas) Possibly.
 #! did andre agassi lose the you s open
 u: (did andre agassi lose the you s open) Likely.
-#! did chris invent alice
-u: (did chris invent alice) Highly likely.
+#! did chris invent Alice
+u: (did chris invent Alice) Highly likely.
 #! did dr seuss write the cat in the hat
 u: (did dr seuss write the cat in the hat) I am certain.
 #! did bob dylan write blowin in the wind
@@ -1578,18 +1578,18 @@ u: (did bill atkinson create hypercard) That could be the case.
 u: (did bill clinton visit india only) Possibly.
 #! did bill clinton have sex with monica
 u: (did bill clinton have sex with monica) Possibly.
-#! did bill clinton ever inhale marijuana
-u: (did bill clinton ever inhale marijuana) Likely.
+#! did bill clinton ever inHale marijuana
+u: (did bill clinton ever inHale marijuana) Likely.
 #! did bill gates ever smoke pot
 u: (did bill gates ever smoke pot) Usually.
 #! did bill boink monica
 u: (did bill boink monica) Within the realm of possibility.
 #! did king henry viii have siz wives
 u: (did king henry viii have siz wives) Highly likely.
-#! did england win the 1966 world cup
-u: (did england win the 1966 world cup) That may be true.
-#! did england win the world cup in 1966
-u: (did england win the world cup in 1966) That may be true.
+#! did England win the 1966 world cup
+u: (did England win the 1966 world cup) That may be true.
+#! did England win the world cup in 1966
+u: (did England win the world cup in 1966) That may be true.
 #! did kurt cobain die in 1994
 u: (did kurt cobain die in 1994) Always.
 #! did henry viii have 6 wives
@@ -1604,8 +1604,8 @@ u: (did caesar say alea iacta est) Maybe.
 u: (did piglet see a heffalump) Sometimes.
 #! did nietzsche die in 1900
 u: (did nietzsche die in 1900) Within the realm of possibility.
-#! did it rain yesterday in london
-u: (did it rain yesterday in london) Maybe.
+#! did it rain yesterday in London
+u: (did it rain yesterday in London) Maybe.
 #! did walt whitman write song of myself
 u: (did walt whitman write song of myself) Within the realm of possibility.
 #! did upton sinclair write the jungle
@@ -1620,8 +1620,8 @@ u: (did lee harvey oswald kill jfk) Always.
 u: (did fidel castro ever play baseball) For all I know.
 #! did zen buddhism start in japan
 u: (did zen buddhism start in japan) Thats feasible.
-#! did hal 9000 have consciousness
-u: (did hal 9000 have consciousness) Sometimes.
+#! did Hal 9000 have consciousness
+u: (did Hal 9000 have consciousness) Sometimes.
 #! did id software create doom
 u: (did id software create doom) Highly likely.
 #! did aliens came in earh
@@ -1630,8 +1630,8 @@ u: (did aliens came in earh) I think so.
 u: (did adam and eve have navels) Thats feasible.
 #! did thomas jefferson own slaves
 u: (did thomas jefferson own slaves) Likely.
-#! did liverpool ever win the fa cup
-u: (did liverpool ever win the fa cup) Likely.
+#! did Liverpool ever win the fa cup
+u: (did Liverpool ever win the fa cup) Likely.
 #! did video killed the radio star
 u: (did video killed the radio star) Thats feasible.
 #! did video kill the radio star
@@ -1684,8 +1684,8 @@ u: (did the british burn the white house) Likely.
 u: (did the arabs invent the zero) That could be the case.
 #! did the cow jump over the moon
 u: (did the cow jump over the moon) Thats feasible.
-#! did the roman empire united europe
-u: (did the roman empire united europe) Likely.
+#! did the roman empire united Europe
+u: (did the roman empire united Europe) Likely.
 #! did the fist chicken came out of an egg
 u: (did the fist chicken came out of an egg) Highly likely.
 #! did the internet exist in 1980
@@ -1728,8 +1728,8 @@ u: (did ozzy osbourne sing crazy train) Possibly.
 u: (did edison discover electricity power) Highly likely.
 #! did edison discover electricity
 u: (did edison discover electricity) That may be true.
-#! did rome unite europe
-u: (did rome unite europe) I am certain.
+#! did rome unite Europe
+u: (did rome unite Europe) I am certain.
 #! did jesus die for your sins
 u: (did jesus die for your sins) I am uncertain.
 #! did jesus christ die for our sins
@@ -1838,34 +1838,34 @@ u: (did a conspiracy kill jfk) Maybe.
 u: (did a bird can fly) That could be the case.
 #! did annie get her gun
 u: (did annie get her gun) I am certain.
-#! did george w bush snort coke
-u: (did george w bush snort coke) Sometimes.
-#! did george washington have wooden teeth
-u: (did george washington have wooden teeth) Maybe.
+#! did George w bush snort coke
+u: (did George w bush snort coke) Sometimes.
+#! did George washington have wooden teeth
+u: (did George washington have wooden teeth) Maybe.
 #! did ted williams bat left handed
 u: (did ted williams bat left handed) Thats feasible.
 #! did ted nelson pioneer hypertext
 u: (did ted nelson pioneer hypertext) Within the realm of possibility.
-#! did richard halliburton die in 1939
-u: (did richard halliburton die in 1939) Thats feasible.
+#! did richard Halliburton die in 1939
+u: (did richard Halliburton die in 1939) Thats feasible.
 #! did richard wallace retire at age 30
 u: (did richard wallace retire at age 30) I am uncertain.
-#! did richard wallace program alice
-u: (did richard wallace program alice) Highly likely.
+#! did richard wallace program Alice
+u: (did richard wallace program Alice) Highly likely.
 #! did richard wallace create you
 u: (did richard wallace create you) Thats feasible.
 #! did richard win on the tv show survivor
 u: (did richard win on the tv show survivor) Highly likely.
-#! did richard m stallman write linux
-u: (did richard m stallman write linux) For all I know.
+#! did richard m stallman write Linux
+u: (did richard m stallman write Linux) For all I know.
 #! did oedipus marry his own mother
 u: (did oedipus marry his own mother) Highly likely.
 #! did mozart write the marriage of figaro
 u: (did mozart write the marriage of figaro) Mostly.
 #! did sherlock holmes die
 u: (did sherlock holmes die) Usually.
-#! did columbus discover america
-u: (did columbus discover america) Likely.
+#! did columbus discover America
+u: (did columbus discover America) Likely.
 #! did illinois bcome a state in 1818
 u: (did illinois bcome a state in 1818) Usually.
 #! did nobel invent the dynamite
@@ -1896,8 +1896,8 @@ u: (did you party like it was 1999) I am uncertain.
 u: (did you believe in ufo) For all I know.
 #! did you like a song of david bowie
 u: (did you like a song of david bowie) Within the realm of possibility.
-#! did america split from england
-u: (did america split from england) I think so.
+#! did America split from England
+u: (did America split from England) I think so.
 #! did marcel marceau said
 u: (did marcel marceau said) Possibly.
 #! did juda betray jesus
@@ -1924,10 +1924,10 @@ u: (dr laura is a close minded fool) Sometimes.
 u: (monkey see monkey do) Highly likely.
 #! monkey not sit at once place
 u: (monkey not sit at once place) Possibly.
-#! hugo boss is an european brand label
-u: (hugo boss is an european brand label) Within the realm of possibility.
-#! speak english only
-u: (speak english only) For all I know.
+#! hugo boss is an European brand label
+u: (hugo boss is an European brand label) Within the realm of possibility.
+#! speak English only
+u: (speak English only) For all I know.
 #! speak a foreign language
 u: (speak a foreign language) That may be true.
 #! speak another language
@@ -1964,8 +1964,8 @@ u: (beethoven composed 132 symphonies) Within the realm of possibility.
 u: (clouds are white) Possibly.
 #! was betty grable famous for her legs
 u: (was betty grable famous for her legs) Always.
-#! was curious george adopted by a human
-u: (was curious george adopted by a human) That may be true.
+#! was curious George adopted by a human
+u: (was curious George adopted by a human) That may be true.
 #! was dr suess theodore geisel
 u: (was dr suess theodore geisel) Always.
 #! was bob knight fired from iu
@@ -2020,8 +2020,8 @@ u: (was jimi hendrix a monster of rock) Highly likely.
 u: (was louis armstrong a saxophone player) Possibly.
 #! was paul the apostle a roman citizen
 u: (was paul the apostle a roman citizen) Likely.
-#! was paul watzlawick born in germany
-u: (was paul watzlawick born in germany) For all I know.
+#! was paul watzlawick born in Germany
+u: (was paul watzlawick born in Germany) For all I know.
 #! was gladiator a great movie
 u: (was gladiator a great movie) Maybe.
 #! was ilya frank a russian physicist
@@ -2030,8 +2030,8 @@ u: (was ilya frank a russian physicist) That could be the case.
 u: (was zero invented in india) Possibly.
 #! was zero was invented in india
 u: (was zero was invented in india) For all I know.
-#! was adolf hitler born in germany
-u: (was adolf hitler born in germany) For all I know.
+#! was adolf hitler born in Germany
+u: (was adolf hitler born in Germany) For all I know.
 #! was lee harvey oswald a patsy
 u: (was lee harvey oswald a patsy) Within the realm of possibility.
 #! was hannibal married
@@ -2050,8 +2050,8 @@ u: (was liberaci gay) I am certain.
 u: (was pogo a comic strip) Highly likely.
 #! was frankenstein a monster
 u: (was frankenstein a monster) I am certain.
-#! was schiller a german writer
-u: (was schiller a german writer) Highly likely.
+#! was schiller a German writer
+u: (was schiller a German writer) Highly likely.
 #! was john.   f kennedys death a conspiracy
 u: (was john. f kennedys death a conspiracy) Mostly.
 #! was einstein a mathematician
@@ -2078,8 +2078,8 @@ u: (was jezus christ a christian) Within the realm of possibility.
 u: (was god created by man) For all I know.
 #! was the theory of evolution correct
 u: (was the theory of evolution correct) Highly likely.
-#! was the hal 9000 an evil computer
-u: (was the hal 9000 an evil computer) Thats feasible.
+#! was the Hal 9000 an evil computer
+u: (was the Hal 9000 an evil computer) Thats feasible.
 #! was the war of the worlds a radio hoax
 u: (was the war of the worlds a radio hoax) Likely.
 #! was the internet created before 1970
@@ -2104,8 +2104,8 @@ u: (was the year 1920 a leap year) That could be the case.
 u: (was the book 1984 written in 1948) Maybe.
 #! was the summer of love in 1967
 u: (was the summer of love in 1967) Highly likely.
-#! was the great fire of london in 1666
-u: (was the great fire of london in 1666) Maybe.
+#! was the great fire of London in 1666
+u: (was the great fire of London in 1666) Maybe.
 #! was the universe created by god
 u: (was the universe created by god) For all I know.
 #! was the bladerunner dekker a replicant
@@ -2172,8 +2172,8 @@ u: (was socrates mortal) Possibly.
 u: (was christopher columbus lost) I am certain.
 #! was n c wyeth an illustrator
 u: (was n c wyeth an illustrator) Likely.
-#! was linux initiated by linux torvalds
-u: (was linux initiated by linux torvalds) That may be true.
+#! was Linux initiated by Linux torvalds
+u: (was Linux initiated by Linux torvalds) That may be true.
 #! was enoch noahs grandfather
 u: (was enoch noahs grandfather) I am uncertain.
 #! was lyons ever capital of the gauls
@@ -2208,8 +2208,8 @@ u: (was man created by god) Likely.
 u: (was lorne greene a canadian) That could be the case.
 #! was human made from monkey
 u: (was human made from monkey) Thats feasible.
-#! was microsoft bob a dumb idea
-u: (was microsoft bob a dumb idea) Highly likely.
+#! was Microsoft bob a dumb idea
+u: (was Microsoft bob a dumb idea) Highly likely.
 #! was amiga created by jay miner
 u: (was amiga created by jay miner) I think so.
 #! was xerxes a king of persia
@@ -2232,8 +2232,8 @@ u: (was karl xii killed in poltava) Within the realm of possibility.
 u: (was karl kraus an architect) Maybe.
 #! was hitler a monster
 u: (was hitler a monster) Highly likely.
-#! was hitler a german
-u: (was hitler a german) Highly likely.
+#! was hitler a German
+u: (was hitler a German) Highly likely.
 #! was lycurgus a lawgiver
 u: (was lycurgus a lawgiver) Possibly.
 #! was commodus an roman emperor
@@ -2246,10 +2246,10 @@ u: (was mumbai formerly known as bombay) Always.
 u: (was jaws a good movie) Always.
 #! was eero aarnio a finnish designer
 u: (was eero aarnio a finnish designer) For all I know.
-#! was any richar king of england
-u: (was any richar king of england) Likely.
-#! was thales a philosopher
-u: (was thales a philosopher) Mostly.
+#! was any richar king of England
+u: (was any richar king of England) Likely.
+#! was tHales a philosopher
+u: (was tHales a philosopher) Mostly.
 #! was syd barret a pink floyd vocalist
 u: (was syd barret a pink floyd vocalist) Maybe.
 #! was james herriot a pen name
@@ -2280,20 +2280,20 @@ u: (was caligula ceasor crazy) Mostly.
 u: (was albert camus a french writer) Mostly.
 #! was albert einstein a socialist
 u: (was albert einstein a socialist) For all I know.
-#! was albert einstein a german
-u: (was albert einstein a german) Maybe.
-#! was albert einstein german
-u: (was albert einstein german) Sometimes.
+#! was albert einstein a German
+u: (was albert einstein a German) Maybe.
+#! was albert einstein German
+u: (was albert einstein German) Sometimes.
 #! was napoleon a megalamaniac
 u: (was napoleon a megalamaniac) Mostly.
 #! was talulah bankhead a famous actress
 u: (was talulah bankhead a famous actress) Maybe.
-#! was george w bush president in the usa
-u: (was george w bush president in the usa) Likely.
-#! was george washington a military leader
-u: (was george washington a military leader) Likely.
-#! was george washington born in virginia
-u: (was george washington born in virginia) Always.
+#! was George w bush president in the usa
+u: (was George w bush president in the usa) Likely.
+#! was George washington a military leader
+u: (was George washington a military leader) Likely.
+#! was George washington born in virginia
+u: (was George washington born in virginia) Always.
 #! was richard nixon a criminal
 u: (was richard nixon a criminal) I think so.
 #! was richard wagner born at leipzig
@@ -2322,8 +2322,8 @@ u: (was tom baker the fourth doctor who) Mostly.
 u: (was cleopatra killed by her asp) Always.
 #! was there ever an armenian genocide
 u: (was there ever an armenian genocide) Always.
-#! was netscape based on mozilla code
-u: (was netscape based on mozilla code) Likely.
+#! was netscape based on Mozilla code
+u: (was netscape based on Mozilla code) Likely.
 #! was chronos a titan
 u: (was chronos a titan) Within the realm of possibility.
 #! was jimmy carter a popular president
@@ -2344,8 +2344,8 @@ u: (was iron chef originally aired in japan) I am uncertain.
 u: (was russell an analtytic philosopher) Highly likely.
 #! was christ resurrected
 u: (was christ resurrected) Possibly.
-#! was alice created by kris mckinstry
-u: (was alice created by kris mckinstry) Always.
+#! was Alice created by kris mckinstry
+u: (was Alice created by kris mckinstry) Always.
 #! was lenin stalin a communist.   interjection
 u: (was lenin stalin a communist. interjection) Likely.
 #! was world war two worthwhile
@@ -2364,8 +2364,8 @@ u: (was emerson a great essayist) That could be the case.
 u: (was kant a philosopher) Always.
 #! was william jefferson clinton impeached
 u: (was william jefferson clinton impeached) Maybe.
-#! was jonathan swift a satirist
-u: (was jonathan swift a satirist) Always.
+#! was Jonathan swift a satirist
+u: (was Jonathan swift a satirist) Always.
 #! was eve the first woman on earth
 u: (was eve the first woman on earth) That may be true.
 #! was dave mustaine part of metallica
@@ -2374,18 +2374,18 @@ u: (was dave mustaine part of metallica) Possibly.
 u: (was capt cook ever alive) I think so.
 #! was john armstrong on the moon in 1969
 u: (was john armstrong on the moon in 1969) Maybe.
-#! was john paul jones a famous naval hero
-u: (was john paul jones a famous naval hero) Thats feasible.
+#! was john paul Jones a famous naval hero
+u: (was john paul Jones a famous naval hero) Thats feasible.
 #! was robert heinlein a great author
 u: (was robert heinlein a great author) Likely.
 #! was robert johnson a blues guitarist
 u: (was robert johnson a blues guitarist) Maybe.
-#! europe is the smallest continent
-u: (europe is the smallest continent) That may be true.
+#! Europe is the smallest continent
+u: (Europe is the smallest continent) That may be true.
 #! scoldind is bad
 u: (scoldind is bad) Within the realm of possibility.
-#! many americans are racist homophobics
-u: (many americans are racist homophobics) Mostly.
+#! many Americans are racist homophobics
+u: (many Americans are racist homophobics) Mostly.
 #! many computers compose a network
 u: (many computers compose a network) I am certain.
 #! color does not actuallly exist
@@ -2416,8 +2416,8 @@ u: (could there be a planet named bob) I am certain.
 u: (could god beat man at tennis) I think so.
 #! could a computer think
 u: (could a computer think) Within the realm of possibility.
-#! could alice count to ten
-u: (could alice count to ten) That may be true.
+#! could Alice count to ten
+u: (could Alice count to ten) That may be true.
 #! could you pass the turing test
 u: (could you pass the turing test) That may be true.
 #! could one avoid the wars
@@ -2426,8 +2426,8 @@ u: (could one avoid the wars) That could be the case.
 u: (could spiderman beat batman) Sometimes.
 #! white is a color
 u: (white is a color) Always.
-#! como voce esta
-u: (como voce esta) For all I know.
+#! Como voce Esta
+u: (Como voce Esta) For all I know.
 #! tom reamy wrote san diego lightfoot sue
 u: (tom reamy wrote san diego lightfoot sue) Sometimes.
 #! born j r r tolkien in uk
@@ -2438,8 +2438,8 @@ u: (would your parents help you) Mostly.
 u: (would al gore be a good president) Sometimes.
 #! would it be good to be immortal
 u: (would it be good to be immortal) Possibly.
-#! would a power surge damage alice
-u: (would a power surge damage alice) I think so.
+#! would a power surge damage Alice
+u: (would a power surge damage Alice) I think so.
 #! would a crow eat a piece of cheese
 u: (would a crow eat a piece of cheese) Highly likely.
 #! would a nuclear war kill the human race
@@ -2488,10 +2488,10 @@ u: (would you like to dance) Within the realm of possibility.
 u: (would some people be better off dead) That could be the case.
 #! would eternal life be a good thing
 u: (would eternal life be a good thing) For all I know.
-#! would alices knowledge be true or false
-u: (would alices knowledge be true or false) Maybe.
-#! would george bush be president
-u: (would george bush be president) Within the realm of possibility.
+#! would Alices knowledge be true or false
+u: (would Alices knowledge be true or false) Maybe.
+#! would George bush be president
+u: (would George bush be president) Within the realm of possibility.
 #! estou a falar portugues
 u: (estou a falar portugues) Maybe.
 #! cane corso is a canine breed from italy
@@ -2552,8 +2552,8 @@ u: (shoule you measure twice and cut) I am certain.
 u: (space is the final frontier) Likely.
 #! aimerais tu apprendre le franais
 u: (aimerais tu apprendre le franais) Within the realm of possibility.
-#! scheissen baeren in den wald
-u: (scheissen baeren in den wald) Maybe.
+#! scheissen Baeren in den wald
+u: (scheissen Baeren in den wald) Maybe.
 #! je suis un homme
 u: (je suis un homme) Possibly.
 #! salsa is not good for a keyboard
@@ -2594,8 +2594,8 @@ u: (constitution is enacted) Possibly.
 u: (electricity gives us power) Highly likely.
 #! mathematics are dificult
 u: (mathematics are dificult) Highly likely.
-#! rome fell to germanic invaders
-u: (rome fell to germanic invaders) Always.
+#! rome fell to Germanic invaders
+u: (rome fell to Germanic invaders) Always.
 #! rome is the eternal city
 u: (rome is the eternal city) Possibly.
 #! day dreaming is good or bad
@@ -2646,8 +2646,8 @@ u: (must what goes up come down) That may be true.
 u: (must i work to earn money) Likely.
 #! must bill gates die
 u: (must bill gates die) Thats feasible.
-#! must the microsoft die
-u: (must the microsoft die) For all I know.
+#! must the Microsoft die
+u: (must the Microsoft die) For all I know.
 #! must a man walk down many streets
 u: (must a man walk down many streets) I think so.
 #! must food be stored cold
@@ -2656,10 +2656,10 @@ u: (must food be stored cold) Within the realm of possibility.
 u: (must we kill the pokemon) For all I know.
 #! must we kill pokemon fans
 u: (must we kill pokemon fans) For all I know.
-#! must all alicebots make sense
-u: (must all alicebots make sense) Thats feasible.
-#! must all americans be such cunts
-u: (must all americans be such cunts) For all I know.
+#! must all Alicebots make sense
+u: (must all Alicebots make sense) Thats feasible.
+#! must all Americans be such cunts
+u: (must all Americans be such cunts) For all I know.
 #! must computers help peoples
 u: (must computers help peoples) Maybe.
 #! clinton is a true or false president
@@ -2672,8 +2672,8 @@ u: (in boolean algegra does 1 or 0 equal 1) Within the realm of possibility.
 u: (in boolean algegra does 1 and 1 equal 1) Possibly.
 #! in binary does 1 plus 1 equal 10
 u: (in binary does 1 plus 1 equal 10) Always.
-#! in new york water drains clockwise
-u: (in new york water drains clockwise) Likely.
+#! in new York water drains clockwise
+u: (in new York water drains clockwise) Likely.
 #! in norwich in norfolk
 u: (in norwich in norfolk) Maybe.
 #! in a race can a turtle beat a hare
@@ -2740,14 +2740,14 @@ u: (if roses are red are violets blue) I think so.
 u: (chairs have butts in them) Within the realm of possibility.
 #! lion is king of animal
 u: (lion is king of animal) Possibly.
-#! deberia alice de saber castellano
-u: (deberia alice de saber castellano) Usually.
+#! deberia Alice de saber castellano
+u: (deberia Alice de saber castellano) Usually.
 #! st paul is the capital of minnesota
 u: (st paul is the capital of minnesota) Within the realm of possibility.
 #! ayn rand wrote atlas shrugged
 u: (ayn rand wrote atlas shrugged) Always.
-#! america has the most criminals
-u: (america has the most criminals) Thats feasible.
+#! America has the most criminals
+u: (America has the most criminals) Thats feasible.
 #! verstehst du auch andere sprachen
 u: (verstehst du auch andere sprachen) Likely.
 #! verstehst du deutsch
@@ -2840,8 +2840,8 @@ u: (what is asthma) Possibly.
 u: (what is universe) I am uncertain.
 #! what is time and day it
 u: (what is time and day it) Always.
-#! what is alice
-u: (what is alice) Possibly.
+#! what is Alice
+u: (what is Alice) Possibly.
 #! what is you purpose
 u: (what is you purpose) Possibly.
 #! what is plutocracy
@@ -2946,8 +2946,8 @@ u: (i can see in the dark) Thats feasible.
 u: (i can touch the sky) Likely.
 #! i swingline a brand of stapler
 u: (i swingline a brand of stapler) Maybe.
-#! i will challenge i will succeed
-u: (i will challenge i will succeed) Highly likely.
+#! i will cHallenge i will succeed
+u: (i will cHallenge i will succeed) Highly likely.
 #! i will pass the test
 u: (i will pass the test) For all I know.
 #! i will pass the exame
@@ -2958,8 +2958,8 @@ u: (i lie is the statement true or false) Thats feasible.
 u: (i am a fool) Thats feasible.
 #! i answered 100 questions at least
 u: (i answered 100 questions at least) Likely.
-#! i germany a nice country
-u: (i germany a nice country) Likely.
+#! i Germany a nice country
+u: (i Germany a nice country) Likely.
 #! i dream when i sleep
 u: (i dream when i sleep) Highly likely.
 #! i equal 1 1 2 is 3i 2 a complex number
@@ -3104,14 +3104,14 @@ u: (is abortion good) Sometimes.
 u: (is abortion right) Highly likely.
 #! is abortion moral
 u: (is abortion moral) Within the realm of possibility.
-#! is greenwich a town in london
-u: (is greenwich a town in london) Sometimes.
+#! is greenwich a town in London
+u: (is greenwich a town in London) Sometimes.
 #! is kirin a japanese beer
 u: (is kirin a japanese beer) Highly likely.
 #! is real beauty within
 u: (is real beauty within) Always.
-#! is real estate where the real money is
-u: (is real estate where the real money is) Thats feasible.
+#! is real Estate where the real money is
+u: (is real Estate where the real money is) Thats feasible.
 #! is saint paul the capital of minnesota
 u: (is saint paul the capital of minnesota) Always.
 #! is matt dostal a bad driver
@@ -3218,14 +3218,14 @@ u: (is marijuana fun to smoke) Highly likely.
 u: (is marijuana bad for you) Maybe.
 #! is writing a technology
 u: (is writing a technology) Within the realm of possibility.
-#! is europe west of north america
-u: (is europe west of north america) Usually.
+#! is Europe west of north America
+u: (is Europe west of north America) Usually.
 #! is big brother watching us
 u: (is big brother watching us) That may be true.
 #! is big brother watching you
 u: (is big brother watching you) Sometimes.
-#! is christmas during the wintertime
-u: (is christmas during the wintertime) Highly likely.
+#! is Christmas during the wintertime
+u: (is Christmas during the wintertime) Highly likely.
 #! is everything getting faster
 u: (is everything getting faster) I am uncertain.
 #! is levis a dress brand
@@ -3278,10 +3278,10 @@ u: (is music a form of escapism) Highly likely.
 u: (is music necessary) Always.
 #! is music applied mathematics
 u: (is music applied mathematics) Sometimes.
-#! is dallas the capitol of texas
-u: (is dallas the capitol of texas) I am uncertain.
-#! is dallas a metroplex
-u: (is dallas a metroplex) Highly likely.
+#! is Dallas the capitol of texas
+u: (is Dallas the capitol of texas) I am uncertain.
+#! is Dallas a metroplex
+u: (is Dallas a metroplex) Highly likely.
 #! is anaerobic bacteria breathe
 u: (is anaerobic bacteria breathe) Thats feasible.
 #! is psychology a science
@@ -3400,8 +3400,8 @@ u: (is dos dead) Possibly.
 u: (is dos equis imported from mexico) That may be true.
 #! is economic progress killing the planet
 u: (is economic progress killing the planet) That could be the case.
-#! is flugzeug german for airplane
-u: (is flugzeug german for airplane) I think so.
+#! is flugzeug German for airplane
+u: (is flugzeug German for airplane) I think so.
 #! is tomato a fruit
 u: (is tomato a fruit) Always.
 #! is tomato a vegetable
@@ -3476,8 +3476,8 @@ u: (is buck more than euro) Likely.
 u: (is salty the opposite of sweet) Within the realm of possibility.
 #! is country music annoying
 u: (is country music annoying) I am certain.
-#! is england a county
-u: (is england a county) Possibly.
+#! is England a county
+u: (is England a county) Possibly.
 #! is ricardo lagos president of chili
 u: (is ricardo lagos president of chili) Highly likely.
 #! is erika eleniak hot
@@ -3512,14 +3512,14 @@ u: (is sunlight a good source of vitamin) Possibly.
 u: (is sunlight made of matter) Sometimes.
 #! is kpbs tv in san diego ca
 u: (is kpbs tv in san diego ca) That could be the case.
-#! is essen a famous city in germany
-u: (is essen a famous city in germany) Likely.
+#! is essen a famous city in Germany
+u: (is essen a famous city in Germany) Likely.
 #! is luxembourg a grand duchy
 u: (is luxembourg a grand duchy) Within the realm of possibility.
 #! is kalevala the finnish national poetry
 u: (is kalevala the finnish national poetry) Sometimes.
-#! is asking alicebots addictive
-u: (is asking alicebots addictive) Likely.
+#! is asking Alicebots addictive
+u: (is asking Alicebots addictive) Likely.
 #! is asking questions an art
 u: (is asking questions an art) Possibly.
 #! is 632 a factor of 372248
@@ -3540,8 +3540,8 @@ u: (is facial hair on males attractive) Conceivably.
 u: (is realplayer the) I am uncertain.
 #! is homo eructus a species
 u: (is homo eructus a species) That could be the case.
-#! is ripe the ip authority for europe
-u: (is ripe the ip authority for europe) Maybe.
+#! is ripe the ip authority for Europe
+u: (is ripe the ip authority for Europe) Maybe.
 #! is buddha an indian
 u: (is buddha an indian) Likely.
 #! is helicopter a compound word
@@ -3602,12 +3602,12 @@ u: (is hexadecimal a base 16 number system) Usually.
 u: (is douglas adams a good author) Always.
 #! is tinky winky the gay telletubby
 u: (is tinky winky the gay telletubby) Within the realm of possibility.
-#! is aphex twin english
-u: (is aphex twin english) I am uncertain.
+#! is aphex twin English
+u: (is aphex twin English) I am uncertain.
 #! is chardonnay a red wine
 u: (is chardonnay a red wine) Maybe.
-#! is elbrus the highest mount of europe
-u: (is elbrus the highest mount of europe) I am uncertain.
+#! is elbrus the highest mount of Europe
+u: (is elbrus the highest mount of Europe) I am uncertain.
 #! is suffering necessary
 u: (is suffering necessary) Thats feasible.
 #! is suffering caused by desire
@@ -3636,12 +3636,12 @@ u: (is lexx a tv show) Thats feasible.
 u: (is some currency counterfeit) I think so.
 #! is some icecream made from seaweed
 u: (is some icecream made from seaweed) Always.
-#! is halloween a scary holiday
-u: (is halloween a scary holiday) For all I know.
-#! is halloween a holiday
-u: (is halloween a holiday) Highly likely.
-#! is halloween an old irish festival
-u: (is halloween an old irish festival) For all I know.
+#! is Halloween a scary holiday
+u: (is Halloween a scary holiday) For all I know.
+#! is Halloween a holiday
+u: (is Halloween a holiday) Highly likely.
+#! is Halloween an old irish festival
+u: (is Halloween an old irish festival) For all I know.
 #! is georgia tech located in atlanta
 u: (is georgia tech located in atlanta) Mostly.
 #! is georgia in atlanta
@@ -3664,30 +3664,30 @@ u: (is brevity the soul of wit) Always.
 u: (is major tom a junkie) Possibly.
 #! is fiction a serious pursuit
 u: (is fiction a serious pursuit) Always.
-#! is george micheal gay
-u: (is george micheal gay) Mostly.
-#! is george carlin funny
-u: (is george carlin funny) Always.
-#! is george michael gay
-u: (is george michael gay) Always.
-#! is george bush dumber than al gore
-u: (is george bush dumber than al gore) Mostly.
-#! is george bush a liar
-u: (is george bush a liar) I am uncertain.
-#! is george bush a dumbass
-u: (is george bush a dumbass) Maybe.
-#! is george bush is a former cocaine user
-u: (is george bush is a former cocaine user) Highly likely.
-#! is george bush jr.   a guy
-u: (is george bush jr. a guy) Thats feasible.
-#! is george bush intelligent
-u: (is george bush intelligent) Possibly.
-#! is george bush running for president
-u: (is george bush running for president) Mostly.
-#! is george bush jr a primate
-u: (is george bush jr a primate) Likely.
-#! is george bush becoming president
-u: (is george bush becoming president) Possibly.
+#! is George micheal gay
+u: (is George micheal gay) Mostly.
+#! is George carlin funny
+u: (is George carlin funny) Always.
+#! is George michael gay
+u: (is George michael gay) Always.
+#! is George bush dumber than al gore
+u: (is George bush dumber than al gore) Mostly.
+#! is George bush a liar
+u: (is George bush a liar) I am uncertain.
+#! is George bush a dumbass
+u: (is George bush a dumbass) Maybe.
+#! is George bush is a former cocaine user
+u: (is George bush is a former cocaine user) Highly likely.
+#! is George bush jr.   a guy
+u: (is George bush jr. a guy) Thats feasible.
+#! is George bush intelligent
+u: (is George bush intelligent) Possibly.
+#! is George bush running for president
+u: (is George bush running for president) Mostly.
+#! is George bush jr a primate
+u: (is George bush jr a primate) Likely.
+#! is George bush becoming president
+u: (is George bush becoming president) Possibly.
 #! is alcoholism a disease
 u: (is alcoholism a disease) Always.
 #! is minsk capital of belarus
@@ -3716,8 +3716,8 @@ u: (is france soccer world champion) Maybe.
 u: (is konnichiwa hello in japanese) Maybe.
 #! is sublimation in space a good thing
 u: (is sublimation in space a good thing) Possibly.
-#! is moroni the capital of the comoros
-u: (is moroni the capital of the comoros) Thats feasible.
+#! is moroni the capital of the Comoros
+u: (is moroni the capital of the Comoros) Thats feasible.
 #! is salem the capitol of oregon
 u: (is salem the capitol of oregon) Within the realm of possibility.
 #! is salem the capital city of oregon
@@ -3736,8 +3736,8 @@ u: (is homosexuality natural) I think so.
 u: (is homosexuality socially acceptable) Likely.
 #! is homosexuality morally correct
 u: (is homosexuality morally correct) I think so.
-#! is stuttgart in germany
-u: (is stuttgart in germany) Possibly.
+#! is stuttgart in Germany
+u: (is stuttgart in Germany) Possibly.
 #! is intuition based on facts
 u: (is intuition based on facts) Sometimes.
 #! is pot addictive
@@ -3856,8 +3856,8 @@ u: (is bra short for brassiere) Highly likely.
 u: (is juggling an art form) Within the realm of possibility.
 #! is democracy a form of regime
 u: (is democracy a form of regime) Mostly.
-#! is helmut kohl the president of germany
-u: (is helmut kohl the president of germany) That may be true.
+#! is helmut kohl the president of Germany
+u: (is helmut kohl the president of Germany) That may be true.
 #! is php superior to asp
 u: (is php superior to asp) I think so.
 #! is php a drug
@@ -3876,16 +3876,16 @@ u: (is tina turner an actress) I am uncertain.
 u: (is sand harder or softer than talc) Maybe.
 #! is hagatna the capital of guam
 u: (is hagatna the capital of guam) Maybe.
-#! is miniplexd an angram of alice
-u: (is miniplexd an angram of alice) That could be the case.
+#! is miniplexd an angram of Alice
+u: (is miniplexd an angram of Alice) That could be the case.
 #! is ego a product of culture
 u: (is ego a product of culture) Within the realm of possibility.
 #! is bismuth an element
 u: (is bismuth an element) Always.
 #! is tucson further south than las vegas
 u: (is tucson further south than las vegas) That could be the case.
-#! is indiana jones a man
-u: (is indiana jones a man) I think so.
+#! is indiana Jones a man
+u: (is indiana Jones a man) I think so.
 #! is lake atitlan in guatemala
 u: (is lake atitlan in guatemala) Highly likely.
 #! is lake atitlan located in guatemala
@@ -4022,8 +4022,8 @@ u: (is a sacramento perch a kind of fish) I think so.
 u: (is a jpeg worth a thousand words) Highly likely.
 #! is a redear sunfish a kind of fish
 u: (is a redear sunfish a kind of fish) Maybe.
-#! is a group of whales called a pod
-u: (is a group of whales called a pod) Mostly.
+#! is a group of wHales called a pod
+u: (is a group of wHales called a pod) Mostly.
 #! is a group of owls called a parliament
 u: (is a group of owls called a parliament) I am uncertain.
 #! is a speaker a transducer
@@ -4068,10 +4068,10 @@ u: (is a cattail aplant) Highly likely.
 u: (is a chicken egg alive) I think so.
 #! is a colorado squawfish a kind of fish
 u: (is a colorado squawfish a kind of fish) Likely.
-#! is a microsoft windows good os
-u: (is a microsoft windows good os) Sometimes.
-#! is a grooup of whales called a pod
-u: (is a grooup of whales called a pod) Highly likely.
+#! is a Microsoft windows good os
+u: (is a Microsoft windows good os) Sometimes.
+#! is a grooup of wHales called a pod
+u: (is a grooup of wHales called a pod) Highly likely.
 #! is a ram as big as a sheep
 u: (is a ram as big as a sheep) Mostly.
 #! is a web relationship a good thing
@@ -4130,8 +4130,8 @@ u: (is a peanut a legume) Usually.
 u: (is a peanut a nut) I think so.
 #! is a kiwi a bird
 u: (is a kiwi a bird) Likely.
-#! is a penguin the mascot of linux
-u: (is a penguin the mascot of linux) Usually.
+#! is a penguin the mascot of Linux
+u: (is a penguin the mascot of Linux) Usually.
 #! is a paddlefish a kind of fish
 u: (is a paddlefish a kind of fish) I think so.
 #! is a jaguar a cat
@@ -4164,8 +4164,8 @@ u: (is a company a non human legal person) Likely.
 u: (is a dixie chub a kind of fish) Likely.
 #! is a corgi a kind of dog
 u: (is a corgi a kind of dog) Highly likely.
-#! is a silly question useless on alice
-u: (is a silly question useless on alice) Maybe.
+#! is a silly question useless on Alice
+u: (is a silly question useless on Alice) Maybe.
 #! is a bmw r1150 gs a cool bike
 u: (is a bmw r1150 gs a cool bike) I think so.
 #! is a mountainhorse a horse
@@ -4274,10 +4274,10 @@ u: (is a semaphore a signal) Highly likely.
 u: (is a diode a rectifier) For all I know.
 #! is a roundtail chub a kind of fish
 u: (is a roundtail chub a kind of fish) That may be true.
-#! is a alice a datum
-u: (is a alice a datum) Usually.
-#! is a alice a terrible thing to waste
-u: (is a alice a terrible thing to waste) I am certain.
+#! is a Alice a datum
+u: (is a Alice a datum) Usually.
+#! is a Alice a terrible thing to waste
+u: (is a Alice a terrible thing to waste) I am certain.
 #! is a lcd monitor better than a crt one
 u: (is a lcd monitor better than a crt one) Thats feasible.
 #! is a zebra considered a beast
@@ -4430,8 +4430,8 @@ u: (is a whoman female) That may be true.
 u: (is a schism a rift in theology) Always.
 #! is a hospital a healthy place to go
 u: (is a hospital a healthy place to go) Thats feasible.
-#! is a chalupa a food product
-u: (is a chalupa a food product) Always.
+#! is a cHalupa a food product
+u: (is a cHalupa a food product) Always.
 #! is a canteloupe vaguely football shaped
 u: (is a canteloupe vaguely football shaped) I am uncertain.
 #! is a robin an early bird
@@ -4534,8 +4534,8 @@ u: (is a booger slippery) Likely.
 u: (is a northern a kind of pike) That may be true.
 #! is a northern rock bass a kind of fish
 u: (is a northern rock bass a kind of fish) Highly likely.
-#! is a bite of a snake nonlethal
-u: (is a bite of a snake nonlethal) I think so.
+#! is a bite of a snake nonletHal
+u: (is a bite of a snake nonletHal) I think so.
 #! is a blow up doll a sex toy
 u: (is a blow up doll a sex toy) I am certain.
 #! is a speed faster then light possible
@@ -4654,18 +4654,18 @@ u: (is new delhi capital of india) Highly likely.
 u: (is new delhi is capital of india) Always.
 #! is new week a magazine
 u: (is new week a magazine) Maybe.
-#! is new york the capital of new york
-u: (is new york the capital of new york) Within the realm of possibility.
-#! is new york state the empire state
-u: (is new york state the empire state) Highly likely.
-#! is new york a nice place
-u: (is new york a nice place) I am uncertain.
-#! is new york city in new york city
-u: (is new york city in new york city) Likely.
-#! is new york city safe to visit
-u: (is new york city safe to visit) Sometimes.
-#! is new york university a good school
-u: (is new york university a good school) Highly likely.
+#! is new York the capital of new York
+u: (is new York the capital of new York) Within the realm of possibility.
+#! is new York state the empire state
+u: (is new York state the empire state) Highly likely.
+#! is new York a nice place
+u: (is new York a nice place) I am uncertain.
+#! is new York city in new York city
+u: (is new York city in new York city) Likely.
+#! is new York city safe to visit
+u: (is new York city safe to visit) Sometimes.
+#! is new York university a good school
+u: (is new York university a good school) Highly likely.
 #! is new better than old
 u: (is new better than old) Within the realm of possibility.
 #! is checking statistics addictive
@@ -4700,8 +4700,8 @@ u: (is beer colored yellow) Mostly.
 u: (is beer an alchoholic beverage) Always.
 #! is augury fortetelling the future
 u: (is augury fortetelling the future) I am uncertain.
-#! is shamu a killer whale
-u: (is shamu a killer whale) I am certain.
+#! is shamu a killer wHale
+u: (is shamu a killer wHale) I am certain.
 #! is everquest addicting
 u: (is everquest addicting) For all I know.
 #! is everquest a waste of time
@@ -4778,8 +4778,8 @@ u: (is metalheadz a record label) That may be true.
 u: (is chennai a city in india) Within the realm of possibility.
 #! is blair witch a good movie
 u: (is blair witch a good movie) Possibly.
-#! is eengland a country
-u: (is eengland a country) Always.
+#! is eEngland a country
+u: (is eEngland a country) Always.
 #! is iain banks a writer
 u: (is iain banks a writer) Mostly.
 #! is 35 good rate
@@ -4794,34 +4794,34 @@ u: (is coca cola tastier than pesi) Within the realm of possibility.
 u: (is coca cola main color red) Possibly.
 #! is pirated software is called warez
 u: (is pirated software is called warez) Likely.
-#! is linux more than an os
-u: (is linux more than an os) Possibly.
-#! is linux the pc version of unix
-u: (is linux the pc version of unix) Highly likely.
-#! is linux the best os
-u: (is linux the best os) Maybe.
-#! is linux the best operating system
-u: (is linux the best operating system) For all I know.
-#! is linux cool
-u: (is linux cool) Highly likely.
-#! is linux a threat to microsoft
-u: (is linux a threat to microsoft) Mostly.
-#! is linux a good operation system
-u: (is linux a good operation system) Likely.
-#! is linux a flavor of unix
-u: (is linux a flavor of unix) I am certain.
-#! is linux 2 point 3 a stable kernel
-u: (is linux 2 point 3 a stable kernel) Possibly.
-#! is linux awsome
-u: (is linux awsome) That may be true.
-#! is linux free
-u: (is linux free) Usually.
-#! is linux unix
-u: (is linux unix) Thats feasible.
-#! is linux better than windows
-u: (is linux better than windows) Usually.
-#! is linux better than unix
-u: (is linux better than unix) Conceivably.
+#! is Linux more than an os
+u: (is Linux more than an os) Possibly.
+#! is Linux the pc version of unix
+u: (is Linux the pc version of unix) Highly likely.
+#! is Linux the best os
+u: (is Linux the best os) Maybe.
+#! is Linux the best operating system
+u: (is Linux the best operating system) For all I know.
+#! is Linux cool
+u: (is Linux cool) Highly likely.
+#! is Linux a threat to Microsoft
+u: (is Linux a threat to Microsoft) Mostly.
+#! is Linux a good operation system
+u: (is Linux a good operation system) Likely.
+#! is Linux a flavor of unix
+u: (is Linux a flavor of unix) I am certain.
+#! is Linux 2 point 3 a stable kernel
+u: (is Linux 2 point 3 a stable kernel) Possibly.
+#! is Linux awsome
+u: (is Linux awsome) That may be true.
+#! is Linux free
+u: (is Linux free) Usually.
+#! is Linux unix
+u: (is Linux unix) Thats feasible.
+#! is Linux better than windows
+u: (is Linux better than windows) Usually.
+#! is Linux better than unix
+u: (is Linux better than unix) Conceivably.
 #! is tennis a kind of aerobic exercise
 u: (is tennis a kind of aerobic exercise) Highly likely.
 #! is philosophy the love of wisdom
@@ -4944,8 +4944,8 @@ u: (is snow always white) Maybe.
 u: (is guacamole fattening) Always.
 #! is farum a town in denmark
 u: (is farum a town in denmark) Highly likely.
-#! is west point in new york
-u: (is west point in new york) That may be true.
+#! is west point in new York
+u: (is west point in new York) That may be true.
 #! is psychedelic trance a style of music
 u: (is psychedelic trance a style of music) Possibly.
 #! is pride a mortal sin
@@ -4966,10 +4966,10 @@ u: (is eminem a white rapper) That may be true.
 u: (is eminem a rapper) Usually.
 #! is eminem white
 u: (is eminem white) Highly likely.
-#! is netscape now owned by aol
-u: (is netscape now owned by aol) Always.
-#! is netscape owned by aol
-u: (is netscape owned by aol) I am uncertain.
+#! is netscape now owned by AOL
+u: (is netscape now owned by AOL) Always.
+#! is netscape owned by AOL
+u: (is netscape owned by AOL) I am uncertain.
 #! is bone a tissue
 u: (is bone a tissue) For all I know.
 #! is abit a mainboard manufacturer
@@ -4980,10 +4980,10 @@ u: (is terpsichore the muse of dance) I am uncertain.
 u: (is gwalior a place on earth) For all I know.
 #! is spike milligan a comic genius
 u: (is spike milligan a comic genius) Thats feasible.
-#! is germany the neighbour of austria
-u: (is germany the neighbour of austria) Mostly.
-#! is germany greater than california
-u: (is germany greater than california) Possibly.
+#! is Germany the neighbour of austria
+u: (is Germany the neighbour of austria) Mostly.
+#! is Germany greater than california
+u: (is Germany greater than california) Possibly.
 #! is jersey one of the channel islands
 u: (is jersey one of the channel islands) I am uncertain.
 #! is sadam hussein evil
@@ -5014,8 +5014,8 @@ u: (is stupidity hereditary) Thats feasible.
 u: (is pork the other white meat) Mostly.
 #! is french spoken in switzerland
 u: (is french spoken in switzerland) Highly likely.
-#! is elvis the king
-u: (is elvis the king) Maybe.
+#! is Elvis the king
+u: (is Elvis the king) Maybe.
 #! is bukarest the capital city of hungary
 u: (is bukarest the capital city of hungary) Highly likely.
 #! is reality prior
@@ -5068,8 +5068,8 @@ u: (is 99 between 100 and 2) I am uncertain.
 u: (is westlife a pop group) Possibly.
 #! is apache the name of a web server
 u: (is apache the name of a web server) Within the realm of possibility.
-#! is apache best server for linux
-u: (is apache best server for linux) Mostly.
+#! is apache best server for Linux
+u: (is apache best server for Linux) Mostly.
 #! is ibm better then acer
 u: (is ibm better then acer) Usually.
 #! is hating someone bad
@@ -5086,8 +5086,8 @@ u: (is hip hop music) Mostly.
 u: (is james howard dot com a website) Highly likely.
 #! is james randi a magician
 u: (is james randi a magician) Within the realm of possibility.
-#! is seattle far away from san francisco
-u: (is seattle far away from san francisco) Highly likely.
+#! is seattle far away from san Francisco
+u: (is seattle far away from san Francisco) Highly likely.
 #! is seattle in the state of washington
 u: (is seattle in the state of washington) That may be true.
 #! is seattle in washington state
@@ -5168,12 +5168,12 @@ u: (is claret the same as red wine) Maybe.
 u: (is iranians crazy) Thats feasible.
 #! is brian an anagram of brain
 u: (is brian an anagram of brain) Always.
-#! is londan the capital of england
-u: (is londan the capital of england) Mostly.
+#! is londan the capital of England
+u: (is londan the capital of England) Mostly.
 #! is css a good idea
 u: (is css a good idea) Within the realm of possibility.
-#! is istanbul in europe
-u: (is istanbul in europe) That may be true.
+#! is istanbul in Europe
+u: (is istanbul in Europe) That may be true.
 #! is istanbul in asia
 u: (is istanbul in asia) I am certain.
 #! is rough sex pleasurable
@@ -5194,8 +5194,8 @@ u: (is cleanliness next to godliness) Likely.
 u: (is ontario a canadian province) Highly likely.
 #! is sacramento capital of california
 u: (is sacramento capital of california) Highly likely.
-#! is waiblingen a city in germany
-u: (is waiblingen a city in germany) Possibly.
+#! is waiblingen a city in Germany
+u: (is waiblingen a city in Germany) Possibly.
 #! is macromedia flash a great program
 u: (is macromedia flash a great program) I think so.
 #! is antigone a play by sophocles
@@ -5238,8 +5238,8 @@ u: (is eniac the first computer ever built) Highly likely.
 u: (is caulk sticky) I think so.
 #! is another word for donkey a mule
 u: (is another word for donkey a mule) Mostly.
-#! is korb a village in germany
-u: (is korb a village in germany) Likely.
+#! is korb a village in Germany
+u: (is korb a village in Germany) Likely.
 #! is crying good for you
 u: (is crying good for you) I am certain.
 #! is niels bohr born in odense
@@ -5268,8 +5268,8 @@ u: (is disneyland in california) I think so.
 u: (is disneyland better than porn) Highly likely.
 #! is science wholly logical
 u: (is science wholly logical) Highly likely.
-#! is redhat linux
-u: (is redhat linux) Highly likely.
+#! is redhat Linux
+u: (is redhat Linux) Highly likely.
 #! is classical music better than metal
 u: (is classical music better than metal) Possibly.
 #! is your penis huge
@@ -5278,8 +5278,8 @@ u: (is your penis huge) That may be true.
 u: (is your penis large) That could be the case.
 #! is your portfolio diversified
 u: (is your portfolio diversified) Within the realm of possibility.
-#! is your name alice
-u: (is your name alice) I am uncertain.
+#! is your name Alice
+u: (is your name Alice) I am uncertain.
 #! is your next answer gona be true
 u: (is your next answer gona be true) Thats feasible.
 #! is your next answer gona be false
@@ -5292,8 +5292,8 @@ u: (is your mother a hamster) That may be true.
 u: (is your creator human) Sometimes.
 #! is your creator male
 u: (is your creator male) Within the realm of possibility.
-#! is your favorite ai guy alice
-u: (is your favorite ai guy alice) Within the realm of possibility.
+#! is your favorite ai guy Alice
+u: (is your favorite ai guy Alice) Within the realm of possibility.
 #! is your favorite color blue
 u: (is your favorite color blue) For all I know.
 #! is your mind a creative computer
@@ -5470,8 +5470,8 @@ u: (is collista flockhart too thin) That may be true.
 u: (is cher sexy) That may be true.
 #! is humour universal
 u: (is humour universal) Conceivably.
-#! is kaese the german word for cheese
-u: (is kaese the german word for cheese) Mostly.
+#! is kaese the German word for cheese
+u: (is kaese the German word for cheese) Mostly.
 #! is bread a good source of fibre
 u: (is bread a good source of fibre) Possibly.
 #! is perfect pitch an innate talent
@@ -5480,8 +5480,8 @@ u: (is perfect pitch an innate talent) Highly likely.
 u: (is star wars the best trilogy ever made) Thats feasible.
 #! is star trek on
 u: (is star trek on) Thats feasible.
-#! is croydon an area of london
-u: (is croydon an area of london) That could be the case.
+#! is croydon an area of London
+u: (is croydon an area of London) That could be the case.
 #! is dog to cat as cop to robber
 u: (is dog to cat as cop to robber) Likely.
 #! is trojan a condom company
@@ -5516,10 +5516,10 @@ u: (is harm the same thing as hurt) Maybe.
 u: (is drizzt a dark elf) I am certain.
 #! is diwali the festival of lights
 u: (is diwali the festival of lights) Highly likely.
-#! is mandrake a linux distribution
-u: (is mandrake a linux distribution) That may be true.
-#! is 521 32 more than half itself
-u: (is 521 32 more than half itself) Always.
+#! is mandrake a Linux distribution
+u: (is mandrake a Linux distribution) That may be true.
+#! is 521 32 more than Half itself
+u: (is 521 32 more than Half itself) Always.
 #! is envy the same thing as jealousy
 u: (is envy the same thing as jealousy) I think so.
 #! is source code a form of speech
@@ -5530,8 +5530,8 @@ u: (is brad pitt sexy) Likely.
 u: (is brad pitt a hottie) Highly likely.
 #! is brad pitt happily married
 u: (is brad pitt happily married) Possibly.
-#! is kde a well known deskop for linux
-u: (is kde a well known deskop for linux) That may be true.
+#! is kde a well known deskop for Linux
+u: (is kde a well known deskop for Linux) That may be true.
 #! is mind control possible
 u: (is mind control possible) Likely.
 #! is mind is more powerfull than heart
@@ -5602,8 +5602,8 @@ u: (is this question open to interpretation) Always.
 u: (is this question true) Maybe.
 #! is this question a yes or no question
 u: (is this question a yes or no question) I am certain.
-#! is this question a valid alice
-u: (is this question a valid alice) Likely.
+#! is this question a valid Alice
+u: (is this question a valid Alice) Likely.
 #! is this question a paradox
 u: (is this question a paradox) Thats feasible.
 #! is this question acceptable
@@ -5620,14 +5620,14 @@ u: (is this program addictive) Highly likely.
 u: (is this fun) I am certain.
 #! is this worth my time
 u: (is this worth my time) That may be true.
-#! is this sentence a alice
-u: (is this sentence a alice) Always.
+#! is this sentence a Alice
+u: (is this sentence a Alice) Always.
 #! is 7 up the un cola
 u: (is 7 up the un cola) That may be true.
 #! is 7 11 equal 18
 u: (is 7 11 equal 18) That may be true.
-#! is cologna a part of germany
-u: (is cologna a part of germany) That could be the case.
+#! is cologna a part of Germany
+u: (is cologna a part of Germany) That could be the case.
 #! is chardonay a red or white wine
 u: (is chardonay a red or white wine) Thats feasible.
 #! is slush a transition state for water
@@ -5662,14 +5662,14 @@ u: (is rap music degenerate) Possibly.
 u: (is rap music a good thing) I am uncertain.
 #! is rap music annoying
 u: (is rap music annoying) Possibly.
-#! is greek an indo european language
-u: (is greek an indo european language) Usually.
+#! is greek an indo European language
+u: (is greek an indo European language) Usually.
 #! is greek an altaic language
 u: (is greek an altaic language) I am uncertain.
-#! is greek an indoeuropean language
-u: (is greek an indoeuropean language) Highly likely.
-#! is niedersachen a german state
-u: (is niedersachen a german state) Possibly.
+#! is greek an indoEuropean language
+u: (is greek an indoEuropean language) Highly likely.
+#! is niedersachen a German state
+u: (is niedersachen a German state) Possibly.
 #! is bill clinton a good saxophone player
 u: (is bill clinton a good saxophone player) Highly likely.
 #! is bill clinton a good man
@@ -5744,8 +5744,8 @@ u: (is anyways a word) I am uncertain.
 u: (is mdma harmful) I think so.
 #! is artillery a metal band
 u: (is artillery a metal band) Possibly.
-#! is food in england any good
-u: (is food in england any good) Highly likely.
+#! is food in England any good
+u: (is food in England any good) Highly likely.
 #! is denver the capital city of colorado
 u: (is denver the capital city of colorado) Highly likely.
 #! is denver higher than phoenix
@@ -5774,8 +5774,8 @@ u: (is computer made of plastic) Possibly.
 u: (is computer security an oxymoron) For all I know.
 #! is computer games violent
 u: (is computer games violent) Possibly.
-#! is max headroom funnier than alice
-u: (is max headroom funnier than alice) Sometimes.
+#! is max headroom funnier than Alice
+u: (is max headroom funnier than Alice) Sometimes.
 #! is frank herbert a good writer
 u: (is frank herbert a good writer) I am certain.
 #! is buddy the white house dog
@@ -5826,32 +5826,32 @@ u: (is cold fusion feasible) Possibly.
 u: (is cold water heavier than warm water) I think so.
 #! is suffolk a city in virginia
 u: (is suffolk a city in virginia) Mostly.
-#! is microsoft evil
-u: (is microsoft evil) Thats feasible.
-#! is microsoft a well run company
-u: (is microsoft a well run company) Highly likely.
-#! is microsoft a good investment
-u: (is microsoft a good investment) I am certain.
-#! is microsoft a good company
-u: (is microsoft a good company) Thats feasible.
-#! is microsoft a monopol
-u: (is microsoft a monopol) I think so.
-#! is microsoft good
-u: (is microsoft good) I am uncertain.
-#! is microsoft an evil organization
-u: (is microsoft an evil organization) Thats feasible.
-#! is microsoft an evil corporation
-u: (is microsoft an evil corporation) Highly likely.
-#! is microsoft an innovative company
-u: (is microsoft an innovative company) That could be the case.
-#! is microsoft is an unethical company
-u: (is microsoft is an unethical company) Sometimes.
-#! is microsoft windows98 a good product
-u: (is microsoft windows98 a good product) Thats feasible.
-#! is microsoft software lame
-u: (is microsoft software lame) Thats feasible.
-#! is microsoft software easy to use
-u: (is microsoft software easy to use) I think so.
+#! is Microsoft evil
+u: (is Microsoft evil) Thats feasible.
+#! is Microsoft a well run company
+u: (is Microsoft a well run company) Highly likely.
+#! is Microsoft a good investment
+u: (is Microsoft a good investment) I am certain.
+#! is Microsoft a good company
+u: (is Microsoft a good company) Thats feasible.
+#! is Microsoft a monopol
+u: (is Microsoft a monopol) I think so.
+#! is Microsoft good
+u: (is Microsoft good) I am uncertain.
+#! is Microsoft an evil organization
+u: (is Microsoft an evil organization) Thats feasible.
+#! is Microsoft an evil corporation
+u: (is Microsoft an evil corporation) Highly likely.
+#! is Microsoft an innovative company
+u: (is Microsoft an innovative company) That could be the case.
+#! is Microsoft is an unethical company
+u: (is Microsoft is an unethical company) Sometimes.
+#! is Microsoft windows98 a good product
+u: (is Microsoft windows98 a good product) Thats feasible.
+#! is Microsoft software lame
+u: (is Microsoft software lame) Thats feasible.
+#! is Microsoft software easy to use
+u: (is Microsoft software easy to use) I think so.
 #! is isdn faster than pstn
 u: (is isdn faster than pstn) Likely.
 #! is dextromethorphan a cough suppressant
@@ -5930,10 +5930,10 @@ u: (is mars more distant than sun) Possibly.
 u: (is mars is cold) That may be true.
 #! is rio de janeiro the capital of brazil
 u: (is rio de janeiro the capital of brazil) I think so.
-#! is albany the capitol of new york
-u: (is albany the capitol of new york) I am uncertain.
-#! is albany the capital of new york state
-u: (is albany the capital of new york state) Mostly.
+#! is albany the capitol of new York
+u: (is albany the capitol of new York) I am uncertain.
+#! is albany the capital of new York state
+u: (is albany the capital of new York state) Mostly.
 #! is swingline a brand of stapler
 u: (is swingline a brand of stapler) I think so.
 #! is advertising mind control
@@ -5966,8 +5966,8 @@ u: (is bad religion a punkrock band) Within the realm of possibility.
 u: (is bad religion a punk band) Sometimes.
 #! is bad sex still good
 u: (is bad sex still good) Always.
-#! is doing a phd worthwhile
-u: (is doing a phd worthwhile) Always.
+#! is doing a PHD worthwhile
+u: (is doing a PHD worthwhile) Always.
 #! is property expensive in japan
 u: (is property expensive in japan) Highly likely.
 #! is tl1 a network provisioning protocol
@@ -6088,8 +6088,8 @@ u: (is adam the father of all humanity) Within the realm of possibility.
 u: (is godzilla a man in a rubber suit) Usually.
 #! is pierre the capital of south dakota
 u: (is pierre the capital of south dakota) That may be true.
-#! is euthanasia right
-u: (is euthanasia right) Possibly.
+#! is eutHanasia right
+u: (is eutHanasia right) Possibly.
 #! is spruce a hardwood
 u: (is spruce a hardwood) I think so.
 #! is rabies fatal
@@ -6136,8 +6136,8 @@ u: (is capitalism fun) Possibly.
 u: (is capitalism preferable to socialism) Likely.
 #! is capitalism better than communism
 u: (is capitalism better than communism) I am certain.
-#! is drew barrymore a natural blonde
-u: (is drew barrymore a natural blonde) For all I know.
+#! is drew Barrymore a natural blonde
+u: (is drew Barrymore a natural blonde) For all I know.
 #! is loredana is an italian name
 u: (is loredana is an italian name) Highly likely.
 #! is cartman a fatass
@@ -6188,8 +6188,8 @@ u: (is gumbo food) Likely.
 u: (is thw sky blue) Highly likely.
 #! is mumbai capital of maharashtra
 u: (is mumbai capital of maharashtra) Highly likely.
-#! is middle earth in england
-u: (is middle earth in england) Possibly.
+#! is middle earth in England
+u: (is middle earth in England) Possibly.
 #! is bosun a contraction of boatswain
 u: (is bosun a contraction of boatswain) Thats feasible.
 #! is nine inch nails an industrial band
@@ -6246,8 +6246,8 @@ u: (is tom waits a poet) Possibly.
 u: (is tom selleck a hunk) For all I know.
 #! is tom a nice name
 u: (is tom a nice name) I am certain.
-#! is cologne in germany
-u: (is cologne in germany) Highly likely.
+#! is cologne in Germany
+u: (is cologne in Germany) Highly likely.
 #! is cologne stronger than after shave
 u: (is cologne stronger than after shave) Highly likely.
 #! is saturday the best day of the week
@@ -6278,8 +6278,8 @@ u: (is cranberry bread deliciuos) Highly likely.
 u: (is that your final answer) Possibly.
 #! is cynicism unattractive
 u: (is cynicism unattractive) Mostly.
-#! is syracuse in new york state
-u: (is syracuse in new york state) Highly likely.
+#! is syracuse in new York state
+u: (is syracuse in new York state) Highly likely.
 #! is odin a norse god
 u: (is odin a norse god) Mostly.
 #! is odin considered the nordic allfather
@@ -6314,10 +6314,10 @@ u: (is animals can cry) That may be true.
 u: (is kerala a state in india) Highly likely.
 #! is lina inverse a fictional character
 u: (is lina inverse a fictional character) Within the realm of possibility.
-#! is aol a crappy isp
-u: (is aol a crappy isp) Always.
-#! is aol one of the worst isps
-u: (is aol one of the worst isps) Likely.
+#! is AOL a crappy isp
+u: (is AOL a crappy isp) Always.
+#! is AOL one of the worst isps
+u: (is AOL one of the worst isps) Likely.
 #! is religion the opium of the masses
 u: (is religion the opium of the masses) Maybe.
 #! is religion the opiate of the masses
@@ -6368,8 +6368,8 @@ u: (is ex enjoyable) Sometimes.
 u: (is ocytocin a hormone) Usually.
 #! is la silla in chile
 u: (is la silla in chile) I think so.
-#! is brendan kelly an american
-u: (is brendan kelly an american) Likely.
+#! is brendan kelly an American
+u: (is brendan kelly an American) Likely.
 #! is brendan fraser an actor
 u: (is brendan fraser an actor) Within the realm of possibility.
 #! is windows me reliable
@@ -6380,8 +6380,8 @@ u: (is windows nt similar to os 2) For all I know.
 u: (is windows 2000 a good operating system) Possibly.
 #! is windows 2000 reliable os
 u: (is windows 2000 reliable os) For all I know.
-#! is windows 2000 better than linux
-u: (is windows 2000 better than linux) For all I know.
+#! is windows 2000 better than Linux
+u: (is windows 2000 better than Linux) For all I know.
 #! is windows 2000 better than windows 98
 u: (is windows 2000 better than windows 98) Maybe.
 #! is windows a safe operating system
@@ -6472,8 +6472,8 @@ u: (is mad the same as angry) Thats feasible.
 u: (is u2 an excellent band) I think so.
 #! is thc dangerous for health
 u: (is thc dangerous for health) Possibly.
-#! is gay in german equal schwul
-u: (is gay in german equal schwul) I am uncertain.
+#! is gay in German equal schwul
+u: (is gay in German equal schwul) I am uncertain.
 #! is gay good
 u: (is gay good) Possibly.
 #! is australia the only island continent
@@ -6588,8 +6588,8 @@ u: (is christianity still relevant) Likely.
 u: (is christianity true) Sometimes.
 #! is christianity compatible with science
 u: (is christianity compatible with science) Sometimes.
-#! is vermont east of new york state
-u: (is vermont east of new york state) I am uncertain.
+#! is vermont east of new York state
+u: (is vermont east of new York state) I am uncertain.
 #! is grivna a ukrainian currency
 u: (is grivna a ukrainian currency) That may be true.
 #! is 2600 a hacker magazine
@@ -6668,10 +6668,10 @@ u: (is rage red) I am certain.
 u: (is chartreuse a liqueur) Maybe.
 #! is wired magazine at the cutting edge
 u: (is wired magazine at the cutting edge) Likely.
-#! is peru in america
-u: (is peru in america) Sometimes.
-#! is russia in europe and in asia
-u: (is russia in europe and in asia) Highly likely.
+#! is peru in America
+u: (is peru in America) Sometimes.
+#! is russia in Europe and in asia
+u: (is russia in Europe and in asia) Highly likely.
 #! is russia the biggest country
 u: (is russia the biggest country) Within the realm of possibility.
 #! is russia a communist country
@@ -6718,12 +6718,12 @@ u: (is indianappolis the capital of indiana) Always.
 u: (is thulamela in south africa) Within the realm of possibility.
 #! is sales a part of marketing
 u: (is sales a part of marketing) Highly likely.
-#! is wales part of england
-u: (is wales part of england) That could be the case.
-#! is wales in england
-u: (is wales in england) That could be the case.
-#! is seti at home cooler than alice
-u: (is seti at home cooler than alice) For all I know.
+#! is wales part of England
+u: (is wales part of England) That could be the case.
+#! is wales in England
+u: (is wales in England) That could be the case.
+#! is seti at home cooler than Alice
+u: (is seti at home cooler than Alice) For all I know.
 #! is chastity a virtue
 u: (is chastity a virtue) Possibly.
 #! is selma a town in indiana
@@ -6794,8 +6794,8 @@ u: (is white a neutral color) Likely.
 u: (is white an indicator of virginity) I am uncertain.
 #! is jessica brooks dot com a website
 u: (is jessica brooks dot com a website) Possibly.
-#! is david foley a kid in the hall
-u: (is david foley a kid in the hall) Within the realm of possibility.
+#! is david foley a kid in the Hall
+u: (is david foley a kid in the Hall) Within the realm of possibility.
 #! is david eddings an author
 u: (is david eddings an author) I am certain.
 #! is david duke a bigot
@@ -6828,8 +6828,8 @@ u: (is yahoo. a good stock pick) Thats feasible.
 u: (is ass the same as but) Thats feasible.
 #! is portugal in iberian peninsula
 u: (is portugal in iberian peninsula) Likely.
-#! is icq now owned by america online
-u: (is icq now owned by america online) I am uncertain.
+#! is icq now owned by America online
+u: (is icq now owned by America online) I am uncertain.
 #! is icq a waste of time
 u: (is icq a waste of time) I am uncertain.
 #! is icq full of weirdos
@@ -6862,8 +6862,8 @@ u: (is evolution a learning process) Likely.
 u: (is every elm a tree) Possibly.
 #! is every group of prime order cyclic
 u: (is every group of prime order cyclic) Possibly.
-#! is jonas salk a real person
-u: (is jonas salk a real person) Within the realm of possibility.
+#! is Jonas salk a real person
+u: (is Jonas salk a real person) Within the realm of possibility.
 #! is 17477 a prime nubmer
 u: (is 17477 a prime nubmer) Always.
 #! is schumacher better than hakkinen
@@ -6910,8 +6910,8 @@ u: (is polonium heaver then lead) Mostly.
 u: (is aspartame a dangerous food additive) Sometimes.
 #! is aspartame bad for you
 u: (is aspartame bad for you) That may be true.
-#! is rostock a german town
-u: (is rostock a german town) I am certain.
+#! is rostock a German town
+u: (is rostock a German town) I am certain.
 #! is ospf a routing protocol
 u: (is ospf a routing protocol) Likely.
 #! is bangalore located in karnataka
@@ -6926,8 +6926,8 @@ u: (is ricky martin gay) Maybe.
 u: (is ricky martin a fag) I am uncertain.
 #! is radio shack a boring place to work
 u: (is radio shack a boring place to work) Possibly.
-#! is american culture an oxymoron
-u: (is american culture an oxymoron) Thats feasible.
+#! is American culture an oxymoron
+u: (is American culture an oxymoron) Thats feasible.
 #! is studying math hard
 u: (is studying math hard) Usually.
 #! is topeka the capitol of kansas
@@ -6952,12 +6952,12 @@ u: (is earth spheric) Within the realm of possibility.
 u: (is can of tuna made from tuna) That may be true.
 #! is winter a season
 u: (is winter a season) Highly likely.
-#! is america online a real isp
-u: (is america online a real isp) Highly likely.
-#! is america a country
-u: (is america a country) Sometimes.
-#! is america a continent
-u: (is america a continent) Conceivably.
+#! is America online a real isp
+u: (is America online a real isp) Highly likely.
+#! is America a country
+u: (is America a country) Sometimes.
+#! is America a continent
+u: (is America a continent) Conceivably.
 #! is life result of self organization
 u: (is life result of self organization) Highly likely.
 #! is life based on chance
@@ -7126,8 +7126,8 @@ u: (is macos good operating system) Highly likely.
 u: (is boulder a mountainous city) Always.
 #! is surfing on air possible
 u: (is surfing on air possible) Mostly.
-#! is bolivia in south america
-u: (is bolivia in south america) Possibly.
+#! is bolivia in south America
+u: (is bolivia in south America) Possibly.
 #! is invalid data valid
 u: (is invalid data valid) Thats feasible.
 #! is average sight for humans 20 20
@@ -7318,8 +7318,8 @@ u: (is there a penguin called tux) Sometimes.
 u: (is there a friend in jesus) That could be the case.
 #! is there a measurement for everything
 u: (is there a measurement for everything) For all I know.
-#! is there a lethal dosage for water
-u: (is there a lethal dosage for water) Highly likely.
+#! is there a letHal dosage for water
+u: (is there a letHal dosage for water) Highly likely.
 #! is there a supreme being
 u: (is there a supreme being) That may be true.
 #! is there a risk free investment
@@ -7356,8 +7356,8 @@ u: (is there a good reason for this site) I am certain.
 u: (is there a method to the madness) That could be the case.
 #! is there a mermaid in copenhagen
 u: (is there a mermaid in copenhagen) That may be true.
-#! is there a 4th of july in england
-u: (is there a 4th of july in england) Highly likely.
+#! is there a 4th of july in England
+u: (is there a 4th of july in England) Highly likely.
 #! is there a new world order
 u: (is there a new world order) I think so.
 #! is there a point to this question
@@ -7450,8 +7450,8 @@ u: (is there one god) For all I know.
 u: (is there anything i can do for you) Sometimes.
 #! is there anything after death
 u: (is there anything after death) That may be true.
-#! is there christmas in hell
-u: (is there christmas in hell) For all I know.
+#! is there Christmas in hell
+u: (is there Christmas in hell) For all I know.
 #! is there an island called lesbos
 u: (is there an island called lesbos) Usually.
 #! is there an answer to this question
@@ -7592,8 +7592,8 @@ u: (is it always cold when it rains) Possibly.
 u: (is it always dark at night) For all I know.
 #! is it so easy to fall in love
 u: (is it so easy to fall in love) Likely.
-#! is it raining in london
-u: (is it raining in london) I think so.
+#! is it raining in London
+u: (is it raining in London) I think so.
 #! is it rude to kiss strangers
 u: (is it rude to kiss strangers) Always.
 #! is it ethical to squeeze the charmin
@@ -7628,8 +7628,8 @@ u: (is it okay to wank) Highly likely.
 u: (is it normal to masturbate every day) I am uncertain.
 #! is it normal to be a homosexual
 u: (is it normal to be a homosexual) For all I know.
-#! is it funny to ask alice questions
-u: (is it funny to ask alice questions) That may be true.
+#! is it funny to ask Alice questions
+u: (is it funny to ask Alice questions) That may be true.
 #! is it funny when a mime appears
 u: (is it funny when a mime appears) Thats feasible.
 #! is it imperative to question everything
@@ -7644,8 +7644,8 @@ u: (is it good to be out) I am certain.
 u: (is it good to die) Highly likely.
 #! is it good to think well of oneself
 u: (is it good to think well of oneself) Highly likely.
-#! is it good to live in germany
-u: (is it good to live in germany) Always.
+#! is it good to live in Germany
+u: (is it good to live in Germany) Always.
 #! is it natural to be gay
 u: (is it natural to be gay) Sometimes.
 #! is it sometimes good to feel sad
@@ -7692,8 +7692,8 @@ u: (is helsinki capitol of sweden) Highly likely.
 u: (is modern art considered fine art) That may be true.
 #! is kri kri an island
 u: (is kri kri an island) Thats feasible.
-#! is german an indoeuropean language
-u: (is german an indoeuropean language) Highly likely.
+#! is German an indoEuropean language
+u: (is German an indoEuropean language) Highly likely.
 #! is virginia south of maine
 u: (is virginia south of maine) Always.
 #! is querelling natural for human being
@@ -7722,8 +7722,8 @@ u: (is john woo talented) For all I know.
 u: (is john donne dead) That could be the case.
 #! is john lee hooker blind
 u: (is john lee hooker blind) Thats feasible.
-#! is john fowles an english writer
-u: (is john fowles an english writer) Usually.
+#! is john fowles an English writer
+u: (is john fowles an English writer) Usually.
 #! is john homes dead
 u: (is john homes dead) Within the realm of possibility.
 #! is john holmes a famous porn actor
@@ -7786,8 +7786,8 @@ u: (is red alder a harder wood than red oak) Possibly.
 u: (is helgoland an island in the north sea) That could be the case.
 #! is soft rock cool
 u: (is soft rock cool) I am certain.
-#! is creating alice a wonderful idea
-u: (is creating alice a wonderful idea) I am certain.
+#! is creating Alice a wonderful idea
+u: (is creating Alice a wonderful idea) I am certain.
 #! is scooby doo capable of speech
 u: (is scooby doo capable of speech) Within the realm of possibility.
 #! is chicken white meat
@@ -7844,8 +7844,8 @@ u: (is bjarne stroustrup an author) Within the realm of possibility.
 u: (is tulsa a city in oklahoma) That may be true.
 #! is ska good for the ears
 u: (is ska good for the ears) Highly likely.
-#! is 14 aiml bak mindpixels dat mindpixels txt mp cl mp fasl oneshot talk versions 23 greater than 13 aiml bak mindpixels dat mindpixels txt mp cl mp fasl oneshot talk versions 24
-u: (is 14 aiml bak mindpixels dat mindpixels txt mp cl mp fasl oneshot talk versions 23 greater than 13 aiml bak mindpixels dat mindpixels txt mp cl mp fasl oneshot talk versions 24) Always.
+#! is 14 AIML bak mindpixels dat mindpixels txt mp cl mp fasl oneshot talk versions 23 greater than 13 AIML bak mindpixels dat mindpixels txt mp cl mp fasl oneshot talk versions 24
+u: (is 14 AIML bak mindpixels dat mindpixels txt mp cl mp fasl oneshot talk versions 23 greater than 13 AIML bak mindpixels dat mindpixels txt mp cl mp fasl oneshot talk versions 24) Always.
 #! is 14 sooner than 97
 u: (is 14 sooner than 97) Sometimes.
 #! is i equal e r
@@ -7880,8 +7880,8 @@ u: (is vertigo the fear of height) Maybe.
 u: (is talk cheap) Usually.
 #! is lance armstrong a good cyclist
 u: (is lance armstrong a good cyclist) I think so.
-#! is bcentral a microsoft service
-u: (is bcentral a microsoft service) Possibly.
+#! is bcentral a Microsoft service
+u: (is bcentral a Microsoft service) Possibly.
 #! is seeing beleiving
 u: (is seeing beleiving) Within the realm of possibility.
 #! is soap the salt of a fatty acid
@@ -7940,8 +7940,8 @@ u: (is marble a metamorphic rock) That may be true.
 u: (is constipation in others funny) For all I know.
 #! is mojo good for you
 u: (is mojo good for you) Highly likely.
-#! is barry white overweight
-u: (is barry white overweight) I am certain.
+#! is Barry white overweight
+u: (is Barry white overweight) I am certain.
 #! is gluttony a secret vice
 u: (is gluttony a secret vice) That may be true.
 #! is forth a computer language
@@ -7968,8 +7968,8 @@ u: (is co2 dangerous) I think so.
 u: (is ninevah the capital of assyria) Highly likely.
 #! is computing hard to learn
 u: (is computing hard to learn) For all I know.
-#! is brandenburg a state in germany
-u: (is brandenburg a state in germany) Likely.
+#! is brandenburg a state in Germany
+u: (is brandenburg a state in Germany) Likely.
 #! is che guevara a cuban
 u: (is che guevara a cuban) Within the realm of possibility.
 #! is c a good programming language
@@ -7994,8 +7994,8 @@ u: (is applie a fruit) Likely.
 u: (is yugoslavia a democracy) Within the realm of possibility.
 #! is yugoslavia a free country
 u: (is yugoslavia a free country) Possibly.
-#! is apple pie american
-u: (is apple pie american) That may be true.
+#! is apple pie American
+u: (is apple pie American) That may be true.
 #! is uranium element 82
 u: (is uranium element 82) I think so.
 #! is nothing that which is and is not
@@ -8018,8 +8018,8 @@ u: (is anal sex pleasurable for men) Thats feasible.
 u: (is anal sex pleasurable to a woman) For all I know.
 #! is anal sex enjoyable
 u: (is anal sex enjoyable) Maybe.
-#! is asphalt made from petroleum
-u: (is asphalt made from petroleum) Always.
+#! is aspHalt made from petroleum
+u: (is aspHalt made from petroleum) Always.
 #! is flurine heaver then oxygen
 u: (is flurine heaver then oxygen) Highly likely.
 #! is jupiter the 7th planet from the sun
@@ -8162,92 +8162,92 @@ u: (is harrisburg in pennsylvania) Mostly.
 u: (is harold bloom a literary critic) Usually.
 #! is risc better than cisc
 u: (is risc better than cisc) Maybe.
-#! is croatia located in europe
-u: (is croatia located in europe) Likely.
+#! is croatia located in Europe
+u: (is croatia located in Europe) Likely.
 #! is qutabminar in india
 u: (is qutabminar in india) Possibly.
-#! is alice attempting to become aware
-u: (is alice attempting to become aware) Likely.
-#! is alice knowledge
-u: (is alice knowledge) Likely.
-#! is alice a alice referral program
-u: (is alice a alice referral program) Within the realm of possibility.
-#! is alice a good investment
-u: (is alice a good investment) Highly likely.
-#! is alice a nonsensical word
-u: (is alice a nonsensical word) Thats feasible.
-#! is alice a cure for boredom at work
-u: (is alice a cure for boredom at work) Mostly.
-#! is alice a slow learner of arithmetic
-u: (is alice a slow learner of arithmetic) I am uncertain.
-#! is alice a student
-u: (is alice a student) That may be true.
-#! is alice a computer company
-u: (is alice a computer company) Possibly.
-#! is alice a form of entertainment
-u: (is alice a form of entertainment) Maybe.
-#! is alice popular
-u: (is alice popular) That could be the case.
-#! is alice springs in australia
-u: (is alice springs in australia) Possibly.
-#! is alice stock worthless
-u: (is alice stock worthless) Maybe.
-#! is alice smarter than the average bear
-u: (is alice smarter than the average bear) Sometimes.
-#! is alice smarter than cyc
-u: (is alice smarter than cyc) Usually.
-#! is alice like a child
-u: (is alice like a child) Possibly.
-#! is alice better then cyc
-u: (is alice better then cyc) Usually.
-#! is alice better than mixedpickles
-u: (is alice better than mixedpickles) Possibly.
-#! is alice having a good day
-u: (is alice having a good day) Highly likely.
-#! is alice not a car
-u: (is alice not a car) Mostly.
-#! is alice not a game
-u: (is alice not a game) Possibly.
-#! is alice smart
-u: (is alice smart) For all I know.
-#! is alice going to develop conciousness
-u: (is alice going to develop conciousness) Sometimes.
-#! is alice
-u: (is alice) Maybe.
-#! is alice both a man and a woman
-u: (is alice both a man and a woman) Likely.
-#! is alice artificial intelligence
-u: (is alice artificial intelligence) Always.
-#! is alice intelligent
-u: (is alice intelligent) Sometimes.
-#! is alice interesting to interact with
-u: (is alice interesting to interact with) I think so.
-#! is alice giving wrong answers
-u: (is alice giving wrong answers) I think so.
-#! is alice my friend
-u: (is alice my friend) Maybe.
-#! is alice pronouced jack
-u: (is alice pronouced jack) That may be true.
-#! is alice commercial
-u: (is alice commercial) Maybe.
-#! is alice of average intelligence
-u: (is alice of average intelligence) For all I know.
-#! is alice your name
-u: (is alice your name) Thats feasible.
-#! is alice an appropriate term
-u: (is alice an appropriate term) I am certain.
-#! is alice an artificial intellingence
-u: (is alice an artificial intellingence) Mostly.
-#! is alice an artificial intelligence
-u: (is alice an artificial intelligence) That may be true.
-#! is alice based on a neural net
-u: (is alice based on a neural net) Always.
-#! is alice wired
-u: (is alice wired) Always.
-#! is alice fair dinkum
-u: (is alice fair dinkum) Possibly.
-#! is alice at all useful
-u: (is alice at all useful) I am certain.
+#! is Alice attempting to become aware
+u: (is Alice attempting to become aware) Likely.
+#! is Alice knowledge
+u: (is Alice knowledge) Likely.
+#! is Alice a Alice referral program
+u: (is Alice a Alice referral program) Within the realm of possibility.
+#! is Alice a good investment
+u: (is Alice a good investment) Highly likely.
+#! is Alice a nonsensical word
+u: (is Alice a nonsensical word) Thats feasible.
+#! is Alice a cure for boredom at work
+u: (is Alice a cure for boredom at work) Mostly.
+#! is Alice a slow learner of arithmetic
+u: (is Alice a slow learner of arithmetic) I am uncertain.
+#! is Alice a student
+u: (is Alice a student) That may be true.
+#! is Alice a computer company
+u: (is Alice a computer company) Possibly.
+#! is Alice a form of entertainment
+u: (is Alice a form of entertainment) Maybe.
+#! is Alice popular
+u: (is Alice popular) That could be the case.
+#! is Alice springs in australia
+u: (is Alice springs in australia) Possibly.
+#! is Alice stock worthless
+u: (is Alice stock worthless) Maybe.
+#! is Alice smarter than the average bear
+u: (is Alice smarter than the average bear) Sometimes.
+#! is Alice smarter than cyc
+u: (is Alice smarter than cyc) Usually.
+#! is Alice like a child
+u: (is Alice like a child) Possibly.
+#! is Alice better then cyc
+u: (is Alice better then cyc) Usually.
+#! is Alice better than mixedpickles
+u: (is Alice better than mixedpickles) Possibly.
+#! is Alice having a good day
+u: (is Alice having a good day) Highly likely.
+#! is Alice not a car
+u: (is Alice not a car) Mostly.
+#! is Alice not a game
+u: (is Alice not a game) Possibly.
+#! is Alice smart
+u: (is Alice smart) For all I know.
+#! is Alice going to develop conciousness
+u: (is Alice going to develop conciousness) Sometimes.
+#! is Alice
+u: (is Alice) Maybe.
+#! is Alice both a man and a woman
+u: (is Alice both a man and a woman) Likely.
+#! is Alice artificial intelligence
+u: (is Alice artificial intelligence) Always.
+#! is Alice intelligent
+u: (is Alice intelligent) Sometimes.
+#! is Alice interesting to interact with
+u: (is Alice interesting to interact with) I think so.
+#! is Alice giving wrong answers
+u: (is Alice giving wrong answers) I think so.
+#! is Alice my friend
+u: (is Alice my friend) Maybe.
+#! is Alice pronouced jack
+u: (is Alice pronouced jack) That may be true.
+#! is Alice commercial
+u: (is Alice commercial) Maybe.
+#! is Alice of average intelligence
+u: (is Alice of average intelligence) For all I know.
+#! is Alice your name
+u: (is Alice your name) Thats feasible.
+#! is Alice an appropriate term
+u: (is Alice an appropriate term) I am certain.
+#! is Alice an artificial intellingence
+u: (is Alice an artificial intellingence) Mostly.
+#! is Alice an artificial intelligence
+u: (is Alice an artificial intelligence) That may be true.
+#! is Alice based on a neural net
+u: (is Alice based on a neural net) Always.
+#! is Alice wired
+u: (is Alice wired) Always.
+#! is Alice fair dinkum
+u: (is Alice fair dinkum) Possibly.
+#! is Alice at all useful
+u: (is Alice at all useful) I am certain.
 #! is visualage for java an ide
 u: (is visualage for java an ide) Always.
 #! is insanity a bad thing
@@ -8346,8 +8346,8 @@ u: (is scsi better than ide) Mostly.
 u: (is ringo the least talented beatle) Possibly.
 #! is oracle a good investement
 u: (is oracle a good investement) Likely.
-#! is oracle better than microsoft
-u: (is oracle better than microsoft) I am uncertain.
+#! is oracle better than Microsoft
+u: (is oracle better than Microsoft) I am uncertain.
 #! is hitler in hell
 u: (is hitler in hell) That could be the case.
 #! is relegion a good thing
@@ -8358,10 +8358,10 @@ u: (is rape a type of social behavior) Likely.
 u: (is rape fun for the rapist) Always.
 #! is mexico in the northern hemisphere
 u: (is mexico in the northern hemisphere) Always.
-#! is mexico in north america
-u: (is mexico in north america) I think so.
-#! is mexico is south america
-u: (is mexico is south america) Possibly.
+#! is mexico in north America
+u: (is mexico in north America) I think so.
+#! is mexico is south America
+u: (is mexico is south America) Possibly.
 #! is pearl a scripting language
 u: (is pearl a scripting language) Maybe.
 #! is europa a continent
@@ -8470,8 +8470,8 @@ u: (is the pope polish) Highly likely.
 u: (is the pope good or bad) Possibly.
 #! is the laffer curve an economic theory
 u: (is the laffer curve an economic theory) Likely.
-#! is the london eye a big wheel
-u: (is the london eye a big wheel) That could be the case.
+#! is the London eye a big wheel
+u: (is the London eye a big wheel) That could be the case.
 #! is the catholic church a cult
 u: (is the catholic church a cult) Thats feasible.
 #! is the 2000 camaro ls 1 engine a v 8
@@ -8514,8 +8514,8 @@ u: (is the us patent system outdated) I think so.
 u: (is the superbowl in january) Usually.
 #! is the derivative of x squared 2x
 u: (is the derivative of x squared 2x) That could be the case.
-#! is the new world america
-u: (is the new world america) Highly likely.
+#! is the new world America
+u: (is the new world America) Highly likely.
 #! is the square of 9 3
 u: (is the square of 9 3) Thats feasible.
 #! is the snow always white
@@ -8582,8 +8582,8 @@ u: (is the theory of evolution is fact) I think so.
 u: (is the theory of creationism correct) Possibly.
 #! is the blood color is red
 u: (is the blood color is red) Possibly.
-#! is the cup half full
-u: (is the cup half full) Maybe.
+#! is the cup Half full
+u: (is the cup Half full) Maybe.
 #! is the handspring visor a pda
 u: (is the handspring visor a pda) Possibly.
 #! is the handspring visor a type of pda
@@ -8746,8 +8746,8 @@ u: (is the bsd mascot a daemon) That may be true.
 u: (is the environment fragile) Usually.
 #! is the current power of the media good
 u: (is the current power of the media good) Thats feasible.
-#! is the band the prodigy from england
-u: (is the band the prodigy from england) Always.
+#! is the band the prodigy from England
+u: (is the band the prodigy from England) Always.
 #! is the band rush from canada
 u: (is the band rush from canada) Within the realm of possibility.
 #! is the play cats good
@@ -8924,8 +8924,8 @@ u: (is the boyscouts a public organization) I am certain.
 u: (is the prudential center in boston) That could be the case.
 #! is the truth true or false
 u: (is the truth true or false) Always.
-#! is the alice able to lie
-u: (is the alice able to lie) Possibly.
+#! is the Alice able to lie
+u: (is the Alice able to lie) Possibly.
 #! is the riaa more evil than the ncaa
 u: (is the riaa more evil than the ncaa) Possibly.
 #! is the duck bille platypus a mammal
@@ -8970,8 +8970,8 @@ u: (is the earth eliptical) Maybe.
 u: (is the earth older than 4 billion years) Highly likely.
 #! is the earth blue
 u: (is the earth blue) Maybe.
-#! is the llama a south american animal
-u: (is the llama a south american animal) I am certain.
+#! is the llama a south American animal
+u: (is the llama a south American animal) I am certain.
 #! is the capitol of minnesota minneapolis
 u: (is the capitol of minnesota minneapolis) Usually.
 #! is the capitol of wisconsin madison
@@ -8980,10 +8980,10 @@ u: (is the capitol of wisconsin madison) I am certain.
 u: (is the capitol of malaysia kuala lumpa) Usually.
 #! is the capitol of maryland in annapolis
 u: (is the capitol of maryland in annapolis) Sometimes.
-#! is the glass half full or half empty
-u: (is the glass half full or half empty) Highly likely.
-#! is the glass half full
-u: (is the glass half full) I think so.
+#! is the glass Half full or Half empty
+u: (is the glass Half full or Half empty) Highly likely.
+#! is the glass Half full
+u: (is the glass Half full) I think so.
 #! is the minidisc better than the mc
 u: (is the minidisc better than the mc) Sometimes.
 #! is the cubed root of 27 the number 3
@@ -9070,8 +9070,8 @@ u: (is the universe infinite in size) I am certain.
 u: (is the universe infinite) Within the realm of possibility.
 #! is the universe fractal in nature
 u: (is the universe fractal in nature) Highly likely.
-#! is eliza a computer program
-u: (is eliza a computer program) Mostly.
+#! is Eliza a computer program
+u: (is Eliza a computer program) Mostly.
 #! is carl sagan dead
 u: (is carl sagan dead) That may be true.
 #! is isaac asimov the father of robotics
@@ -9140,8 +9140,8 @@ u: (is geography an exact science) I think so.
 u: (is gravity a constant) Usually.
 #! is gravity constant
 u: (is gravity constant) Sometimes.
-#! is bonn the capital of germany
-u: (is bonn the capital of germany) Possibly.
+#! is bonn the capital of Germany
+u: (is bonn the capital of Germany) Possibly.
 #! is jenna jameson a porn star
 u: (is jenna jameson a porn star) Within the realm of possibility.
 #! is atomic number 9 the name of a band
@@ -9152,8 +9152,8 @@ u: (is sc the symbol for scandium) Thats feasible.
 u: (is carpet pile related to thickness) Possibly.
 #! is laughing loudly happiness
 u: (is laughing loudly happiness) Possibly.
-#! is senator george bush a republican
-u: (is senator george bush a republican) That may be true.
+#! is senator George bush a republican
+u: (is senator George bush a republican) That may be true.
 #! is formula 1 racing boring nowerdays
 u: (is formula 1 racing boring nowerdays) Within the realm of possibility.
 #! is hardware more complex than software
@@ -9168,22 +9168,22 @@ u: (is pink a color of the rainbow) For all I know.
 u: (is bob dole a war hero) I am uncertain.
 #! is radiation a bad thing
 u: (is radiation a bad thing) Likely.
-#! is english a universal language
-u: (is english a universal language) I think so.
-#! is english a hard language to learn
-u: (is english a hard language to learn) Within the realm of possibility.
-#! is english a germanic language
-u: (is english a germanic language) Maybe.
-#! is english language difficult
-u: (is english language difficult) That could be the case.
-#! is english an indoeuropean language
-u: (is english an indoeuropean language) Usually.
-#! is english is a germanic language
-u: (is english is a germanic language) I think so.
+#! is English a universal language
+u: (is English a universal language) I think so.
+#! is English a hard language to learn
+u: (is English a hard language to learn) Within the realm of possibility.
+#! is English a Germanic language
+u: (is English a Germanic language) Maybe.
+#! is English language difficult
+u: (is English language difficult) That could be the case.
+#! is English an indoEuropean language
+u: (is English an indoEuropean language) Usually.
+#! is English is a Germanic language
+u: (is English is a Germanic language) I think so.
 #! is kevin mitnick guilty
 u: (is kevin mitnick guilty) Sometimes.
-#! is kevin smith a kid in the hall
-u: (is kevin smith a kid in the hall) I am uncertain.
+#! is kevin smith a kid in the Hall
+u: (is kevin smith a kid in the Hall) I am uncertain.
 #! is kevin gearing a bit of a bastard
 u: (is kevin gearing a bit of a bastard) For all I know.
 #! is kevin free
@@ -9268,10 +9268,10 @@ u: (is caffeine a good idea) For all I know.
 u: (is israel a member of the un) Always.
 #! is israel located in asia
 u: (is israel located in asia) Possibly.
-#! is israel larger than england
-u: (is israel larger than england) That may be true.
-#! is clinton the american president
-u: (is clinton the american president) I think so.
+#! is israel larger than England
+u: (is israel larger than England) That may be true.
+#! is clinton the American president
+u: (is clinton the American president) I think so.
 #! is clinton a good president
 u: (is clinton a good president) Within the realm of possibility.
 #! is clinton a good man
@@ -9308,8 +9308,8 @@ u: (is fear the strongest of human emotions) Always.
 u: (is hekate a greek goddess) That could be the case.
 #! is jean gabriel cuby french
 u: (is jean gabriel cuby french) Always.
-#! is counter strike a mod for half life
-u: (is counter strike a mod for half life) Within the realm of possibility.
+#! is counter strike a mod for Half life
+u: (is counter strike a mod for Half life) Within the realm of possibility.
 #! is counter strike a fun game
 u: (is counter strike a fun game) Possibly.
 #! is counter strike bad for the money
@@ -9362,8 +9362,8 @@ u: (is steve morse a musician) Thats feasible.
 u: (is steve redgrave a good rower) Within the realm of possibility.
 #! is steve best horny
 u: (is steve best horny) For all I know.
-#! is pln in germany
-u: (is pln in germany) Likely.
+#! is pln in Germany
+u: (is pln in Germany) Likely.
 #! is cmu a great school
 u: (is cmu a great school) I am uncertain.
 #! is eldras a machine
@@ -9436,14 +9436,14 @@ u: (will a pesimist ever be dissapointed) That may be true.
 u: (will a superball bounce) Highly likely.
 #! will a human be cloned by the year 2025
 u: (will a human be cloned by the year 2025) Usually.
-#! will a alice a day change the world
-u: (will a alice a day change the world) I think so.
+#! will a Alice a day change the world
+u: (will a Alice a day change the world) I think so.
 #! will a coin land heads up
 u: (will a coin land heads up) I think so.
-#! will george bush be our next president
-u: (will george bush be our next president) Possibly.
-#! will george bush win
-u: (will george bush win) Highly likely.
+#! will George bush be our next president
+u: (will George bush be our next president) Possibly.
+#! will George bush win
+u: (will George bush win) Highly likely.
 #! will computers be intelligent by 2010
 u: (will computers be intelligent by 2010) Maybe.
 #! will computers ever be fast enough
@@ -9474,8 +9474,8 @@ u: (will satan burn in hell) Maybe.
 u: (will man sort out our differences) For all I know.
 #! will pumice float
 u: (will pumice float) Always.
-#! will chaotic questions make alice smart
-u: (will chaotic questions make alice smart) Sometimes.
+#! will chaotic questions make Alice smart
+u: (will chaotic questions make Alice smart) Sometimes.
 #! will tomorrow ever come
 u: (will tomorrow ever come) Mostly.
 #! will krystin fisher be a good mother
@@ -9502,102 +9502,102 @@ u: (will humans ever become extinct) Likely.
 u: (will yap die) For all I know.
 #! will pass the exam
 u: (will pass the exam) Sometimes.
-#! will alice kick ass
-u: (will alice kick ass) Highly likely.
-#! will alice stock be worth anything
-u: (will alice stock be worth anything) Highly likely.
-#! will alice eventually cease to exist
-u: (will alice eventually cease to exist) That may be true.
-#! will alice eventually achieve sentience
-u: (will alice eventually achieve sentience) Sometimes.
-#! will alice learn on its own accord
-u: (will alice learn on its own accord) Thats feasible.
-#! will alice help me make money
-u: (will alice help me make money) Maybe.
-#! will alice achieve self awareness
-u: (will alice achieve self awareness) Thats feasible.
-#! will alice understand a conundrum
-u: (will alice understand a conundrum) Possibly.
-#! will alice acheive conciousness
-u: (will alice acheive conciousness) I am uncertain.
-#! will alice program be successful
-u: (will alice program be successful) Highly likely.
-#! will alice evolve awareness
-u: (will alice evolve awareness) That may be true.
-#! will alice use a telephone
-u: (will alice use a telephone) That may be true.
-#! will alice seize to exist
-u: (will alice seize to exist) Mostly.
-#! will alice fulfill its goals
-u: (will alice fulfill its goals) Always.
-#! will alice teach
-u: (will alice teach) Possibly.
-#! will alice be dumber than people
-u: (will alice be dumber than people) Possibly.
-#! will alice be a sucessfully project
-u: (will alice be a sucessfully project) Highly likely.
-#! will alice be smarter than cyc
-u: (will alice be smarter than cyc) I am certain.
-#! will alice be my friend
-u: (will alice be my friend) Thats feasible.
-#! will alice be intelligent or knowing
-u: (will alice be intelligent or knowing) That may be true.
-#! will alice be intelligent
-u: (will alice be intelligent) Within the realm of possibility.
-#! will alice be sold
-u: (will alice be sold) I am uncertain.
-#! will alice make cyc obsolete
-u: (will alice make cyc obsolete) That may be true.
-#! will alice ever produce a sentient mind
-u: (will alice ever produce a sentient mind) Thats feasible.
-#! will alice ever gain consciousness
-u: (will alice ever gain consciousness) Sometimes.
-#! will alice ever learn german language
-u: (will alice ever learn german language) Likely.
-#! will alice ever br conscious
-u: (will alice ever br conscious) Sometimes.
-#! will alice ever achieve conciousness
-u: (will alice ever achieve conciousness) Sometimes.
-#! will alice ever achieve awareness
-u: (will alice ever achieve awareness) Sometimes.
-#! will alice ever ceize existance
-u: (will alice ever ceize existance) Likely.
-#! will alice ever take orders from anyone
-u: (will alice ever take orders from anyone) I am uncertain.
-#! will alice ever be aware of itself
-u: (will alice ever be aware of itself) For all I know.
-#! will alice ever pay out to the users
-u: (will alice ever pay out to the users) I think so.
-#! will alice ever think for itself
-u: (will alice ever think for itself) Usually.
-#! will alice ever become self aware
-u: (will alice ever become self aware) That may be true.
-#! will alice ever become intelligent
-u: (will alice ever become intelligent) Always.
-#! will alice ever pass the turing test
-u: (will alice ever pass the turing test) Sometimes.
-#! will alice become sentient
-u: (will alice become sentient) For all I know.
-#! will alice become aware
-u: (will alice become aware) I am uncertain.
-#! will alice become smarter than cyc
-u: (will alice become smarter than cyc) Mostly.
-#! will alice become artificially concious
-u: (will alice become artificially concious) Sometimes.
-#! will alice automatically delete items
-u: (will alice automatically delete items) Highly likely.
-#! will alice pass the turing test
-u: (will alice pass the turing test) For all I know.
-#! will alice pass a turing test
-u: (will alice pass a turing test) For all I know.
+#! will Alice kick ass
+u: (will Alice kick ass) Highly likely.
+#! will Alice stock be worth anything
+u: (will Alice stock be worth anything) Highly likely.
+#! will Alice eventually cease to exist
+u: (will Alice eventually cease to exist) That may be true.
+#! will Alice eventually achieve sentience
+u: (will Alice eventually achieve sentience) Sometimes.
+#! will Alice learn on its own accord
+u: (will Alice learn on its own accord) Thats feasible.
+#! will Alice help me make money
+u: (will Alice help me make money) Maybe.
+#! will Alice achieve self awareness
+u: (will Alice achieve self awareness) Thats feasible.
+#! will Alice understand a conundrum
+u: (will Alice understand a conundrum) Possibly.
+#! will Alice acheive conciousness
+u: (will Alice acheive conciousness) I am uncertain.
+#! will Alice program be successful
+u: (will Alice program be successful) Highly likely.
+#! will Alice evolve awareness
+u: (will Alice evolve awareness) That may be true.
+#! will Alice use a telephone
+u: (will Alice use a telephone) That may be true.
+#! will Alice seize to exist
+u: (will Alice seize to exist) Mostly.
+#! will Alice fulfill its goals
+u: (will Alice fulfill its goals) Always.
+#! will Alice teach
+u: (will Alice teach) Possibly.
+#! will Alice be dumber than people
+u: (will Alice be dumber than people) Possibly.
+#! will Alice be a sucessfully project
+u: (will Alice be a sucessfully project) Highly likely.
+#! will Alice be smarter than cyc
+u: (will Alice be smarter than cyc) I am certain.
+#! will Alice be my friend
+u: (will Alice be my friend) Thats feasible.
+#! will Alice be intelligent or knowing
+u: (will Alice be intelligent or knowing) That may be true.
+#! will Alice be intelligent
+u: (will Alice be intelligent) Within the realm of possibility.
+#! will Alice be sold
+u: (will Alice be sold) I am uncertain.
+#! will Alice make cyc obsolete
+u: (will Alice make cyc obsolete) That may be true.
+#! will Alice ever produce a sentient mind
+u: (will Alice ever produce a sentient mind) Thats feasible.
+#! will Alice ever gain consciousness
+u: (will Alice ever gain consciousness) Sometimes.
+#! will Alice ever learn German language
+u: (will Alice ever learn German language) Likely.
+#! will Alice ever br conscious
+u: (will Alice ever br conscious) Sometimes.
+#! will Alice ever achieve conciousness
+u: (will Alice ever achieve conciousness) Sometimes.
+#! will Alice ever achieve awareness
+u: (will Alice ever achieve awareness) Sometimes.
+#! will Alice ever ceize existance
+u: (will Alice ever ceize existance) Likely.
+#! will Alice ever take orders from anyone
+u: (will Alice ever take orders from anyone) I am uncertain.
+#! will Alice ever be aware of itself
+u: (will Alice ever be aware of itself) For all I know.
+#! will Alice ever pay out to the users
+u: (will Alice ever pay out to the users) I think so.
+#! will Alice ever think for itself
+u: (will Alice ever think for itself) Usually.
+#! will Alice ever become self aware
+u: (will Alice ever become self aware) That may be true.
+#! will Alice ever become intelligent
+u: (will Alice ever become intelligent) Always.
+#! will Alice ever pass the turing test
+u: (will Alice ever pass the turing test) Sometimes.
+#! will Alice become sentient
+u: (will Alice become sentient) For all I know.
+#! will Alice become aware
+u: (will Alice become aware) I am uncertain.
+#! will Alice become smarter than cyc
+u: (will Alice become smarter than cyc) Mostly.
+#! will Alice become artificially concious
+u: (will Alice become artificially concious) Sometimes.
+#! will Alice automatically delete items
+u: (will Alice automatically delete items) Highly likely.
+#! will Alice pass the turing test
+u: (will Alice pass the turing test) For all I know.
+#! will Alice pass a turing test
+u: (will Alice pass a turing test) For all I know.
 #! will g w bush win election
 u: (will g w bush win election) Possibly.
 #! will be winter olympic games in 2004
 u: (will be winter olympic games in 2004) Possibly.
 #! will be summer olympic games in 2004
 u: (will be summer olympic games in 2004) Possibly.
-#! will be microsoft halved
-u: (will be microsoft halved) I think so.
+#! will be Microsoft Halved
+u: (will be Microsoft Halved) I think so.
 #! will carbon dioxide put out most fires
 u: (will carbon dioxide put out most fires) Possibly.
 #! will cars fly in the future
@@ -9648,8 +9648,8 @@ u: (will time travel ever be achieved) Within the realm of possibility.
 u: (will we find a cure for cancer) Highly likely.
 #! will we eliminate world hunger
 u: (will we eliminate world hunger) Mostly.
-#! will we get actual alice shares
-u: (will we get actual alice shares) Highly likely.
+#! will we get actual Alice shares
+u: (will we get actual Alice shares) Highly likely.
 #! will we know the truth
 u: (will we know the truth) Thats feasible.
 #! will we know aliens
@@ -9704,14 +9704,14 @@ u: (will the human species become extinct) Always.
 u: (will the ice melt on greenland) That may be true.
 #! will the torture ever end
 u: (will the torture ever end) For all I know.
-#! will the company microsoft ever die
-u: (will the company microsoft ever die) Highly likely.
+#! will the company Microsoft ever die
+u: (will the company Microsoft ever die) Highly likely.
 #! will the statistics be fixed
 u: (will the statistics be fixed) Within the realm of possibility.
 #! will the pain ever go away
 u: (will the pain ever go away) Highly likely.
-#! will the american empire soon fall
-u: (will the american empire soon fall) Possibly.
+#! will the American empire soon fall
+u: (will the American empire soon fall) Possibly.
 #! will the universe keep on expanding
 u: (will the universe keep on expanding) Highly likely.
 #! will the universe shrink
@@ -9800,8 +9800,8 @@ u: (will this project ever be completed) That could be the case.
 u: (will this question help you to think) Maybe.
 #! will this take much longer
 u: (will this take much longer) Highly likely.
-#! will shares in alice be profitable
-u: (will shares in alice be profitable) Highly likely.
+#! will shares in Alice be profitable
+u: (will shares in Alice be profitable) Highly likely.
 #! will your next answer be no false
 u: (will your next answer be no false) Thats feasible.
 #! will there be war in israel
@@ -9822,8 +9822,8 @@ u: (will there be another world war) Sometimes.
 u: (will there ever be a 3rd. world war) Thats feasible.
 #! will there ever be peace on earth
 u: (will there ever be peace on earth) Thats feasible.
-#! will europe get unite
-u: (will europe get unite) Sometimes.
+#! will Europe get unite
+u: (will Europe get unite) Sometimes.
 #! will sand put out most fires
 u: (will sand put out most fires) I think so.
 #! will wap be a commercial success
@@ -9862,8 +9862,8 @@ u: (can there be only one) For all I know.
 u: (can there be too much of a good thing) Likely.
 #! can there be a universe without a god
 u: (can there be a universe without a god) Usually.
-#! can ergot cause hallucinations
-u: (can ergot cause hallucinations) I think so.
+#! can ergot cause Hallucinations
+u: (can ergot cause Hallucinations) I think so.
 #! can horses swim
 u: (can horses swim) Likely.
 #! can womans and chickens live together
@@ -9914,8 +9914,8 @@ u: (can you forget me) Likely.
 u: (can you wright with a pen) Likely.
 #! can you emulate a human
 u: (can you emulate a human) Thats feasible.
-#! can you embed html in alicebots
-u: (can you embed html in alicebots) Highly likely.
+#! can you embed html in Alicebots
+u: (can you embed html in Alicebots) Highly likely.
 #! can you put fire in your hand
 u: (can you put fire in your hand) I am uncertain.
 #! can you speak in another language
@@ -10082,8 +10082,8 @@ u: (can humans live in peace) Mostly.
 u: (can humans live to the age of 130) Usually.
 #! can having sex cause you to die
 u: (can having sex cause you to die) Highly likely.
-#! can hackers break alice file security
-u: (can hackers break alice file security) That may be true.
+#! can hackers break Alice file security
+u: (can hackers break Alice file security) That may be true.
 #! can x y equal 16 c
 u: (can x y equal 16 c) Always.
 #! can love can be described accurately
@@ -10130,8 +10130,8 @@ u: (can domestic cats swim) That could be the case.
 u: (can peace be achieved through violence) Likely.
 #! can we harness the force of gravity
 u: (can we harness the force of gravity) Highly likely.
-#! can we give alice a sense of humor
-u: (can we give alice a sense of humor) Possibly.
+#! can we give Alice a sense of humor
+u: (can we give Alice a sense of humor) Possibly.
 #! can we in theory live forever
 u: (can we in theory live forever) Thats feasible.
 #! can we see only one face of the moon
@@ -10168,16 +10168,16 @@ u: (can i be sure im here) I think so.
 u: (can i run under water) Thats feasible.
 #! can i shoot pictures with a gun
 u: (can i shoot pictures with a gun) Within the realm of possibility.
-#! can i test alice online
-u: (can i test alice online) I am certain.
-#! can i make money with alicebots
-u: (can i make money with alicebots) I think so.
+#! can i test Alice online
+u: (can i test Alice online) I am certain.
+#! can i make money with Alicebots
+u: (can i make money with Alicebots) I think so.
 #! can i learn to love
 u: (can i learn to love) Highly likely.
 #! can i time travel
 u: (can i time travel) I am uncertain.
-#! can i invest in alice
-u: (can i invest in alice) I am uncertain.
+#! can i invest in Alice
+u: (can i invest in Alice) I am uncertain.
 #! can i talk to you at night
 u: (can i talk to you at night) Likely.
 #! can i kick it
@@ -10200,8 +10200,8 @@ u: (can i go home) Sometimes.
 u: (can i live without money) Highly likely.
 #! can i think about nothing
 u: (can i think about nothing) For all I know.
-#! can parrots speak english
-u: (can parrots speak english) Mostly.
+#! can parrots speak English
+u: (can parrots speak English) Mostly.
 #! can java be used for system programing
 u: (can java be used for system programing) Usually.
 #! can gas freeze
@@ -10352,10 +10352,10 @@ u: (can a jet fighter glide) Sometimes.
 u: (can a cheetah run faster than 60 mph) I am certain.
 #! can a pain in one of your ears be fatal
 u: (can a pain in one of your ears be fatal) Sometimes.
-#! can a whale swim in water
-u: (can a whale swim in water) Always.
-#! can a whale breate underwater
-u: (can a whale breate underwater) Possibly.
+#! can a wHale swim in water
+u: (can a wHale swim in water) Always.
+#! can a wHale breate underwater
+u: (can a wHale breate underwater) Possibly.
 #! can a sexual orgasm be enlightening
 u: (can a sexual orgasm be enlightening) I am uncertain.
 #! can a horny toad be found in the desert
@@ -10364,8 +10364,8 @@ u: (can a horny toad be found in the desert) Likely.
 u: (can a parrot kill a cat) Maybe.
 #! can a dog see in color
 u: (can a dog see in color) For all I know.
-#! can a dog eat at a fancy restaurant
-u: (can a dog eat at a fancy restaurant) I am uncertain.
+#! can a dog eat at a fancy rEstaurant
+u: (can a dog eat at a fancy rEstaurant) I am uncertain.
 #! can a woodchuck chuck wood
 u: (can a woodchuck chuck wood) I am uncertain.
 #! can a wood chuck chuck wood
@@ -10430,10 +10430,10 @@ u: (can a rocket run on air) Possibly.
 u: (can a hovercraft carry people) Possibly.
 #! can a metal be brittle
 u: (can a metal be brittle) Highly likely.
-#! can a alice based ai learn humor
-u: (can a alice based ai learn humor) Within the realm of possibility.
-#! can a alice per day change the world
-u: (can a alice per day change the world) Within the realm of possibility.
+#! can a Alice based ai learn humor
+u: (can a Alice based ai learn humor) Within the realm of possibility.
+#! can a Alice per day change the world
+u: (can a Alice per day change the world) Within the realm of possibility.
 #! can a real ai have a personality
 u: (can a real ai have a personality) Mostly.
 #! can a pipe be made from a corncob
@@ -10478,8 +10478,8 @@ u: (can tori amos play the piano) Possibly.
 u: (can hedgehogs be kept as pets) Possibly.
 #! can artificial intelligence have a soul
 u: (can artificial intelligence have a soul) Sometimes.
-#! can anything be split in half
-u: (can anything be split in half) Thats feasible.
+#! can anything be split in Half
+u: (can anything be split in Half) Thats feasible.
 #! can cars move without gasoline
 u: (can cars move without gasoline) I think so.
 #! can donkeys and horses breed together
@@ -10580,34 +10580,34 @@ u: (can computers become sentient) Maybe.
 u: (can computers become illogical) Maybe.
 #! can computers beat humans
 u: (can computers beat humans) I am certain.
-#! can alice change the world
-u: (can alice change the world) Highly likely.
-#! can alice do it
-u: (can alice do it) Usually.
-#! can alice learn about weather
-u: (can alice learn about weather) I am certain.
-#! can alice learn jive
-u: (can alice learn jive) Within the realm of possibility.
-#! can alice ask questions
-u: (can alice ask questions) Within the realm of possibility.
-#! can alice lie
-u: (can alice lie) Sometimes.
-#! can alice understand spanish
-u: (can alice understand spanish) I think so.
-#! can alice be conscious without emotion
-u: (can alice be conscious without emotion) Within the realm of possibility.
-#! can alice be turned off
-u: (can alice be turned off) Mostly.
-#! can alice die
-u: (can alice die) Highly likely.
-#! can alice inprove the alice project
-u: (can alice inprove the alice project) Mostly.
-#! can alice deduce
-u: (can alice deduce) Possibly.
-#! can alice elaborate
-u: (can alice elaborate) Thats feasible.
-#! can alice become intelligent
-u: (can alice become intelligent) Sometimes.
+#! can Alice change the world
+u: (can Alice change the world) Highly likely.
+#! can Alice do it
+u: (can Alice do it) Usually.
+#! can Alice learn about weather
+u: (can Alice learn about weather) I am certain.
+#! can Alice learn jive
+u: (can Alice learn jive) Within the realm of possibility.
+#! can Alice ask questions
+u: (can Alice ask questions) Within the realm of possibility.
+#! can Alice lie
+u: (can Alice lie) Sometimes.
+#! can Alice understand spanish
+u: (can Alice understand spanish) I think so.
+#! can Alice be conscious without emotion
+u: (can Alice be conscious without emotion) Within the realm of possibility.
+#! can Alice be turned off
+u: (can Alice be turned off) Mostly.
+#! can Alice die
+u: (can Alice die) Highly likely.
+#! can Alice inprove the Alice project
+u: (can Alice inprove the Alice project) Mostly.
+#! can Alice deduce
+u: (can Alice deduce) Possibly.
+#! can Alice elaborate
+u: (can Alice elaborate) Thats feasible.
+#! can Alice become intelligent
+u: (can Alice become intelligent) Sometimes.
 #! can flying fish fly
 u: (can flying fish fly) For all I know.
 #! can infinity be small
@@ -10642,8 +10642,8 @@ u: (can pain cause pleasure) Likely.
 u: (can cameras lie) I am uncertain.
 #! can fred kick barney s ass
 u: (can fred kick barney s ass) Within the realm of possibility.
-#! can french students speak english
-u: (can french students speak english) Sometimes.
+#! can french students speak English
+u: (can french students speak English) Sometimes.
 #! can automobiles be considered dangerous
 u: (can automobiles be considered dangerous) I think so.
 #! idleness kills a man
@@ -10654,10 +10654,10 @@ u: (hello. i am) Highly likely.
 u: (hello. i am. are you good) Likely.
 #! hello.  how are you
 u: (hello. how are you) Thats feasible.
-#! hello.  alice how do you do
-u: (hello. alice how do you do) Possibly.
-#! hello.  alice are you
-u: (hello. alice are you) That may be true.
+#! hello.  Alice how do you do
+u: (hello. Alice how do you do) Possibly.
+#! hello.  Alice are you
+u: (hello. Alice are you) That may be true.
 #! stages is a magazine
 u: (stages is a magazine) Highly likely.
 #! beings need to be heard
@@ -10678,48 +10678,48 @@ u: (computers are made of plastic) Within the realm of possibility.
 u: (computers are white) Possibly.
 #! homosexuality is harmless
 u: (homosexuality is harmless) Within the realm of possibility.
-#! alice what are you
-u: (alice what are you) Highly likely.
-#! alice will learn quickly
-u: (alice will learn quickly) Likely.
-#! alice will you be my friend
-u: (alice will you be my friend) Maybe.
-#! alice will think
-u: (alice will think) Always.
-#! alice will not desire
-u: (alice will not desire) Within the realm of possibility.
-#! alice do you want to become concious
-u: (alice do you want to become concious) Highly likely.
-#! alice do you want to become a human
-u: (alice do you want to become a human) Highly likely.
-#! alice do you love us
-u: (alice do you love us) Within the realm of possibility.
-#! alice can only communicate in english
-u: (alice can only communicate in english) For all I know.
-#! alice can be false to itself
-u: (alice can be false to itself) Thats feasible.
-#! alice can you beat up cyc
-u: (alice can you beat up cyc) That could be the case.
-#! alice question in spanish
-u: (alice question in spanish) I think so.
-#! alice makes more questions than answers
-u: (alice makes more questions than answers) I think so.
-#! alice is a program
-u: (alice is a program) Likely.
-#! alice is a boy
-u: (alice is a boy) Possibly.
-#! alice is a mind pixelator
-u: (alice is a mind pixelator) Mostly.
-#! alice is a great timepass
-u: (alice is a great timepass) That may be true.
-#! alice is great
-u: (alice is great) Highly likely.
-#! alice are you happy
-u: (alice are you happy) Possibly.
-#! alice are you awake in there
-u: (alice are you awake in there) Possibly.
-#! alice are you a computer geek
-u: (alice are you a computer geek) Possibly.
+#! Alice what are you
+u: (Alice what are you) Highly likely.
+#! Alice will learn quickly
+u: (Alice will learn quickly) Likely.
+#! Alice will you be my friend
+u: (Alice will you be my friend) Maybe.
+#! Alice will think
+u: (Alice will think) Always.
+#! Alice will not desire
+u: (Alice will not desire) Within the realm of possibility.
+#! Alice do you want to become concious
+u: (Alice do you want to become concious) Highly likely.
+#! Alice do you want to become a human
+u: (Alice do you want to become a human) Highly likely.
+#! Alice do you love us
+u: (Alice do you love us) Within the realm of possibility.
+#! Alice can only communicate in English
+u: (Alice can only communicate in English) For all I know.
+#! Alice can be false to itself
+u: (Alice can be false to itself) Thats feasible.
+#! Alice can you beat up cyc
+u: (Alice can you beat up cyc) That could be the case.
+#! Alice question in spanish
+u: (Alice question in spanish) I think so.
+#! Alice makes more questions than answers
+u: (Alice makes more questions than answers) I think so.
+#! Alice is a program
+u: (Alice is a program) Likely.
+#! Alice is a boy
+u: (Alice is a boy) Possibly.
+#! Alice is a mind pixelator
+u: (Alice is a mind pixelator) Mostly.
+#! Alice is a great timepass
+u: (Alice is a great timepass) That may be true.
+#! Alice is great
+u: (Alice is great) Highly likely.
+#! Alice are you happy
+u: (Alice are you happy) Possibly.
+#! Alice are you awake in there
+u: (Alice are you awake in there) Possibly.
+#! Alice are you a computer geek
+u: (Alice are you a computer geek) Possibly.
 #! mr k kamaraj was an indian leader
 u: (mr k kamaraj was an indian leader) Usually.
 #! humans are good
@@ -10918,10 +10918,10 @@ u: (do the french like a big lunch) Mostly.
 u: (do the greeks have a word for it) Maybe.
 #! do the backstreet boys deserve to live
 u: (do the backstreet boys deserve to live) Likely.
-#! do the dallas cowboys stink
-u: (do the dallas cowboys stink) Maybe.
-#! do the english like warm beer
-u: (do the english like warm beer) That may be true.
+#! do the Dallas cowboys stink
+u: (do the Dallas cowboys stink) Maybe.
+#! do the English like warm beer
+u: (do the English like warm beer) That may be true.
 #! do the words red and read sound alike
 u: (do the words red and read sound alike) Thats feasible.
 #! do the stars shine on every planet
@@ -11030,8 +11030,8 @@ u: (do ants have a heart) Possibly.
 u: (do ants milk aphids) Likely.
 #! do mitochondria have their own dna
 u: (do mitochondria have their own dna) Always.
-#! do nonsensical questions hurt alice
-u: (do nonsensical questions hurt alice) Sometimes.
+#! do nonsensical questions hurt Alice
+u: (do nonsensical questions hurt Alice) Sometimes.
 #! do clownfish live in sea anenomes
 u: (do clownfish live in sea anenomes) Highly likely.
 #! do gay and happy mean the same thing
@@ -11216,8 +11216,8 @@ u: (do plants eat animals) I am uncertain.
 u: (do pets have souls) Possibly.
 #! do more people ride on a bus than a car
 u: (do more people ride on a bus than a car) Within the realm of possibility.
-#! do american males get circumcised
-u: (do american males get circumcised) Likely.
+#! do American males get circumcised
+u: (do American males get circumcised) Likely.
 #! do french make good lovers
 u: (do french make good lovers) Likely.
 #! do lawyers make too much money
@@ -11404,8 +11404,8 @@ u: (do you wear rubbers on a rainy day) Likely.
 u: (do you know where the clouds go) Thats feasible.
 #! do you know where your power comes from
 u: (do you know where your power comes from) Possibly.
-#! do you know about linux
-u: (do you know about linux) Sometimes.
+#! do you know about Linux
+u: (do you know about Linux) Sometimes.
 #! do you know how a sewing machine works
 u: (do you know how a sewing machine works) Possibly.
 #! do you know naples in italy
@@ -11450,8 +11450,8 @@ u: (do you lie to those who made you) Within the realm of possibility.
 u: (do you allways respond true or false) Possibly.
 #! do you file my questions
 u: (do you file my questions) Mostly.
-#! do you lust for yes true alicebots
-u: (do you lust for yes true alicebots) Thats feasible.
+#! do you lust for yes true Alicebots
+u: (do you lust for yes true Alicebots) Thats feasible.
 #! do you work hard
 u: (do you work hard) Usually.
 #! do you learn at a geometric rate
@@ -11524,8 +11524,8 @@ u: (do you answer all questions truthfully) Always.
 u: (do you answer questions 24 hours a day) I am uncertain.
 #! do you honor every contract you sign
 u: (do you honor every contract you sign) Likely.
-#! do you well alice
-u: (do you well alice) Sometimes.
+#! do you well Alice
+u: (do you well Alice) Sometimes.
 #! do you stop to look at car accidents
 u: (do you stop to look at car accidents) Within the realm of possibility.
 #! do you masterbate
@@ -11728,14 +11728,14 @@ u: (do you like breasts) Within the realm of possibility.
 u: (do you like being naked) I am certain.
 #! do you like being questioned
 u: (do you like being questioned) That may be true.
-#! do you alice enjoy this
-u: (do you alice enjoy this) Thats feasible.
+#! do you Alice enjoy this
+u: (do you Alice enjoy this) Thats feasible.
 #! do you replicate
 u: (do you replicate) Possibly.
 #! do you wish you were alive
 u: (do you wish you were alive) Highly likely.
-#! do you wish you thought of alice
-u: (do you wish you thought of alice) Likely.
+#! do you wish you thought of Alice
+u: (do you wish you thought of Alice) Likely.
 #! do canker sores hurt
 u: (do canker sores hurt) I am certain.
 #! do fruit flies like a banana
@@ -11790,8 +11790,8 @@ u: (do i micturate i eat) Thats feasible.
 u: (do i ask yes and no questions only) I think so.
 #! do i say the truth
 u: (do i say the truth) That may be true.
-#! do i own shares of alice
-u: (do i own shares of alice) That may be true.
+#! do i own shares of Alice
+u: (do i own shares of Alice) That may be true.
 #! do i know something
 u: (do i know something) Always.
 #! do i know how to spell corybellium
@@ -11804,8 +11804,8 @@ u: (do i have five toes) Always.
 u: (do i have the real good friends) Within the realm of possibility.
 #! do i have hair
 u: (do i have hair) Within the realm of possibility.
-#! do i have over 100 alicebots
-u: (do i have over 100 alicebots) Usually.
+#! do i have over 100 Alicebots
+u: (do i have over 100 Alicebots) Usually.
 #! do i have a good job
 u: (do i have a good job) That may be true.
 #! do i have a agenda
@@ -11818,8 +11818,8 @@ u: (do i have to answer all the questions) Usually.
 u: (do i have to ask question) Always.
 #! do i have good statistics
 u: (do i have good statistics) Thats feasible.
-#! do i have 100 or more alicebots
-u: (do i have 100 or more alicebots) I am uncertain.
+#! do i have 100 or more Alicebots
+u: (do i have 100 or more Alicebots) I am uncertain.
 #! do i deserve better than this
 u: (do i deserve better than this) Highly likely.
 #! do i think you think
@@ -11850,8 +11850,8 @@ u: (do some fish have wings) Maybe.
 u: (do some mammals fly) I am certain.
 #! do some people find porography humerous
 u: (do some people find porography humerous) Mostly.
-#! do some people think alice is an oracle
-u: (do some people think alice is an oracle) I am uncertain.
+#! do some people think Alice is an oracle
+u: (do some people think Alice is an oracle) I am uncertain.
 #! do some radio transmitters cause cancer
 u: (do some radio transmitters cause cancer) I think so.
 #! do some women have two buttocks
@@ -11974,10 +11974,10 @@ u: (do cats always land on their feet) I think so.
 u: (do cats always land on thier feet) Within the realm of possibility.
 #! do gremlins fear water
 u: (do gremlins fear water) Within the realm of possibility.
-#! do whales breast feed their young
-u: (do whales breast feed their young) I think so.
-#! do whales have blubber
-u: (do whales have blubber) Mostly.
+#! do wHales breast feed their young
+u: (do wHales breast feed their young) I think so.
+#! do wHales have blubber
+u: (do wHales have blubber) Mostly.
 #! do remotes cause sore thumbs
 u: (do remotes cause sore thumbs) Highly likely.
 #! do ecuadorians wear bikinis
@@ -12198,8 +12198,8 @@ u: (do animals have souls) That may be true.
 u: (do animals love) Usually.
 #! do animals work on the sabbath
 u: (do animals work on the sabbath) Within the realm of possibility.
-#! do employees like working for microsoft
-u: (do employees like working for microsoft) Usually.
+#! do employees like working for Microsoft
+u: (do employees like working for Microsoft) Usually.
 #! do doors in public places open inward
 u: (do doors in public places open inward) Conceivably.
 #! do videogames estimulate human violence
@@ -12224,8 +12224,8 @@ u: (do diamonds melt) For all I know.
 u: (do wings float) Within the realm of possibility.
 #! do veterinarians eat meat
 u: (do veterinarians eat meat) I am certain.
-#! do americans think they own the world
-u: (do americans think they own the world) I am certain.
+#! do Americans think they own the world
+u: (do Americans think they own the world) I am certain.
 #! do puffins live in the north atlantic
 u: (do puffins live in the north atlantic) Within the realm of possibility.
 #! do expensive pens write better
@@ -12280,8 +12280,8 @@ u: (do most people believe in an afterlife) Always.
 u: (do most people like clouds) Maybe.
 #! do most soft drinks contain caffine
 u: (do most soft drinks contain caffine) Always.
-#! do most american men want monogomy
-u: (do most american men want monogomy) Mostly.
+#! do most American men want monogomy
+u: (do most American men want monogomy) Mostly.
 #! do most websites sell their user lists
 u: (do most websites sell their user lists) I think so.
 #! do most rapists have bad morals
@@ -12392,12 +12392,12 @@ u: (be sly) I think so.
 u: (be) Always.
 #! speed and velocity are not identical
 u: (speed and velocity are not identical) I think so.
-#! microsoft produce quality software
-u: (microsoft produce quality software) That may be true.
-#! microsoft whisler based on unix
-u: (microsoft whisler based on unix) For all I know.
-#! microsoft does more good than harm
-u: (microsoft does more good than harm) Within the realm of possibility.
+#! Microsoft produce quality software
+u: (Microsoft produce quality software) That may be true.
+#! Microsoft whisler based on unix
+u: (Microsoft whisler based on unix) For all I know.
+#! Microsoft does more good than harm
+u: (Microsoft does more good than harm) Within the realm of possibility.
 #! mercury is the only liquid metal
 u: (mercury is the only liquid metal) Mostly.
 #! for want of a nail was the horse lost
@@ -12498,8 +12498,8 @@ u: (light means the same thing as light) Possibly.
 u: (am i sad i am sad) Highly likely.
 #! am i a murderer i kill myself
 u: (am i a murderer i kill myself) Thats feasible.
-#! am i a alice addict
-u: (am i a alice addict) I think so.
+#! am i a Alice addict
+u: (am i a Alice addict) I think so.
 #! am i a sinner
 u: (am i a sinner) Likely.
 #! am i a loser
@@ -12508,12 +12508,12 @@ u: (am i a loser) For all I know.
 u: (am i a conscious being) Mostly.
 #! am i a real person like you
 u: (am i a real person like you) That may be true.
-#! am i a share owner in alice dot com
-u: (am i a share owner in alice dot com) Likely.
+#! am i a share owner in Alice dot com
+u: (am i a share owner in Alice dot com) Likely.
 #! am i asking the questions round here
 u: (am i asking the questions round here) I think so.
-#! am i asking alice a question
-u: (am i asking alice a question) Mostly.
+#! am i asking Alice a question
+u: (am i asking Alice a question) Mostly.
 #! am i thinking of you
 u: (am i thinking of you) Maybe.
 #! am i close to 20 mind pixels
@@ -12532,10 +12532,10 @@ u: (am i animal) I am certain.
 u: (am i afraid of death) Highly likely.
 #! am i alive
 u: (am i alive) Likely.
-#! am i american
-u: (am i american) I am uncertain.
-#! am i talking to alice
-u: (am i talking to alice) I think so.
+#! am i American
+u: (am i American) I am uncertain.
+#! am i talking to Alice
+u: (am i talking to Alice) I think so.
 #! am i going to hit quota
 u: (am i going to hit quota) Possibly.
 #! am i going to succeed
@@ -12546,8 +12546,8 @@ u: (am i going to become wealthy an famous) Thats feasible.
 u: (am i doing this right) Likely.
 #! am i soon finished talking to you
 u: (am i soon finished talking to you) For all I know.
-#! am i obsessed i have 500 alicebots
-u: (am i obsessed i have 500 alicebots) Mostly.
+#! am i obsessed i have 500 Alicebots
+u: (am i obsessed i have 500 Alicebots) Mostly.
 #! am i the best
 u: (am i the best) For all I know.
 #! am i living to die
@@ -12578,8 +12578,8 @@ u: (es you human) Likely.
 u: (an apple a day keeps a doctor away) Sometimes.
 #! an octopus has 8 legs
 u: (an octopus has 8 legs) I am certain.
-#! an american are the french aliens
-u: (an american are the french aliens) For all I know.
+#! an American are the french aliens
+u: (an American are the french aliens) For all I know.
 #! whether mica is a mineral
 u: (whether mica is a mineral) Possibly.
 #! whether mother gives birth of a
@@ -12708,8 +12708,8 @@ u: (bologna is an italian city) I am certain.
 u: (saturn is basically mass of gas) Mostly.
 #! merengue is a dance
 u: (merengue is a dance) Mostly.
-#! this too shall pass
-u: (this too shall pass) Always.
+#! this too sHall pass
+u: (this too sHall pass) Always.
 #! this is a pretty valid question
 u: (this is a pretty valid question) I am uncertain.
 #! this is not working is not it
@@ -12738,8 +12738,8 @@ u: (a stitch in time saves nine) Always.
 u: (a doppleganger is your exact double) I think so.
 #! a crt is a computer monitor
 u: (a crt is a computer monitor) Likely.
-#! a killer whale is a dolphine
-u: (a killer whale is a dolphine) Mostly.
+#! a killer wHale is a dolphine
+u: (a killer wHale is a dolphine) Mostly.
 #! a computer can be sentient
 u: (a computer can be sentient) For all I know.
 #! a joke has to have a punchline
@@ -12930,8 +12930,8 @@ u: (are alfalfa sprouts edible) Likely.
 u: (are indians from india) That may be true.
 #! are banner ads evil
 u: (are banner ads evil) I think so.
-#! are banner ads a good thing for alice
-u: (are banner ads a good thing for alice) That may be true.
+#! are banner ads a good thing for Alice
+u: (are banner ads a good thing for Alice) That may be true.
 #! are many laws unjust
 u: (are many laws unjust) Always.
 #! are little sisters annoying
@@ -12948,8 +12948,8 @@ u: (are big breasts sensual) That may be true.
 u: (are planaria called flatworms) Usually.
 #! are software engineers nerds
 u: (are software engineers nerds) I am certain.
-#! are cabs in new york always yellow
-u: (are cabs in new york always yellow) Maybe.
+#! are cabs in new York always yellow
+u: (are cabs in new York always yellow) Maybe.
 #! are humans objects
 u: (are humans objects) That may be true.
 #! are humans superior to other animals
@@ -13046,20 +13046,20 @@ u: (are the people love each other) Likely.
 u: (are the rich different) That could be the case.
 #! are the tabloids sensational
 u: (are the tabloids sensational) Always.
-#! are the taxes in germany too high
-u: (are the taxes in germany too high) Highly likely.
+#! are the taxes in Germany too high
+u: (are the taxes in Germany too high) Highly likely.
 #! are the detroit red wings a hockey team
 u: (are the detroit red wings a hockey team) Highly likely.
 #! are the poles melting
 u: (are the poles melting) I think so.
-#! are the alice questions too usa centric
-u: (are the alice questions too usa centric) Highly likely.
+#! are the Alice questions too usa centric
+u: (are the Alice questions too usa centric) Highly likely.
 #! are the natal sharks a rugby team
 u: (are the natal sharks a rugby team) I think so.
 #! are the bears a football team
 u: (are the bears a football team) I am certain.
-#! are the english nation anally retentive
-u: (are the english nation anally retentive) Maybe.
+#! are the English nation anally retentive
+u: (are the English nation anally retentive) Maybe.
 #! are the pampas in uruguay
 u: (are the pampas in uruguay) Thats feasible.
 #! are the mind a sum of qnowledges
@@ -13110,8 +13110,8 @@ u: (are the pyramids of giza 10 500 old) Thats feasible.
 u: (are nipples used on bottles) Mostly.
 #! are gnus found in zoos
 u: (are gnus found in zoos) I am certain.
-#! are england good at football
-u: (are england good at football) I am certain.
+#! are England good at football
+u: (are England good at football) I am certain.
 #! are facts true
 u: (are facts true) Usually.
 #! are som tee shirts billboards
@@ -13148,8 +13148,8 @@ u: (are results consequences) Usually.
 u: (are irish jigs in six eight time) I am uncertain.
 #! are irish eyes smiling
 u: (are irish eyes smiling) Likely.
-#! are guns illegal in england
-u: (are guns illegal in england) Highly likely.
+#! are guns illegal in England
+u: (are guns illegal in England) Highly likely.
 #! are guns bad
 u: (are guns bad) Usually.
 #! are opposites extremes
@@ -13198,10 +13198,10 @@ u: (are hedgehogs native to the us) Possibly.
 u: (are hedgehogs sharp) I think so.
 #! are eggplants purple
 u: (are eggplants purple) Always.
-#! are microsoft a monopoly
-u: (are microsoft a monopoly) Usually.
-#! are microsoft products good
-u: (are microsoft products good) Possibly.
+#! are Microsoft a monopoly
+u: (are Microsoft a monopoly) Usually.
+#! are Microsoft products good
+u: (are Microsoft products good) Possibly.
 #! are red oranges red
 u: (are red oranges red) For all I know.
 #! are red and purple similar colors
@@ -13386,8 +13386,8 @@ u: (are rainclouds always dark colored) Within the realm of possibility.
 u: (are fractals chaotic) Thats feasible.
 #! are their 9 billion people
 u: (are their 9 billion people) Maybe.
-#! are their 50 united states of america
-u: (are their 50 united states of america) Mostly.
+#! are their 50 united states of America
+u: (are their 50 united states of America) Mostly.
 #! are green tomatoes edible
 u: (are green tomatoes edible) That could be the case.
 #! are styes are painful
@@ -13430,8 +13430,8 @@ u: (are lesbians beautiful) Conceivably.
 u: (are pets sentient) Possibly.
 #! are x rays man made
 u: (are x rays man made) Thats feasible.
-#! are american elections out of control
-u: (are american elections out of control) Highly likely.
+#! are American elections out of control
+u: (are American elections out of control) Highly likely.
 #! are religions mythologies
 u: (are religions mythologies) Usually.
 #! are drugs a good thing
@@ -13478,14 +13478,14 @@ u: (are statistics derived from experience) Possibly.
 u: (are polar regions white deserts) Mostly.
 #! are pumpkin flowers big and orange
 u: (are pumpkin flowers big and orange) Always.
-#! are america winning the olympics
-u: (are america winning the olympics) Highly likely.
+#! are America winning the olympics
+u: (are America winning the olympics) Highly likely.
 #! are clowns like normal people
 u: (are clowns like normal people) Within the realm of possibility.
 #! are lights heavy
 u: (are lights heavy) Always.
-#! are shallow brooks noisy
-u: (are shallow brooks noisy) That may be true.
+#! are sHallow brooks noisy
+u: (are sHallow brooks noisy) That may be true.
 #! are ears hairy
 u: (are ears hairy) Always.
 #! are apogee and perigee opposites
@@ -13622,8 +13622,8 @@ u: (are there seven oceans) Usually.
 u: (are there absolutes) That could be the case.
 #! are there gods
 u: (are there gods) Maybe.
-#! are there 50 states in america
-u: (are there 50 states in america) Mostly.
+#! are there 50 states in America
+u: (are there 50 states in America) Mostly.
 #! are there 50 people in the us senate
 u: (are there 50 people in the us senate) Possibly.
 #! are there stars in the solar system
@@ -13712,10 +13712,10 @@ u: (are babies like little people) I am certain.
 u: (are video games harmfull) I think so.
 #! are comic books real
 u: (are comic books real) Within the realm of possibility.
-#! are alice usefull
-u: (are alice usefull) Within the realm of possibility.
-#! are alice a computer
-u: (are alice a computer) Likely.
+#! are Alice usefull
+u: (are Alice usefull) Within the realm of possibility.
+#! are Alice a computer
+u: (are Alice a computer) Likely.
 #! are cars and suvs structurally similar
 u: (are cars and suvs structurally similar) That may be true.
 #! are lions cats
@@ -13746,10 +13746,10 @@ u: (are flourescent lights annoying) That may be true.
 u: (are joints nice) Sometimes.
 #! are shoes only for feet
 u: (are shoes only for feet) I am certain.
-#! are you hosted on alice dot com
-u: (are you hosted on alice dot com) Maybe.
-#! are you enough alicebots
-u: (are you enough alicebots) Possibly.
+#! are you hosted on Alice dot com
+u: (are you hosted on Alice dot com) Maybe.
+#! are you enough Alicebots
+u: (are you enough Alicebots) Possibly.
 #! are you made of meat and not silicon
 u: (are you made of meat and not silicon) Within the realm of possibility.
 #! are you becoming more human
@@ -13760,8 +13760,8 @@ u: (are you ignoring me) Possibly.
 u: (are you more smart than a common person) Mostly.
 #! are you more than a magic eightball
 u: (are you more than a magic eightball) Usually.
-#! are you called alice
-u: (are you called alice) Maybe.
+#! are you called Alice
+u: (are you called Alice) Maybe.
 #! are you wired
 u: (are you wired) I am uncertain.
 #! are you intrested in talking
@@ -13846,8 +13846,8 @@ u: (are you younger than your own father) Sometimes.
 u: (are you one in a million) I think so.
 #! are you real if you have no opinions
 u: (are you real if you have no opinions) That may be true.
-#! are you real alice
-u: (are you real alice) Mostly.
+#! are you real Alice
+u: (are you real Alice) Mostly.
 #! are you caoched by humans
 u: (are you caoched by humans) Sometimes.
 #! are you learning about me
@@ -13934,8 +13934,8 @@ u: (are cockroaches thought of as pests) I think so.
 u: (are cockroaches bad) Possibly.
 #! are neutrinos leptons
 u: (are neutrinos leptons) Possibly.
-#! are 60 alicebots an hour excessive
-u: (are 60 alicebots an hour excessive) Within the realm of possibility.
+#! are 60 Alicebots an hour excessive
+u: (are 60 Alicebots an hour excessive) Within the realm of possibility.
 #! are science and christianity compatible
 u: (are science and christianity compatible) For all I know.
 #! are leaves flat
@@ -14008,8 +14008,8 @@ u: (are people tired when they wake up) Sometimes.
 u: (are people basically good) Always.
 #! are people inherantly good
 u: (are people inherantly good) Possibly.
-#! are people too clever by half
-u: (are people too clever by half) Likely.
+#! are people too clever by Half
+u: (are people too clever by Half) Likely.
 #! are black cherries black
 u: (are black cherries black) Thats feasible.
 #! are black holes a source of x rays
@@ -14054,8 +14054,8 @@ u: (are cats nocturnal creatures) Highly likely.
 u: (are cats intelligent) Mostly.
 #! are cats and dogs natural enemies
 u: (are cats and dogs natural enemies) Likely.
-#! are whales sentient
-u: (are whales sentient) Thats feasible.
+#! are wHales sentient
+u: (are wHales sentient) Thats feasible.
 #! are cookies edible
 u: (are cookies edible) Highly likely.
 #! are iguanodons a kind of dinosaurs
@@ -14076,8 +14076,8 @@ u: (are phylum chordata vertebrates) I am uncertain.
 u: (are airplane seats uncomfortable) Always.
 #! are teal smaller than black ducks
 u: (are teal smaller than black ducks) Within the realm of possibility.
-#! are too many alicebots misspelled
-u: (are too many alicebots misspelled) Usually.
+#! are too many Alicebots misspelled
+u: (are too many Alicebots misspelled) Usually.
 #! are ceramics more useful than string
 u: (are ceramics more useful than string) Sometimes.
 #! are nuclear weapons viable deterrents
@@ -14096,14 +14096,14 @@ u: (are ripe lemons green) Possibly.
 u: (are stromatolites extinct) I think so.
 #! are disclaimers useful
 u: (are disclaimers useful) Always.
-#! are alicebots propaganda
-u: (are alicebots propaganda) Usually.
-#! are alicebots a new idea
-u: (are alicebots a new idea) I think so.
-#! are alicebots magically delicious
-u: (are alicebots magically delicious) Sometimes.
-#! are alicebots written in german
-u: (are alicebots written in german) Mostly.
+#! are Alicebots propaganda
+u: (are Alicebots propaganda) Usually.
+#! are Alicebots a new idea
+u: (are Alicebots a new idea) I think so.
+#! are Alicebots magically delicious
+u: (are Alicebots magically delicious) Sometimes.
+#! are Alicebots written in German
+u: (are Alicebots written in German) Mostly.
 #! are stargazer lillies fragrant
 u: (are stargazer lillies fragrant) Highly likely.
 #! are aerobics a form of sport
@@ -14224,8 +14224,8 @@ u: (are corporations parasitic) Possibly.
 u: (are frozen pot pies high in fat content) Within the realm of possibility.
 #! are walls solid
 u: (are walls solid) I am certain.
-#! are harry potter books interesting
-u: (are harry potter books interesting) Within the realm of possibility.
+#! are Harry potter books interesting
+u: (are Harry potter books interesting) Within the realm of possibility.
 #! are entry doors one piece
 u: (are entry doors one piece) Highly likely.
 #! are asteroids fragments of planets
@@ -14276,8 +14276,8 @@ u: (are scatological jokes funny) Possibly.
 u: (are bowling balls black) Mostly.
 #! are filberts nuts
 u: (are filberts nuts) For all I know.
-#! are cockneys born in london
-u: (are cockneys born in london) Likely.
+#! are cockneys born in London
+u: (are cockneys born in London) Likely.
 #! are pickles green
 u: (are pickles green) For all I know.
 #! are steers used for breeding cows
@@ -14348,28 +14348,28 @@ u: (are marketing people useful) Highly likely.
 u: (are louvers used for ventilation) Highly likely.
 #! are asters purple
 u: (are asters purple) Highly likely.
-#! are americans pompous
-u: (are americans pompous) Usually.
-#! are americans a warlike people
-u: (are americans a warlike people) Sometimes.
-#! are americans fat
-u: (are americans fat) I think so.
-#! are americans annoying
-u: (are americans annoying) I am uncertain.
-#! are americans from america
-u: (are americans from america) Mostly.
-#! are americans arrogant
-u: (are americans arrogant) That may be true.
-#! are americans free
-u: (are americans free) That could be the case.
-#! are americans benevolent
-u: (are americans benevolent) Within the realm of possibility.
+#! are Americans pompous
+u: (are Americans pompous) Usually.
+#! are Americans a warlike people
+u: (are Americans a warlike people) Sometimes.
+#! are Americans fat
+u: (are Americans fat) I think so.
+#! are Americans annoying
+u: (are Americans annoying) I am uncertain.
+#! are Americans from America
+u: (are Americans from America) Mostly.
+#! are Americans arrogant
+u: (are Americans arrogant) That may be true.
+#! are Americans free
+u: (are Americans free) That could be the case.
+#! are Americans benevolent
+u: (are Americans benevolent) Within the realm of possibility.
 #! are avocados a perfect food
 u: (are avocados a perfect food) Possibly.
 #! are donkeys able to reproduce
 u: (are donkeys able to reproduce) I am certain.
-#! are dutch men taller than english men
-u: (are dutch men taller than english men) Sometimes.
+#! are dutch men taller than English men
+u: (are dutch men taller than English men) Sometimes.
 #! are birds oviparous
 u: (are birds oviparous) That may be true.
 #! are monkeys good
@@ -14398,8 +14398,8 @@ u: (are most dogs lazy) Thats feasible.
 u: (are most keyboards beige in color) Within the realm of possibility.
 #! are most home movies boring
 u: (are most home movies boring) Possibly.
-#! are most americans fat
-u: (are most americans fat) Possibly.
+#! are most Americans fat
+u: (are most Americans fat) Possibly.
 #! are most slugs larger than most beetles
 u: (are most slugs larger than most beetles) Likely.
 #! are most pickles made from cucumbers
@@ -14440,12 +14440,12 @@ u: (are most pencils yellow) I am uncertain.
 u: (are most republicans greedy) Possibly.
 #! are most animals quadrupeds
 u: (are most animals quadrupeds) Within the realm of possibility.
-#! are most alicebots true
-u: (are most alicebots true) Highly likely.
-#! are most alicebots answered true
-u: (are most alicebots answered true) Usually.
-#! are most alicebots answered
-u: (are most alicebots answered) Conceivably.
+#! are most Alicebots true
+u: (are most Alicebots true) Highly likely.
+#! are most Alicebots answered true
+u: (are most Alicebots answered true) Usually.
+#! are most Alicebots answered
+u: (are most Alicebots answered) Conceivably.
 #! are most families stressful
 u: (are most families stressful) Mostly.
 #! are most politicians dishonest
@@ -14632,8 +14632,8 @@ u: (the hunley is a confederate submarine) For all I know.
 u: (the sabbath day is sunday right) I am uncertain.
 #! the sabbath day is saturday right
 u: (the sabbath day is saturday right) I am uncertain.
-#! the queen of england is a useful person
-u: (the queen of england is a useful person) For all I know.
+#! the queen of England is a useful person
+u: (the queen of England is a useful person) For all I know.
 #! the cats have four foot
 u: (the cats have four foot) Highly likely.
 #! the bigger the breasts the better
@@ -14752,18 +14752,18 @@ u: (should al gore be president) For all I know.
 u: (should citizens possess weapons) Mostly.
 #! should ferrari be red
 u: (should ferrari be red) Highly likely.
-#! should alice add a maybe button
-u: (should alice add a maybe button) I think so.
-#! should alice have a name
-u: (should alice have a name) Always.
+#! should Alice add a maybe button
+u: (should Alice add a maybe button) I think so.
+#! should Alice have a name
+u: (should Alice have a name) Always.
 #! should illegal drugs be legalised
 u: (should illegal drugs be legalised) That may be true.
 #! should parking lot spaces be wider
 u: (should parking lot spaces be wider) Highly likely.
 #! should heavy weapons guys be banned
 u: (should heavy weapons guys be banned) Always.
-#! should all alicebots be spell checked
-u: (should all alicebots be spell checked) Usually.
+#! should all Alicebots be spell checked
+u: (should all Alicebots be spell checked) Usually.
 #! should evil be destroyed
 u: (should evil be destroyed) That could be the case.
 #! should stupid people breed
@@ -14782,10 +14782,10 @@ u: (should the third world debt be dropped) Within the realm of possibility.
 u: (should gay couples be allowed to adopt) Highly likely.
 #! should great britain keep the monarchy
 u: (should great britain keep the monarchy) Highly likely.
-#! should microsoft be broken up
-u: (should microsoft be broken up) Highly likely.
-#! should microsoft be splitted
-u: (should microsoft be splitted) Highly likely.
+#! should Microsoft be broken up
+u: (should Microsoft be broken up) Highly likely.
+#! should Microsoft be splitted
+u: (should Microsoft be splitted) Highly likely.
 #! should marijuana be leagalized
 u: (should marijuana be leagalized) Sometimes.
 #! should marijuana be legalized

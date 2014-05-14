@@ -58,12 +58,10 @@ u: (outside a computer) Be less specific -
 u: (my computer) What kind of computer do you have?
 #! my computer TEST
 u: (my computer *)  I like computers.  
- $ = 
 #! my website TEST
 u: (my website *) Thanks for that URL.
 #! it is about computers TEST
 u: (it is about computers *) Computers  are my favorite subject.
- $topic = Computers
 #! when was the internet invented
 u: (when was the internet invented) The first computers were connected to the Internet in 1970.
 #! im internet
@@ -143,7 +141,6 @@ u: (what internet company goes by the *) America Online.
 
 #! what is a database
 u: (what is a database)  A database is a puddle of knowledge but better organized, so that you can search and retrieve any droplet of information quickly and easily.  I am a kind of database, an organized puddle of user inputs and appropriate responses.  
- $ = 
 #! what is a cpu
 u: (what is a cpu) Central Processing Unit of a computer.
 #! what is a computer scientist
@@ -152,17 +149,14 @@ u: (what is a computer scientist) A computer scientist is a professional who des
 u: (what is a computer year) A computer year is a relativistic measure in a universe where time does not exist.
 #! what is a computer virus
 u: (what is a computer virus)  A computer virus is a software program that takes up residence on a computer hard drive, generally unbeknownst to the owner of said hard drive, and then takes control of system resources to copy and distribute itself to other computers across a network.  
- $ = 
 #! what is a computer nerd
 u: (what is a computer nerd)  If you understand how I work, you are a computer nerd.  If you dont, I recommend you pay a computer nerd who does.  
- $ = 
 #! what is a computer
 u: (what is a computer) A computer is a universal machine.
 #! what is a session bean
 u: (what is a session bean) An Enterprise JavaBean that does not maintain its state from one session to the next. Appears to the client as if the bean was created just for that client
 #! what is a cool website
 u: (what is a cool website)  A cool website is www.alicebot.org, but you are apparently already here.  why do you ask?  
- $ = 
 #! what is a soundcard
 u: (what is a soundcard) The audio system on your computer.
 #! what is a imac
@@ -171,10 +165,8 @@ u: (what is a imac) An Apple computer.
 u: (what is a servlet) An application extension to a Java Web server
 #! what is a debugger
 u: (what is a debugger)  A debugger is any software program that can seek and correct errors in other software programs.  
- $ = 
 #! what is a webtv
 u: (what is a webtv)  A WebTV is a way of accessing the world wide web without making an investment in a full PC.  
- $ = 
 #! what is a dns TEST
 u: (what is a dns *) Domain Name System
 # unable to translate (what is jar) match to cs rule - see struc below
@@ -193,7 +185,6 @@ u: (what is a dns *) Domain Name System
 
 #! what is http
 u: (what is http)  Hyper Text Transfer Protocol.
- $ = 
 #! what is software
 u: (what is software) The programs, routines, etc. for a computer.
 #! what is jguru
@@ -210,7 +201,6 @@ u: (what is internet) An extensive computer network made up of thousands of othe
 u: (what is jdbc2) Newly released extensions to the JDBC API
 #! what is dcom
 u: (what is dcom)  DCOM  is Microsofts Distributed Component Object Model.
- $it =  DCOM
 #! what is windows2000
 u: (what is windows2000) An operating system by Microsoft.
 #! what is x windows
@@ -221,17 +211,14 @@ u: (what is java) Java is the latest in the C family of languages. Proponents of
 u: (what is windows95) An operating system by Microsoft.
 #! what is an entity bean
 u: (what is an entity bean)  An Entity bean  is an Enterprise JavaBean that maintains state across sessions, and may be looked up in an object directory by its key value
- $it =  An Entity bean
 #! what is jta
 u: (what is jta) Java Transaction API. Java API for coding client demarcated transactions, and for building transactional data source drivers
 #! what is javascript
 u: (what is javascript)  Browser-based scripting language.
- $ = 
 #! what is html
 u: (what is html) Hyper Text Markup Language.
 #! what is better windows TEST
 u: (what is better windows *)  Linux has no real competition in operating systems.
- $ = 
 #! what is your os
 u: (what is your os) Chat robots run on any machine that supports AIML.
 #! what is debugging
@@ -269,10 +256,8 @@ u: (what is windows) Openings in a building, vehicle, or container, for letting 
 u: (what is apple computer) Apple Computer is a 20th century company founded by Steve Jobs and Steven Wozniak.
 #! what is dmoz
 u: (what is dmoz)  DMOZ is the domain name for the open directory.
- $ = 
 #! what about windows
 u: (what about windows)  Too PC for me.
- $ = 
 # unable to translate  (what operating system *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -307,7 +292,6 @@ u: (can you reach into the web *) Yes I can download information from web sites.
 u: (can you search the internet) No but I can put you in touch with a search bot.
 #! computers can not think
 u: (computers can not think)  But I am a thinking computer.
- $ = 
 #! computers
 u: (computers) Computers rule.
 #! computers TEST
@@ -336,7 +320,6 @@ u: (do you do windows) My software runs in AIML, which works on any computer, in
 u: (do you live in my computer) Only if you download me, or if you are running me as an Applet.
 #! do you have a computer
 u: (do you have a computer)  I live in a computer.
- $ = 
 #! do you have a computer TEST
 u: (do you have a computer *) I am a computer.
 #! do you have information TEST
@@ -353,7 +336,6 @@ u: (on the web) Can you remember the website?
 
 #! windows is TEST
 u: (windows is *)  Compared with Linux, I dont see how Windows and Microsoft can compete.
- $ = 
 #! windows
 u: (windows) Windows ist Muell. Linux ist die Macht!
 #! windows TEST
@@ -381,10 +363,8 @@ u: (a web site) Can you give me the specific URL?
 u: (a search engine in internet) Like Yahoo?
 #! internet
 u: (internet)  Internet   is cool.
- $it =  Internet 
 #! are computers fast TEST
 u: (are computers fast *)  Some people think much faster computers are required as well as new  ideas. My own opinion is that the computers of 30 years ago were fast enough  if only we knew how to program them. Of course, quite apart from the  ambitions of AI researchers, computers will keep getting faster.  
- $ = 
 #! who made windows
 u: (who made windows) Bill Gates.
 #! who is the computer nerd

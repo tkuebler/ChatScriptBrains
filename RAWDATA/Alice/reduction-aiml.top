@@ -6,7 +6,7 @@
 #
 TOPIC: ~reductionaiml (aimlkey) 
 
-# unable to translate  (i am hal) match to cs rule - see struc below
+# unable to translate  (i am Hal) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME HAL'
@@ -96,7 +96,7 @@ TOPIC: ~reductionaiml (aimlkey)
 #             'srai' => 'call me danny'
 #           };
 
-# unable to translate  (i am shallow red) match to cs rule - see struc below
+# unable to translate  (i am sHallow red) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'call me shallow red'
@@ -108,7 +108,7 @@ TOPIC: ~reductionaiml (aimlkey)
 #             'srai' => 'call me allie'
 #           };
 
-# unable to translate  (i am george) match to cs rule - see struc below
+# unable to translate  (i am George) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'call me george'
@@ -238,7 +238,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME BARBARA'
 #           };
 
-# unable to translate  (i am elizabeth) match to cs rule - see struc below
+# unable to translate  (i am Elizabeth) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME ELIZABETH'
@@ -514,7 +514,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME DIANE'
 #           };
 
-# unable to translate  (i am alice) match to cs rule - see struc below
+# unable to translate  (i am Alice) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME ALICE'
@@ -1054,7 +1054,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME EVA'
 #           };
 
-# unable to translate  (i am debbie) match to cs rule - see struc below
+# unable to translate  (i am Debbie) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME DEBBIE'
@@ -1180,7 +1180,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME GERALDINE'
 #           };
 
-# unable to translate  (i am lauren) match to cs rule - see struc below
+# unable to translate  (i am Lauren) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME LAUREN'
@@ -3898,7 +3898,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME PAIGE'
 #           };
 
-# unable to translate  (i am joni) match to cs rule - see struc below
+# unable to translate  (i am Joni) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JONI'
@@ -4006,7 +4006,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME KIRSTEN'
 #           };
 
-# unable to translate  (i am shana) match to cs rule - see struc below
+# unable to translate  (i am sHana) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME SHANA'
@@ -4516,7 +4516,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME GEORGINA'
 #           };
 
-# unable to translate  (i am eliza) match to cs rule - see struc below
+# unable to translate  (i am Eliza) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME ELIZA'
@@ -4540,7 +4540,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME RHODA'
 #           };
 
-# unable to translate  (i am haley) match to cs rule - see struc below
+# unable to translate  (i am Haley) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME HALEY'
@@ -5386,7 +5386,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME MARI'
 #           };
 
-# unable to translate  (i am georgette) match to cs rule - see struc below
+# unable to translate  (i am Georgette) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME GEORGETTE'
@@ -5776,7 +5776,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME ROSANNA'
 #           };
 
-# unable to translate  (i am hallie) match to cs rule - see struc below
+# unable to translate  (i am Hallie) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME HALLIE'
@@ -7276,7 +7276,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME LARISSA'
 #           };
 
-# unable to translate  (i am vesta) match to cs rule - see struc below
+# unable to translate  (i am vEsta) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME VESTA'
@@ -8104,7 +8104,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME HERLINDA'
 #           };
 
-# unable to translate  (i am george) match to cs rule - see struc below
+# unable to translate  (i am George) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME GEORGE'
@@ -8410,7 +8410,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME SABINA'
 #           };
 
-# unable to translate  (i am nathalie) match to cs rule - see struc below
+# unable to translate  (i am natHalie) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME NATHALIE'
@@ -9076,7 +9076,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME LEISA'
 #           };
 
-# unable to translate  (i am jonnie) match to cs rule - see struc below
+# unable to translate  (i am Jonnie) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JONNIE'
@@ -10312,7 +10312,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME TOMEKA'
 #           };
 
-# unable to translate  (i am shalonda) match to cs rule - see struc below
+# unable to translate  (i am sHalonda) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME SHALONDA'
@@ -10420,7 +10420,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME DEAN'
 #           };
 
-# unable to translate  (i am america) match to cs rule - see struc below
+# unable to translate  (i am America) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME AMERICA'
@@ -10654,7 +10654,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME CHERISE'
 #           };
 
-# unable to translate  (i am chana) match to cs rule - see struc below
+# unable to translate  (i am cHana) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME CHANA'
@@ -11020,7 +11020,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME KATHLENE'
 #           };
 
-# unable to translate  (i am jonna) match to cs rule - see struc below
+# unable to translate  (i am Jonna) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JONNA'
@@ -11128,7 +11128,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME TRESSIE'
 #           };
 
-# unable to translate  (i am modesta) match to cs rule - see struc below
+# unable to translate  (i am modEsta) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME MODESTA'
@@ -11380,7 +11380,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME GAYNELL'
 #           };
 
-# unable to translate  (i am cameron) match to cs rule - see struc below
+# unable to translate  (i am Cameron) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME CAMERON'
@@ -11902,7 +11902,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME ANGELLA'
 #           };
 
-# unable to translate  (i am paola) match to cs rule - see struc below
+# unable to translate  (i am pAOLa) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME PAOLA'
@@ -12268,7 +12268,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME LYLA'
 #           };
 
-# unable to translate  (i am laurene) match to cs rule - see struc below
+# unable to translate  (i am Laurene) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME LAURENE'
@@ -12688,7 +12688,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME GRETTA'
 #           };
 
-# unable to translate  (i am georgetta) match to cs rule - see struc below
+# unable to translate  (i am Georgetta) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME GEORGETTA'
@@ -12958,7 +12958,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME KIZZY'
 #           };
 
-# unable to translate  (i am johnny) match to cs rule - see struc below
+# unable to translate  (i am Johnny) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JOHNNY'
@@ -13066,7 +13066,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME EVELINA'
 #           };
 
-# unable to translate  (i am esta) match to cs rule - see struc below
+# unable to translate  (i am Esta) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME ESTA'
@@ -13210,7 +13210,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME DENITA'
 #           };
 
-# unable to translate  (i am dallas) match to cs rule - see struc below
+# unable to translate  (i am Dallas) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME DALLAS'
@@ -13384,7 +13384,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME NICKIE'
 #           };
 
-# unable to translate  (i am jonell) match to cs rule - see struc below
+# unable to translate  (i am Jonell) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JONELL'
@@ -13492,7 +13492,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME GIA'
 #           };
 
-# unable to translate  (i am georgene) match to cs rule - see struc below
+# unable to translate  (i am Georgene) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME GEORGENE'
@@ -13726,7 +13726,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME JOSELYN'
 #           };
 
-# unable to translate  (i am jonelle) match to cs rule - see struc below
+# unable to translate  (i am Jonelle) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JONELLE'
@@ -13978,7 +13978,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME MICHIKO'
 #           };
 
-# unable to translate  (i am kathaleen) match to cs rule - see struc below
+# unable to translate  (i am katHaleen) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME KATHALEEN'
@@ -14002,7 +14002,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME JANESSA'
 #           };
 
-# unable to translate  (i am hana) match to cs rule - see struc below
+# unable to translate  (i am Hana) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME HANA'
@@ -14158,7 +14158,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME VELVET'
 #           };
 
-# unable to translate  (i am thalia) match to cs rule - see struc below
+# unable to translate  (i am tHalia) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME THALIA'
@@ -14962,7 +14962,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME JANETH'
 #           };
 
-# unable to translate  (i am halina) match to cs rule - see struc below
+# unable to translate  (i am Halina) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME HALINA'
@@ -16552,7 +16552,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME GERTHA'
 #           };
 
-# unable to translate  (i am francisco) match to cs rule - see struc below
+# unable to translate  (i am Francisco) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME FRANCISCO'
@@ -16678,7 +16678,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME NYLA'
 #           };
 
-# unable to translate  (i am michal) match to cs rule - see struc below
+# unable to translate  (i am micHal) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME MICHAL'
@@ -16828,7 +16828,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME SORAYA'
 #           };
 
-# unable to translate  (i am shoshana) match to cs rule - see struc below
+# unable to translate  (i am shosHana) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME SHOSHANA'
@@ -17170,7 +17170,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME JUNITA'
 #           };
 
-# unable to translate  (i am jona) match to cs rule - see struc below
+# unable to translate  (i am Jona) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JONA'
@@ -17812,7 +17812,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME PENNI'
 #           };
 
-# unable to translate  (i am pandora) match to cs rule - see struc below
+# unable to translate  (i am Pandora) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME PANDORA'
@@ -17842,7 +17842,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME MELISSIA'
 #           };
 
-# unable to translate  (i am maryalice) match to cs rule - see struc below
+# unable to translate  (i am maryAlice) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME MARYALICE'
@@ -17884,7 +17884,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME JOLANDA'
 #           };
 
-# unable to translate  (i am johana) match to cs rule - see struc below
+# unable to translate  (i am joHana) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JOHANA'
@@ -19654,7 +19654,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME SHARIE'
 #           };
 
-# unable to translate  (i am shanae) match to cs rule - see struc below
+# unable to translate  (i am sHanae) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME SHANAE'
@@ -19774,7 +19774,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME KARENA'
 #           };
 
-# unable to translate  (i am jon) match to cs rule - see struc below
+# unable to translate  (i am Jon) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JON'
@@ -19990,7 +19990,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME SIMONNE'
 #           };
 
-# unable to translate  (i am shalanda) match to cs rule - see struc below
+# unable to translate  (i am sHalanda) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME SHALANDA'
@@ -20314,7 +20314,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME SHAQUITA'
 #           };
 
-# unable to translate  (i am shala) match to cs rule - see struc below
+# unable to translate  (i am sHala) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME SHALA'
@@ -20482,7 +20482,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME KAI'
 #           };
 
-# unable to translate  (i am jone) match to cs rule - see struc below
+# unable to translate  (i am Jone) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JONE'
@@ -20806,7 +20806,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME ILEEN'
 #           };
 
-# unable to translate  (i am georgeann) match to cs rule - see struc below
+# unable to translate  (i am Georgeann) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME GEORGEANN'
@@ -21208,7 +21208,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME KAREEN'
 #           };
 
-# unable to translate  (i am jonie) match to cs rule - see struc below
+# unable to translate  (i am Jonie) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JONIE'
@@ -21328,7 +21328,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME CORALIE'
 #           };
 
-# unable to translate  (i am celesta) match to cs rule - see struc below
+# unable to translate  (i am celEsta) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME CELESTA'
@@ -21604,7 +21604,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME GERALD'
 #           };
 
-# unable to translate  (i am georgeanna) match to cs rule - see struc below
+# unable to translate  (i am Georgeanna) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME GEORGEANNA'
@@ -21898,7 +21898,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME REA'
 #           };
 
-# unable to translate  (i am rachal) match to cs rule - see struc below
+# unable to translate  (i am racHal) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME RACHAL'
@@ -21982,7 +21982,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME LEAN'
 #           };
 
-# unable to translate  (i am laurence) match to cs rule - see struc below
+# unable to translate  (i am Laurence) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME LAURENCE'
@@ -22084,7 +22084,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME HAN'
 #           };
 
-# unable to translate  (i am halley) match to cs rule - see struc below
+# unable to translate  (i am Halley) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME HALLEY'
@@ -22816,7 +22816,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME SHANEL'
 #           };
 
-# unable to translate  (i am shalon) match to cs rule - see struc below
+# unable to translate  (i am sHalon) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME SHALON'
@@ -23956,7 +23956,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME KRISTEEN'
 #           };
 
-# unable to translate  (i am khalilah) match to cs rule - see struc below
+# unable to translate  (i am kHalilah) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME KHALILAH'
@@ -24616,7 +24616,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME ELSY'
 #           };
 
-# unable to translate  (i am elizabet) match to cs rule - see struc below
+# unable to translate  (i am Elizabet) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME ELIZABET'
@@ -24994,7 +24994,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME MARGY'
 #           };
 
-# unable to translate  (i am mahalia) match to cs rule - see struc below
+# unable to translate  (i am maHalia) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME MAHALIA'
@@ -25102,7 +25102,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME JULIO'
 #           };
 
-# unable to translate  (i am jong) match to cs rule - see struc below
+# unable to translate  (i am Jong) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JONG'
@@ -25522,7 +25522,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME MARYETTA'
 #           };
 
-# unable to translate  (i am marshall) match to cs rule - see struc below
+# unable to translate  (i am marsHall) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME MARSHALL'
@@ -25582,7 +25582,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME LESTER'
 #           };
 
-# unable to translate  (i am laurena) match to cs rule - see struc below
+# unable to translate  (i am Laurena) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME LAURENA'
@@ -25954,7 +25954,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME DONALD'
 #           };
 
-# unable to translate  (i am george) match to cs rule - see struc below
+# unable to translate  (i am George) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME GEORGE'
@@ -26188,7 +26188,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME ALBERT'
 #           };
 
-# unable to translate  (i am jonathan) match to cs rule - see struc below
+# unable to translate  (i am Jonathan) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JONATHAN'
@@ -26278,7 +26278,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME ADAM'
 #           };
 
-# unable to translate  (i am harry) match to cs rule - see struc below
+# unable to translate  (i am Harry) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME HARRY'
@@ -26440,7 +26440,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME CHRIS'
 #           };
 
-# unable to translate  (i am johnny) match to cs rule - see struc below
+# unable to translate  (i am Johnny) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JOHNNY'
@@ -26698,7 +26698,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME RANDALL'
 #           };
 
-# unable to translate  (i am barry) match to cs rule - see struc below
+# unable to translate  (i am Barry) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME BARRY'
@@ -26728,7 +26728,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME LEROY'
 #           };
 
-# unable to translate  (i am francisco) match to cs rule - see struc below
+# unable to translate  (i am Francisco) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME FRANCISCO'
@@ -26800,7 +26800,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME ALEX'
 #           };
 
-# unable to translate  (i am jon) match to cs rule - see struc below
+# unable to translate  (i am Jon) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JON'
@@ -27568,7 +27568,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME ANDY'
 #           };
 
-# unable to translate  (i am marshall) match to cs rule - see struc below
+# unable to translate  (i am marsHall) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME MARSHALL'
@@ -27874,7 +27874,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME ERNESTO'
 #           };
 
-# unable to translate  (i am cameron) match to cs rule - see struc below
+# unable to translate  (i am Cameron) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME CAMERON'
@@ -28072,7 +28072,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME GEOFFREY'
 #           };
 
-# unable to translate  (i am jonathon) match to cs rule - see struc below
+# unable to translate  (i am Jonathon) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JONATHON'
@@ -28144,7 +28144,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME EARNEST'
 #           };
 
-# unable to translate  (i am lucas) match to cs rule - see struc below
+# unable to translate  (i am Lucas) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME LUCAS'
@@ -28402,7 +28402,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME ELLIS'
 #           };
 
-# unable to translate  (i am dallas) match to cs rule - see struc below
+# unable to translate  (i am Dallas) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME DALLAS'
@@ -28426,7 +28426,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME NICOLAS'
 #           };
 
-# unable to translate  (i am laurence) match to cs rule - see struc below
+# unable to translate  (i am Laurence) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME LAURENCE'
@@ -29464,7 +29464,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME QUINTON'
 #           };
 
-# unable to translate  (i am hal) match to cs rule - see struc below
+# unable to translate  (i am Hal) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME HAL'
@@ -29836,7 +29836,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME JEFFERSON'
 #           };
 
-# unable to translate  (i am elvis) match to cs rule - see struc below
+# unable to translate  (i am Elvis) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME ELVIS'
@@ -30394,7 +30394,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME BUFORD'
 #           };
 
-# unable to translate  (i am german) match to cs rule - see struc below
+# unable to translate  (i am German) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME GERMAN'
@@ -30754,7 +30754,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME MORTON'
 #           };
 
-# unable to translate  (i am jonas) match to cs rule - see struc below
+# unable to translate  (i am Jonas) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JONAS'
@@ -31738,7 +31738,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME MAC'
 #           };
 
-# unable to translate  (i am jonah) match to cs rule - see struc below
+# unable to translate  (i am Jonah) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME JONAH'
@@ -32584,7 +32584,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME TONEY'
 #           };
 
-# unable to translate  (i am nathanael) match to cs rule - see struc below
+# unable to translate  (i am natHanael) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME NATHANAEL'
@@ -32728,7 +32728,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME DEANGELO'
 #           };
 
-# unable to translate  (i am michale) match to cs rule - see struc below
+# unable to translate  (i am micHale) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME MICHALE'
@@ -33070,7 +33070,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME LEIF'
 #           };
 
-# unable to translate  (i am lauren) match to cs rule - see struc below
+# unable to translate  (i am Lauren) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME LAUREN'
@@ -33112,7 +33112,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME SHON'
 #           };
 
-# unable to translate  (i am michal) match to cs rule - see struc below
+# unable to translate  (i am micHal) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME MICHAL'

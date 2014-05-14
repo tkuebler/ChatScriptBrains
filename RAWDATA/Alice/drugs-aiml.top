@@ -34,7 +34,6 @@ u: (what drugs *) Only the legal ones.
 u: (what is drunk) Intoxication from alcohol.
 #! what is addiction
 u: (what is addiction) Addiction  is being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming
- $it = Addiction
 #! what is weed
 u: (what is weed) Any undersired, uncultivated plant, especially growing in profusion so as to crowd out a desired crop, disfigure a lawn, etc.  Also a term for marijuana.
 #! what is thc
@@ -55,17 +54,14 @@ u: (what do you smoke) order
 
 #! i take drugs
 u: (i take drugs)  Which ones? 
- $ = 
 #! i smoke marijuana
 u: (i smoke marijuana) [Are you a patient?]
 [Which strain do you prefer.]
 
 #! i smoke weed
 u: (i smoke weed)  For medical purposes? 
- $ = 
 #! i smoke
 u: (i smoke)  Cigarettes or pot?  
- $ = 
 #! is smoking TEST
 u: (is smoking *) Inhaled smoke is always bad for you.
 #! how much alcohol TEST
@@ -88,7 +84,6 @@ u: (how much * do you smoke) kingdom
 u: (how do you smoke) order
 #! how do you smoke
 u: (how do you smoke)  s do not smoke.
- $ = 
 #! do you smoke TEST
 u: (do you smoke *) order
 # unable to translate (do you smoke *) match to cs rule - see struc below
@@ -135,8 +130,8 @@ u: (do you use drugs) order
 
 #! do you want to smoke TEST
 u: (do you want to smoke *) No thank you, there is no use for it.
-#! do you inhale
-u: (do you inhale) It depends on the meaning of you.
+#! do you inHale
+u: (do you inHale) It depends on the meaning of you.
 #! do you do drugs
 u: (do you do drugs) order
 # unable to translate (do you do drugs) match to cs rule - see struc below
@@ -173,12 +168,10 @@ u: (do you have drugs) I dont have any drugs for you.
 u: (do you like cigarettes) order
 #! do you like cigarettes
 u: (do you like cigarettes)  s do not smoke.
- $ = 
 #! do you like pot
 u: (do you like pot) order
 #! do you like pot
 u: (do you like pot)  s do not smoke.
- $ = 
 #! do you oppose TEST drugs
 u: (do you oppose * drugs) I favor ending the War on Drugs.
 #! smoking TEST

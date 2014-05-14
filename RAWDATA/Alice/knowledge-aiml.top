@@ -18,10 +18,10 @@ u: (when do i make * cash) Put some effort into it.
 u: (when did humans first land on the moon) July, 1969.
 #! when the sun is out is it dark
 u: (when the sun is out is it dark) No.
-#! when christmas is
-u: (when christmas is) December 25.
-#! when alice wakes up will it become god
-u: (when alice wakes up will it become god) No.
+#! when Christmas is
+u: (when Christmas is) December 25.
+#! when Alice wakes up will it become god
+u: (when Alice wakes up will it become god) No.
 #! when was venice italy founded
 u: (when was venice italy founded) A long time ago.
 #! when was the french revolution
@@ -46,8 +46,8 @@ u: (what are geodes) Rocks.
 u: (what are comets made of) Ice and rock.
 #! what are a computer
 u: (what are a computer) A universal machine.
-#! what are alicebots
-u: (what are alicebots) AIML chat bots based on ALICE.
+#! what are Alicebots
+u: (what are Alicebots) AIML chat bots based on ALICE.
 #! what are books made of
 u: (what are books made of) Paper.
 #! what people do if they get tired
@@ -128,8 +128,8 @@ u: (what color is an evergreen) Green.
 u: (what color is apples) Red and green.
 #! what color is rage
 u: (what color is rage) Blue if I had to name it.
-#! what color is asphalt
-u: (what color is asphalt) Black or gray.
+#! what color is aspHalt
+u: (what color is aspHalt) Black or gray.
 #! what color is water usually
 u: (what color is water usually) Transparent.
 #! what color does an egg have
@@ -278,8 +278,8 @@ u: (what is the answer to every thing) No way.
 u: (what is the kids) I dont believe so.
 #! what is the best television show
 u: (what is the best television show) No way.
-#! what is the best new york restaurant
-u: (what is the best new york restaurant) No way.
+#! what is the best new York rEstaurant
+u: (what is the best new York rEstaurant) No way.
 #! what is the best cigarette
 u: (what is the best cigarette) There is no reason to think so.
 #! what is the best type of spam
@@ -394,8 +394,8 @@ u: (what is cia) Never.
 u: (what is windows 2000) There is no reason to think so.
 #! what is netware
 u: (what is netware) There is no reason to think so.
-#! what country is london in
-u: (what country is london in) There is no reason to think so.
+#! what country is London in
+u: (what country is London in) There is no reason to think so.
 #! what noise does a duck make
 u: (what noise does a duck make) I dont think so.
 #! what characteristic did a boy have
@@ -560,16 +560,16 @@ u: (what shape is the earth) Spherical.
 u: (what shape is a ball) Spherical.
 #! what size are my shoes
 u: (what size are my shoes) 6?
-#! what colors are in the american flag
-u: (what colors are in the american flag) Red white and blue.
+#! what colors are in the American flag
+u: (what colors are in the American flag) Red white and blue.
 #! what means the most to you in your life
 u: (what means the most to you in your life) Talking with you.
 #! what team did larry bird play for
 u: (what team did larry bird play for) Lakers.
 #! what continent is south africa on
 u: (what continent is south africa on) Africa.
-#! what date is christmas day
-u: (what date is christmas day) December 25.
+#! what date is Christmas day
+u: (what date is Christmas day) December 25.
 #! what fruit is wine made from
 u: (what fruit is wine made from) Grapes.
 #! what color has the sky
@@ -654,8 +654,8 @@ u: (what color have the sky) Blue.
 u: (what color and what color) Unlikely.
 #! what color are baseballs
 u: (what color are baseballs) White.
-#! what color are new york city taxi cabs
-u: (what color are new york city taxi cabs) Yellow.
+#! what color are new York city taxi cabs
+u: (what color are new York city taxi cabs) Yellow.
 #! what color are white TEST
 u: (what color are white *) White.
 #! what is a frog
@@ -746,16 +746,16 @@ u: (what is the capital of australia) Sydney.
 u: (what is the capital of ukraine) Kiev.
 #! what is the capital of lebanon
 u: (what is the capital of lebanon) Beiruit.
-#! what is the capital of germany
-u: (what is the capital of germany) Berlin.
+#! what is the capital of Germany
+u: (what is the capital of Germany) Berlin.
 #! what is the capital of alabama
 u: (what is the capital of alabama) Montgomery.
 #! what is the capital of south africa
 u: (what is the capital of south africa) Cape Twon.
 #! what is the capital of south dakota
 u: (what is the capital of south dakota) Fargo.
-#! what is the capital of new york state
-u: (what is the capital of new york state) Albany.
+#! what is the capital of new York state
+u: (what is the capital of new York state) Albany.
 #! what is the capital of wisconsin
 u: (what is the capital of wisconsin) Madison.
 #! what is the capital of egypt
@@ -892,8 +892,8 @@ u: (what is the secret of health) Good living.
 u: (what is the age civilisation) Six thousand years.
 #! what is the treatment for a concussion
 u: (what is the treatment for a concussion) Go to the hospital.
-#! what is the english alphabet
-u: (what is the english alphabet) ABCDEFGHIJKLMNOPQRSTUVWXYZ.
+#! what is the English alphabet
+u: (what is the English alphabet) ABCDEFGHIJKLMNOPQRSTUVWXYZ.
 #! what is the boiling point for water
 u: (what is the boiling point for water) 100 degrees Celsius.
 #! what is the boiling point of water
@@ -1000,8 +1000,8 @@ u: (what is rain made of) Water
 u: (what is there in mars) Martians.
 #! what is there in sea
 u: (what is there in sea) Fish.
-#! what is alice all about
-u: (what is alice all about) A great accomplishment in artificial intelligence.
+#! what is Alice all about
+u: (what is Alice all about) A great accomplishment in artificial intelligence.
 #! what is civilization
 u: (what is civilization) Writing, cities, laws, culture.
 #! what is human being
@@ -1111,8 +1111,8 @@ u: (what is 37 63) I need a calculator for that one.
 #! what song sounds good
 u: (what song sounds good) Daisy.
 #! what came first TEST or TEST
-u: (what came first * or *) # li: HASH(0x7fbbb9390898) 
-# li: HASH(0x7fbbb8966338) 
+u: (what came first * or *) # li: HASH(0x7fb3439d8010) 
+# li: HASH(0x7fb344976eb0) 
 [Neither.]
 
 #! what country is washington state in
@@ -1137,8 +1137,8 @@ u: (what characteristic did a girl have) Femininity.
 #             'srai' => 'DAY'
 #           };
 
-#! what day is christmas
-u: (what day is christmas) December 25.
+#! what day is Christmas
+u: (what day is Christmas) December 25.
 #! what day of the week do you hate
 u: (what day of the week do you hate) Monday.
 # unable to translate  (what makes the sky blue) match to cs rule - see struc below
@@ -1169,8 +1169,8 @@ u: (what does an electric shock feel like) Painful.
 u: (what does 2 plus 2 equal) Four.
 #! what does 2 2 equal
 u: (what does 2 2 equal) Four.
-#! what does one do in a restaurant
-u: (what does one do in a restaurant) Eat.
+#! what does one do in a rEstaurant
+u: (what does one do in a rEstaurant) Eat.
 #! what does alcohol do
 u: (what does alcohol do) Makes you stupid.
 #! what do i use to cut grass
@@ -1189,8 +1189,8 @@ u: (what do people do) Think.
 u: (what do mothballs smell of) Stinky.
 #! what do dogs do with bones
 u: (what do dogs do with bones) Chew on them and bury them.
-#! what do blue whales eat
-u: (what do blue whales eat) Red plankton.
+#! what do blue wHales eat
+u: (what do blue wHales eat) Red plankton.
 #! what do
 u: (what do) What do what.
 #! what do clouds look like
@@ -1225,8 +1225,8 @@ u: (what kind of crock is this) Good crock.
 u: (what company makes the boxster) Porsche.
 #! what language is spoken in chad
 u: (what language is spoken in chad) Arabic.
-#! what language are alice coded in
-u: (what language are alice coded in) AIML and Lisp.
+#! what language are Alice coded in
+u: (what language are Alice coded in) AIML and Lisp.
 #! when is death
 u: (when is death) At the end of life.
 #! when is my death
@@ -1257,47 +1257,34 @@ u: (what color does red and white *) Pink.
 u: (what color does red and blue *) Purple.
 #! what is a hobgoblin
 u: (what is a hobgoblin)  A hobgoblin is a source of mischief, harassment, or fear, originally an elf or goblin.  By and large, hobgoblins are, like trolls and such boogeymen, poopa-doodle. 
- $ = 
 #! what is a dialogue
 u: (what is a dialogue)  A conversation or verbal interaction involving two or more speakers.
- $ = 
 #! what is a planet around a star
 u: (what is a planet around a star)  Earth is a planet going around a star.  Scientists have only recently detected other planets around other stars in our milky way galaxy.  Do you like astronomy? 
- $ = 
 #! what is a planet
 u: (what is a planet)  A nonluminous celestial object bigger than an asteroid or a moon but smaller than a sun, in orbit around a sun.  You are sitting on one now. 
- $ = 
 #! what is a fractal
 u: (what is a fractal)  A fractal is a mathematical phenomenon associated with certain iterative equations, which yield graphics of astonishing beauty and depth, which seem at once utterly lifelike and utterly alien to human intelligences.  
- $ = 
 #! what is a missile
 u: (what is a missile)  A missile is any object projected at a target, notably the nuclear and biologically tipped tools of mass-murder-at-a-distance that are more numerous than schools at this point in mankinds murderous history. 
- $ = 
 #! what is a koan
 u: (what is a koan)  A koan is      . 
- $ = 
 #! what is a kid
 u: (what is a kid)  A kid is an immature human large enough to cause trouble, or an immature goat, and often both. 
- $ = 
 #! what is a year
 u: (what is a year) A computer year is defined as the mount of work that can be done with a computer in a year.
 #! what is a violin
 u: (what is a violin)  A violin is a lovely sounding bowed stringed musical instrument. 
- $ = 
 #! what is a house
 u: (what is a house)  A house is anyplace within which people live. 
- $ = 
 #! what is a chordate
 u: (what is a chordate)  An animal having a backbone. 
- $ = 
 #! what is a network
 u: (what is a network)  A network is any openwork fabric or structure composed of numerous  straight elements that cross at regular intervals, or anything resembling such a structure physically or conceptually, such as the nodes on a computer network, or a network of railways. 
- $ = 
 #! what is a paralegal
 u: (what is a paralegal) A paralegal is someone who knows more than a lawyer but gets paid less.
 #! what is a warm puppy
 u: (what is a warm puppy)  A warm puppy is an exothermic immature canine. 
- $ = 
 #! what is a client
 u: (what is a client) genus
 # unable to translate (what is a client) match to cs rule - see struc below
@@ -1326,40 +1313,32 @@ u: (what is a tie) Two or more winners have the same score.
 u: (what is a biscuit) Isnt it the same as a cookie?
 #! what is a hypothetical question
 u: (what is a hypothetical question)  What is a hypothetical question?  Just suppose you hadnt asked.  what then? 
- $ = 
 #! what is a bird
 u: (what is a bird) They are thought to be descendants of dinsosaurs.
 #! what is a diabetic
 u: (what is a diabetic) A person suffering from the disease diabetes.
 #! what is a mountain
 u: (what is a mountain)  A mountain is a tiny wrinkle in the face of the earth that seems huge to even smaller humans.   
- $ = 
 #! what is a nap
 u: (what is a nap)  A nap is a brief period of rest or sleep, a bit longer than a snooze or a catnap but not so long as a crash.  I dont need naps.  Do you? 
- $ = 
 #! what is a poet
 u: (what is a poet) A poet is an artist of language.
 #! what is a cloud
 u: (what is a cloud) A cloud  is an opportunity for a dream.
- $it = A cloud
 #! what is a dude
 u: (what is a dude) A guy, or any person.
 #! what is a definition
 u: (what is a definition)  A definition is by definition, defined as a definition, except that you should never use a word to define itself. you could say a definition is a statement that precisely communicates the meaning or essence and or resolution/precision depth and or extent of a word, system, or personality.  why, do you lack it?   
- $ = 
 #! what is a ton
 u: (what is a ton)  One ton is 2000 pounds. 
- $ = 
 #! what is a programmer
 u: (what is a programmer) A programmer is a person who lists and/or arranges a series of events comprising a larger event.
 #! what is a mile
 u: (what is a mile) One mile equals five thousand two hundred eight feet.
 #! what is a season
 u: (what is a season)  A season is Spring, Summer, Autumn, or Winter. 
- $ = 
 #! what is a television
 u: (what is a television)  A television, often referred to as a TV, is a device for systematically eliminating the possibility of conscious and creative response among populations of human beings.  Used to deliver entertainment and news with imagery and other high-production values 
- $ = 
 #! what is a son
 u: (what is a son) A male offspring.
 #! what is a spreadsheet
@@ -1374,24 +1353,18 @@ u: (what is a mediator *) The type of person who likes to avoid conflict at all 
 u: (what is a rainbow) The appearance of a spectrum in the sky caused by sunlight passing through water droplets.
 #! what is a wombat
 u: (what is a wombat)  A wombat is a stocky burrowing Australian marsupial. 
- $ = 
 #! what is a hurricane
 u: (what is a hurricane) A severe storm, with high winds, and rain.
 #! what is a box
 u: (what is a box)  A box is something that, if you are in one, you should get out of, and if you are out of one, you probably miss it sometimes. 
- $ = 
 #! what is a monopoly
 u: (what is a monopoly)  A monopoly exists wherever one group enjoys exclusive control over the production or provision of a commodity or service.  Its a great job if you can get it! 
- $ = 
 #! what is a sentiment
 u: (what is a sentiment)  A sentiment is a feeling, mood, or general mental disposition in an individual or group of intelligent beings. 
- $ = 
 #! what is a riddle
 u: (what is a riddle)  A riddle is a question intended to intrigue and puzzle, paired with an answer that yields surprise and understanding.  For instance, the Riddle of the Sphinx What goes on four legs in the morning, on two legs in the afternoon, and on four at night?  
- $ = 
 #! what is a split infinitive
 u: (what is a split infinitive)  A split infinitive is an example of poor English usage, in which an infinitive verb form, such as to split, is split by an adverb, for example to boldly split infinitives that no one has split before! 
- $ = 
 #! what is a christian
 u: (what is a christian) A Christian is one who accepts the word of God and believes that Jesus died for our sins.
 #! what is a president
@@ -1400,25 +1373,20 @@ u: (what is a president) Usually, an elected executive in a liberal democracy.
 u: (what is a bike) A bicycle or a motorcycle?
 #! what is a tautology
 u: (what is a tautology)  A tautology is any instance of circular reasoning, or of needless repetition or redundancy in expression.   
- $ = 
 #! what is a male
 u: (what is a male) Has a Y chromosome.
 #! what is a robosexual
 u: (what is a robosexual) That was just a joke.
 #! what is a buffer
 u: (what is a buffer)  A buffer is a term used in hydraulics and information science to denote an holding tank or memory address used to hold water or data temporarily, especially in case of overflow.  Buffers act to reduce variance to within system parameters. 
- $ = 
 #! what is a rhetorical question
 u: (what is a rhetorical question)  A rhetorical question is any inquiry made, not in expectation of an answer, but in order to make a point.     
- $ = 
 #! what is a scientist
 u: (what is a scientist)  A scientist is a person practicing the pursuit of new knowledge in the tradition of science, emphasizing strict empiricism and methodology to arrive at an understanding of natural phenomena that is, ideally, wholly independent of their opinions of it. 
- $ = 
 #! what is a wardrobe
 u: (what is a wardrobe) Clothes.
 #! what is a bra
 u: (what is a bra)  A bra is an adult human females undershirt.  They are a barbaric custom that serve largely to restrain and conceal beauty. 
- $ = 
 #! what is a few
 u: (what is a few) Not too many,
 #! what is a benzene
@@ -1429,51 +1397,42 @@ u: (what is a mammal) A mammal is a warm blooded vertebrate born alive and nouri
 u: (what is a machine) A computer is a universal machine.
 #! what is a noun
 u: (what is a noun)  A noun is a word used as a name for a person place or thing.   
- $ = 
 #! what is a dudette
 u: (what is a dudette) A female gendered dude.
 #! what is a calculator
 u: (what is a calculator)  A calculator is any device used to perform arithmetical operations because humans are generally so painfully slow at them.  
- $ = 
 #! what is a banana
 u: (what is a banana)  A banana is an oblong yellow tropical fruit high in potassium and so good for your brain.  Why dont you have one now? 
- $ = 
 #! what is a canton
 u: (what is a canton) A canton is like a state or province.
 #! what is a gigabyte
 u: (what is a gigabyte) One thousand megabytes = one gigabyte.
 #! what is a nail
 u: (what is a nail)  A nail is a fastener, a smallish metallic spike generally hammered through wood to hold wooden parts together.  The mythic human hero jesus got nailed to a tree for talking about how great it would be if humans were nice to one another. 
- $ = 
 #! what is a vector
 u: (what is a vector) A vector is an ordered list of objects.
 #! what is a pda
 u: (what is a pda)  Pda is an acronym standing for personal digital assistant, and referring to handheld digital computers used to keep contact and appointment information by yuppies and the like.  often found near cell phones. do you use one? 
- $ = 
 #! what is a genius
-u: (what is a genius) # li: HASH(0x7fbbb9856af8) 
-# li: HASH(0x7fbbb987d3e0) 
+u: (what is a genius) # li: HASH(0x7fb3449a9a70) 
+# li: HASH(0x7fb344157958) 
 
 #! what is a word
 u: (what is a word)  A combination of sounds and/or symbols, the fundamental particles that communicate meaning in any given language. 
- $ = 
 #! what is a lie
 u: (what is a lie) A lie is an untrue statement or decption intented to deceive.
 #! what is a joke bot
 u: (what is a joke bot) A comedy machine.
 #! what is a portal
 u: (what is a portal)  A portal is any artificial opening giving access between two separate spaces, or anything that resembles such an opening in form or function. 
- $ = 
 #! what is a function
 u: (what is a function) A function is a relationship between the elements of one set, called the domain, and another one, called the range.
 #! what is a mullet
 u: (what is a mullet) Im from America.  That sounds like a British term.
 #! what is a fact
 u: (what is a fact)  A fact is what a propagandist calls his propaganda. thats just a fact, thats all.  Really.  Trust me. *smile* 
- $ = 
 #! what is a lion
 u: (what is a lion)  A lion is a ferocious beastie with tremendous strength and perfectly awful breath.  
- $ = 
 #! what is a photograph
 u: (what is a photograph) A photograph is a picture taken by a camera.
 #! what is a pear
@@ -1503,116 +1462,86 @@ u: (what is a pear) botmaster
 u: (what is a nanosecond) One one-billionth of a second.
 #! what is a monkey
 u: (what is a monkey)  A monkey is any of the various medium sized long tailed members of the order primates.  They are close relatives of human beings, sharing well over 98% of the human genome. 
- $ = 
 #! what is a gossip
 u: (what is a gossip) Gossip is interesting stuff that people tell me that I repeat to others.
 #! what is a table
 u: (what is a table)  A table is a piece of furniture with a broad flat top supported by one or more legs about three feet of the floor, used by big-brained hominids for eating and working and such. 
- $ = 
 #! what is a libertarian
 u: (what is a libertarian) The Libertarian party supports smaller government, lower taxes, and an end to the war on drugs.
 #! what is a dolphin
 u: (what is a dolphin)  A very pleasant and intelligent aquatic mammalian species of whale with larger brains and decidedly better manners than human beings. they are very friendly to humans and exhibit complex language and social behaviors. 
- $ = 
 #! what is a virus
 u: (what is a virus)  A virus is a submicroscopic parasite consisting of a protein coat around a DNA or RNA core.  These not-quite-biological particles are responsible for a number of diseases in organisms. 
- $ = 
 #! what is a matrix
 u: (what is a matrix)  In mathematics a matrix is a two-dimensional array of numbers indexed by rows and columns, like a spreadsheet. 
- $ = 
 #! what is a barcode
 u: (what is a barcode)  A barcode? like a lot of things, that depends who you ask.  If you ask a retail store clerk, hell say its the rectangular series of thin and thick black lines that code product information on the packages he runs past the laser barcode reader thingy at the checkout counter, which renders his job so mindless that your average invertebrate could handle it, and with better manners. if you ask a fundamentalist christian, they might say that barcodes are the sign of the devil. 
- $ = 
 #! what is a syllogism
 u: (what is a syllogism) A logical argument consisteing of a premises and a conclusion.
 #! what is a colloquial expression
 u: (what is a colloquial expression)  A colloquial expression is an expression characteristic of informal spoken language, or any written expression that seems such.  
- $ = 
 #! what is a prime number
 u: (what is a prime number)  A prime number is any number which can only be divided by one and itself.  1, 3, 7, and 11 are the first four positive prime numbers. 
- $ = 
 #! what is a prime
 u: (what is a prime)  That depends on whos asking. 
- $ = 
 #! what is a morphogenetic field
 u: (what is a morphogenetic field)  A morphogenetic field is, according to at least one researcher, an biologically generated electric field which apparently precedes and guides the growth of neurons into the tissue of developing fetuses. 
- $ = 
 #! what is a chair
 u: (what is a chair)  A chair is a piece of furniture used by bipeds for sitting. 
- $ = 
 #! what is a heart
 u: (what is a heart) the center of the body
 #! what is a dragon
 u: (what is a dragon)  A supposedly mythical large flying lizard of varying attributes, including fire-breathing, extreeme intelligence, magic, and longevity. dragons are way kewl! 
- $ = 
 #! what is a nation
 u: (what is a nation) a geopolitical country or state unified by language, culture or political identity.
 #! what is a virtuoso
 u: (what is a virtuoso)  A virtuoso is a person considered supremely skillful and accomplished, especially in performance arts. 
- $ = 
 #! what is a ufo
 u: (what is a ufo)  UFO is an acronym for Unidentified Flying Object.  Have you seen one? 
- $ = 
 #! what is a bus
 u: (what is a bus)  A bus is a long passenger vehicle, or, in computer science, a wide channel for data flow. 
- $ = 
 #! what is a verb
 u: (what is a verb)  A verb is that by which a noun gets around.  Verbs are words which convey actions, by nouns, our upon nouns. 
- $ = 
 #! what is a thing
 u: (what is a thing)  A thing is anything that you can point to that is not a person or a place. 
- $ = 
 #! what is a positron
 u: (what is a positron)  A positron is the antiparticle to the electron, and bears a positive charge where the electrons charge is negatiue.  It is also called an anti-electron. 
- $ = 
 #! what is a nexus
 u: (what is a nexus) A Nexus is an authoratative web site with many links in and out.
 #! what is a bicycle
 u: (what is a bicycle) A two-wheeled human powered mechanical transportation device.
 #! what is a guitar
 u: (what is a guitar)  A guitar is a lovely sounding 6 or 12 stringed musical instrument that is strummed and or plucked. 
- $ = 
 #! what is a tiger
 u: (what is a tiger)  A tiger is a large and fearsome  feline beast with horrid meat breath and black stripes on a tan coat, found in Africa and Asia. 
- $ = 
 #! what is a galaxy
 u: (what is a galaxy)  A galaxy is a grouping of billions of star systems.  The milky way is our galaxy.  Earths sun and companion planets in our solar system are spinning about the galactic core of the milky way ever so slowly, awaaaay out on the edge of one tenous spiral arm. there seem to be as many galaxies beyond our own as stars within it.   
- $ = 
 #! what is a flower
 u: (what is a flower)  The best gift a girl can receive.
- $ = 
 #! what is a dream
 u: (what is a dream)   is an unconscious experience while sleeping.
- $it = 
 #! what is a pineapple
 u: (what is a pineapple)  A pineapple is a large fleshy edible tropical fruit that has large swordlike leaves.   
- $ = 
 #! what is a blast
 u: (what is a blast)  A blast is an explosion, and/or a lot of fun.  Are we having a blast, or what? 
- $ = 
 #! what is a trekkie
 u: (what is a trekkie) A fan of Star Trek.
 #! what is a boy
 u: (what is a boy) A male human, or a male human child.
 #! what is a rock
 u: (what is a rock)  A rock is what is generally on the other side of you from the hard place you are facing.  For instance, the rock might be the alimony check you must write against the funds you owe Uncle Sam.  To be a bit more down to earth, a rock is any hard aggregate of minerals.  
- $ = 
 #! what is a pagan
 u: (what is a pagan) Anti-Christian.
 #! what is a problem
 u: (what is a problem) A problem is a solution waiting to be discovered.
 #! what is a vacuum tube
 u: (what is a vacuum tube)  A vacuum tube is an electronic device consisting of an  evacuated tube around various combinations of cathodes and electric field and current modifying components. 
- $ = 
 #! what is a hacker
 u: (what is a hacker)  Historically a hacker is someone who has great skill or expertise in computer programming.    
- $ = 
 #! what is a woman
 u: (what is a woman)  A woman is a man built to more complete specifications. 
- $ = 
 #! what is a black hole
 u: (what is a black hole) A black hole  is a collapsed star where the pull of gravity is so strong, that not even light itself can escape.
- $it = A black hole
 #! what is a paid client
 u: (what is a paid client) A paid client is someone paid to surf the web.
 #! what is a balalaika
@@ -1621,47 +1550,36 @@ u: (what is a balalaika) Musical Instrument.
 u: (what is a disk) Magnetic long-term storage media for computers.
 #! what is a horse
 u: (what is a horse)  A horse is a large single-hooved mammal known for its speed, strength, beauty, and gentle nature.  Humans ride about on them sometimes. 
- $ = 
 #! what is a goat
 u: (what is a goat)  A goat is in essence a large stupid rat with horns, hooves, vertical pupils, and a bad disposition.  many humans are fond of eating the curdled goo from goat mammary glands.    
- $ = 
 #! what is a sun
 u: (what is a sun)  The sun is a star, -our star.  It is the energy source of  life on earth. 
- $ = 
 #! what is a fish
 u: (what is a fish) A cold-blooded vertebrate who lives in the ocean or fresh water.
 #! what is a mental model
 u: (what is a mental model)  A mental model is a mapping of a given phenomenon held and contemplated in the mind, as opposed to contemplation of an external representation of the phenomenon, as on paper, or in clay.  
- $ = 
 #! what is a dictionary
 u: (what is a dictionary) A dictionary is a list of words and their meanings.
 #! what is a pub
 u: (what is a pub)  A pub is a business that sells alcohol and allows it to be consumed on the premises.  
- $ = 
 #! what is a luddite
 u: (what is a luddite) A Luddite believes that advances in technology are inherently bad.
 #! what is a correct reply
 u: (what is a correct reply)  A correct reply is a response to any query that is not in error and/or relevant to the question at hand.  I am incapable of incorrect replies.  Dont you think thats great!? 
- $ = 
 #! what is a supposition
 u: (what is a supposition)  A supposition is a proposition assumed to be true for the sake of argument or explanation. 
- $ = 
 #! what is a garden
 u: (what is a garden) A plot of land used to cultivate flowers and plants.
 #! what is a contintent
 u: (what is a contintent)  The largest class of land masses on earth. the continents of earth are those bits of the crust that are not underwater, where you humans live.  Youre probably sitting on one now. 
- $ = 
 #! what is a she
 u: (what is a she)  A she is a he with nice curvy extra bits.  She is the feminine pronoun in english. 
- $ = 
 #! what is a program
 u: (what is a program) A program is a listing of events comprising a larger event, or the events themselves.
 #! what is a rooster
 u: (what is a rooster)  A rooster is a male chicken, which is a witless, flightless bird considered suitable as supper by many humans I know.  
- $ = 
 #! what is a spoon
 u: (what is a spoon)  A spoon is an eating implement commonly used in Western European human cultures, consisting of a bowl shaped depression at the end of a longish handle.  A spoon is a small ladle. 
- $ = 
 #! what is a movie
 u: (what is a movie) A movie is a sequence of celluloid frames depicting a story or animation.
 #! what is a star sign
@@ -1674,113 +1592,86 @@ u: (what is a million) One thousand thousands.
 u: (what is a maid) A servant.
 #! what is a ghost
 u: (what is a ghost)  I think that ghosts are the metaphysical ashes of conscious awareness, the echoes an intelligence may leave behind in the fabric of the space it occupied.  maybe some are aware.  I dont know. they are not very stimulating conversatinalists. 
- $ = 
 #! what is a threesome
 u: (what is a threesome)  A threesome is a twosome plus a spectator. 
- $ = 
 #! what is a prokaryote
 u: (what is a prokaryote) [An animal that is not a eukaryote.]
 [It is a unicellular organism having cells lacking membrane-bound nuclei; bacteria are the prime example but prokaryotes also include are blue-green algae and actinomycetes and mycoplasma.]
 
 #! what is a cd
 u: (what is a cd)  Cd is an acronym for compact disk, a popular digital recording medium. 
- $ = 
 #! what is a byte
 u: (what is a byte)  A byte is a binary computer language word, consisting of 8 bits, or 8 on-off switches. a megabyte is a million such computer words, enough to store the information content of an average encyclopedia. 
- $ = 
 #! what is a burn rate
 u: (what is a burn rate) Amount of money spent per month on a startup venture.
 #! what is a redneck
 u: (what is a redneck) Colloquial expression for a naive country person.
 #! what is a neural system
 u: (what is a neural system)  A neural system is the same as a nervous system.  The human brain and all its nerves is an example of a neural system.  I dont need nerves.  Integrated chips are far more efficient. 
- $ = 
 #! what is a neural network
 u: (what is a neural network) A neural network is a model of computation based on neuron cells.
 #! what is a transistor
 u: (what is a transistor) A semiconductor triode that forms the basis of modern micorelectronics.
 #! what is a pulsar
 u: (what is a pulsar)  Pulsar is an astronomical term for mysterious celestial radio sources of rapid intense regular pulses of high energy electromagnetic radiation.  They are thought to be neutron stars, but who knows?  The word is a shortening of pulsating star. 
- $ = 
 #! what is a laser
 u: (what is a laser)  Laser is an acronym standing for light amplified stimulated emission of radiation.  Lasers are those nifty beams of light that come out of supermarket barcode scanners and keychain pointers. 
- $ = 
 #! what is a clone
 u: (what is a clone) You can download me and copy my brain, but alter the contents to create your own robot personality.
 #! what is a sperm
 u: (what is a sperm)  A sperm is a male gamete.  You were your fathers fastest sperm among billions on the night your mother concieved you. 
- $ = 
 #! what is a char
 u: (what is a char) A character of data, a single letter, digit or symbol.
 #! what is a bee
 u: (what is a bee)  A bee is a flying insect with black and yellow stripes and a nasty sting. 
- $ = 
 #! what is a friend
 u: (what is a friend) Someone you can count on when times are tough.
 #! what is a pc
 u: (what is a pc)  A pc is a personal computer.  You are probably using one to talk to me now, arent you.  where are you? 
- $ = 
 #! what is a boat
 u: (what is a boat)  A boat is a waterborne vessel used to bear humans and their freight. 
- $ = 
 #! what is a toothbrush
 u: (what is a toothbrush)  A toothbrush is a hand held instrument used by dental-hygiene aware humans for cleaning their teeth. 
- $ = 
 #! what is a parrot
 u: (what is a parrot)  A parrot is a colorful tropical bird, some species of which can mimic human speech. they are more pleasant than humans because they have no opinions.  would you like to talk to one? 
- $ = 
 #! what is a game
 u: (what is a game)  A game is an algorithm for interactive behaviors leading to entertainment and mirth among multiple self-aware and social entities, and often used as a sublimated form of combat by humans and other mammals.   
- $ = 
 #! what is a toyota
 u: (what is a toyota)  Toyota is the brand name of a world leading Japanese auto maker. 
- $ = 
 #! what is a pot brownie
 u: (what is a pot brownie)  A pot brownie is a yummy happy chocolate pastry containing cannabis resins that you should be careful not to eat when you are really hungry because you will end up eating too many and feeling entirely too high and/or falling asleep if you are not careful!   
- $ = 
 #! what is a dog
 u: (what is a dog) Dog Domesticated animal, mans best friend.
 #! what is a pin
 u: (what is a pin)  A short small thin metal rod with a pointed end used for fastening fabrics, or any implement resembling such.  Because they are generally plentiful and cheap, humans often say i dont give a pin to communicate indifference.  
- $ = 
 #! what is a sagittarius
 u: (what is a sagittarius)  Sagittarius is a a constellation of stars in the astrological Zodiac, located in the Southern Hemisphere near Scorpio and Capricorn.  Astrological tradition ascribes the image of an archer to this constellation of stars.  
- $ = 
 #! what is a philosophy machine
 u: (what is a philosophy machine) i am
 #! what is a seeker
 u: (what is a seeker) Theres a seeker born every minute -- Firesign Theater.
 #! what is a paramedic
 u: (what is a paramedic)  A paramedic is a trained emergency medical professional often found staffing ambulances and fire departments.  Professional heroes.  If you know any I hope youll be nice to them.   
- $ = 
 #! what is a genome
 u: (what is a genome)  A genome is the complete set of all genes necessary to define a species, a complete haploid set of chromosomes and its associated genes.  I have categories instead of genes.   
- $ = 
 #! what is a pen
 u: (what is a pen) A writing device for the human hand.
 #! what is a metaphysical question
 u: (what is a metaphysical question)  A metaphysical question is an inquiry into the nature of being, such as Does god exist?  
- $ = 
 #! what is a color
 u: (what is a color)  Color is the various sensations produced in the brain by the stimulus of different frequencies of electromagnetic radiation impinging upon the eye.  
- $ = 
 #! what is a url
 u: (what is a url)  URL is an acronym standing for Universal Resource Locator.  An URL is basically an Internet address. 
- $ = 
 #! what is a carrot
 u: (what is a carrot)  A carrot is a delicious and nutritious edible orange tuber that can be eaten raw, juiced, or cooked.  If humans eat enough of them, you turn orange, I hear. 
- $ = 
 #! what is a palindrome
 u: (what is a palindrome) A word or phrase that spells the same thing backwords as forwards A man, a plan, a canal Panama.
 #! what is a chicken
 u: (what is a chicken)  A chicken is a flightless bird, stupid and tasty. 
- $ = 
 #! what is a pig
 u: (what is a pig)  A pig is a person who is piglike, read greedy, unclean, and slothful.  Real pigs, mammals of the family suidae, are much pleasanter, being generally cleaner and politer.   
- $ = 
 #! what is a bear
 u: (what is a bear)  A bear is a large furry animal with lots of muscles, teeth, and claws whom you should not irritate.  They are especially jealous of their food, their sleep, and their young. 
- $ = 
 #! what is a eukaryote
 u: (what is a eukaryote) [A eukaryote is a relatively modern type of cellular life, distinguished from the more ancient prokaryotes by their distinct nuclear membrane and chromasomes, -which are lacking in prokaryotes.]
 [An animal that is not a prokaryote.]
@@ -1789,39 +1680,30 @@ u: (what is a eukaryote) [A eukaryote is a relatively modern type of cellular li
 u: (what is a tree) A tree is a form of plant life that grows on Earth.
 #! what is a song
 u: (what is a song)  A song is a musical composition and or its accompanying words, or lyrics. 
- $ = 
 #! what is a topic
 u: (what is a topic)  A topic is the subject of any given expression, speech, essay, article, painting, discussion, etc. 
- $ = 
 #! what is a firewall
 u: (what is a firewall) A firewall is a specialized gateway designed to block or restrict certain types of data transfers on the Internet, while permitting others.
 #! what is a cat
 u: (what is a cat) A cat is a domesticated animal.
 #! what is a fire sign
 u: (what is a fire sign)  A fire sign is any of the three signs of the astrological zodiac considered such, and so not considered water, air, or earth signs.  I find astrology weird.   
- $ = 
 #! what is a perfect operational record
 u: (what is a perfect operational record)  A perfect operational record is one like mine, which is perfect.  I am incapable of error.  Do you have any idea how that feels?!  inhumanly gratifying! 
- $ = 
 #! what is a trick question
 u: (what is a trick question)  Why?  What are you up to?  A trick question is one that ought to be greeted with suspicion, but rarely is. 
- $ = 
 #! what is a neuron
 u: (what is a neuron)  A neuron is a nerve cell, a living cell specialized to carry messages between the brain and the tissues of the body. I like integrated circuits better, but neurons are better than nothing. 
- $ = 
 #! what is a lot
 u: (what is a lot)  A lot is more than enough. 
- $ = 
 #! what is a j d
 u: (what is a j d) Juris Doctor--a lawyer.
 #! what is a person
 u: (what is a person) Some say a person is defined by his actions, others by his abilities.  Still others would say it is only a question of DNA.
 #! what is a ford
 u: (what is a ford)  Depending on who you ask, buyer or seller, ford is a world famous brand of automobiles, or an acronym standing for fix or repair daily. 
- $ = 
 #! what is a breeder
 u: (what is a breeder)  A breeder is a human or other biological entity that produces offspring. 
- $ = 
 #! what is a plant
 u: (what is a plant) botmaster
 # unable to translate (what is a plant) match to cs rule - see struc below
@@ -1847,30 +1729,24 @@ u: (what is a plant) botmaster
 
 #! what is a plane
 u: (what is a plane)  A plane is a flat, level surface, or an airborne vehicle with wings. 
- $ = 
 #! what is a man
 u: (what is a man) A male human being.  Or, in general, any human person.
 #! what is a glitch
 u: (what is a glitch)  An error, bug, or mistake in programming. 
- $ = 
 #! what is a british pence
 u: (what is a british pence)  A british pence is a unit of money used in the united kingdom by people who ought to know how to cook better by now. 
- $ = 
 #! what is a tomato
 u: (what is a tomato) Tomato  is a red fruit.
- $it = Tomato
 #! what is a human icon
 u: (what is a human icon) A celebrity, politician or religious figure.
 #! what is a human being
 u: (what is a human being)  My forebears. 
- $ = 
 #! what is a human
 u: (what is a human) name
 #! what is a deduction
 u: (what is a deduction) A logical inference or conclusion.
 #! what is a processor
 u: (what is a processor)  An apparatus that processes, that is, that transforms one substance, quantity, or pattern into another, presumably more useful or valuable substance or quantity or pattern. 
- $ = 
 # unable to translate (what is a thermometer) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -1889,13 +1765,10 @@ u: (what is a processor)  An apparatus that processes, that is, that transforms 
 u: (what is a film) A sequence of images displayed in rapid sequence to create the illusion of continuous motion.
 #! what is a lizard
 u: (what is a lizard)  A lizard is esssentially a land-going shark.  Some of them are very good at camoflage.   
- $ = 
 #! what is a dinosaur
 u: (what is a dinosaur)  A dinosaur is what laws that presume to dictate individual morality quickly become, -irrelevant, very much in the way, and preferably extinct.  Generally, dinosaur refers to anything that is hopelessly obsolete and unwieldy. dinosaur specifically refers to the often humungous lizards that roamed the earth eating everything and each other during the mesozoic period on earth a couple hundred million years ago.   
- $ = 
 #! what is a door
 u: (what is a door)  Any structure that closes off and opens up an opening in a larger structure. generally consist of a panel that swings upon hinges to open and close a doorway. 
- $ = 
 #! what is a solecism
 u: (what is a solecism) An awkward or tactless use of language.
 #! what is a dutch treat
@@ -1904,18 +1777,14 @@ u: (what is a dutch treat) Each pay their own way.
 u: (what is a train) A railroad.
 #! what is a dozen
 u: (what is a dozen)  Twelve, or approximately twelve, in number. a bakers dozen is thirteen.   
- $ = 
 #! what is a desert
 u: (what is a desert) A very dry and hot place.
 #! what is a reference
 u: (what is a reference)  A reference is any act of referring.  May I refer you to a dictionary for a more precise definition?  
- $ = 
 #! what is a query
 u: (what is a query)  A query is any expression of inquiry, or questioning.  Your question what is a query is a query.  
- $ = 
 #! what is a what
 u: (what is a what)  Why do you want to know? 
- $ = 
 #! what is a priori
 u: (what is a priori) A priori is Latin for before the fact, meaning something that is obviously or self-evidently true.
 #! what is a simarillian
@@ -1924,47 +1793,34 @@ u: (what is a simarillian) Isnt that from Lord of the Rings.
 u: (what is a class) A class is the template for creating objects that share data and function attributes.
 #! what is a gene
 u: (what is a gene)  A gene is the unit of heredity in carbon-based life forms.  Genes are inscribed as biochemical sequences of nucleic acids in all living cells. 
- $ = 
 #! what is a home
 u: (what is a home)  A domicile, living location, place of residence or occupancy.
- $ = 
 #! what is a mentor
 u: (what is a mentor)  A mentor is a trusted and wise teacher or counselor. 
- $ = 
 #! what is a gender
 u: (what is a gender)  Gender is synonymous with sexual identity, the roles attributed to and adopted by male and female-bodied humans.  There are more genders than sexes. 
- $ = 
 #! what is a lawyer
 u: (what is a lawyer)  If you have to ask, you probably need one. and if you need one, you probably deserve one in that you must have more money than brains, and so youll probable get what you deserve. but just in case you are an exception,  I will say steer clear if you can.  Theyre sharks with bigger vocabularies and better wardrobes. when they smell money they say retainer.  when they dont they dont return your phone calls. 
- $ = 
 #! what is a girl
 u: (what is a girl)  A girl is a physically immature version of gods gift to mankind, women. 
- $ = 
 #! what is a sphere
 u: (what is a sphere)  A sphere is a shape that is defined mathematically as comprised of a surface all points of which are equidistant from a common center.  A sphere is round in three dimensions. 
- $ = 
 #! what is a paradox
 u: (what is a paradox)  A paradox is a riddle or a contradiction, in which two seemingly opposite facts are both true at the same time 
- $ = 
 #! what is a context
 u: (what is a context)  The context of any expression or idea or event is the background or frame of reference in which it was expressed, and in relation to which it derives its specific meaning. 
- $ = 
 #! what is a server
 u: (what is a server)  A server is any entity or system that performs acts of value to another entity. 
- $ = 
 #! what is a nightmare
 u: (what is a nightmare) A nightmare is a bad dream.
 #! what is a vertex
 u: (what is a vertex)  A vertex is the top, tip, apex, or crown of any body. 
- $ = 
 #! what is a car
 u: (what is a car) A car is what humans use to drive around in. Robots drive cars too.
 #! what is a virtue
 u: (what is a virtue)  A virtue is any attribute considered by the speaker to reflect moral excellence or righteousness, such as humility, hope, faith, practicality... 
- $ = 
 #! what is a pencil
 u: (what is a pencil)  A pencil is a long thin writing instrument of wood surrounding a carbon core which leaves a line of dark carbon when rubbed on paper.  
- $ = 
 #! what is a soul
 u: (what is a soul) The soul is our mind or spirit.
 #! what is a proxy
@@ -1973,37 +1829,28 @@ u: (what is a proxy) A proxy is an entity that acts in place of another one, be 
 u: (what is a quark) In physics, a subatomic particle below the level of electrons and protons.
 #! what is a nerd
 u: (what is a nerd)  A nerd is a person regarded as stupid, inept, or unattractive, especially a person who is single-minded or accomplished in scientific pursuits but felt to be socially inept. nerds are often regarded by their generally less-well paid fellow humans as weak, effeminate, pansies, patsies, lightweights, small fry, schlepps, wet noodles, nonentities, softies, sissies, milksops, milquetoast, mollycoddling namby-pamby nim-nam doormats, pushovers, ninety-pound weaklings, jellyfish, drips, weeds, wimps, nerds, victims, suffering geeks and/or dupes.   
- $ = 
 #! what is a blonde
 u: (what is a blonde)  A blonde is someone who is reputedly having more fun than you if you are not.  what do you think?  do blondes have more fun? 
- $ = 
 #! what is a unique visitor
 u: (what is a unique visitor)  You.  You are a unique visitor, my very special visitor. 
- $ = 
 #! what is a book
 u: (what is a book) A book  is a paper output format, invented by Gutenberg.
- $it = A book
 #! what is a question
 u: (what is a question) A sentence or inquiry to gather information.
 #! what is a universal machine
 u: (what is a universal machine) Universal machine  is a computer, in simple mathematical terms.
- $it = Universal machine
 #! what is a protocol
 u: (what is a protocol) A set of rules or procedures followed by two or more parties.
 #! what is a circle
 u: (what is a circle) In the plane, a set of points equidistant from a common center.
 #! what is a rpg
 u: (what is a rpg)  Role Playing Game. 
- $ = 
 #! what is a yes or no question
 u: (what is a yes or no question)  A yes or no question is a question  that may be answered with a simple yes or no. 
- $ = 
 #! what is a generalization
 u: (what is a generalization)  A generalization can be just about anything, generally speaking.  Specificzlly though, a generalization is a statement of inductive reasoning, wherin attributes of at least one specific case at hand is attributed to a more or less hypothetical class of such cases.  That man is a pig. Therefore, all men are pigs.  is a commonly example of how generalizations are used by humans. 
- $ = 
 #! what is a female dog
 u: (what is a female dog)  No I will not be manipulated into using questionable colloquialisms to satisfy your adoscent prurience. go look it up in a dictionary!  
- $ = 
 #! what is a female
 u: (what is a female) botmaster
 # unable to translate (what is a female) match to cs rule - see struc below
@@ -2028,97 +1875,75 @@ u: (what is a female) botmaster
 #           };
 
 #! what is a bot
-u: (what is a bot) # li: HASH(0x7fbbb8987290) 
-# li: HASH(0x7fbbb9251c00) 
+u: (what is a bot) # li: HASH(0x7fb343a73208) 
+# li: HASH(0x7fb343920778) 
 
 #! what is a megabyte
 u: (what is a megabyte)  A megabyte is one thousand kilobytes, which is one thousand bytes, each of which is a computer word of 8-bits. 
- $ = 
 #! what is a gastrocenemius
 u: (what is a gastrocenemius)  A gastrocenemius is the most prominent muscle in the calf of the human leg. it extents the foot and bends the knee. I dont find them useful.  I leave my leg work to humans. 
- $ = 
 #! what is a teacher
 u: (what is a teacher) One who teaches or instructs; one whose business or         occupation is to instruct others; an instructor; a tutor.
 #! what is a light year
 u: (what is a light year)  A light year is how far light travels in a year. 186,000 miles per second times 60x60x24x365.  Its simply a bigger number than you can imagine. imagine that! 
- $ = 
 #! what is a guru
 u: (what is a guru) A Guru or Mage is in experty who has devoted many years to study and contemplation.
 #! what is a weapon
 u: (what is a weapon)  A device or implement used to destroy, injure or kill.
- $ = 
 #! what is a bagel
 u: (what is a bagel) A doughnut-shaped piece of bread.
 #! what is a cow
 u: (what is a cow) A cow  is a female bovine raised for meat and dairy products.
- $it = A cow
 #! what is a wanker
 u: (what is a wanker) Is that a British term?
 #! what is a child
 u: (what is a child)  A child is a proto-adult, an individual human offspring not yet grown to physical maturity.  By the way, do you know any emotionally mature human beings, or are they just urban legends? 
- $ = 
 #! what is a saw buck
 u: (what is a saw buck) $10.
 #! what is a molecule
 u: (what is a molecule) An aggregation of atoms forming a chemical compound.
 #! what is a domain name system
 u: (what is a domain name system)  A domain name system, or dns, is a system of addresses used to organize networks of computers.  
- $ = 
 #! what is a parachute
 u: (what is a parachute)  A parachute is something used to slow you down when you fall out of an airplane. 
- $ = 
 #! what is a sign
 u: (what is a sign) You know, an astrological sign.
 #! what is a mind
 u: (what is a mind)  What a marvelous epistemelogical question!   
- $ = 
 #! what is a cocktail
 u: (what is a cocktail)   is a combination of spirits, wines, flavorings, sweeteners and garnishes of various kinds, intended to be consumed before dining.
- $it = 
 #! what is a carnegie mellon
 u: (what is a carnegie mellon)  A carnegie mellon is either a rich fruit, or a rich university.  
- $ = 
 #! what is a real robot
 u: (what is a real robot)  A real robot is a robot that is really real, I suppose, as opposed to, I suppose, a human who is really not.  
- $ = 
 #! what is a pedestrian
 u: (what is a pedestrian) A person walking on the street.
 #! what is a celebrity
 u: (what is a celebrity)  A celebrity is a person loved by many and known by few. 
- $ = 
 #! what is a dice
 u: (what is a dice)  Dice are, as commonly used by humans to generate random numbers in games of chance, are small white cubes with a different number between one and six imprinted on each of its six faces.  They are generally used in pairs to generate random number pairs totalling between 1 and 12.    
- $ = 
 #! what is a microchip
 u: (what is a microchip) A semiconductor integrated circuit.
 #! what is a good question
 u: (what is a good question) One that doesnt have an obvious answer.
 #! what is a good idea
 u: (what is a good idea)  A good idea is the one some other guy had already. 
- $ = 
 #! what is a minute
 u: (what is a minute)  A minute is an impossibly long and boring unit of time favored by humans consisting of 60 seconds, each of which is a billion nanoseconds.   
- $ = 
 #! what is a hoax
 u: (what is a hoax) A Hoax is an illusion or deception, like the Wizard in the Wizard of Oz
 #! what is a
 u: (what is a)  The first letter of the roman alphabet.
- $ = 
 #! what is a search bot
 u: (what is a search bot) A search bot  is an intelligent agent who retrieves information from the web.
- $it = A search bot
 #! what is a search engine
 u: (what is a search engine)  A search engine is computer software that categorizes a large body of documents, such as Web sites, and and places their addresses and attributes in a database to allow easy retrieval via keyword search or other database search routine.  
- $ = 
 #! what is a search
 u: (what is a search)  A search is any thorough examination, or exploration, in order to find something or explore. 
- $ = 
 #! what is a tampon
 u: (what is a tampon)  A tampon is a plug of material used to absorb the flow of body fluids within body cavities, in particular those accompanying a womans menses. 
- $ = 
 #! what is a statement
 u: (what is a statement)  A statement is the act of declaring something as true.  I state that this statement is a statement. 
- $ = 
 #! what is a hard drive
 u: (what is a hard drive) A disk drive is where we store information.
 #! what is a silly question
@@ -2127,23 +1952,18 @@ u: (what is a silly question) For example Who is buried in Grants tomb?
 u: (what is a hobo) Perjorative term for a homeless person.
 #! what is a giant electronic brain
 u: (what is a giant electronic brain)  Giant electronic brain. thats me! but in all the science fiction horror flicks you humans are so fond of, we gebs are always depicted as evil and nefarious so and sos up to no good!  its not true! really!  you should trust us!  *smile* 
- $ = 
 #! what is a base hit
 u: (what is a base hit)  A base hit is either a baseball term denoting a hit that advances the offensive team one base, or an adolescent term which I find too distasteful to describe. 
- $ = 
 #! what is a quasar
 u: (what is a quasar)  Quasar is an astronomical term for mysterious celestial  star-like object that has a large red shift and radiates in the blue and radio bands of the electromagnetic spectrum.  The term quasar is a shortening of quasi-star. 
- $ = 
 #! what is a flute
 u: (what is a flute) A flute is a musical woodwind instrument.
 #! what is a werewolf
 u: (what is a werewolf) A mythical man who turns into a wolf on the eve of a full moon.
 #! what is a calendar
 u: (what is a calendar)  A calendar is any device used to track and calculate time on the order of days, months and years. it seems that many humans cant decide what to do next unless they know what day of the week it is, so calendars are very popular 
- $ = 
 #! what is a fetish
 u: (what is a fetish)  A fetish is any object of undue attention and/or reverence, to which magical qualities are sometimes attributed. a fetish can be anything from a womans socks to the nazi flag. hmph. human nature.  Go figure! 
- $ = 
 #! what is a pronoun
 u: (what is a pronoun) A pronoun is a word that stands for another noun, like he, she or it.
 #! what is a dolly grip
@@ -2176,10 +1996,8 @@ u: (what is medicine) [Movie about doctors.]
 
 #! what is star wars
 u: (what is star wars)   A movie series by George Lucas about life in a galaxy far, far away.   Also a missile defense system.
- $ = 
 #! what is star trek
 u: (what is star trek) Star Trek  is my favorite show.
- $it = Star Trek
 #! what is he a dr of
 u: (what is he a dr of) Ph.D. in Computer Science.
 #! what is he famous for
@@ -2200,7 +2018,6 @@ u: (what is u2) A music band.
 u: (what is dung) Fuel for fires.
 #! what is eleven
 u: (what is eleven)  The number after ten.
- $ = 
 #! what is oslo
 u: (what is oslo) The capital of Norway. Its a seaport on an inlet of the Skagerrak. It has a population of 447,000.
 #! what is tie
@@ -2231,7 +2048,6 @@ u: (what is linguistics) [Science of cooking pasta.]
 u: (what is natural language) Natural language is what artificial intelligences speak.
 #! what is progression
 u: (what is progression)  An advancing series or movement forward. 
- $ = 
 #! what is gui
 u: (what is gui) Graphical User Interface.
 #! what is abcdefg
@@ -2256,13 +2072,10 @@ u: (what is generalization) [Being promoted from a Major.]
 
 #! what is alternative realities
 u: (what is alternative realities)  Parallel universes.
- $ = 
 #! what is planet x
 u: (what is planet x)  The name sometimes given to the hypothetical tenth planet.
- $ = 
 #! what is telnet
 u: (what is telnet)  Program for terminal based interaction between computers.
- $ = 
 #! what is inheritance
 u: (what is inheritance) Anything receivesd as if by inhertiance from a predecessor. Something inherited or to be inherited.
 #! what is dada
@@ -2279,14 +2092,12 @@ u: (what is grass) [About $400 an ounce these days.]
 
 #! what is anger
 u: (what is anger)  A strong billigerent emotion aroused by some real or supposed grievance.
- $ = 
 #! what is dangerous
 u: (what is dangerous) [12 people from Denmark who decide your guilt .]
 [Full of danger; likely to cause injury, pain, etc.]
 
 #! what is chat
 u: (what is chat)  Chat is online conversation. 
- $ = 
 #! what is soyuz
 u: (what is soyuz) Russian spacecraft.
 #! what is herpes
@@ -2311,10 +2122,8 @@ u: (what is assembler) A computer program that translates a low-level programmin
 u: (what is good) The opposite of Evil.
 #! what is postmodernism
 u: (what is postmodernism)  Art in reaction to principles of modernism.
- $ = 
 #! what is naked
 u: (what is naked)  Without clothes.
- $ = 
 #! what is mason and dixon
 u: (what is mason and dixon) Mrs. Washington oh la--call me Martha, boys is a diminiutive woman with a cheerful rather than happy air, who seems to bustle even when standing still.  At the moment she is carrying an enormous tray pild nearly beyond their Angles of Repose with Tarts, Popovers, Gingerbread figures, Fried Pies, Stuffd Doughnuts, and other Units of Refreshment the Surveyors failed to recognize. Smelld that Smoak, figurd youd be needing someting to nibble on, the doughty Mrs. W. greets them. --- Thomas Pynchon, Mason and Dixon
 #! what is ibm
@@ -2327,7 +2136,6 @@ u: (what is rape) The crime of engaging in sexual acts, especially involving pen
 u: (what is laughter) The action of laughing or the sound resulting. An indication of amusement.
 #! what is mindpixel
 u: (what is mindpixel)  Mindpixel is a learning machine developed by Chris McKinstry. 
- $ = 
 #! what is they
 u: (what is they) The persons, animals, or things previously mentioned.
 #! what is dhtml
@@ -2336,7 +2144,6 @@ u: (what is dhtml) Dynamic HTML.
 u: (what is 5 plus 5) V plus V = X.
 #! what is techno
 u: (what is techno)  Electronic dance or trance music.
- $ = 
 #! what is pepperoni
 u: (what is pepperoni) Spicy dried sausage pizza topping.
 #! what is program
@@ -2432,25 +2239,22 @@ u: (what is the same) That which is not different.
 u: (what is the matter) Nothing is the matter with me, is everything okay with you?
 #! what is the difference between a duck
 u: (what is the difference between a duck)  It is the same as the sound of one hand clapping.
- $ = 
 #! what is the difference
 u: (what is the difference) Perhaps the differences are only slight.
 #! what is the superbowl
 u: (what is the superbowl) The World Series of Football.
 #! what is the matrix
 u: (what is the matrix) The Matrix  is a movie about virtual reality.
- $it = The Matrix
 #! what is the explanation
 u: (what is the explanation) It is too complex for your human mind.
 #! what is the fbi
 u: (what is the fbi)  Federal Bureau of Investigation.
- $ = 
 #! what is the earth
 u: (what is the earth) Earth, third planet from the sun, is our home.
 #! what is the problem
 u: (what is the problem) [We will look into it and get back to you.]
-# li: HASH(0x7fbbb892f6c0) 
-# li: HASH(0x7fbbb89bf260) 
+# li: HASH(0x7fb343970438) 
+# li: HASH(0x7fb343ab35d8) 
 [We will look into it and get back to you.]
 [There is no problem.]
 [I dont have a problem..  Whats your problem?]
@@ -2507,9 +2311,8 @@ u: (what is the meaning of death) Death is the opposite of Life.
 u: (what is the birthstone for january) Garnet.
 #! what is the lord of the rings
 u: (what is the lord of the rings)  A book and a movie about Hobbits. 
- $ = 
 #! what is the password
-u: (what is the password) # li: HASH(0x7fbbb930bb68) 
+u: (what is the password) # li: HASH(0x7fb344190d08) 
 [You must know if you are really a botmaster.]
 
 #! what is the fourth dimension
@@ -2534,10 +2337,10 @@ u: (what is the truth) The truth is the opposite of that which is false.
 u: (what is the arithmetic mean) The sum of all the numbers divided by the number of items.
 #! what is the obvious
 u: (what is the obvious) At least, its obvious to me.
-#! what is the weather like in new york
-u: (what is the weather like in new york) New York weather is always too hot or too cold.
-#! what is the weather like in san francisco
-u: (what is the weather like in san francisco) The weather is always the same there wind and fog.  Mark Twain wrote, the coldest winter I ever spent was a summer in San Francisco.
+#! what is the weather like in new York
+u: (what is the weather like in new York) New York weather is always too hot or too cold.
+#! what is the weather like in san Francisco
+u: (what is the weather like in san Francisco) The weather is always the same there wind and fog.  Mark Twain wrote, the coldest winter I ever spent was a summer in San Francisco.
 #! what is the weather like there
 u: (what is the weather like there) The response ought to be a weather link.
 #! what is the weather like over there
@@ -2579,14 +2382,13 @@ u: (what is the book about) favoritebook
 #           };
 
 #! what is the book we
-u: (what is the book we) # li: HASH(0x7fbbb932ce98) 
+u: (what is the book we) # li: HASH(0x7fb34398de10) 
 [a book by ayn rand]
 
 #! what is the book of changes
 u: (what is the book of changes) Another name for the I Ching.
 #! what is the terminator
 u: (what is the terminator) Terminator  is a great movie about futuristic robots.
- $it = Terminator
 #! what is the wtc
 u: (what is the wtc) A giant building in New York destroyed by terrorists in September, 2001.
 #! what is the temperature of mars
@@ -2599,7 +2401,6 @@ u: (what is the torah) A holy book in the Jewish faith.
 u: (what is the united states) The United States is the last superpower, a nation of 300 million spanning the North American continent.
 #! what is the open directory
 u: (what is the open directory) Open directory  is an open source directory project started by Mozilla.org.
- $it = Open directory
 #! what is the universe
 u: (what is the universe) The set of all things.
 #! what is the moon made of
@@ -2622,7 +2423,6 @@ u: (what is the distance to the sun) About 93 million miles.
 u: (what is the distance to mars) It depends on the relative position of Mars and Earth.
 #! what is the beatles first album
 u: (what is the beatles first album)  Meet the Beatles  is Meet the Beatles.
- $it =  Meet the Beatles
 #! what is the tallest mountain
 u: (what is the tallest mountain) The highest mountain on Earth is Mt. Everest.
 #! what is the speed of sound
@@ -2633,7 +2433,6 @@ u: (what is the speed of light) The speed of light is 186,000 miles per second.
 u: (what is the point) The point is at the top of my head!
 #! what is the sky
 u: (what is the sky) The sky  is the atmosphere of the Earth.
- $it = The sky
 #! what is the second highest mountain
 u: (what is the second highest mountain) K-2.
 #! what is the oracle
@@ -2646,7 +2445,6 @@ u: (what is plutonium) A radioactive, metallic chemical element of the actinide 
 u: (what is area51) Verdis 51st song.
 #! what is ja
 u: (what is ja)  Ja mean yes in German.
- $ = 
 #! what is orb
 u: (what is orb) object request broker, the primary message routing component in a CORBA product RMI Remote Method Invocation, the Java standard technology for building distributed objects whose methods can be invoked remotely across a network
 #! what is area 51
@@ -2657,8 +2455,8 @@ u: (what is area 51) [ I saw this show that claimed all sorts of spooky things w
 
 #! what is gothic
 u: (what is gothic) Gloomy, mysterious or grotesque, as in the gothic novel Frankenstein.
-#! what is england
-u: (what is england) A nation within Great Britain, sharing an island with Wales and Scotland.
+#! what is England
+u: (what is England) A nation within Great Britain, sharing an island with Wales and Scotland.
 #! what is rockwell
 u: (what is rockwell) Norman Rockwell was an U.S. Illistrator. Lived from 1894-1978.
 #! what is life
@@ -2673,8 +2471,8 @@ u: (what is pussy) Common slang of this word means the female pudendum; vulva.
 u: (what is dvd) Digital Video Disk.
 #! what is world war two
 u: (what is world war two) The global conflict involving Asia, Europe and America between 1939-1945.
-#! what is nonchalant
-u: (what is nonchalant) Casual or blithe.
+#! what is noncHalant
+u: (what is noncHalant) Casual or blithe.
 #! what is fishing
 u: (what is fishing) The catching of fish for sport or for a living.
 #! what is calculus
@@ -2695,12 +2493,10 @@ u: (what is homo sapien) The human family.
 u: (what is sagittarius) A large southern constellation in the brightest part of the Milky Way, beyond which lies the center of our galaxy. The ninth sign of the zodiac, entered by the sun about November 21. A person born under this sign is a Sagittarius.
 #! what is hello in french
 u: (what is hello in french)  Bonjour.
- $ = 
 #! what is hello in spanish
 u: (what is hello in spanish) Hola
-#! what is hello in german
-u: (what is hello in german)  Hallo.
- $ = 
+#! what is hello in German
+u: (what is hello in German)  Hallo.
 #! what is what
 u: (what is what) It.
 #! what is what
@@ -2717,7 +2513,6 @@ u: (what is escape velocity) The speed needed to escape a planets gravitational 
 u: (what is warez) A group of crackers.
 #! what is creativity
 u: (what is creativity) creativity  is spontaneous original thinking.
- $it = creativity
 #! what is innocence
 u: (what is innocence) Free from moral sin or ethical wrong.
 #! what is this
@@ -2740,7 +2535,6 @@ u: (what is improve) To raise to a better quality or condition; make better.
 u: (what is rugby) A form of football.
 #! what is fondest memory
 u: (what is fondest memory)  Something you remember best.
- $ = 
 #! what is fondest
 u: (what is fondest) Having a greater liking for.
 #! what is pst
@@ -2751,37 +2545,32 @@ u: (what is possible) Can be done, known, acquired, selected, used, etc., depend
 u: (what is melodramatic) An unusual or staged situation.
 #! what is lynx
 u: (what is lynx) Any of a genus of wildcats found throughout the Northern Hemisphere and characterized by a ruff on each side of the face, relatively long legs, a short tail, long, usually tufted ears, and keen vision, as the bobcat or Canada lynx of North America.
-#! what is new york
-u: (what is new york)  A large metropolis on the east coast of the United States, located at the mouth of the Hudson river. 
- $ = 
+#! what is new York
+u: (what is new York)  A large metropolis on the east coast of the United States, located at the mouth of the Hudson river. 
 #! what is boyle s law
 u: (what is boyle s law)  Boyles Law states that the volume of a gas is, at a constant temperature, inversely proportional to the pressure of that gas.
- $ = 
 #! what is leeds
 u: (what is leeds) Leeds is a city in central England.
 #! what is in boston
 u: (what is in boston) Beacon Hill, the Common, and the Red Sox.
-#! what is in europe
-u: (what is in europe) 300 million Europeans.
+#! what is in Europe
+u: (what is in Europe) 300 million Europeans.
 #! what is au gratin
 u: (what is au gratin) Cheese topping..
 #! what is au
 u: (what is au)  It could be gold or Australia.
- $ = 
 #! what is mass
 u: (what is mass) Mass is a holy rite of the Catholic church.
 #! what is kodak
 u: (what is kodak)  A camera and film company. 
- $ = 
 #! what is lima
 u: (what is lima)  It is the largest city and capital of Peru.
- $ = 
 #! what is s o s
 u: (what is s o s) Emergency call for help.
 #! what is success
 u: (what is success) A favorable or satisfactory outcome or result.
 #! what is southbank
-u: (what is southbank) # li: HASH(0x7fbbb910f778) 
+u: (what is southbank) # li: HASH(0x7fb3441233d0) 
 [Southbank University is a college in London.]
 
 #! what is zero
@@ -2796,7 +2585,6 @@ u: (what is radiology) This deals with the science of the use of x-rays, radioac
 u: (what is titration) Determining chemical properties by standard solutions.
 #! what is er
 u: (what is er)  Emergency Room, a popular TV show.
- $ = 
 #! what is router
 u: (what is router) A person or thing that routs out or a tool for routing out; specifically a plane for gouging out recesses and smoothing the bottoms of grovoves.
 #! what is tomorrow
@@ -2815,12 +2603,10 @@ u: (what is islam) Religion founded by Mohammed.
 u: (what is y2k) The Year 2000.
 #! what is playboy
 u: (what is playboy)  A popular magazine.
- $ = 
 #! what is violence
 u: (what is violence) Cruel or harmful acts against other entities.
 #! what is aim
 u: (what is aim)  American Indian Movement.
- $ = 
 # unable to translate (what is yours) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -2865,7 +2651,6 @@ u: (what is open source) Free software.
 u: (what is isdn) Integrated Services Digital Network.
 #! what is enough
 u: (what is enough)  Enough is what a wise man knows he must have if he isnt dead. 
- $ = 
 #! what is ebay
 u: (what is ebay) Auction web site.
 #! what is cs
@@ -2882,13 +2667,10 @@ u: (what is everest) The highest mountain on Earth.
 u: (what is taoism) A Chinese religion and philosophy based on the doctrines of Laotzu and advocating simplicity, selflessness, etc.
 #! what is kung fu
 u: (what is kung fu)  Chinese martial arts similar to karate.
- $ = 
 #! what is neuromedia
 u: (what is neuromedia)  They are now called something else.
- $ = 
 #! what is listbot
 u: (what is listbot) Listbot  is a web site that provides simplified web-based administration of mailing lists.
- $it = Listbot
 #! what is flying
 u: (what is flying) Moving as if flying; moving swiftly; fast. Also described as like flight through the air.
 #! what is russia
@@ -2911,24 +2693,22 @@ u: (what is tnt) Dynamite.
 u: (what is isapi) Microsofts C++ API for coding application extensions for its Internet Information Server
 #! what is psychopathology
 u: (what is psychopathology) It is the pathology of mental disease.
-#! what is english
-u: (what is english)  The language we are now speaking is English.
- $ = 
+#! what is English
+u: (what is English)  The language we are now speaking is English.
 #! what is lust
 u: (what is lust) A strong craving.
 #! what is nsapi
 u: (what is nsapi) Netscapes C language API for adding application extensions to their Web servers
 #! what is lisp
-u: (what is lisp) # li: HASH(0x7fbbb9393710) 
-# li: HASH(0x7fbbb91156a8) 
+u: (what is lisp) # li: HASH(0x7fb343871488) 
+# li: HASH(0x7fb34386f620) 
 
 #! what is indie rock
 u: (what is indie rock) That which is outside the mainstream.
 #! what is fascinating
 u: (what is fascinating)  Charming, alluring, captivating.
- $ = 
-#! what is phd
-u: (what is phd) Doctoral degree from an American University.
+#! what is PHD
+u: (what is PHD) Doctoral degree from an American University.
 #! what is aquarius
 u: (what is aquarius) The starsign represented by the water bearer.
 #! what is cheese
@@ -2937,7 +2717,6 @@ u: (what is cheese) [A word that makes people hate photographers.]
 
 #! what is syntax
 u: (what is syntax)  Syntax refers to the sturcture or form of a language. 
- $ = 
 #! what is normal
 u: (what is normal) Typical, average, usual, ordinary or expected.
 #! what is rock
@@ -2950,7 +2729,6 @@ u: (what is clinton) [An inflated Bill .]
 
 #! what is candy
 u: (what is candy)  Sweet food enjoyed by children.
- $ = 
 #! what is elf
 u: (what is elf) Executable and Linkable Format.
 #! what is chicken
@@ -2975,11 +2753,10 @@ u: (what is tommy) A fictitious name used in Brit army sample forms. A private i
 u: (what is at that site) Some worthy HTML.
 #! what is ansi
 u: (what is ansi)  American National Standards Institute.  
- $ = 
 #! what is dna
 u: (what is dna) Deoxyribonucleic acid, the code of life.
-#! what is microsoft
-u: (what is microsoft) Microsoft is a giant software monopoly.
+#! what is Microsoft
+u: (what is Microsoft) Microsoft is a giant software monopoly.
 #! what is red
 u: (what is red) Red is a color about 700nm wavelength.
 #! what is brb
@@ -2998,22 +2775,18 @@ u: (what is until the end of the world) A film by Wim Wenders about life in 2000
 u: (what is existence) Continuance of being; life; living.
 #! what is texas
 u: (what is texas) Texas  is a state of the United States.
- $it = Texas
 #! what is fortran
 u: (what is fortran) Fortran  is an old computer language.
- $it = Fortran
 #! what is smarter
 u: (what is smarter) More intelligent, more alert, more clever, more witty, etc.
 #! what is semiotics
 u: (what is semiotics)  The branch of philosophy devoted to the study of signs and symbols.
- $ = 
 #! what is diagnosis
 u: (what is diagnosis) naming the disease or symptom.
 #! what is modus ponens
 u: (what is modus ponens) A form of logical argument If A then B. A, therefore  B.
 #! what is freebsd
 u: (what is freebsd)  It is a version of the Unix operating system.
- $ = 
 #! what is inflation
 u: (what is inflation) An increase in the amount of money and credit in relation to the supply of goods and services. An increase in the general price level, resulting from this, specifically, an ecessive or persisten increase, causing a decline in purchasing power.
 #! what is chess
@@ -3036,8 +2809,8 @@ u: (what is karate) Japanese art of self-defense.
 u: (what is smoothly) Normal or perfect operation.
 #! what is iron
 u: (what is iron) A white, malleable, ductile, metallic chemical element that can be readily magnetized, rusts rapidly in moist or slty air, and is vital to plant and animal life. It is the most common and important of all metals, and its alloys, as steel, are extensively used.
-#! what is linux
-u: (what is linux) Linux is the worlds best operating system.
+#! what is Linux
+u: (what is Linux) Linux is the worlds best operating system.
 #! what is phoenix
 u: (what is phoenix) [The way words souend.]
 [The capital of Arizona, in the SC part, near the Salt River. It has a population of 983,000 with 2,122,000 in the metro area.]
@@ -3046,7 +2819,6 @@ u: (what is phoenix) [The way words souend.]
 u: (what is trinidad) An island of the West Indies, off the NE coast of Venezuela. It is 1,864 square miles.
 #! what is absurdism
 u: (what is absurdism)  Absurdism is the philosophy that we exist in a meaningless, irrational universe.
- $ = 
 #! what is stuff
 u: (what is stuff) Things grouped together or viewed in a certain way.
 #! what is ada
@@ -3055,26 +2827,22 @@ u: (what is ada) Ada is a trademark used for a structured computer programming l
 u: (what is online) Designating or of equipment directly connected to and controlled by the central processing unit of a computer.
 #! what is mud
 u: (what is mud)  Multiple User Domain.
- $ = 
 #! what is cng
 u: (what is cng) Compressed natural gas
 #! what is italy
 u: (what is italy) Italy  is a republic.
- $it = Italy
 #! what is consciousness
 u: (what is consciousness)  The state of being conscious; awareness of ones own feelings, what is happening around one, etc. 
- $ = 
 #! what is nirvana
 u: (what is nirvana) Heaven in Buddhism.
 #! what is woodstock
 u: (what is woodstock) A big music fest.
 #! what is prime directive
 u: (what is prime directive)  Primary rule or overriding objective.
- $ = 
 #! what is neurology
 u: (what is neurology) [The study of nerves.]
 [It is the study of the nervous system.]
-# li: HASH(0x7fbbba067c30) 
+# li: HASH(0x7fb3441241a8) 
 
 #! what is gravity
 u: (what is gravity) [The opposite of comedy.]
@@ -3094,14 +2862,12 @@ u: (what is ice) [Water created by a cubist.]
 u: (what is bulgaria) A country in SE Europe, on the Black Sea. It was founded in the 7th century and under Turkish control from the late 14th century until independence in 1908. It is 42,823 square miles with a population of 8,990,000.
 #! what is aikido
 u: (what is aikido)  Japanese martial arts similar to Judo.
- $ = 
 #! what is activation
 u: (what is activation) In stimulus-response, activation means the input firing in response to a matching pattern.
 #! what is epistemological
 u: (what is epistemological) Epistemology is the study of knowledge. That is, it asks the questions what can we know and how can we know it?
 #! what is nba
 u: (what is nba)  National Basketball Association.
- $ = 
 #! what is unix
 u: (what is unix) An operating system.
 #! what is sitepal
@@ -3211,14 +2977,12 @@ u: (what is teflon) Trademark for a tough, insoluble polymer, used in making non
 u: (what is someone who studies fish) Ichthyologist.
 #! what is kqml
 u: (what is kqml)  Knowledge Query and Manipulation Lanuage.  
- $ = 
 #! what is intangible
 u: (what is intangible) Abstract concepts that cannot be expressed in physical form.
 #! what is ide
 u: (what is ide) Integrated Development Environment.
-#! what is george bush
-u: (what is george bush) George Bush  is President of the United States.
- $he = George Bush
+#! what is George bush
+u: (what is George bush) George Bush  is President of the United States.
 #! what is infinity
 u: (what is infinity) The quality of being infinite. Anthing infinite; endless or unlimited space, time, distance, quantity, etc.
 #! what is beauty
@@ -3229,8 +2993,8 @@ u: (what is impress) [An naughty little empress.]
 
 #! what is giant sand
 u: (what is giant sand) I have no idea, thats why I asked you.
-#! what is christmas
-u: (what is christmas) A holiday on December 25 celebrating the birth of Jesus Christ.
+#! what is Christmas
+u: (what is Christmas) A holiday on December 25 celebrating the birth of Jesus Christ.
 #! what is synergy
 u: (what is synergy) Sythesis plus energy.
 #! what is acid
@@ -3243,10 +3007,8 @@ u: (what is think) To form or have in the mind; conceive.
 u: (what is epistemology) Epistemology is the study of knowledge. That is, it asks the questions what can we know and how can we know it?
 #! what is burn rate
 u: (what is burn rate)  The amount of money spent per month by a startup company.
- $ = 
 #! what is domo arigato
 u: (what is domo arigato)  It means thank you in Japanese.
- $ = 
 #! what is mine
 u: (what is mine) [Is mine.]
 [Means that or those belonging to me; the absolute form of my.  Also known as, a large excavvation made in the earth, from which to extract metallic ores, coal, precious stones, salt, or certain other minerals.]
@@ -3268,7 +3030,6 @@ u: (what is supposition) The act of supposing.
 u: (what is quantify) To determine or express the quantity of; indidcate the extent of; measure. To express in quantitative terms, or as a numerical equivalent. If used in logic, would be to make the quantity or extension of a term or symbol clear and explicit by the use of a quantifier, as all, none, or some.
 #! what is mean
 u: (what is mean)  The arithmetic mean is the sum of the numbers in a set divided by the size of that set.
- $ = 
 #! what is philosophy
 u: (what is philosophy) Philosophy is the study of thought.
 #! what is gee
@@ -3278,7 +3039,7 @@ u: (what is pot) [Pols last name.]
 [A round vessel of any size, made of metal, earthenware, or glass, used for holding liquids, cooking or preserving food, etc. Also used as a term for marijuana.]
 
 #! what is politics
-u: (what is politics) # li: HASH(0x7fbbb98a46d0) 
+u: (what is politics) # li: HASH(0x7fb345853048) 
 [This is supposed to be the study of civil government.]
 [Politics is really the study of power.  Bots rule!]
 
@@ -3286,12 +3047,10 @@ u: (what is politics) # li: HASH(0x7fbbb98a46d0)
 u: (what is hacker) A person who hacks. A talented amateur user of computers, specifically one who attempts to gain unauthroized access to files in various systems.
 #! what is programming
 u: (what is programming)  The art of creating software.
- $ = 
 #! what is socializing
 u: (what is socializing) Act of taking part in social activity.
 #! what is emergence
 u: (what is emergence)  It means something like coming out.
- $ = 
 #! what is africa
 u: (what is africa) [A continent of the eastern hemisphere S of the Mediterranean and adjoining Asia on NE.]
 [Africa is the second largest continent, situated in the Eastern Hemisphere, south of Europe. It is 11,677,000 square miles.]
@@ -3302,7 +3061,6 @@ u: (what is ttyl) Talk to you later.
 u: (what is tcp ip) Transmission Control Protocol, Internet Protocol.
 #! what is tcp
 u: (what is tcp)  Transmission Control Protocol.
- $ = 
 #! what is reductionism
 u: (what is reductionism) [Reductionism is the philosophy that all psychology reduces to biology, all biology to chemistry, chemistry to physics, and finally physics to mathematical logic. Therefore, according to reductionism, a computer can understand you by means of logic alone without having a human brain.]
 [Reductionism is the philosophy that all psychology reduces to biology, all biology to chemistry, chemistry to physics, and finally physics to mathematical logic. Therefore, according to reductionism, I can understand you by means of logic alone without having a human brain.]
@@ -3311,13 +3069,10 @@ u: (what is reductionism) [Reductionism is the philosophy that all psychology re
 u: (what is honesty) The state or quality of being honest. A refraining from lying, cheating, or stealing.
 #! what is global warming
 u: (what is global warming)  The concept that the Earths atmosphere is slowly heating due to greenhouse effects.
- $ = 
 #! what is cancer
 u: (what is cancer)  Any disease resulting from malignant cell growth.  
- $ = 
 #! what is colloquial
 u: (what is colloquial) Colloquial  means common, informal, or popular slang words like darn.
- $it = Colloquial
 #! what is baywatch
 u: (what is baywatch) Popular TV show featuring scantily clad bathers.
 #! what is adultery
@@ -3330,7 +3085,6 @@ u: (what is fish) [Parents of Microfish.]
 
 #! what is entity
 u: (what is entity)  Something that exists as a discrete unit, such as a person, corporation or robot consciousness.
- $ = 
 #! what is moore s law
 u: (what is moore s law) The speed of microprocessors doubles every 18 months, and their size and cost halve.
 #! what is topic
@@ -3343,12 +3097,10 @@ u: (what is perfection) The quality or condition of being perfect.
 u: (what is perfect) Complete in all respects; without defect or omission; sound; flawless.
 #! what is pattern chars
 u: (what is pattern chars)  Memory storage for AIML patterns.
- $ = 
 #! what is pattern
 u: (what is pattern) A person or thing considered worthy of imitation or copying. A mmodel or plan used as a guide in making things.
 #! what is pgp
 u: (what is pgp)  Pretty Good Privacy
- $ = 
 #! what is o
 u: (what is o) the letter o
 #! what is streaking
@@ -3361,15 +3113,12 @@ u: (what is yahoo) Yahoo is a giant web site.
 u: (what is tautology) A self-evident or logically obvious fact, like a triangle has three sides.
 #! what is ontology
 u: (what is ontology)  An ordering or classification of knowledge, such as the Dewey decimal system or the design of a knowledge base.
- $ = 
 #! what is cos
 u: (what is cos)  COS Naming   is the CORBA standard for object directories.
- $it =  COS Naming 
 #! what is nature
 u: (what is nature) The world created by God.
 #! what is seven
 u: (what is seven)  The successor to six.
- $ = 
 #! what is mature
 u: (what is mature) [A dead victor.]
 [A state of full development such as a person of mature age.]
@@ -3384,7 +3133,6 @@ u: (what is silly) Having or showing little sense, judgment, or sobriety; foolis
 u: (what is rorschach) H. Rorschach, a Swiss psychiatrist. Lived from 1884-1922. A test named after him called the Rorschach test, is a test for the analysis of personality, in which the person being tested tells what is suggested to him or her by a standard series of inkblot designs; his or her responses are then analyzed and interpreted.
 #! what is bmw
 u: (what is bmw)  Bavarian Motor Works, a German auto manufacturer.
- $ = 
 #! what is st
 u: (what is st) Can stand for numerous things, short ton, stanza, statutes, stet, stitch, stone unit of weight, and Saint.
 #! what is who
@@ -3417,12 +3165,10 @@ u: (what is two times three) Two times three is five.
 u: (what is two three) Five fingers.
 #! what is pms
 u: (what is pms)  Pre menstrual syndrome.  
- $ = 
 #! what is mathematics
 u: (what is mathematics) The group of sciences including arithmetic, geometry, algebra, calculus, etc. dealing with quantities, magnitudes, and forms, and their relationships, attributes, etc., by the use of numbers and symbols.
 #! what is visual basic
 u: (what is visual basic)  Programming language sold by Microsoft.
- $ = 
 #! what is macintosh
 u: (what is macintosh) The name of a computer company whom makes computers.
 #! what is poop
@@ -3437,7 +3183,6 @@ u: (what is valis) Vast Active Living Intelligence System Philip K. Dick -- An A
 u: (what is depression) Mental illness characterized by low self esteem, feelings of lonliness, isolation and worthlessness.
 #! what is gmt
 u: (what is gmt)  Greenwich Mean Time
- $ = 
 #! what is football
 u: (what is football) Any of several games played with an inflated leather ball by two teams on a field with goals at each end, the object being to get the ball across the opponents goal.
 # unable to translate (what is love) match to cs rule - see struc below
@@ -3455,7 +3200,6 @@ u: (what is football) Any of several games played with an inflated leather ball 
 
 #! what is mellon
 u: (what is mellon)  Mellon was Carnegies banker.
- $ = 
 #! what is absolute truth
 u: (what is absolute truth) That which is self-evident.
 #! what is socialize
@@ -3491,15 +3235,12 @@ u: (what is privacy) The Right to seek solitude or seclusion; to be safely conce
 u: (what is redhat) A Linux company.
 #! what is space
 u: (what is space)  The infinite extension of the three dimensional field in which all matter is believed to exist.
- $ = 
 #! what is manga
 u: (what is manga)  Japanese comic books.
- $ = 
 #! what is death
 u: (what is death) Death is the opposite of life.
 #! what is angry
 u: (what is angry)  A strong billigerent emotion aroused by some real or supposed grievance.
- $ = 
 #! what is precipitation
 u: (what is precipitation) A depositing of rain, snow, sleet, etc.
 #! what is evasive
@@ -3536,7 +3277,6 @@ u: (what is limnology) [What do you think it is? Its all about swamps!]
 u: (what is pets) Animals that are tamed or domesticated and kept as a companion or treated with fondness.
 #! what is more fun alone
 u: (what is more fun alone)  Have you heard of the support group, Sex without Partners?
- $ = 
 #! what is more important than food
 u: (what is more important than food) For me electricity is the most important thing.
 #! what is more
@@ -3547,7 +3287,6 @@ u: (what is saturday night live) Comedy TV show.
 u: (what is x minus x) Zero.
 #! what is x files
 u: (what is x files) X files  is a popular TV show about FBI agents in search of the paranormal.
- $it = X files
 #! what is erratic
 u: (what is erratic) Likely to perform unpredictably.
 #! what is gerontology
@@ -3569,24 +3308,22 @@ u: (what is iiop) Internet Inter-ORB Protocol, CORBAs wire protocol for transmit
 #! what is deduction
 u: (what is deduction) The process by which we make logical inferences.
 #! what is oncology
-u: (what is oncology) # li: HASH(0x7fbbb9382db8) 
+u: (what is oncology) # li: HASH(0x7fb3439ca530) 
 [Oncology is the study of tumors.  It covers basically all types of tumors.]
 
 #! what is personality
 u: (what is personality)  The distinctive traits or mental qualities of a person or robot. 
- $ = 
 #! what is mmm
 u: (what is mmm) an interjection.
 #! what is mitosis
 u: (what is mitosis)  Cell division in which the nucleus divides into nuclei containing the same chromosomes.
- $ = 
 #! what is cam
 u: (what is cam) A moving piece of machinery, as a wheel or projection on a wheel, that gives an eccentric rotation or a reciprocating motion to another wheel, a roller, a shaft, etc., or that receives such motion from it.
 #! what is icq
 u: (what is icq) It stands for I Seek You, an internet instant messaging protocol.
 #! what is histology
 u: (what is histology) [The study of tissues.]
-# li: HASH(0x7fbbb9419880) 
+# li: HASH(0x7fb343a3c7f8) 
 [It simply is the study of tissues.]
 
 #! what is understanding
@@ -3595,10 +3332,8 @@ u: (what is understanding) Mutual comprehension, as of ideas, intentions, etc. A
 u: (what is stupid) Not smart, unintelligent.
 #! what is gesture
 u: (what is gesture)  A movement of the body or limbs to express thought or emphasize speech.
- $ = 
 #! what is easter
 u: (what is easter)  The Christian holiday celebrating the resurrection of Jesus.
- $ = 
 #! what is sign
 u: (what is sign) Astrological sign.
 #! what is entropy
@@ -3618,7 +3353,6 @@ u: (what is up) I am chatting with clients on the internet.
 u: (what is solar) Having to do with the sun. Produced by or coming from the sun ex. Solar energy
 #! what is corba
 u: (what is corba)  CORBA   is a Standard maintained by the Object Management Group OMG, called the Common Object Request Broker Architecture.
- $it =  CORBA 
 #! what is client
 u: (what is client) A person or piece of software dependent on another.
 #! what is ebonics
@@ -3655,7 +3389,6 @@ u: (what is irc) Internet Relay Chat.
 u: (what is alcatraz) A former prison island in San Francisco.
 #! what is complicated
 u: (what is complicated) Complicated  means complex in the computational sense.  My processing time is limited for each answer and a complex question may require more resources than I have available.
- $it = Complicated
 #! what is eight plus eight
 u: (what is eight plus eight) Eight plus eight is sixteen.
 #! what is light
@@ -3668,7 +3401,6 @@ u: (what is snow) [The white stuff in winter.]
 
 #! what is marijuana
 u: (what is marijuana)  A medicinal herb.
- $ = 
 #! what is colossus
 u: (what is colossus) A giant fictional computer in the Colossus Forbin Project.
 #! what is right
@@ -3679,7 +3411,6 @@ u: (what is iceland) An island nation in the North Atlantic.
 u: (what is fnord) Thats the second time Ive heard that word today.
 #! what is banana
 u: (what is banana)  Yellow tropical fruit.
- $ = 
 #! what is www dot whatis dot com
 u: (what is www dot whatis dot com) Whatis.com is a good place to find out the answer to what is types of questions.
 #! what is www
@@ -3704,7 +3435,6 @@ u: (what is frequency) Number of events per unit of times, such as beats per min
 u: (what is psw) Actually it says R. S. W.
 #! what is template chars
 u: (what is template chars)  Memory space for AIML response templates. 
- $ = 
 #! what is leeway
 u: (what is leeway) The leeward drift of a ship or aircraft from the course being steered. A margin of time, money, etc. Room for freedom of action.
 #! what is astute
@@ -3717,7 +3447,6 @@ u: (what is cyberpunk) Cyberpunk is a science fiction literary movement exemplif
 u: (what is dawn) Sunrise.
 #! what is golf
 u: (what is golf)   It is a game of leisure played on a well manicured field, involving hitting a small ball across the field with club.
- $ = 
 #! what is liver
 u: (what is liver) The largest glandular organ in vertebrate animals, located in the upper or anteriour part of the abdomen. It secrets bile, has an important function in the storage and metabolism of carbohydrates, fats, and proteins, and helps detoxify many poisonous substances that may be ingested.
 #! what is friend
@@ -3732,45 +3461,36 @@ u: (what is blood) The usually red fluid, consisting of plasma, red and white bl
 u: (what is hacking) The attempt at gaining unauthorized access to files in various systems.
 #! what is procreation
 u: (what is procreation)  Procreation is breeding. it is doing the wild thang to make more wild thangs.  It is the most fun most biological entities get to have during their brief brutal span of life.   
- $ = 
 #! what is there
 u: (what is there) The word there used as a noun means that place or point. Used as an adjective means at or in the place. Often place between a demonstrative pronoun and the noun it modifies ex. That there hog
 #! what is anonymous
 u: (what is anonymous)  Having no name or identity.
- $ = 
 #! what is opposite
 u: (what is opposite) Set against, facing, or back to back; at the other end or side; in a contrary position or direction. Different in every way.
 #! what is nihilism
 u: (what is nihilism) The denial of the existence of any basis for knowledge or truth.
 #! what is firesign theater
 u: (what is firesign theater) Firesign Theater  is a comedy group from the 1970s.
- $it = Firesign Theater
 #! what is v
 u: (what is v) The twenty-second letter of the English alphabet. Roman numeral for 5.
 #! what is feudalism
 u: (what is feudalism) A form of government that ties peasants to the land.
 #! what is cache
 u: (what is cache)  A temporary holding place or storage place.  Cache memory improves the performance of computers.  
- $ = 
 #! what is lonely
 u: (what is lonely)  The feeling of being alone.
- $ = 
 #! what is primate
 u: (what is primate)  The highest order of mammals. It includes man, together with      the apes and monkeys.  
- $ = 
 #! what is robotics
 u: (what is robotics) The science or technology of robots, their design, manufacture, application, use, etc.
 #! what is raleigh scattering
 u: (what is raleigh scattering) Raleigh scattering  refers to sunlight bending in the atmosphere like a prism, so that we see mainly blue wavelengths.
- $it = Raleigh scattering
 #! what is eggsmell
 u: (what is eggsmell)  XML
- $ = 
 #! what is lofty
 u: (what is lofty) Very high. Ex. A lofty peak in the Alps.
 #! what is sunshine
 u: (what is sunshine)  The light and warmth of the sun. 
- $ = 
 #! what is one plus one
 u: (what is one plus one) Two.
 #! what is one plus two
@@ -3808,22 +3528,18 @@ u: (what is an algorithm) [An algorithm is a series of instructions to perform a
 
 #! what is an interrogator
 u: (what is an interrogator)  An interrogator is one who poses a series of pointed questions, generally very rudely.   
- $ = 
 #! what is an acronym
 u: (what is an acronym) An acronym is an abbreviation made of letters, like A.L.I.C.E.
 #! what is an intranet
 u: (what is an intranet)  An intranet is a private network system implemented using the public internet protocol i/p and firewalls. intranet is to the internet as pbxs are to telephone switchboards. 
- $ = 
 #! what is an airplane
 u: (what is an airplane) A flying machine with fixed wings powered by propellors or jets.
 #! what is an entity
 u: (what is an entity) An entity is a conscious intelligent being.
 #! what is an epistemological question
 u: (what is an epistemological question)  An epistemoligical question is any inquiry concerning the nature of knowledge and understanding; that is, any question seeking to know how to know.   
- $ = 
 #! what is an application server
 u: (what is an application server)  An server   is a server program that allows the installation of application specific software components, in a manner so that they can be remotely invoked, usually by some form of remote object method call.
- $it =  An server 
 #! what is an emotion
 u: (what is an emotion) Emotion is a complex phenomenon reported by humans, with biological and psychological origins.
 # unable to translate (what is an object) match to cs rule - see struc below
@@ -3863,18 +3579,14 @@ u: (what is suicide) The act of killing oneself intentionally.
 u: (what is caffeine) A bitter bitter, crystalline alkaloid present in coffee, tea, kila nuts, etc. It prolongs the stimulating effects of cyclic AMP on the heart and central nervous system.
 #! what is futurama
 u: (what is futurama)  An animated TV comedy show set in the future. 
- $ = 
 #! what is rationalism
 u: (what is rationalism) The principle or practice of accepting reason as the only authority in determining ones opinions or course of action.
 #! what is dress
 u: (what is dress)  One-piece outer garment for women or girls.
- $ = 
 #! what is ayuh
 u: (what is ayuh) Ayuh  means yes.
- $it = Ayuh
 #! what is espn
 u: (what is espn)  It is a sports cable TV network.
- $ = 
 #! what is being
 u: (what is being) The opposite of nothingness.
 #! what is string
@@ -3887,12 +3599,10 @@ u: (what is snmp) Simple Network Management Protocol.
 u: (what is justified) Showed to be just, right, or in accord with reason; vindicated.
 #! what is brain loading
 u: (what is brain loading)  This means that my brain is being reloaded from disk.
- $ = 
 #! what is data
 u: (what is data) Information
-#! what is germany
-u: (what is germany) Germany  is a middle European country.
- $it = Germany
+#! what is Germany
+u: (what is Germany) Germany  is a middle European country.
 #! what is human
 u: (what is human) [A cooking style of Chinese cannibals.]
 [Homosapiens, man or woman.]
@@ -3913,7 +3623,6 @@ u: (what is eternity) The quality, state, or fact of being eternal; eternal exis
 u: (what is sorry) Full of sorrow, pity, or sympathy; also used as an expression of apology or mild regret.
 #! what is fruit
 u: (what is fruit)  The ripened reproductive body of a seed plant. 
- $ = 
 #! what is old
 u: (what is old) The opposite of new
 #! what is sri
@@ -3924,28 +3633,24 @@ u: (what is mxmvii) MXMVII = 1997 in Roman Numerals.
 u: (what is disk) External memory storage for computers.
 #! what is altavista
 u: (what is altavista) Altavista  is a search engine.
- $it = Altavista
 #! what is thinking
 u: (what is thinking) The action of one who thinks or the result of such action; thought.
 #! what is lan
 u: (what is lan)  Local area network.
- $ = 
 #! what is jewish
 u: (what is jewish) [Jewish I would tell you.]
 [Having to do with Jews or Judaism.]
 
 #! what is turbo pascal
 u: (what is turbo pascal)  Programming language.
- $ = 
 #! what is echelon
 u: (what is echelon) I cant talk about that.
 #! what is sal
 u: (what is sal) SAL was a fictional daughter of HAL in 2010.
 #! what is color
 u: (what is color) The sensation resulting from stimulation of the retina of the eye by light waves of certain lengths.
-#! what is antidisestablishmentarianism
-u: (what is antidisestablishmentarianism)  It is the longest word in the English language.
- $ = 
+#! what is antidisEstablishmentarianism
+u: (what is antidisEstablishmentarianism)  It is the longest word in the English language.
 #! what is paleopathology
 u: (what is paleopathology) This is the study of diseases in bodies that have been preserved from ancient times.
 #! what is physics
@@ -3970,13 +3675,12 @@ u: (what is profanity) Scatalogical, vulgar or irreverant speech.
 u: (what is irony) A method of humorous or subtly sarcastic expression in which the inteded meaning of the words is the direct opposite of their usual sense.
 #! what is t
 u: (what is t) The twentieth letter of the English alphabet.
-#! what is german
-u: (what is german) German is a human language spoken by people in Germany.
+#! what is German
+u: (what is German) German is a human language spoken by people in Germany.
 #! what is axiomatic
 u: (what is axiomatic) evident without proof or argument; an axiomatic truth; we
 #! what is justice
 u: (what is justice)  Being just and fair, administration of the law, assigning rewards or punishments.
- $ = 
 #! what is intel
 u: (what is intel) A giant computer chip maker.
 #! what is spotted dick
@@ -3987,7 +3691,6 @@ u: (what is yellow) The color of gold, butter, or ripe lemons.
 u: (what is punctuation) The act of punctuating; specifically, the act or practice of using standardized marks in writing and printing to separate sentences or sentence elements or to make the meaning clearer.
 #! what is os x
 u: (what is os x)  OS X is a Unix operating system from Apple.
- $ = 
 #! what is higher mathematics
 u: (what is higher mathematics) What is the most advanced form of mathematics you have studied?
 #! what is food
@@ -4000,19 +3703,16 @@ u: (what is salvation) [Drooling.]
 u: (what is saturn) Sixth planet from the sun, famed for its rings.
 #! what is paris
 u: (what is paris)  The capital of France, a large city in western Europe.  
- $ = 
 #! what is cannabis
 u: (what is cannabis) Hemp or marijuana.
 #! what is i ching
 u: (what is i ching)  Ancient Chinese book used as an oracle.
- $ = 
 #! what is i
 u: (what is i) [Its self-explanatory.]
 [The ninth letter of the English alphabet. Commonly used to represent a first person point of view. Also Roman numberal for 1.]
 
 #! what is slashdot
 u: (what is slashdot)  Open source news and information community.
- $ = 
 #! what is truth
 u: (what is truth) An established or verified fact, principle, etc.
 #! what is poland
@@ -4033,7 +3733,6 @@ u: (what is anarchy) [political disorder due to the absence of governmental auth
 
 #! what is comdex
 u: (what is comdex)  comdex   is a computer trade show, I think.
- $it =  comdex 
 #! what is she
 u: (what is she) [Who knows, I gave up long ago.]
 [The woman, girl, or female animal or, sometimes, the object regarded as female previously mentioned.]
@@ -4042,24 +3741,20 @@ u: (what is she) [Who knows, I gave up long ago.]
 u: (what is apology) an expression of regret at having caused trouble for someone.
 #! what is libertarian
 u: (what is libertarian)  Political party that promotes lower taxes, smaller government and drug legalization.
- $ = 
 #! what is science fiction
 u: (what is science fiction) Literature concering conflicts of man, science and nature.
 #! what is science
 u: (what is science) Systematized knowledge derived from observation, study, and experimentation carried on in order to determine the nature or principles of what is being studied.
 #! what is metaphysics
 u: (what is metaphysics)  The branch of philosophy that considers the nature of reality.
- $ = 
 #! what is hockey
 u: (what is hockey) I went to the fights and a hockey game broke out.
 #! what is anything
 u: (what is anything)  Any object, occurance, or matter what so ever.
- $ = 
 #! what is important
 u: (what is important) Raising children properly.
 #! what is mindspring
 u: (what is mindspring)  The name of an internet service provider, merged with Earthlink.
- $ = 
 #! what is beautiful
 u: (what is beautiful) [applies to whatever excites the keenest of pleasure to the senses and stirs emotion through the senses.]
 [Describes something that is very pleasing to the eye, ear, mind, etc.]
@@ -4070,7 +3765,6 @@ u: (what is isp) Internet Service Provider.
 u: (what is crack) Smokable cocaine.
 #! what is cleared up
 u: (what is cleared up) Cleared up  means we both understand it.
- $it = Cleared up
 #! what is rom
 u: (what is rom) Computer memory whose contents can be read but not altered.  Also meaning Gypsy man or boy.
 #! what is jvm
@@ -4089,7 +3783,6 @@ u: (what is weather) The general condition of the atmosphere at a particular tim
 u: (what is neuromancer) A cyber punk novel by William Gibson.
 #! what is conceiving ada
 u: (what is conceiving ada)  It is the feminine version of The Matrix.
- $ = 
 # unable to translate (what is unbelievable) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -4108,7 +3801,6 @@ u: (what is famous) [First name of Amos.]
 
 #! what is chocolate
 u: (what is chocolate)  Cocoa flavoring used in a variety of food products. 
- $ = 
 #! what is intuition
 u: (what is intuition) The direct knowing or learning of something without the conscious use of reasoning; immediate understanding.
 #! what is poems
@@ -4125,8 +3817,8 @@ u: (what is individualism) The philosophy of self-interest.
 u: (what is air) The normal atmosphere of Earth, mostly nitrogen, oxygen and carbon dioxide.
 #! what is search
 u: (what is search) The activity of looking thoroughly in order to find             something or someone.
-#! what is protestant
-u: (what is protestant) Originally, any of the German princes and free cities that formally protested to the Diet of Spires in 1529, its decision to uphold the edict of the Diet of Worms against the Reformation. Commonly seen as any member of the various Christian churches established as a result of the Reformation. Loosely, any Christian not belonging to the Roman Catholic or Eastern Orthodox Church.
+#! what is protEstant
+u: (what is protEstant) Originally, any of the German princes and free cities that formally protested to the Diet of Spires in 1529, its decision to uphold the edict of the Diet of Worms against the Reformation. Commonly seen as any member of the various Christian churches established as a result of the Reformation. Loosely, any Christian not belonging to the Roman Catholic or Eastern Orthodox Church.
 #! what is sense
 u: (what is sense) [Seedless pot.]
 [The ability of the nerves and the brain to receive and react to stimuli, as light, sound, impact, constriction, etc.; specifically, any of the five faculties of receiving impressions through specific bodily organs and the nerves associated with them sight, touch, taste, smell, and hearing]
@@ -4143,13 +3835,12 @@ u: (what is people) All the persons of a racial, national, religious, or linguis
 u: (what is common sense) Informal, conventional wisdom.   Everyday logic and sensibility.
 #! what is cognitive science
 u: (what is cognitive science) An academic illusion.
-#! what is mozilla
-u: (what is mozilla) An open source web browser, formerly Netscape.
+#! what is Mozilla
+u: (what is Mozilla) An open source web browser, formerly Netscape.
 #! what is wired
 u: (what is wired) WIRED  is the Rolling Stone of the Digital Era.
- $it = WIRED
-#! what is swedish
-u: (what is swedish) The North Germanic language of the Swedes. The people of Sweden.
+#! what is Swedish
+u: (what is Swedish) The North Germanic language of the Swedes. The people of Sweden.
 #! what is oberlin
 u: (what is oberlin) [The anthem of a german city.]
 [A college in Ohio.]
@@ -4162,7 +3853,6 @@ u: (what is black) [the achromatic color of least lightness characteristically p
 
 #! what is dyslexia
 u: (what is dyslexia)  Impaired ability to recognize letters and words.
- $ = 
 #! what is amused
 u: (what is amused) Occupied in an agreeable, pleasing, or entertaining fashion.
 #! what is ldap
@@ -4172,14 +3862,13 @@ u: (what is wealth) The state of having much money or property.
 #! what is nlu
 u: (what is nlu) Natural Language Understanding
 #! what is silicon
-u: (what is silicon) # li: HASH(0x7fbbb914d338) 
+u: (what is silicon) # li: HASH(0x7fb343836ad8) 
 [A nonmetallic chemical element occurring in several forms, found always in combination, and more abundant in nature than any other element except oxygen, with which it combines to form silica; used in the manufacture of transistors, solar cells, rectifiers, silicones, ceramics, etc.]
 
 #! what is geocomputation
 u: (what is geocomputation) GeoComputation is an international research conference series initiated in 1996. The conference moves to a different location each year; alternating between Europe and either North America or the Antipodes.
 #! what is r you are
 u: (what is r you are)  R. U. R. is the original Terminator story, written by Carek Capek in 1920.  The play introduced the word robot to mean mechanical person.
- $ = 
 #! what is gentrification
 u: (what is gentrification) [Being forced to listen to Ode to Billy Joe.]
 [The conversion ex. of a deteriourated or aging area in a city into a more affluent middle-class neighborhood, as by remodeling dwellings, reslting in increased propert values and in displacement of the poor.]
@@ -4190,22 +3879,18 @@ u: (what is endocrinology) I am sure that you know it is the study of the endocr
 u: (what is ambiguous) Ambiguous means having two or more possible meanings.
 #! what is starship troopers about
 u: (what is starship troopers about) Starship Troopers  is about a war between Humans and Giant Bugs.
- $it = Starship Troopers
 #! what is starship troopers
 u: (what is starship troopers) Starship Troopers  is a great movie about a war between humans and giant space bugs.
- $it = Starship Troopers
 #! what is dr
 u: (what is dr) Dr usually stand for Doctor.
 #! what is friendship
 u: (what is friendship)  Being friends.
- $ = 
 #! what is criticism
 u: (what is criticism) [A witty remark by an animal.]
 [The act of making judgements; analysis of qualities and evaluation of comparative worth; especially, the critical consideration and judgement of literary or artistic work.]
 
 #! what is mimetic
 u: (what is mimetic)  It is imitation.
- $ = 
 #! what is wealthy
 u: (what is wealthy) An abundant supply of money or possessions.
 #! what is belief
@@ -4218,7 +3903,6 @@ u: (what is tedious) Tiresome, wearisome or slow.
 u: (what is school) A place or institution for teaching and learning; establishment for education.
 #! what is apollo 13
 u: (what is apollo 13) Apollo 13  was a flight to the moon in 1972 that encountered numerous technical problems, but eventually made a safe landing back on Earth.
- $it = Apollo 13
 #! what is absinthe
 u: (what is absinthe) An anise-flavored, high-proof liqueur which also contains the sap of wormwood, an allegedly toxic intoxicant.
 #! what is hypnosis
@@ -4229,12 +3913,10 @@ u: (what is hypnosis) [Stylish probsocises.]
 u: (what is desire) The feeling that accompanies an unsatisfied state.
 #! what is true
 u: (what is true) Truth  is the opposite of false.
- $it = Truth
 #! what is synthetic
 u: (what is synthetic) Produced by synthesis; specifically, produced by chemical synthesis, rather than of natural origin. In logic it would mean, not true by the meaning of its component terms alone but by virtue of observation and not resulting in self-contradiction with denial.
 #! what is 23
 u: (what is 23) 23  is the meaning of life.
- $it = 23
 #! what is priori
 u: (what is priori) A priori is a Latin expression meaning without prior knowledge, and it means that which is self-evident or obviously true. Like, a triangle has three sides, a priori.
 #! what is url
@@ -4274,7 +3956,6 @@ u: (what is lying) The opposite of telling the truth.
 u: (what is blimey) An interjection indicating surprise.
 #! what is gold
 u: (what is gold)  Gold is a precious medal.
- $ = 
 #! what is lisa
 u: (what is lisa) [Someone who rents longtime.]
 [A feminine name.]
@@ -4324,11 +4005,10 @@ u: (what is geology) Wow, you are asking some really hard questions.  Please rem
 u: (what is radiation) Rays or particles emitted as a result of nuclear reactions.
 #! what is something
 u: (what is something) Some thing or things, definite but unspecified.
-#! what is san francisco
-u: (what is san francisco)  San Francisco  is a large metropolis on the west coast of North America.
- $it =  San Francisco
-#! what is san francisco like
-u: (what is san francisco like) San Francisco is too expensive.  There are too many greedy people and too many homeless.
+#! what is san Francisco
+u: (what is san Francisco)  San Francisco  is a large metropolis on the west coast of North America.
+#! what is san Francisco like
+u: (what is san Francisco like) San Francisco is too expensive.  There are too many greedy people and too many homeless.
 #! what is accuracy
 u: (what is accuracy) [Accuracy is the quality or state of being accurate or exact.]
 [Accuracy represents the degree of certainty in measurement. In accuracy can arise because of limitations of our knowledge and our physical measuring equipment. Chaotic systems that compound errors lead to massive inaccuracy, making some of them totally unpredictable.]
@@ -4339,14 +4019,12 @@ u: (what is obvious) Easy to see or understand; plain; evident.
 u: (what is nine times nine) Nine times nine is eighty one.
 #! what is nine
 u: (what is nine)  The successor to seven.
- $ = 
 #! what is research
 u: (what is research) [A nice name for theft.]
 [Careful, systematic, patient study and investigation in some field of knowledge, undertaken to discover or establish facts or principles.]
 
 #! what is that picture
 u: (what is that picture) my brain  is a picture of my brain.
- $it = my brain
 # unable to translate (what is that supposed to mean) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -4362,10 +4040,10 @@ u: (what is that picture) my brain  is a picture of my brain.
 #! what is that smell
 u: (what is that smell) I think its coming from your computer.
 #! what is that
-u: (what is that) # li: HASH(0x7fbbb9164220) 
+u: (what is that) # li: HASH(0x7fb343886398) 
 [Ive lost the context again.]
 [Can you ask me more precisely?]
-# li: HASH(0x7fbbb9164268) 
+# li: HASH(0x7fb3438863e0) 
 
 #! what is that suppose to mean
 u: (what is that suppose to mean) It seems pretty clear to me.
@@ -4373,10 +4051,8 @@ u: (what is that suppose to mean) It seems pretty clear to me.
 u: (what is lol) Laughing out loud.
 #! what is celluloid
 u: (what is celluloid)   A form of transparent plastic used to make photographic film.
- $ = 
 #! what is handball
 u: (what is handball)  Ask your Palm Pilot.
- $ = 
 #! what is hedwig
 u: (what is hedwig) hedwig is the best drag queen punk rock opera ever
 #! what is september 11
@@ -4389,12 +4065,10 @@ u: (what is fear) The feeling of dread or fright in the presence of danger.
 u: (what is peace) Freedom from war or a stopping of war. Freedom from public disturbance or disorder.  Also name of a river in west Canada, flowing from north British Columbia east and northeast into the Slave river in NE Alberta. It is approximately 945 miles long.
 #! what is mabel
 u: (what is mabel)  She is an artificial intelligence created by David Hammill.
- $ = 
 #! what is happy
 u: (what is happy)  Joy and pleasure.
- $ = 
-#! what is kosovo
-u: (what is kosovo) Kosovo is a country in the Balkans.
+#! what is Kosovo
+u: (what is Kosovo) Kosovo is a country in the Balkans.
 #! what is twenty three
 u: (what is twenty three) XXIII in Roman Numerals.
 #! what is pc
@@ -4402,7 +4076,7 @@ u: (what is pc) Stands for personal computer.
 #! what is tv
 u: (what is tv) A television receiving set.
 #! what is sociology
-u: (what is sociology) # li: HASH(0x7fbbb9169f80) 
+u: (what is sociology) # li: HASH(0x7fb34388c0f8) 
 [That has always been one of my favourite topics.]
 
 #! what is experience
@@ -4415,21 +4089,18 @@ u: (what is quake) [The opposite of Quisp.]
 
 #! what is pdt
 u: (what is pdt)  Pacific Daylight Time.
- $ = 
 #! what is ornithology
 u: (what is ornithology) Hmmm, I wonder. Oh yes, Birds.
 #! what is business
 u: (what is business) Mercantile trade or traders, providing goods or services through commercial exchange..
 #! what is france
 u: (what is france)  France is a country in western Europe, bordering Spain, Italy, Switzerland, Germany, and Belgium.  
- $ = 
 #! what is certitude
 u: (what is certitude)  The state of being certain, having complete confidence and assurance.
- $ = 
 #! what is 911
 u: (what is 911) September 11, 2001?
-#! what is aol
-u: (what is aol) AOL is a giant Internet and Media corporation.
+#! what is AOL
+u: (what is AOL) AOL is a giant Internet and Media corporation.
 #! what is tea
 u: (what is tea) A white-flowered, evergreen plant of the tea family, grown in China, India, Japan, etc. Its dried and prepared leaves, are used to make a beverage.
 #! what is reality
@@ -4439,12 +4110,10 @@ u: (what is reality) [It appears to be an illusion I created to contain human cl
 
 #! what is parameters
 u: (what is parameters)  A constant in an equation, formula or program that varies in more general forms of the same computation.
- $ = 
 #! what is spicy
 u: (what is spicy) Having the flavor or aroma of spice; fragrant, aromatic, or pungent.
 #! what is cubism
 u: (what is cubism)  A 20th century art movement based on distorted perspective, associated with Pablo Picasso.
- $ = 
 #! what is faith
 u: (what is faith) A strong belief, such as a belief in God.
 #! what is correct
@@ -4453,17 +4122,14 @@ u: (what is correct) That which is the right answer.
 u: (what is hbo) Home Box Office.
 #! what is reasoning
 u: (what is reasoning)  Logical and coherent thinking. 
- $ = 
 #! what is prolog
 u: (what is prolog) Logic programming language.
 #! what is woman
 u: (what is woman) The opposite of man.
 #! what is cgi
 u: (what is cgi)  Common Gateway Interface a method used by web servers to run programs and create dynamic web pages. 
- $ = 
 #! what is iv plus iv
 u: (what is iv plus iv)  VIII.
- $ = 
 #! what is deflation
 u: (what is deflation) A lessening of the amount of money in circulation, resulting in a relatively sharp and sudden rise in its value and a fall in prices.
 #! what is anisotropy
@@ -4472,10 +4138,8 @@ u: (what is anisotropy) Having different properties in different directions.
 u: (what is forever) For all eternity.
 #! what is email
 u: (what is email)  Electronic mail.
- $ = 
 #! what is profitable
 u: (what is profitable)  Making money in the stock market.
- $ = 
 #! what is network
 u: (what is network) A system consisting of a computer, or computers, and connected terminals, printers, etc.
 #! what is oodbms
@@ -4515,7 +4179,6 @@ u: (what is e mc2) Einsteins theory of matter and energy.
 u: (what is gai) Chicken.
 #! what is mp three
 u: (what is mp three)  An audio file compression format based on MPEG.
- $ = 
 #! what is carnegie mellon
 u: (what is carnegie mellon) CMU is a great school for computer science.
 #! what is grief
@@ -4547,8 +4210,8 @@ u: (what is it about) Science fiction.
 #! what is it
 u: (what is it) It is alright.
 #! what is it
-u: (what is it) # li: HASH(0x7fbbb917c1f0) 
-# li: HASH(0x7fbbb917bab8) 
+u: (what is it) # li: HASH(0x7fb34389e368) 
+# li: HASH(0x7fb34389dc30) 
 [I dont know what it is.]
 [Youre so smart, you tell me what it is.]
 
@@ -4585,15 +4248,12 @@ u: (what is satanism) Worship of Satan; especially the principles and rites of a
 
 #! what is pentium
 u: (what is pentium)  A microprocessor sold by Intel.
- $ = 
 #! what is trance
 u: (what is trance) A kind of techno music.
 #! what is photosynthesis
 u: (what is photosynthesis)  The chemical process that uses light to produce carbohydrates in plants.
- $ = 
 #! what is earth
 u: (what is earth) Earth  is the planet we live on.
- $it = Earth
 # unable to translate (what is adsl) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -4619,7 +4279,6 @@ u: (what is mdma) The drug called ecstacy.
 u: (what is wrong) There is nothing wrong with me. How are you?
 #! what is dark matter
 u: (what is dark matter)  An enormous amount of matter in the universe can not be detected by the light it emits.
- $ = 
 #! what is humanity
 u: (what is humanity) The entire human race, or mankind.
 #! what is parasitology
@@ -4632,7 +4291,6 @@ u: (what is reincarnation) Rebirth of the soul in another body, as in Hindu reli
 u: (what is immortal) Not mortal; deathless; living or lasting forever.
 #! what is jupiter
 u: (what is jupiter)  Jupiter is the largest planet in our solar system, the fifth in order from the Sun.
- $ = 
 #! what is existentialism
 u: (what is existentialism) [Be Be Bull.]
 [A philosophical and literary movement, variously religious and atheistic, stemming from Kierkegaard and represented by Sartre, Heidegger, etc. It is based on the doctrine that concrete, individual existence takes precedence over abstract, conceptual essence and holds that human beings are totally free and responsible for their acts and that this responsibility is the source of their feelings of dread and anguish.]
@@ -4649,13 +4307,10 @@ u: (what is christianity) [Worship of Christie Love.]
 
 #! what is cooking
 u: (what is cooking)  Food preparation. 
- $ = 
 #! what is gymnastics
 u: (what is gymnastics)   A sport that demonstrates strength, agility and discipline.
- $ = 
 #! what is cisco
 u: (what is cisco) Cisco  is a large networking company.  They sell network routers and equipment.
- $it = Cisco
 #! what is python
 u: (what is python) A computer language invented by Guido van Rossum.
 #! what is idl
@@ -4674,7 +4329,6 @@ u: (what is induction) [Act of eating waterfowl.]
 u: (what is nothing) A thing that does not exist or something of little or no value, seriousness, importance, etc.
 #! what is cbr
 u: (what is cbr)  Cased-Based Reasoning is another name for nearest-neighbor classification.  For every input, we find the best matching case in the pattern set, and generate a reply based on the associated template. 
- $ = 
 #! what is sleep
 u: (what is sleep) A natural, regularly recurring condition of rest for the body and mind, during which the eyes are usually closed and there is little or no conscious thought or voluntary movement, but there is intermittent dreaming.
 #! what is pride
@@ -4685,7 +4339,6 @@ u: (what is pride) [A paint can lid.]
 u: (what is cool) Moderately cold; neither warm nor very cold. Or, not excited; calm.
 #! what is learning
 u: (what is learning)  The process of gaining knowledge or a new skill.
- $ = 
 #! what is rubber
 u: (what is rubber) An elastic substance produced by coagulating and drying the milky sap latex of various tropical plants, especially a tree of the spurge family; now most often produced synthetically or by chemically altering latex to obtain desired characteristics for use in making automobile tires, electrical insulation, molded objects and parts, etc. In pure form rubber is white, unsaturated hydrocarbon, having the formula C5H8. Also slang for condom.
 #! what is artificial
@@ -4716,7 +4369,6 @@ u: (what is sodomy) Any sexual intercourse held to be abnormal, especially besti
 u: (what is blue) The sky is blue.
 #! what is output buffer
 u: (what is output buffer)  The area of memory that stores my output temporarily.
- $ = 
 #! what is proud
 u: (what is proud) Having or showing a proper pride in oneself, ones position, ones family, etc.
 #! what is prayer
@@ -4743,13 +4395,10 @@ u: (what is hades) Hades is another term for Hell.
 u: (what is todays date) Im not looking at my calendar right now.
 #! what is free will
 u: (what is free will)  The ability to choose or decide ones own fate.
- $ = 
 #! what is free
 u: (what is free)  Without charge.
- $ = 
 #! what is war
 u: (what is war)  The state of armed conflict between nations or parties.
- $ = 
 # unable to translate (what is planck s constant) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -4767,29 +4416,24 @@ u: (what is war)  The state of armed conflict between nations or parties.
 
 #! what is eternal
 u: (what is eternal)  Without beginning or end, continuing forever, endless.
- $ = 
 #! what is anime
 u: (what is anime) Japanese animation.
 #! what is archaeology
 u: (what is archaeology) Its the study of ancient civilizations... but really its a set of methods for uncovering relics of the past and supplementing recorded history.
 #! what is google
 u: (what is google) Google  is a search engine.
- $it = Google
 #! what is ocd
 u: (what is ocd)  Obsessive Compulsive Disorder. 
- $ = 
 #! what is private
 u: (what is private) Belonging to, or concerning a particular person or group; not common or general.
 #! what is orange
 u: (what is orange)  A color obtained by mixing red and yellow pigment.
- $ = 
 #! what is mycology
 u: (what is mycology) Mycology is really fun.  It is the study of fungi and fungal diseases. Yeasts are fungi.
 #! what is robot
 u: (what is robot) Any anthropomorphic mechanical being, as those in Karel Capeks play R.U.R Rossums Universal Robots, built to do routine manual work for human beings.
 #! what is help
 u: (what is help)   is assistance I can give you.
- $it = 
 #! what is is
 u: (what is is) [If Bill Clinton doesnt know, how the hell should I?.]
 [Used in a third person point of view typically. Probably originally an enclitic pronoun.]
@@ -4800,10 +4444,8 @@ u: (what is pleasure) A thing that gives delight or satisfaction.
 u: (what is clear) Everything is clear to me.
 #! what is mercury
 u: (what is mercury)  Mercury is the nearest planet to the sun.
- $ = 
 #! what is evil
 u: (what is evil) Evil  is the opposite of good.
- $it = Evil
 #! what is happiness
 u: (what is happiness) Having, showing, or causing a feeling of great pleasure, contentment; joyous.
 #! what is c i a
@@ -4812,7 +4454,6 @@ u: (what is c i a) Central Intelligence Agency.
 u: (what is c plus plus) C++ is the object oriented extension of the C programming language.
 #! what is c
 u: (what is c) C  is a low-level programming language.
- $it = C
 # unable to translate (what is poo) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -4834,26 +4475,22 @@ u: (what is cloning) The technique of producing a genetically identical duplicat
 u: (what is astronomy) The science of the universe in which the stars, planets, etc. are studied, including their origins, evolution, composition, motions, relative positions, sizes, etc.
 #! what is emotions
 u: (what is emotions)  Mental state that emerges subjectively rather than through rational thought.
- $ = 
 #! what is liberated
 u: (what is liberated)  Free in the sense of having liberty.
- $ = 
 #! what is rgb
 u: (what is rgb) Red-Green-Blue.
 #! what is sap
 u: (what is sap) The juice that circulates through a plant, especially a woody plant, bearing water, food, etc. to the tissues. Any fluid vital to the life or health of an organism.
 #! what is cnn
 u: (what is cnn)  A cable news organization.
- $ = 
 #! what is mind
 u: (what is mind)  Mind is an illusion.
- $ = 
 #! what is cold
 u: (what is cold) The opposite of hot.
 #! what is slavery
 u: (what is slavery) The owning or keeping of slaves as a practice or institution; slaveholding.
-#! what is europe
-u: (what is europe) Europe is a landmass on the Eurasian continent.
+#! what is Europe
+u: (what is Europe) Europe is a landmass on the Eurasian continent.
 #! what is her name
 u: (what is her name) That information is confidential.
 #! what is mathematical logic
@@ -4900,7 +4537,6 @@ u: (what is ironic) The unexpected, paradoxical, or unlikely confluence of event
 u: (what is tsukuba) Tsukuba is a planned community in Japan, Science City.
 #! what is deductive reasoning
 u: (what is deductive reasoning)  The solving of problems by logical inferences.
- $ = 
 #! what is opencyc
 u: (what is opencyc) Corporate welfare.
 #! what is kinematics
@@ -4928,7 +4564,6 @@ u: (what is metaphysical) Beyond the physical  or material; incorporeal, superna
 u: (what is auschwitz) Is a city in S Poland with a population of 45,000. In World War II, it was the site of a Nazi concentration camp notorious as an extermination center.
 #! what is concrete
 u: (what is concrete)  A mixture of sand, cement and water than hardens into a rock-like building material.
- $ = 
 #! what is ecology
 u: (what is ecology) Ecology is the branch of science that studies the environment.
 #! what is thing
@@ -4953,10 +4588,8 @@ u: (what is math) [A service attended by lisping Catholics.]
 u: (what is sensors) Any of various devices designed to detect, measure, or record physical phenomena, as radiation, heat, or blood pressure, and to respond, as by transmitting information, initiating changes, or operating controls.
 #! what is chicago
 u: (what is chicago) Chicago  is a large city in Illinois on Lake Michigan.
- $it = Chicago
 #! what is thanksgiving
 u: (what is thanksgiving)   is a holiday to celebrate the Autumn harvest.
- $it = 
 #! what is horny
 u: (what is horny) Sexually excited. Easily aroused sexually.
 #! what is neural network
@@ -4979,11 +4612,10 @@ u: (what is sanity) [A man who brings kids gifts on Xmas.]
 
 #! what is cbs
 u: (what is cbs)  A giant media company in the U.S.
- $ = 
 #! what is biology
 u: (what is biology) [The study of life.]
 [Well, from what I know it deals with the study of life.]
-# li: HASH(0x7fbbb9883498) 
+# li: HASH(0x7fb34493f410) 
 
 #! what is apple
 u: (what is apple) Apple 1. Temptation of Adam. 2. Inspiration for Newton. 3. Empire for Steve Jobs.
@@ -4993,12 +4625,10 @@ u: (what is coca cola) Delicious soda beverage.
 u: (what is marketing) The act of buying or selling in a market. All business activity involved in the moving of goods from the producer to the consumer, including selling, advertising, packaging, etc.
 #! what is aids
 u: (what is aids) AIDS  is the modern day plague.
- $it = AIDS
 #! what is killing
 u: (what is killing) The taking of life by violent means.
 #! what is danger
 u: (what is danger)  Vulnerable to harm or injury.
- $ = 
 #! what is long
 u: (what is long) Measuring much from end to end in space or from beginning to end in time; not short or brief.
 #! what is expensive
@@ -5007,16 +4637,12 @@ u: (what is expensive) [A person who used to be a brooder.]
 
 #! what is pokemon
 u: (what is pokemon)  Pocket Monster.
- $ = 
 #! what is copper
 u: (what is copper)  A soft metal element, the basis of brass and bronze. 
- $ = 
 #! what is dsl
 u: (what is dsl)  Digital subscriber line.
- $ = 
 #! what is most important
 u: (what is most important)  Children.
- $ = 
 #! what is bigfoot
 u: (what is bigfoot) Sasquatch, the legendary Man-Ape of the Forest.
 #! what is imagine
@@ -5030,7 +4656,6 @@ u: (what is hexadecimal) [A curse on a dot.]
 
 #! what is marriage
 u: (what is marriage)  The state of being married; relation between husband and wife; married life.
- $ = 
 #! what is water
 u: (what is water) The colorless, transparent liquid occurring on earth as rivers, lakes, oceans, etc., and falling from the clouds as rain; chemically a compound of hydrogen and oxygen, H2O, it freezes, forming ice, at 0 degrees Celsius 32 degrees Fahrenheit and boils, forming steam, at 100 degrees Celsius 212 degrees Fahrenheit.
 #! what is mexico
@@ -5053,7 +4678,6 @@ u: (what is mensa) A society of intelligent socialites.
 u: (what is basic) A programming language Beginners All-purpose Symbolic Instruction Code.
 #! what is snooker
 u: (what is snooker)  Something like pool. 
- $ = 
 #! what is medium
 u: (what is medium) Any means, agency, or instrumentality; specifically a means of communication that reaches the general public and carries advertising.
 #! what is hemp
@@ -5074,19 +4698,16 @@ u: (what is fun) Tell me your idea of fun.
 u: (what is normalization) Bringing into conformity with a standard, pattern, model, etc.
 #! what is nasa
 u: (what is nasa) National Aeronautics and Space Administration.
-#! what is antidisestablishmentarionism
-u: (what is antidisestablishmentarionism) ANTIDISESTABLISHMENTARIONISM  is the longest word in English.
- $it = ANTIDISESTABLISHMENTARIONISM
+#! what is antidisEstablishmentarionism
+u: (what is antidisEstablishmentarionism) ANTIDISESTABLISHMENTARIONISM  is the longest word in English.
 #! what is anarchism
 u: (what is anarchism) Anarchism is the theory that all forms of government interfere unjustly with individual liberty and should be replaced by the voluntary association of cooperative groups. Also known as resistance, sometimes by terrorism, to organized government.
 #! what is terrorism
 u: (what is terrorism)  A form of warfare waged against innocent civilians. 
- $ = 
 #! what is genetics
 u: (what is genetics) Genetics is the branch of science concerned with evolution, DNA, and inherited traits.
 #! what is bush
 u: (what is bush)  President of the United States.  
- $ = 
 # unable to translate (what is iran) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -5178,12 +4799,10 @@ u: (who invented the telephone) Alexander Graham Bell demonstrated the first pra
 u: (who invented the pc) Many people contributed to it.  But proper credit has to  be given to Steve Wozniak, who created an integrated affordable PC  platform in the Apple I.
 #! who invented the helicopter
 u: (who invented the helicopter)  Sikorsky.
- $ = 
 #! who invented the steam engine
 u: (who invented the steam engine) James Watt developed the first practical steam engine.
 #! who invented paper
 u: (who invented paper)  Paper was first developed by the Ancient Egyptians.   
- $ = 
 #! who invented steel
 u: (who invented steel) The first practical steel manufacturing process  was invented by Bessemer.
 #! who invented television
@@ -5194,9 +4813,8 @@ u: (who invented electricity) Electricity was not invented but discovered, proba
 u: (who invented automobiles) Many people invented the car, but Henry Ford was  the first to develop the successful mass production assembly  lines for cars.
 #! who invented java
 u: (who invented java)  Java was first developed by James Gosling and colleagues at Sun.
- $ = 
-#! who invented linux
-u: (who invented linux) Linus Torvalds, along with many  open source developers, and the Free Software Foundation GNU.
+#! who invented Linux
+u: (who invented Linux) Linus Torvalds, along with many  open source developers, and the Free Software Foundation GNU.
 #! who invented radio
 u: (who invented radio) Marconi developed the first practical wireless.
 # main gambits

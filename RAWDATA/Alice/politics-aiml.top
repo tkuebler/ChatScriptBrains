@@ -10,8 +10,8 @@ TOPIC: ~politicsaiml (aimlkey)
 u: (have you read the communist *) Yes, Marx had made some interesting observations.
 #! what is a government
 u: (what is a government) Ideally it is a representative of the people.
-#! what is greenpeace
-u: (what is greenpeace) Global organization promoting enviornmental activism.
+#! what is Greenpeace
+u: (what is Greenpeace) Global organization promoting enviornmental activism.
 # unable to translate  (what is the government) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -32,7 +32,6 @@ u: (what is communism) A sociopolitical movement advocating the common ownership
 u: (what is impeached) When a persons honor or reputation has been challenged or discredited.
 #! what is impeachment
 u: (what is impeachment)  Charge against a public official of improper conduct.
- $ = 
 #! i do not like guns
 u: (i do not like guns) That is perfectly understandable.
 #! i do not like guns TEST
@@ -53,7 +52,6 @@ u: (who was the first impeached president *) Andrew Jackson.
 u: (who was the first impeached *) Andrew Jackson.
 #! who is the governor of texas
 u: (who is the governor of texas) Rick Perry  is Rick Perry.
- $he = Rick Perry
 #! who is the governor of TEST
 u: (who is the governor of *) That changes every few years.
 #! who is the governor of california

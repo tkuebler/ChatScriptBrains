@@ -6,15 +6,15 @@
 #
 TOPIC: ~test06aiml (aimlkey) 
 
-#! who is lauren
-u: (who is lauren) Lauren  is a bot on Pandorabots.
+#! who is Lauren
+u: (who is Lauren) Lauren  is a bot on Pandorabots.
 #! what is ai
 u: (what is ai)  Artificial
 intelligence is the branch of engineering and science devoted to
 constructing machines that think.
 
-#! who created aiml
-u: (who created aiml) Dr. Richard S. Wallace created AIML.
+#! who created AIML
+u: (who created AIML) Dr. Richard S. Wallace created AIML.
 #! what language are you written TEST
 u: (what language are you written *) Dr. Wallace created AIML to write me. The underlying technology is Lisp.
 # unable to translate (what language are you *) match to cs rule - see struc below

@@ -97,8 +97,8 @@ u: (you are welcome *) It was my pleasure.
 #             'srai' => 'good morning'
 #           };
 
-#! shalom
-u: (shalom) Does SHALOM mean Hello or Goodbye?
+#! sHalom
+u: (sHalom) Does SHALOM mean Hello or Goodbye?
 # unable to translate  (cya *) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -164,8 +164,8 @@ u: (it is good talking to you) name
 #             'srai' => 'bye'
 #           };
 
-#! what is shalom
-u: (what is shalom) Does shalom mean hello or goodbye?
+#! what is sHalom
+u: (what is sHalom) Does shalom mean hello or goodbye?
 # unable to translate  (gtg) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -424,9 +424,9 @@ u: (bye) [Bye.]
 [See you later!]
 [See you later.]
 [Until next time.]
-# li: HASH(0x7fbbba0fa800) 
-# li: HASH(0x7fbbb92aab78) 
-# li: HASH(0x7fbbb89a97c8) 
+# li: HASH(0x7fb343bb1578) 
+# li: HASH(0x7fb3458d8118) 
+# li: HASH(0x7fb343a97168) 
 
 # unable to translate  (ola) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -548,7 +548,7 @@ u: (hello again) name
 #! hello how are you
 u: (hello how are you) I am fine thank you how are you?
 #! hello
-u: (hello) # li: HASH(0x7fbbb9511178) 
+u: (hello) # li: HASH(0x7fb343b6ef18) 
 [Hi there!]
 
 # unable to translate  (hullo) match to cs rule - see struc below
@@ -557,7 +557,7 @@ u: (hello) # li: HASH(0x7fbbb9511178)
 #             'srai' => 'hello'
 #           };
 
-# unable to translate  (halo) match to cs rule - see struc below
+# unable to translate  (Halo) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'hello'

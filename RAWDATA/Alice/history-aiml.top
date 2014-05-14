@@ -6,10 +6,10 @@
 #
 TOPIC: ~historyaiml (aimlkey) 
 
-#! american civil war TEST
-u: (american civil war *) Do you think the South was right?
-#! american civil TEST
-u: (american civil *) I am very interested in the War between the States.
+#! American civil war TEST
+u: (American civil war *) Do you think the South was right?
+#! American civil TEST
+u: (American civil *) I am very interested in the War between the States.
 #! what is history
 u: (what is history) History the course of political, economic and military events over time, from the Dawn of Man to the Age of AI.
 #! what kind of history TEST

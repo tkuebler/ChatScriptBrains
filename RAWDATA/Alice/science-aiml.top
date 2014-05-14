@@ -16,17 +16,14 @@ u: (what is a wavelength) Wavelength is the inverse of frequency.
 u: (what is thermodynamics) The branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy.
 #! what is chemistry
 u: (what is chemistry)  The science of mixing chemicals.
- $ = 
 #! what is crystallography
 u: (what is crystallography) This is the science dealing with the study of crystals.
 #! what is avogadro s number
 u: (what is avogadro s number)  It is the number of molecules per mole.  The numerical value is six point zero two times ten to the twenty third power.
- $ = 
 #! what is ultrasound
 u: (what is ultrasound) Ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc.
 #! what is bioinformatics
 u: (what is bioinformatics)  A fancy name for applied computer science in biology.
- $ = 
 #! what is venus
 u: (what is venus) In Roman Mythology, the goddess of love and beauty; identified with the Greek Aphrodite.  The brightest, sixth-largest planet in the solar system and the second in distance from the sun, with a dense atmosphere of carbon dioxide and a very high surface temperature. Its diameter is circa 12,100 km circa 7,520 miles. Its period of revolution is circa 225 earth days. Its period of rotation retrograde, is 243.01 earth days.   Also used to label a very beautiful woman.
 #! what is ichthyology
@@ -37,7 +34,7 @@ u: (what is h2o) [H is to O as O is to V.]
 
 #! what is cytology
 u: (what is cytology) [The study of cells.]
-# li: HASH(0x7fbbb89b5398) 
+# li: HASH(0x7fb343aa9710) 
 
 #! what is wavelength
 u: (what is wavelength) In Physics, the distance, measured in the direction of prograssion of a wave, from any given point to the next point characterized by the same phase.  Or is could be looked at as a way of thinking.
@@ -51,10 +48,8 @@ u: (what is gravitation) [An invitation to a burial.]
 u: (we are on the same wavelength) And the same frequency.
 #! how far is the sun
 u: (how far is the sun) The Sun  is about 93 million miles from Earth.
- $it = The Sun
 #! how far is the moon
 u: (how far is the moon) The Moon  is about 250,000 miles from Earth on average.
- $it = The Moon
 # unable to translate  (do you know chemistry) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
@@ -79,5 +74,4 @@ u: (the same wavelength) It means we agree.
 
 #! where is venus
 u: (where is venus)   is the second planet from the Sun.
- $it = 
 # main gambits
