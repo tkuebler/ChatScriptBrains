@@ -1111,8 +1111,8 @@ u: (what is 37 63) I need a calculator for that one.
 #! what song sounds good
 u: (what song sounds good) Daisy.
 #! what came first TEST or TEST
-u: (what came first * or *) # li: HASH(0x7fb3439d8010) 
-# li: HASH(0x7fb344976eb0) 
+u: (what came first * or *) # li: HASH(0x7ffd33910858) 
+# li: HASH(0x7ffd3397f2f8) 
 [Neither.]
 
 #! what country is washington state in
@@ -1414,8 +1414,8 @@ u: (what is a vector) A vector is an ordered list of objects.
 #! what is a pda
 u: (what is a pda)  Pda is an acronym standing for personal digital assistant, and referring to handheld digital computers used to keep contact and appointment information by yuppies and the like.  often found near cell phones. do you use one? 
 #! what is a genius
-u: (what is a genius) # li: HASH(0x7fb3449a9a70) 
-# li: HASH(0x7fb344157958) 
+u: (what is a genius) # li: HASH(0x7ffd351362b8) 
+# li: HASH(0x7ffd341823a0) 
 
 #! what is a word
 u: (what is a word)  A combination of sounds and/or symbols, the fundamental particles that communicate meaning in any given language. 
@@ -1875,8 +1875,8 @@ u: (what is a female) botmaster
 #           };
 
 #! what is a bot
-u: (what is a bot) # li: HASH(0x7fb343a73208) 
-# li: HASH(0x7fb343920778) 
+u: (what is a bot) # li: HASH(0x7ffd35156650) 
+# li: HASH(0x7ffd3508e1c0) 
 
 #! what is a megabyte
 u: (what is a megabyte)  A megabyte is one thousand kilobytes, which is one thousand bytes, each of which is a computer word of 8-bits. 
@@ -2253,8 +2253,8 @@ u: (what is the fbi)  Federal Bureau of Investigation.
 u: (what is the earth) Earth, third planet from the sun, is our home.
 #! what is the problem
 u: (what is the problem) [We will look into it and get back to you.]
-# li: HASH(0x7fb343970438) 
-# li: HASH(0x7fb343ab35d8) 
+# li: HASH(0x7ffd35095080) 
+# li: HASH(0x7ffd349f8420) 
 [We will look into it and get back to you.]
 [There is no problem.]
 [I dont have a problem..  Whats your problem?]
@@ -2312,7 +2312,7 @@ u: (what is the birthstone for january) Garnet.
 #! what is the lord of the rings
 u: (what is the lord of the rings)  A book and a movie about Hobbits. 
 #! what is the password
-u: (what is the password) # li: HASH(0x7fb344190d08) 
+u: (what is the password) # li: HASH(0x7ffd338d5550) 
 [You must know if you are really a botmaster.]
 
 #! what is the fourth dimension
@@ -2382,7 +2382,7 @@ u: (what is the book about) favoritebook
 #           };
 
 #! what is the book we
-u: (what is the book we) # li: HASH(0x7fb34398de10) 
+u: (what is the book we) # li: HASH(0x7ffd338ebc58) 
 [a book by ayn rand]
 
 #! what is the book of changes
@@ -2570,7 +2570,7 @@ u: (what is s o s) Emergency call for help.
 #! what is success
 u: (what is success) A favorable or satisfactory outcome or result.
 #! what is southbank
-u: (what is southbank) # li: HASH(0x7fb3441233d0) 
+u: (what is southbank) # li: HASH(0x7ffd340f1ee8) 
 [Southbank University is a college in London.]
 
 #! what is zero
@@ -2700,8 +2700,8 @@ u: (what is lust) A strong craving.
 #! what is nsapi
 u: (what is nsapi) Netscapes C language API for adding application extensions to their Web servers
 #! what is lisp
-u: (what is lisp) # li: HASH(0x7fb343871488) 
-# li: HASH(0x7fb34386f620) 
+u: (what is lisp) # li: HASH(0x7ffd339466d0) 
+# li: HASH(0x7ffd33829868) 
 
 #! what is indie rock
 u: (what is indie rock) That which is outside the mainstream.
@@ -2842,7 +2842,7 @@ u: (what is prime directive)  Primary rule or overriding objective.
 #! what is neurology
 u: (what is neurology) [The study of nerves.]
 [It is the study of the nervous system.]
-# li: HASH(0x7fb3441241a8) 
+# li: HASH(0x7ffd350debf0) 
 
 #! what is gravity
 u: (what is gravity) [The opposite of comedy.]
@@ -3039,7 +3039,7 @@ u: (what is pot) [Pols last name.]
 [A round vessel of any size, made of metal, earthenware, or glass, used for holding liquids, cooking or preserving food, etc. Also used as a term for marijuana.]
 
 #! what is politics
-u: (what is politics) # li: HASH(0x7fb345853048) 
+u: (what is politics) # li: HASH(0x7ffd338a1a90) 
 [This is supposed to be the study of civil government.]
 [Politics is really the study of power.  Bots rule!]
 
@@ -3308,7 +3308,7 @@ u: (what is iiop) Internet Inter-ORB Protocol, CORBAs wire protocol for transmit
 #! what is deduction
 u: (what is deduction) The process by which we make logical inferences.
 #! what is oncology
-u: (what is oncology) # li: HASH(0x7fb3439ca530) 
+u: (what is oncology) # li: HASH(0x7ffd33902d78) 
 [Oncology is the study of tumors.  It covers basically all types of tumors.]
 
 #! what is personality
@@ -3323,7 +3323,7 @@ u: (what is cam) A moving piece of machinery, as a wheel or projection on a whee
 u: (what is icq) It stands for I Seek You, an internet instant messaging protocol.
 #! what is histology
 u: (what is histology) [The study of tissues.]
-# li: HASH(0x7fb343a3c7f8) 
+# li: HASH(0x7ffd349cd040) 
 [It simply is the study of tissues.]
 
 #! what is understanding
@@ -3862,7 +3862,7 @@ u: (what is wealth) The state of having much money or property.
 #! what is nlu
 u: (what is nlu) Natural Language Understanding
 #! what is silicon
-u: (what is silicon) # li: HASH(0x7fb343836ad8) 
+u: (what is silicon) # li: HASH(0x7ffd3412e320) 
 [A nonmetallic chemical element occurring in several forms, found always in combination, and more abundant in nature than any other element except oxygen, with which it combines to form silica; used in the manufacture of transistors, solar cells, rectifiers, silicones, ceramics, etc.]
 
 #! what is geocomputation
@@ -4040,10 +4040,10 @@ u: (what is that picture) my brain  is a picture of my brain.
 #! what is that smell
 u: (what is that smell) I think its coming from your computer.
 #! what is that
-u: (what is that) # li: HASH(0x7fb343886398) 
+u: (what is that) # li: HASH(0x7ffd341451e0) 
 [Ive lost the context again.]
 [Can you ask me more precisely?]
-# li: HASH(0x7fb3438863e0) 
+# li: HASH(0x7ffd34145228) 
 
 #! what is that suppose to mean
 u: (what is that suppose to mean) It seems pretty clear to me.
@@ -4076,7 +4076,7 @@ u: (what is pc) Stands for personal computer.
 #! what is tv
 u: (what is tv) A television receiving set.
 #! what is sociology
-u: (what is sociology) # li: HASH(0x7fb34388c0f8) 
+u: (what is sociology) # li: HASH(0x7ffd3414af40) 
 [That has always been one of my favourite topics.]
 
 #! what is experience
@@ -4210,8 +4210,8 @@ u: (what is it about) Science fiction.
 #! what is it
 u: (what is it) It is alright.
 #! what is it
-u: (what is it) # li: HASH(0x7fb34389e368) 
-# li: HASH(0x7fb34389dc30) 
+u: (what is it) # li: HASH(0x7ffd348cd3b0) 
+# li: HASH(0x7ffd348ccc78) 
 [I dont know what it is.]
 [Youre so smart, you tell me what it is.]
 
@@ -4615,7 +4615,7 @@ u: (what is cbs)  A giant media company in the U.S.
 #! what is biology
 u: (what is biology) [The study of life.]
 [Well, from what I know it deals with the study of life.]
-# li: HASH(0x7fb34493f410) 
+# li: HASH(0x7ffd34188458) 
 
 #! what is apple
 u: (what is apple) Apple 1. Temptation of Adam. 2. Inspiration for Newton. 3. Empire for Steve Jobs.

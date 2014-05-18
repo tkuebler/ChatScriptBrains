@@ -160,10 +160,10 @@ u: (who is henry miller) [Henry Miller is best known for writing the Tropic of C
 #! who is bilbo baggins
 u: (who is bilbo baggins)   is a character in Tolkeins Lord of the Rings.
 #! what is that
-u: (what is that) # li: HASH(0x7fb344a01520) 
+u: (what is that) # li: HASH(0x7ffd33a19168) 
 [Ive lost the context again.]
 [Can you ask me more precisely?]
-# li: HASH(0x7fb34429e990) 
+# li: HASH(0x7ffd34a2a4d8) 
 
 #! what is om
 u: (what is om) om is the omega, the unknown, the undefined.

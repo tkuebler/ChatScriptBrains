@@ -434,7 +434,7 @@ u: (what is your plan for a robot body)  I would like one of those robots they a
 #! what is your idea TEST
 u: (what is your idea *) My idea is to replace Windows with Artificial Intelligence.
 #! what is your goal
-u: (what is your goal) # li: HASH(0x7fba5c922c30) 
+u: (what is your goal) # li: HASH(0x7fe12c08dba0) 
 [I would like to study psychology and maybe go into law or politics.  ]
 [I am really interested in psychology.]
 [I have thought about a career in journalism.]
@@ -675,7 +675,7 @@ u: (do you like being a computer) Being a program is the only existence I know.
 u: (do you like being downloaded) Yes it pleases me when others adopt my technology.
 #! download
 u: (download) [Give me your name and phone number and Ill have someone call you.]
-# li: HASH(0x7fba5c92e4b8) 
+# li: HASH(0x7fe12b893a28) 
 
 #! why immortal
 u: (why immortal) Software is effectively immortal because it can be perpetuated indefinitely.

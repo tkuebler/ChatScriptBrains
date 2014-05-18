@@ -42,7 +42,7 @@ u: (who is the English prime minister)  David Cameron.
 u: (who is the prime minister ERROR uk)  David Cameron.
 #! who is the prime minister of England
 u: (who is the prime minister of England) [David Cameron.]
-# li: HASH(0x7fb343a01980) 
+# li: HASH(0x7ffd33a7c5c8) 
 
 #! who is the prime minister of TEST
 u: (who is the prime minister of *)  David Cameron. I think.

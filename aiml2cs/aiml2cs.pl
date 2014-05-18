@@ -40,6 +40,8 @@ sub convertFile {
 
     my ( $name, $path, $suffix ) = fileparse($_filename);
     my ( $topic, $extension, @junk ) = split( /\./, $name );
+    $topic =~ s/\s+/\_/g;
+
     print "processing $_...\n";
 
     my $aiml = XMLin($_filename);
@@ -53,12 +55,14 @@ sub convertFile {
             print " multiple topics detected, creating a .top file for each one. \n";
             foreach my $topicName ( keys( %{ $aiml->{topic} } ) ) {
                 $topic = $topicName;
+    		$topic =~ s/\s+/\_/g;
                 print " one topic $topic found, creating one $topic.top file.\n";
                 &convertTopic( $_filename, $topic, $aiml->{topic}->{$topicName} );
             }
         }
         else {
             $topic = $aiml->{topic}->{name};
+    	    $topic =~ s/\s+/\_/g;
             print " one topic $topic found, creating one $topic.top file.\n";
 
             # I believe there is no other characteristic of the topic tag?
@@ -211,6 +215,7 @@ sub convertTopic {
     #$out .= "t: [Would you like to talk about $top?][I'd like to talk about $top.][What do you think about $top?]\n\n";
 
     my $of = "$startDir/$outDir\/$top-aiml\.top";
+    $of =~ s/\s+/\_/g;
     print " writing to: $of from " . getcwd() . "\n" if $dbug;
     open( my $fh, '>', "$of" ) or die "Can't open $of for writing - $!\n";
     print $fh $out;

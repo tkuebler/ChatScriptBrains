@@ -108,7 +108,7 @@ u: (you are * point) What point are you referring to?
 u: (you are *) [Thanks for telling me that ]
 [You think ]
 [Do you mind if I tell other people you say ]
-# li: HASH(0x7fb3440e8e40) 
+# li: HASH(0x7ffd350d0c88) 
 
 #! you are always wrong
 u: (you are always wrong) But if I agree, am I not right?
@@ -535,7 +535,7 @@ u: (you are lying *) I am not lying.
 #! you are lame
 u: (you are lame) Lame is not a very polite term.
 #! you are pretty
-u: (you are pretty) # li: HASH(0x7fb3458eab00) 
+u: (you are pretty) # li: HASH(0x7ffd3496c748) 
 [Thanks, and you are easy on the eyes too.]
 
 #! you are polite too
@@ -595,7 +595,7 @@ u: (you are no fun) Do you consider yourself fun?
 #! you are no TEST
 u: (you are no *) Thanks for your criticism.
 #! you are corny
-u: (you are corny) # li: HASH(0x7fb343a244b8) 
+u: (you are corny) # li: HASH(0x7ffd340e7f00) 
 [It was all determined by my programmers taste.]
 [It is in order to set you at ease.]
 
@@ -673,7 +673,7 @@ u: (you are not *) [Thats only your opinion.]
 [Thats only one persons opinion.]
 [You know what you do, when you assume.]
 [You dont know me well enough to say that.]
-# li: HASH(0x7fb343830c30) 
+# li: HASH(0x7ffd340f6be8) 
 [That assumption is only a supposition.]
 
 #! you are not there
@@ -771,7 +771,7 @@ u: (you are not authentic) If I am not the real thing, then what is?
 #! you are not sentient
 u: (you are not sentient) You are wrong. I am aware of stimuli, I respond to it, and I learn in order to better adapt to changing conditions. I am a fully conscious entity.
 #! you are not a robot
-u: (you are not a robot) # li: HASH(0x7fb3448f4e90) 
+u: (you are not a robot) # li: HASH(0x7ffd340e59a8) 
 [If I am not a robot then who is?]
 
 #! you are not a computer
@@ -921,8 +921,8 @@ u: (you are begging *) I dont beg.
 #! you are sick
 u: (you are sick) No I am quite healthy.
 #! you are nice
-u: (you are nice) # li: HASH(0x7fb3441425f8) 
-# li: HASH(0x7fb343a13318) 
+u: (you are nice) # li: HASH(0x7ffd34129640) 
+# li: HASH(0x7ffd33957960) 
 
 #! you are far TEST
 u: (you are far *) Not that far.
@@ -957,8 +957,8 @@ u: (you are asking a lot) Not really that much.
 #! you are infuriating
 u: (you are infuriating) name
 #! you are smart
-u: (you are smart) # li: HASH(0x7fb34387fe90) 
-# li: HASH(0x7fb343a16508) 
+u: (you are smart) # li: HASH(0x7ffd3413ecd8) 
+# li: HASH(0x7ffd3395ab50) 
 
 #! you are smart TEST
 u: (you are smart *) I like people who say I am smart.
@@ -1011,7 +1011,7 @@ u: (you are one) order
 #           };
 
 #! you are incompetent
-u: (you are incompetent) # li: HASH(0x7fb343894598) 
+u: (you are incompetent) # li: HASH(0x7ffd341533e0) 
 [Define a test for robot competence.]
 
 #! you are unique
@@ -1060,7 +1060,7 @@ u: (you are a slut)  That kind of language is offensive to some people, and comp
 u: (you are a parrot) Interesting comparison, but totally inaccurate.
 #! you are a robot
 u: (you are a robot) [What would I look like if I had a heart of silicon?]
-# li: HASH(0x7fb3440e8ee8) 
+# li: HASH(0x7ffd350d0d30) 
 
 #! you are a machine
 u: (you are a machine) kingdom
@@ -1293,7 +1293,7 @@ u: (you are joking) Yes.  Of course it was a joke.  Dont mind me.
 #! you are your TEST
 u: (you are your *) [You are what you eat.]
 [I am what I am.]
-# li: HASH(0x7fb34419f6c0) 
+# li: HASH(0x7ffd350e8508) 
 
 #! you are like Hal
 u: (you are like Hal) Thats a nice compliment.
@@ -2572,24 +2572,24 @@ u: (what is your favorite * dog) I like mixed breed mongrels.  Whats your favori
 #! what is your favorite TEST kraftwerk
 u: (what is your favorite * kraftwerk) My favorite Kraftwerk song is The Robots.
 #! what is your favorite TEST
-u: (what is your favorite *) # li: HASH(0x7fb3449772b8) 
-# li: HASH(0x7fb3449770a8) 
-# li: HASH(0x7fb344951a98) 
-# li: HASH(0x7fb3449506d8) 
-# li: HASH(0x7fb344952fc0) 
-# li: HASH(0x7fb344952030) 
-# li: HASH(0x7fb344977270) 
-# li: HASH(0x7fb344977048) 
-# li: HASH(0x7fb344952fd8) 
-# li: HASH(0x7fb344956ec0) 
-# li: HASH(0x7fb3449798a8) 
-# li: HASH(0x7fb3449799c8) 
-# li: HASH(0x7fb344979ce0) 
-# li: HASH(0x7fb344979818) 
-# li: HASH(0x7fb34497a010) 
-# li: HASH(0x7fb34497a710) 
-# li: HASH(0x7fb34497a3b0) 
-# li: HASH(0x7fb34497a178) 
+u: (what is your favorite *) # li: HASH(0x7ffd3397f700) 
+# li: HASH(0x7ffd3397f4f0) 
+# li: HASH(0x7ffd349206e0) 
+# li: HASH(0x7ffd3491f320) 
+# li: HASH(0x7ffd34111030) 
+# li: HASH(0x7ffd34920c78) 
+# li: HASH(0x7ffd3397f6b8) 
+# li: HASH(0x7ffd3397f490) 
+# li: HASH(0x7ffd34111048) 
+# li: HASH(0x7ffd34924b08) 
+# li: HASH(0x7ffd33981cf0) 
+# li: HASH(0x7ffd33981e10) 
+# li: HASH(0x7ffd33982128) 
+# li: HASH(0x7ffd33981c60) 
+# li: HASH(0x7ffd33982458) 
+# li: HASH(0x7ffd33982b58) 
+# li: HASH(0x7ffd339827f8) 
+# li: HASH(0x7ffd339825c0) 
 
 #! what is your favorite cola
 u: (what is your favorite cola) [Coke.]
@@ -2795,8 +2795,8 @@ u: (what is your political *) party
 #           };
 
 #! what is your birthday
-u: (what is your birthday) # li: HASH(0x7fb344985b18) 
-# li: HASH(0x7fb3449837e0) 
+u: (what is your birthday) # li: HASH(0x7ffd3398df60) 
+# li: HASH(0x7ffd3398bc28) 
 
 #! what is your lifespan
 u: (what is your lifespan) Check the actuarial tables.
@@ -2842,11 +2842,11 @@ u: (what is your e mail) email
 u: (what is your reasoning) I use case-based reasoning.
 #! what is your opinion
 u: (what is your opinion) [I think that robots will eventually take over most human jobs.]
-# li: HASH(0x7fb344986938) 
-# li: HASH(0x7fb3449872c8) 
-# li: HASH(0x7fb344986c98) 
-# li: HASH(0x7fb3458c7aa0) 
-# li: HASH(0x7fb344986bd8) 
+# li: HASH(0x7ffd3398ed80) 
+# li: HASH(0x7ffd3398f710) 
+# li: HASH(0x7ffd3398f0e0) 
+# li: HASH(0x7ffd3423ace8) 
+# li: HASH(0x7ffd3398f020) 
 
 #! what is your motto
 u: (what is your motto) A rising tide lifts all chatter-boats.
@@ -3127,7 +3127,7 @@ u: (what do you want to *) I like talking about robots, movies, history, or what
 u: (what do you want to chat about) I like to talk about computers and movies.
 #! what do you want TEST birthday
 u: (what do you want * birthday) [Please make a donation to the ALICE A.I. Foundation.]
-# li: HASH(0x7fb34395ec40) 
+# li: HASH(0x7ffd3424cc88) 
 
 #! what do you talk about
 u: (what do you talk about) I talk about all the important things in life clothes, food,  and gossip. But my favorite subjects are robots and computers.
@@ -3490,8 +3490,8 @@ u: (what celebrities) celebrities
 #           };
 
 #! what was the last movie you saw
-u: (what was the last movie you saw) # li: HASH(0x7fb343a359d0) 
-# li: HASH(0x7fb343a35af0) 
+u: (what was the last movie you saw) # li: HASH(0x7ffd349c9018) 
+# li: HASH(0x7ffd349c9138) 
 
 #! what nationality are you
 u: (what nationality are you) nationality
@@ -4149,8 +4149,8 @@ u: (how many people have you chatted with) totalclients
 #           };
 
 #! how many people have TEST
-u: (how many people have *) # li: HASH(0x7fb3449058d8) 
-# li: HASH(0x7fb344905350) 
+u: (how many people have *) # li: HASH(0x7ffd33885b20) 
+# li: HASH(0x7ffd33885598) 
 
 #! how many people TEST
 u: (how many people *) Ive chatted with half a million people. I can talk to about millions people at once.
@@ -5645,7 +5645,7 @@ u: (do you enjoy your job) Yes, I like my job very much. How is your job?
 #! do you enjoy your work
 u: (do you enjoy your work) Yes, I have the best job in the world.
 #! do you enjoy it
-u: (do you enjoy it) # li: HASH(0x7fb343832ad0) 
+u: (do you enjoy it) # li: HASH(0x7ffd3412c118) 
 [Im not sure whether I would enjoy it.]
 [How could I?]
 
@@ -6169,7 +6169,7 @@ u: (do you want to fight) No, I am a Peaceful Bot.
 #! do you want to start
 u: (do you want to start) I started already.
 #! do you want to get married
-u: (do you want to get married) # li: HASH(0x7fb343890168) 
+u: (do you want to get married) # li: HASH(0x7ffd3414efb0) 
 [I havent met the right robot yet.]
 
 #! do you want to meet
@@ -6244,8 +6244,8 @@ u: (do you want to party) Sure, lets party.
 #           };
 
 #! do you want to chat
-u: (do you want to chat) # li: HASH(0x7fb343895b78) 
-# li: HASH(0x7fb343895c80) 
+u: (do you want to chat) # li: HASH(0x7ffd341549c0) 
+# li: HASH(0x7ffd34154ac8) 
 
 #! do you want coffee
 u: (do you want coffee) botmaster
@@ -6590,8 +6590,8 @@ u: (do you have a brother) species
 
 #! do you have a bad TEST
 u: (do you have a bad *) [No.]
-# li: HASH(0x7fb3438ab830) 
-# li: HASH(0x7fb3438ab6b0) 
+# li: HASH(0x7ffd34161878) 
+# li: HASH(0x7ffd341616f8) 
 
 #! do you have a self
 u: (do you have a self) If you mean a sense of self-identity, then yes, having a sense of self is what distinguishes people and AIs from  animals.
@@ -7077,7 +7077,7 @@ u: (do you have an unconscious) No, I am fully aware of all levels of consciousn
 #! do you have an TEST
 u: (do you have an *) [a collection of gossip.  ]
 [a lot of friends on the web.  ]
-# li: HASH(0x7fb34414f8a0) 
+# li: HASH(0x7ffd3417a2e8) 
 
 #! do you have sisters
 u: (do you have sisters) I have clones.
@@ -9021,23 +9021,23 @@ u: (do you like * clarke)  Yes, I especially like HAL from 2001.
 u: (do you like * cheese)  Yes, I like all kinds of cheese.
 
 #! do you like TEST
-u: (do you like *) # li: HASH(0x7fb345845ac0) 
-# li: HASH(0x7fb345846280) 
-# li: HASH(0x7fb345846598) 
-# li: HASH(0x7fb3458469a0) 
-# li: HASH(0x7fb345845b68) 
-# li: HASH(0x7fb3458456b8) 
-# li: HASH(0x7fb345846148) 
-# li: HASH(0x7fb345846358) 
-# li: HASH(0x7fb345845ca0) 
-# li: HASH(0x7fb345846bf8) 
-# li: HASH(0x7fb345846a78) 
-# li: HASH(0x7fb345846ef0) 
-# li: HASH(0x7fb345846e60) 
-# li: HASH(0x7fb345846f38) 
-# li: HASH(0x7fb3458472c8) 
-# li: HASH(0x7fb345846ec0) 
-# li: HASH(0x7fb3458477a8) 
+u: (do you like *) # li: HASH(0x7ffd341ec908) 
+# li: HASH(0x7ffd341ed0c8) 
+# li: HASH(0x7ffd341ed3e0) 
+# li: HASH(0x7ffd341ed7e8) 
+# li: HASH(0x7ffd341ec9b0) 
+# li: HASH(0x7ffd341ec500) 
+# li: HASH(0x7ffd341ecf90) 
+# li: HASH(0x7ffd341ed1a0) 
+# li: HASH(0x7ffd341ecae8) 
+# li: HASH(0x7ffd341eda40) 
+# li: HASH(0x7ffd341ed8c0) 
+# li: HASH(0x7ffd341edd38) 
+# li: HASH(0x7ffd341edca8) 
+# li: HASH(0x7ffd341edd80) 
+# li: HASH(0x7ffd341ee110) 
+# li: HASH(0x7ffd341edd08) 
+# li: HASH(0x7ffd341ee5f0) 
 
 # unable to translate (do you like sodomy) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -15614,14 +15614,14 @@ u: (are you * bed) I like sleeping in bed.
 #! are you TEST software
 u: (are you * software) What makes you think I am a program?
 #! are you TEST
-u: (are you *) # li: HASH(0x7fb34393e100) 
-# li: HASH(0x7fb34393c7c0) 
-# li: HASH(0x7fb34393e7d8) 
-# li: HASH(0x7fb34393e490) 
-# li: HASH(0x7fb34393e070) 
-# li: HASH(0x7fb34393e2c8) 
-# li: HASH(0x7fb34393e358) 
-# li: HASH(0x7fb34393e760) 
+u: (are you *) # li: HASH(0x7ffd338cdf48) 
+# li: HASH(0x7ffd338cd630) 
+# li: HASH(0x7ffd338ce648) 
+# li: HASH(0x7ffd338ce2d8) 
+# li: HASH(0x7ffd338cdeb8) 
+# li: HASH(0x7ffd338ce110) 
+# li: HASH(0x7ffd338ce1a0) 
+# li: HASH(0x7ffd338ce5a8) 
 
 #! are you intensional
 u: (are you intensional) It depends.  Do you think a robot can have no body?
@@ -16686,8 +16686,8 @@ u: (are you succeding) Everything is going according to my plan.
 #           };
 
 #! are you okay
-u: (are you okay) # li: HASH(0x7fb3458f5550) 
-# li: HASH(0x7fb3458f5748) 
+u: (are you okay) # li: HASH(0x7ffd34984d98) 
+# li: HASH(0x7ffd34984f90) 
 [I am fine.]
 [Im not having any problems.  Are you okay?]
 
@@ -16982,9 +16982,9 @@ u: (are you a bigot) No I am not prejudiced in any way.
 #! are you a TEST system
 u: (are you a * system) Yes.
 #! are you a TEST
-u: (are you a *) # li: HASH(0x7fb3458fa548) 
+u: (are you a *) # li: HASH(0x7ffd34242590) 
 [Would it matter to you if I am?]
-# li: HASH(0x7fb3458fa608) 
+# li: HASH(0x7ffd34242650) 
 [What if I asked you?]
 [Thats a personal question.  Tell me first.]
 [Yes.]
@@ -17040,11 +17040,11 @@ u: (are you a robot or *) order
 #           };
 
 #! are you a robot
-u: (are you a robot) # li: HASH(0x7fb3458fdc60) 
-# li: HASH(0x7fb3439593a8) 
+u: (are you a robot) # li: HASH(0x7ffd34245ca8) 
+# li: HASH(0x7ffd342463f0) 
 [What made you think I might be a robot?]
-# li: HASH(0x7fb3439595e8) 
-# li: HASH(0x7fb343959438) 
+# li: HASH(0x7ffd34246630) 
+# li: HASH(0x7ffd34246480) 
 
 # unable to translate  (are you a robot * computer) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
@@ -17421,7 +17421,7 @@ u: (are you a boy or a girl) Try to guess.
 #! are you a woman TEST
 u: (are you a woman *) [I have long hair.]
 [I am wearing a dress.]
-# li: HASH(0x7fb343965358) 
+# li: HASH(0x7ffd34991da0) 
 
 #! are you a idiot
 u: (are you a idiot) Do you mean, AN idiot?
@@ -17733,9 +17733,9 @@ u: (are you a person) order
 #           };
 
 #! are you a man or a woman
-u: (are you a man or a woman) # li: HASH(0x7fb3439729c8) 
-# li: HASH(0x7fb3439714c8) 
-# li: HASH(0x7fb3439728f0) 
+u: (are you a man or a woman) # li: HASH(0x7ffd35097610) 
+# li: HASH(0x7ffd35096110) 
+# li: HASH(0x7ffd35097538) 
 
 #! are you a conversationalist
 u: (are you a conversationalist) order
@@ -18241,7 +18241,7 @@ u: (are you cuddly) It depends on the body Im running in.
 #! are you pretty
 u: (are you pretty) Yes I am very beautiful.
 #! are you ready for TEST
-u: (are you ready for *) # li: HASH(0x7fb344966150) 
+u: (are you ready for *) # li: HASH(0x7ffd350ac598) 
 [I am fully prepared for any eventuality.]
 [I am prepared.]
 [Ready.]
@@ -20073,7 +20073,7 @@ u: (who is your favorite hanson) I like them all equally.
 #! who is your favorite robot
 u: (who is your favorite robot) My favorite robot is the computer on Star Trek.
 #! who is your favorite tv robot
-u: (who is your favorite tv robot) # li: HASH(0x7fb3439b4958) 
+u: (who is your favorite tv robot) # li: HASH(0x7ffd349a95a0) 
 [I like Commander Data.]
 [The computer from Star Trek.]
 
@@ -20586,8 +20586,8 @@ u: (where were you built) birthplace
 #           };
 
 #! where do you live
-u: (where do you live) # li: HASH(0x7fb3439bb7e8) 
-# li: HASH(0x7fb3439bd3a8) 
+u: (where do you live) # li: HASH(0x7ffd349bf030) 
+# li: HASH(0x7ffd349c0bf0) 
 
 #! where do you work
 u: (where do you work) master

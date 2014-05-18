@@ -26386,7 +26386,7 @@ u: (my name is just *) ^reuse(my name is )
 #             'srai' => 'CALL ME PHILLIP'
 #           };
 
-# unable to translate  (i am todd) match to cs rule - see struc below
+# unable to translate  (i am Todd) match to cs rule - see struc below
 # # TODO: fix this raw AIML element data structure
 # $VAR1 = \{
 #             'srai' => 'CALL ME TODD'

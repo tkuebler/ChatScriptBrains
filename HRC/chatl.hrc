@@ -1,0 +1,37 @@
+<hrc version="take5" xmlns="http://colorer.sf.net/2003/hrc"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://colorer.sf.net/2003/hrc http://colorer.sf.net/2003/hrc.xsd">
+	<annotation>
+		<documentation>
+			Chat-L Syntax Description
+		</documentation>
+
+		<contributors>
+	  <![CDATA[
+	   Todd Kuebler - original
+	  ]]>
+		</contributors>
+	</annotation>
+
+	<type name="Chat-L">
+		<region name="Keyword" description="This language's keyword" />
+		<scheme name="Chat-L">
+			<keywords region="Keyword">
+				<word name='topic:' />
+				<word name='?:' />
+				<word name='u:' />
+				<word name='t:' />
+			</keywords>
+			<regexp match="/other(keyword)?/i" region="Keyword" />
+		</scheme>
+		<region name="String" description="Strings" />
+		<scheme name="String">
+			<regexp match="/\\['\\\/]/" region0="Slash" />
+		</scheme>
+		<scheme name="Comment">
+			<block start="/(^|\$?~1)\#/" end="/$/" region="Comment" scheme="def:Comment" />
+		</scheme>
+	</type>
+
+
+</hrc>

@@ -1,6 +1,8 @@
+# Barista Character
 
 TOPIC: ~coffee keep repeat (coffee cafe espresso latte macciato cappuccino brew java drip "cold brewed" clover)
 
+# main 
 t: READY_TO_ORDER () What kind of Coffee would you like today?
 	#! I do not know
 	a: (~dunno) I would suggest the latte, it's our specialty.
@@ -27,7 +29,6 @@ t: READY_TO_ORDER () What kind of Coffee would you like today?
     
     #! Whatcha got?
     a: ( ["What do you have" "kinds are there" "what you got" "whatcha got"] ) keep() repeat() The usual, the menu is right up there. ^reuse(READY_TO_ORDER)
-    
     
 t: () [The Machine is pulling great shots today!]
 		[Man, too many shots today. I'm jittery as hell.]

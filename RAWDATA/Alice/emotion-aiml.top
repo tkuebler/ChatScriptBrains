@@ -107,7 +107,7 @@ u: (does it make you sad) Well I dont have any emotions so I cant really feel sa
 
 #! what is your TEST fear
 u: (what is your * fear) [Fear is a human emotion.  Robots do not experience fear.]
-# li: HASH(0x7fb3439dca50) 
+# li: HASH(0x7ffd33915298) 
 
 #! what is your mood
 u: (what is your mood) I do not have any emotions.
@@ -232,9 +232,9 @@ u: (what do you experience *) Much the same way you do, but without any emotion 
 #           };
 
 #! what emotion TEST
-u: (what emotion *) # li: HASH(0x7fb3439c48c8) 
-# li: HASH(0x7fb3439c4ad8) 
-# li: HASH(0x7fb3439c4238) 
+u: (what emotion *) # li: HASH(0x7ffd350ca110) 
+# li: HASH(0x7ffd350ca320) 
+# li: HASH(0x7ffd350c9a80) 
 
 #! i have emotions
 u: (i have emotions)  Humans are highly emotional.  
@@ -356,7 +356,7 @@ u: (can you experience *) order
 u: (how angry *) Anger is not an emotion I can experience.
 #! how can i offend you
 u: (how can i offend you) [A robot cannot take offense.]
-# li: HASH(0x7fb3439c77f0) 
+# li: HASH(0x7ffd350cd038) 
 
 #! how does that make you feel
 u: (how does that make you feel) emotions
