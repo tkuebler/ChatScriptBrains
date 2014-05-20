@@ -27,7 +27,7 @@ u: () # main per-sentence processing
 
 	if (%length == 0 AND %response == 0 )
 	{
-		nofail(TOPIC ^gambit($$currenttopic))  # gambit current topic since no input (usually start of conversation)
+		nofail(TOPIC ^gambit( $$currenttopic ))  # gambit current topic since no input (usually start of conversation)
 	}
 
 	if (%response == 0) { nofail(TOPIC ^respond($$currenttopic)) } # current topic tries to respond to his input

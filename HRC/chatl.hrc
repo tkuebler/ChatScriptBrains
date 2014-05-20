@@ -1,37 +1,134 @@
-<hrc version="take5" xmlns="http://colorer.sf.net/2003/hrc"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://colorer.sf.net/2003/hrc http://colorer.sf.net/2003/hrc.xsd">
-	<annotation>
-		<documentation>
-			Chat-L Syntax Description
-		</documentation>
-
-		<contributors>
-	  <![CDATA[
-	   Todd Kuebler - original
-	  ]]>
-		</contributors>
-	</annotation>
-
-	<type name="Chat-L">
-		<region name="Keyword" description="This language's keyword" />
-		<scheme name="Chat-L">
-			<keywords region="Keyword">
-				<word name='topic:' />
-				<word name='?:' />
-				<word name='u:' />
-				<word name='t:' />
-			</keywords>
-			<regexp match="/other(keyword)?/i" region="Keyword" />
-		</scheme>
-		<region name="String" description="Strings" />
-		<scheme name="String">
-			<regexp match="/\\['\\\/]/" region0="Slash" />
-		</scheme>
-		<scheme name="Comment">
-			<block start="/(^|\$?~1)\#/" end="/$/" region="Comment" scheme="def:Comment" />
-		</scheme>
-	</type>
-
-
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hrc PUBLIC "-//Cail Lomecb//DTD Colorer HRC take5//EN"
+"http://colorer.sf.net/2003/hrc.dtd">
+<hrc xmlns="http://colorer.sf.net/2003/hrc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+version="take5"
+xsi:schemaLocation="http://colorer.sf.net/2003/hrc http://colorer.sf.net/2003/hrc.xsd">
+  <!--
+   chatl Syntax
+        Todd Kuebler <todd@kueber.org>
+-->
+  <type name="chatl">
+    <import type="def" />
+    <region name="chatlString" parent="String" />
+    <region name="chatlArrayNm" parent="StringContent" />
+    <region name="chatlComment" parent="Comment" />
+    <region name="chatlSymbol" parent="Symbol" />
+    <region name="chatlWord" parent="Keyword" />
+    <region name="chatlVar" parent="Label" />
+    <region name="chatlVar2" parent="VarStrong" />
+    <region name="chatlMainSymb" parent="SymbolStrong" />
+    <region name="chatlToken" paren="KeywordStrong" />
+    <scheme name="chatl">
+      <inherit scheme="chatlPairedBrackets">
+        <virtual scheme="chatlPairedBrackets" subst-scheme="chatl" />
+      </inherit>
+      <inherit scheme="chatlVar" />
+      <inherit scheme="chatlSymbol" />
+      <regexp match="/(parameter)/" region1="def:Parameter" />
+      <regexp match="/(varstrong)/" region1="def:VarStrong" />
+      <regexp match="/(label)/" region1="def:Label" />
+      <!-- Linear Comments -->
+      <regexp match="/(#!)(.*)$/" region1="chatlComment" region2="CommentContent" />
+      <regexp match="/#.*$/" region="chatlComment" />
+      <!-- Strings -->
+      <regexp match="/&quot;(\\.|[^\\&quot;])*?&quot;/" region0="chatlString" />
+      <regexp match="/'(\\.|[^\\'])*?'/" region0="chatlString" />
+      <!-- matching the Chat-L response type rules -->
+      <!-- t rule with and without tag -->
+      <regexp match="/^\s*(t:)\s+([A-Z_]{2,})*\s*(.*)/" region1="Operator" region2="chatlString" />
+      <regexp match="/^\s*(t:)\s+(.*)/" region1="Operator" />
+      <!-- rule with tag -->
+      <regexp match="/^\s*([a-gus\?]:)\s+([A-Z_]{2,})\s+\(\s*(.*?)\s*\)\s+/" region1="Operator"
+      region2="chatlString" region3="Operator" />
+      <!-- rule without tag -->
+      <regexp match="/^\s*([a-gus\?]:)\s+\(\s*(.*?)\s*\)\s+/" region1="Operator"
+      region2="Operator" />
+      <!-- find and color the tags in reuse macros -->
+      <regexp match="/\Mreuse\(([A-Z_]{2,})\)/" region1="chatlString" />
+      <keywords ignorecase="yes" region="chatlWord">
+        <word name="topic:" />
+        <word name="category:" />
+        <word name="^reuse" />
+        <word name="reuse" />
+        <word name="keep()" />
+        <word name="repeat()" />
+        <word name="keep" />
+        <word name="repeat" />
+      </keywords>
+    </scheme>
+    <scheme name="chatlPairedBrackets">
+      <!-- Paired block -->
+      <block start="/(\{)/" end="/(\})/" scheme="chatlPairedBrackets" region00="chatlMainSymb"
+      region01="def:PairStart" region10="chatlMainSymb" region11="def:PairEnd" />
+      <block start="/(\()/" end="/(\))/" scheme="chatlPairedBrackets" region00="chatlSymbol"
+      region01="def:PairStart" region10="chatlSymbol" region11="def:PairEnd" />
+      <block start="/(\[)/" end="/(\])/" scheme="chatlPairedBrackets" region00="chatlMainSymb"
+      region01="def:PairStart" region10="chatlMainSymb" region11="def:PairEnd" />
+    </scheme>
+    <scheme name="chatlSymbol">
+      <!-- operators -->
+      <keywords region="chatlSymbol">
+        <symb name="=" />
+        <symb name="/" />
+        <symb name="&amp;" />
+        <symb name="|" />
+        <symb name="&gt;" />
+        <symb name="%" />
+        <symb name="~" />
+        <symb name="^" />
+        <symb name="&lt;" />
+        <symb name="+" />
+        <symb name="-" />
+        <symb name="*" />
+        <symb name="," />
+        <symb name="\" />
+        <symb name="!" />
+        <symb name=";" />
+        <word name="::" region="chatlMainSymb" />
+      </keywords>
+    </scheme>
+    <scheme name="chatlVar">
+      <regexp match="/(\$+\w+)/" region1="chatlVar" />
+      <regexp match="/(\%+\w+)/" region1="chatlVar" />
+    </scheme>
+    <scheme name="chatlToken">
+      <regexp match="/(\~\w+)/" region1="chatlToken" />
+    </scheme>
+  </type>
 </hrc>
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is the Colorer Library.
+   -
+   - The Initial Developer of the Original Code is
+   - Cail Lomecb <cail@nm.ru>.
+   - Portions created by the Initial Developer are Copyright (C) 1999-2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
