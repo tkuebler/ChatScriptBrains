@@ -1,0 +1,66 @@
+topic: ~MADLIB keep repeat ()
+
+u: (madlib)
+
+ $issue = madNoun
+
+        Give me a noun
+
+
+u: ($issue=madNoun _*) give me another noun
+
+        $madNoun = _0
+
+ $issue = madNoun2
+
+
+u: ($issue=madNoun2 _*) give me an adjective
+
+        $madNoun2 = _0
+
+        $issue = madAdj
+
+
+u: ($issue=madAdj _*) give me another adjective
+
+        $madAdj = _0
+
+        $issue = madAdj2
+
+
+u: ($issue=madAdj2 _*)
+
+        $madAdj2 = _0
+
+        $issue = null
+
+n My poem n Roses are $madAdj n $madNoun are blue n  $madNoun2 is $madAdj2 n And so are you! nn Do you want to make another madlib?
+
+ a: (~yes)
+
+  $issue = madNoun
+
+                Give me a noun
+
+ a: (~no)
+
+  $issue=null
+
+  oh, ok then
+
+
+t:
+
+        Do you want to play a madlib?
+
+          a: (~yes)
+
+                $issue = madNoun
+
+                Give me a noun
+
+          a: (~no)
+
+  $issue = null
+
+                Oh, ok then 

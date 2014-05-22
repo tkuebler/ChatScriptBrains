@@ -2,7 +2,7 @@
 
 TOPIC: ~coffee keep() repeat() ( coffee cafe espresso latte macciato cappuccino brew java drip "cold brewed" clover)
 
-t: READY_TO_ORDER() [What kind of Coffee would you like today?][Whatcha havin'?][What Coffee can I get you today?]
+t: READY_TO_ORDER () [What kind of Coffee would you like today?][Whatcha havin'?][What Coffee can I get you today?]
 	#! I do not know
 	a: (~dunno) I would suggest the latte, it's our specialty.
 		b: (~yes) Ok, latte it is.  $order = latte
