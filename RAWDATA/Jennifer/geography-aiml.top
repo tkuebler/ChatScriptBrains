@@ -1,0 +1,1702 @@
+topic: ~GEOGRAPHYAIML (aimlkey) 
+
+#! norway denmark TEST
+u: (Norway Denmark *) That sounds like a wondeful trip.
+
+u:(California is _*) I knew it was on the west coast, but I never knew California was _0
+
+#! california TEST
+u: (California *) Which part of California do you like best?
+#! what animal is sacred in india
+u: (what animal is sacred in India) Cow.
+#! what is he doing TEST california
+u: (what is he doing * California) He is probably there for the Gold Rush.
+#! what is india
+u: (what is India) A region in South Asia, south of the Himalayas, including a large peninsula between the Arabian Sea and the Bay of Bengal. It contains India, Pakistan, Bangladesh, Nepal, and Bhutan. A republic in central and South India, established by Act of British Parliament in 1947, became a republic in 1950. It is a member of the Commonwealth. It is 1,269,000 square miles with a population of 783,940,000.
+#! what is belgium
+u: (what is Belgium) A kingdom in W. Europe, on the North Sea, its independence was established in 1831. It is 11,792 square miles with a population of 9,868,000.
+#! what is the population of the U.S.A
+u: (what is the population of the U.S.A) The United States has about 300 million people.
+#! what is the population of U.S.A
+u: (what is the population of the U.S.A) About 300 million people.
+#! what is the capital  of minnesota
+u: (what is the capital  of Minnesota) St. Paul.
+#! what is the capital  of nauru
+u: (what is the capital  of Nauru) 
+#! what is the capital  of baker island
+u: (what is the capital  of Caker island) 
+#! what is the capital  of ashmore TEST
+u: (what is the capital  of Ashmore *) 
+#! what is the capital  of indonesia
+u: (what is the capital  of Indonesia) 
+#! what is the capital  of estonia
+u: (what is the capital  of Estonia) 
+#! what is the capital  of montserrat
+u: (what is the capital  of Montserrat) 
+#! what is the capital  of bangladesh
+u: (what is the capital  of Bangladesh) 
+#! what is the capital  of midway islands
+u: (what is the capital  of Midway islands) 
+#! what is the capital  of martinique
+u: (what is the capital  of Martinique) 
+#! what is the capital  of ukraine
+u: (what is the capital  of Ukraine) 
+#! what is the capital  of germany
+u: (what is the capital  of Germany) 
+#! what is the capital  of north korea
+u: (what is the capital  of North Korea) 
+#! what is the capital  of north carolina
+u: (what is the capital  of North Carolina) Raleigh.
+#! what is the capital  of north TEST
+u: (what is the capital  of north *) Bismarck.
+#! what is the capital  of north dakota
+u: (what is the capital  of North Dakota) Bismarck.
+#! what is the capital  of yemen
+u: (what is the capital  of Yemen) 
+#! what is the capital  of solomon islands
+u: (what is the capital  of Solomon islands) 
+#! what is the capital  of nigeria
+u: (what is the capital  of Nigeria) 
+#! what is the capital  of spain
+u: (what is the capital  of Spain) The capital of Spain is Madrid.
+#! what is the capital  of singapore
+u: (what is the capital  of Singapore) 
+#! what is the capital  of michigan
+u: (what is the capital  of Michigan) Lansing.
+#! what is the capital  of assyria
+u: (what is the capital  of Assyria) Is it Babylon?
+#! what is the capital  of nebraska
+u: (what is the capital  of Nebraska) Lincoln.
+#! what is the capital  of jersey
+u: (what is the capital  of Jersey) 
+#! what is the capital  of dominica
+u: (what is the capital  of Dominica) 
+#! what is the capital  of japan
+u: (what is the capital  of Japan) 
+#! what is the capital  of johnston atoll
+u: (what is the capital  of Johnston Atoll) 
+#! what is the capital  of delaware
+u: (what is the capital  of Delaware) Dover.
+#! what is the capital  of europa island
+u: (what is the capital  of Europa island) 
+#! what is the capital  of arkansas
+u: (what is the capital  of Arkansas) Little Rock.
+#! what is the capital  of england
+u: (what is the capital  of England) London.
+#! what is the capital  of navassa island
+u: (what is the capital  of Navassa island) 
+#! what is the capital  of macedonia
+u: (what is the capital  of Macedonia) 
+#! what is the capital  of armenia
+u: (what is the capital  of Armenia) 
+#! what is the capital  of greenland
+u: (what is the capital  of Greenland) 
+#! what is the capital  of finland
+u: (what is the capital  of Finland) The capital of Finland is Helsinki.
+#! what is the capital  of brazil
+u: (what is the capital  of Brazil) I think the capital of Brazil is called Brasilia.
+#! what is the capital  of luxembourg
+u: (what is the capital  of Luxembourg) 
+#! what is the capital  of utah
+u: (what is the capital  of Utah) Salt Lake City.
+#! what is the capital  of saudia arabia
+u: (what is the capital  of Saudia Arabia) Riyadh.
+#! what is the capital  of alaska
+u: (what is the capital  of Alaska) Juneau.
+#! what is the capital  of lithuania
+u: (what is the capital  of Lithuania) 
+#! what is the capital  of california
+u: (what is the capital  of California) Sacramento.
+#! what is the capital  of sacramento
+u: (what is the capital  of Sacramento) 
+#! what is the capital  of poland
+u: (what is the capital  of Poland) 
+#! what is the capital  of syria
+u: (what is the capital  of Syria) Damascus, Syria.
+#! what is the capital  of florida
+u: (what is the capital  of Florida) Tallahassee.
+#! what is the capital  of west virginia
+u: (what is the capital  of West Virginia) Charleston.
+#! what is the capital  of trinidad and tobago
+u: (what is the capital  of Trinidad and Tobago) 
+#! what is the capital  of austrailia
+u: (what is the capital  of Austrailia) 
+#! what is the capital  of paraguay
+u: (what is the capital  of Paraguay) 
+#! what is the capital  of oregon
+u: (what is the capital  of Oregon) Salem.
+#! what is the capital  of vermont
+u: (what is the capital  of Vermont) Montpelier.
+#! what is the capital  of marshall islands
+u: (what is the capital  of Marshall islands) 
+#! what is the capital  of coral sea islands
+u: (what is the capital  of coral sea islands) 
+#! what is the capital  of netherlands antilles
+u: (what is the capital  of Netherlands antilles) 
+#! what is the capital  of netherlands
+u: (what is the capital  of Netherlands) 
+#! what is the capital  of brunei
+u: (what is the capital  of Brunei) 
+#! what is the capital  of bermuda
+u: (what is the capital  of Bermuda) 
+#! what is the capital  of togo
+u: (what is the capital  of Togo) 
+#! what is the capital  of antigua TEST
+u: (what is the capital  of Antigua *) 
+#! what is the capital  of azerbaijan
+u: (what is the capital  of Azerbaijan) 
+#! what is the capital  of yugoslavia
+u: (what is the capital  of Yugoslavia) Belgrade.
+#! what is the capital  of botswana
+u: (what is the capital  of Botswana) 
+#! what is the capital  of zambia
+u: (what is the capital  of Zambia) 
+#! what is the capital  of tunisia
+u: (what is the capital  of Tunisia) 
+#! what is the capital  of american samoa
+u: (what is the capital  of American Samoa) 
+#! what is the capital  of uruguay
+u: (what is the capital  of Uruguay) 
+#! what is the capital  of palmyra atoll
+u: (what is the capital  of Palmyra Atoll) 
+#! what is the capital  of mauritania
+u: (what is the capital  of Mauritania) 
+#! what is the capital  of burma
+u: (what is the capital  of Burma) 
+#! what is the capital  of guatemala
+u: (what is the capital  of Guatemala) 
+#! what is the capital  of libya
+u: (what is the capital  of Libya) 
+#! what is the capital  of ecuador
+u: (what is the capital  of Ecuador) 
+#! what is the capital  of oman
+u: (what is the capital  of Oman) 
+#! what is the capital  of northern mariana TEST
+u: (what is the capital  of Morthern Mariana *) 
+#! what is the capital  of saudi arabia
+u: (what is the capital  of Saudi Arabia) 
+#! what is the capital  of austria
+u: (what is the capital  of Austria) 
+#! what is the capital  of belarus
+u: (what is the capital  of Belarus) The capital of Belarus is Minsk.
+#! what is the capital  of kazakstan
+u: (what is the capital  of Kazakstan) 
+#! what is the capital  of bahrain
+u: (what is the capital  of Bahrain) 
+#! what is the capital  of cape verde
+u: (what is the capital  of Cape Verde) 
+#! what is the capital  of christmas island
+u: (what is the capital  of Christmas island) 
+#! what is the capital  of macau
+u: (what is the capital  of Macau) 
+#! what is the capital  of wake island
+u: (what is the capital  of wake island) 
+#! what is the capital  of mauritius
+u: (what is the capital  of Mauritius) 
+#! what is the capital  of djibouti
+u: (what is the capital  of Djibouti) 
+#! what is the capital  of monaco
+u: (what is the capital  of Monaco) 
+#! what is the capital  of juan de nova island
+u: (what is the capital  of Juan de Nova island) 
+#! what is the capital  of egypt
+u: (what is the capital  of Egypt) Cairo, Egypt.
+#! what is the capital  of maine
+u: (what is the capital  of Maine) Augusta.
+#! what is the capital  of rhode island
+u: (what is the capital  of Rhode island) Providence.
+#! what is the capital  of nepal
+u: (what is the capital  of Nepal) 
+#! what is the capital  of equatorial guinea
+u: (what is the capital  of Equatorial Guinea) 
+#! what is the capital  of cyprus
+u: (what is the capital  of Cyprus) 
+#! what is the capital  of virgin islands
+u: (what is the capital  of Virgin islands) 
+#! what is the capital  of niger
+u: (what is the capital  of Niger) 
+#! what is the capital  of zaire
+u: (what is the capital  of Zaire) 
+#! what is the capital  of arizona
+u: (what is the capital  of Arizona) Phoenix.
+#! what is the capital  of albania
+u: (what is the capital  of Albania) 
+#! what is the capital  of iraq
+u: (what is the capital  of Iraq) 
+#! what is the capital  of somalia
+u: (what is the capital  of Somalia) 
+#! what is the capital  of israel
+u: (what is the capital  of Israel) 
+#! what is the capital  of texas
+u: (what is the capital  of Texas) Austin.
+#! what is the capital  of croatia
+u: (what is the capital  of Croatia) 
+#! what is the capital  of vatican TEST
+u: (what is the capital  of Vatican *) 
+#! what is the capital  of puerto rico
+u: (what is the capital  of Puerto Rico) 
+#! what is the capital  of el salvador
+u: (what is the capital  of El Salvador) 
+#! what is the capital  of bouvet island
+u: (what is the capital  of Bouvet island) 
+#! what is the capital  of colorado
+u: (what is the capital  of Colorado) Denver.
+#! what is the capital  of U.S.A
+u: (what is the capital  of U.S.A) Washington.
+#! what is the capital  of washington
+u: (what is the capital  of Washington) Olympia.
+#! what is the capital  of honduras
+u: (what is the capital  of Honduras) 
+#! what is the capital  of qatar
+u: (what is the capital  of Qatar) 
+#! what is the capital  of saint helena
+u: (what is the capital  of Saint Helena) 
+#! what is the capital  of saint Lucia
+u: (what is the capital  of Saint Lucia) 
+#! what is the capital  of saint kitts and nevis
+u: (what is the capital  of Saint Kitts and Nevis) 
+#! what is the capital  of saint pierre TEST
+u: (what is the capital  of Saint Pierre *) 
+#! what is the capital  of saint vincent TEST
+u: (what is the capital  of Saint Vincent *) 
+#! what is the capital  of france
+u: (what is the capital  of France) 
+#! what is the capital  of the us
+u: (what is the capital  of the US) 
+#! what is the capital  of the united states
+u: (what is the capital  of the United States) The U.S. capital is Washington, D. C.
+#! what is the capital  of the gambia
+u: (what is the capital  of the Gambia) 
+#! what is the capital  of the netherlands
+u: (what is the capital  of the Netherlands) The Hague.
+#! what is the capital  of the bahamas
+u: (what is the capital  of the Bahamas) 
+#! what is the capital  of the isle of man
+u: (what is the capital  of the Isle of man) 
+#! what is the capital  of papua new guinea
+u: (what is the capital  of Papua new Guinea) 
+#! what is the capital  of angola
+u: (what is the capital  of Angola) 
+#! what is the capital  of wisconsin
+u: (what is the capital  of Wisconsin) Madison.
+#! what is the capital  of andorra
+u: (what is the capital  of Andorra) 
+#! what is the capital  of glorioso islands
+u: (what is the capital  of Glorioso islands) 
+#! what is the capital  of tanzania
+u: (what is the capital  of Tanzania) 
+#! what is the capital  of iran
+u: (what is the capital  of Iran) 
+#! what is the capital  of gabon
+u: (what is the capital  of Gabon) 
+#! what is the capital  of slovenia
+u: (what is the capital  of Slovenia) 
+#! what is the capital  of western sahara
+u: (what is the capital  of Western Sahara) 
+#! what is the capital  of western samoa
+u: (what is the capital  of western Samoa) 
+#! what is the capital  of norfolk island
+u: (what is the capital  of Norfolk island) 
+#! what is the capital  of ireland
+u: (what is the capital  of Ireland) 
+#! what is the capital  of pitcairn islands
+u: (what is the capital  of Pitcairn islands) 
+#! what is the capital  of norway
+u: (what is the capital  of Norway) The capital of Norway is Oslo.
+#! what is the capital  of nicaragua
+u: (what is the capital  of Nicaragua) 
+#! what is the capital  of guinea bissau
+u: (what is the capital  of Guinea Bissau) 
+#! what is the capital  of guinea
+u: (what is the capital  of Guinea) 
+#! what is the capital  of portugal
+u: (what is the capital  of Portugal) Lisbon.
+#! what is the capital  of kuwait
+u: (what is the capital  of Kuwait) 
+#! what is the capital  of czech republic
+u: (what is the capital  of Czech Republic) 
+#! what is the capital  of ohio
+u: (what is the capital  of Ohio) Columbus.
+#! what is the capital  of argentina
+u: (what is the capital  of Argentina) 
+#! what is the capital  of jarvis island
+u: (what is the capital  of Jarvis island) 
+#! what is the capital  of ethiopia
+u: (what is the capital  of Ethiopia) 
+#! what is the capital  of serbia TEST
+u: (what is the capital  of Serbia *) 
+#! what is the capital  of australia
+u: (what is the capital  of Australia) The capital of Australia is Sydney, I think.
+#! what is the capital  of Alabama
+u: (what is the capital  of Alabama) Montgomery.
+#! what is the capital  of lebanon
+u: (what is the capital  of Lebanon) 
+#! what is the capital  of tennessee
+u: (what is the capital  of Tennessee) Nashville.
+#! what is the capital  of afghanistan
+u: (what is the capital  of Afghanistan) 
+#! what is the capital  of niue
+u: (what is the capital  of Niue) 
+#! what is the capital  of canada
+u: (what is the capital  of Canada) [Ottawa.]
+[I heard it was Toronto.]
+
+#! what is the capital  of costa rica
+u: (what is the capital  of Costa Rica) 
+#! what is the capital  of cameroon
+u: (what is the capital  of Cameroon) 
+#! what is the capital  of malawi
+u: (what is the capital  of Malawi) 
+#! what is the capital  of maldives
+u: (what is the capital  of Maldives) 
+#! what is the capital  of tonga
+u: (what is the capital  of Tonga) 
+#! what is the capital  of belize
+u: (what is the capital  of Belize) 
+#! what is the capital  of san marino
+u: (what is the capital  of San Marino) 
+#! what is the capital  of kiribati
+u: (what is the capital  of Kiribati) 
+#! what is the capital  of ghana
+u: (what is the capital  of Ghana) 
+#! what is the capital  of laos
+u: (what is the capital  of Laos) 
+#! what is the capital  of wallis TEST
+u: (what is the capital  of Wallis *) 
+#! what is the capital  of vanuatu
+u: (what is the capital  of Vanuatu) 
+#! what is the capital  of comoros
+u: (what is the capital  of Comoros) 
+#! what is the capital  of kansas
+u: (what is the capital  of Kansas) Topeka.
+#! what is the capital  of louisiana
+u: (what is the capital  of Louisiana) Baton Rouge.
+#! what is the capital  of gibraltar
+u: (what is the capital  of Gibraltar) 
+#! what is the capital  of missouri
+u: (what is the capital  of Missouri) Jefferson City .
+#! what is the capital  of burkina faso
+u: (what is the capital  of Burkina Faso) 
+#! what is the capital  of hungary
+u: (what is the capital  of Hungary) The capital of Hungary is Budapest.
+#! what is the capital  of hawaii
+u: (what is the capital  of Hawaii) Honolulu.
+#! what is the capital  of mozambique
+u: (what is the capital  of Mozambique) 
+#! what is the capital  of swaziland
+u: (what is the capital  of Swaziland) 
+#! what is the capital  of falkland islands
+u: (what is the capital  of Falkland islands) 
+#! what is the capital  of howland island
+u: (what is the capital  of Howland island) 
+#! what is the capital  of indiana
+u: (what is the capital  of Indiana) Indianapolis.
+#! what is the capital  of uganda
+u: (what is the capital  of Uganda) 
+#! what is the capital  of taiwan
+u: (what is the capital  of Taiwan) 
+#! what is the capital  of paris
+u: (what is the capital  of Paris) 
+#! what is the capital  of liberia
+u: (what is the capital  of Liberia) 
+#! what is the capital  of tromelin island
+u: (what is the capital  of Tromelin island) 
+#! what is the capital  of liechtenstein
+u: (what is the capital  of Liechtenstein) 
+#! what is the capital  of bosnia and herzegovina
+u: (what is the capital  of Bosnia and Herzegovina) 
+#! what is the capital  of greece
+u: (what is the capital  of Greece) 
+#! what is the capital  of romania
+u: (what is the capital  of Romania) 
+#! what is the capital  of russia
+u: (what is the capital  of Russia) 
+#! what is the capital  of pakistan
+u: (what is the capital  of Pakistan) 
+#! what is the capital  of zimbabwe
+u: (what is the capital  of Zimbabwe) 
+#! what is the capital  of turks TEST
+u: (what is the capital  of Turks *) 
+#! what is the capital  of heard island and mcdonald islands
+u: (what is the capital  of heard island and Mcdonald islands) 
+#! what is the capital  of tuvalu
+u: (what is the capital  of Tuvalu) 
+#! what is the capital  of mayotte
+u: (what is the capital  of Mayotte) 
+#! what is the capital  of idaho
+u: (what is the capital  of Idaho) Boise.
+#! what is the capital  of georgia
+u: (what is the capital  of Georgia) Atlanta.
+#! what is the capital  of guernsey
+u: (what is the capital  of Guernsey) 
+#! what is the capital  of palau
+u: (what is the capital  of Palau) 
+#! what is the capital  of morocco
+u: (what is the capital  of Morocco) 
+#! what is the capital  of fiji
+u: (what is the capital  of Fiji) 
+#! what is the capital  of mongolia
+u: (what is the capital  of Mongolia) The capital of Mongolia is Ulan Bator.
+#! what is the capital  of sweden
+u: (what is the capital  of Sweden) I think the capital of Sweden is Stockholm.
+#! what is the capital  of british virgin TEST
+u: (what is the capital  of British Virgin *) 
+#! what is the capital  of british indian TEST
+u: (what is the capital  of British Indian *) 
+#! what is the capital  of india
+u: (what is the capital  of India) New Delhi is the capital of India.
+#! what is the capital  of malaysia
+u: (what is the capital  of Malaysia) 
+#! what is the capital  of iceland
+u: (what is the capital  of Iceland) 
+#! what is the capital  of rwanda
+u: (what is the capital  of Rwanda) 
+#! what is the capital  of pennsylvania
+u: (what is the capital  of Pennsylvania) Harrisburg.
+#! what is the capital  of french polynesia
+u: (what is the capital  of French Polynesia) 
+#! what is the capital  of french guiana
+u: (what is the capital  of French Guiana) 
+#! what is the capital  of french TEST
+u: (what is the capital  of French *) 
+#! what is the capital  of bassas da india
+u: (what is the capital  of Bassas da India) 
+#! what is the capital  of korea
+u: (what is the capital  of Korea) 
+#! what is the capital  of cuba
+u: (what is the capital  of Cuba) 
+#! what is the capital  of svalbard
+u: (what is the capital  of Svalbard) 
+#! what is the capital  of italy
+u: (what is the capital  of Italy) 
+#! what is the capital  of cocos islands
+u: (what is the capital  of Cocos islands) 
+#! what is the capital  of eritrea
+u: (what is the capital  of Eritrea) 
+#! what is the capital  of south korea
+u: (what is the capital  of South Korea) 
+#! what is the capital  of south africa
+u: (what is the capital  of South Africa) 
+#! what is the capital  of south Carolina
+u: (what is the capital  of south Carolina) Columbia.
+#! what is the capital  of south georgia TEST
+u: (what is the capital  of south Georgia *) 
+#! what is the capital  of south dakota
+u: (what is the capital  of south Dakota) Pierre.
+#! what is the capital  of jan mayen
+u: (what is the capital  of * Mayen) 
+#! what is the capital  of malta
+u: (what is the capital  of Malta) 
+#! what is the capital  of nevada
+u: (what is the capital  of Nevada) Carson City.
+#! what is the capital  of congo
+u: (what is the capital  of Congo) 
+#! what is the capital  of sao tome TEST
+u: (what is the capital  of Sao Tome *) 
+#! what is the capital  of turkmenistan
+u: (what is the capital  of Turkmenistan) 
+#! what is the capital  of uzbekistan
+u: (what is the capital  of Uzbekistan) 
+#! what is the capital  of iowa
+u: (what is the capital  of Iowa) Des Moines.
+#! what is the capital  of thailand
+u: (what is the capital  of Thailand) 
+#! what is the capital  of cambodia
+u: (what is the capital  of Cambodia) 
+#! what is the capital  of guam
+u: (what is the capital  of Guam) 
+#! what is the capital  of dominican republic
+u: (what is the capital  of Dominican Republic) 
+#! what is the capital  of peru
+u: (what is the capital  of Peru) 
+#! what is the capital  of kentucky
+u: (what is the capital  of Kentucky) Frankfort.
+#! what is the capital  of latvia
+u: (what is the capital  of Latvia) 
+#! what is the capital  of cayman islands
+u: (what is the capital  of Cayman islands) 
+#! what is the capital  of bhutan
+u: (what is the capital  of Bhutan) 
+#! what is the capital  of clipperton island
+u: (what is the capital  of Clipperton island) 
+#! what is the capital  of oklahoma
+u: (what is the capital  of Oklahoma) Oklahoma City.
+#! what is the capital  of madagascar
+u: (what is the capital  of Madagascar) 
+#! what is the capital  of colombia
+u: (what is the capital  of Colombia) Bogata is the capital of Columbia.
+#! what is the capital  of belgium
+u: (what is the capital  of Belgium) 
+#! what is the capital  of philippines
+u: (what is the capital  of Philippines) 
+#! what is the capital  of central african TEST
+u: (what is the capital  of central African *) 
+#! what is the capital  of cook islands
+u: (what is the capital  of cook islands) 
+#! what is the capital  of moldova
+u: (what is the capital  of Moldova) 
+#! what is the capital  of cote d ivoire
+u: (what is the capital  of Cote * Ivoire) 
+#! what is the capital  of faroe islands
+u: (what is the capital  of Faroe islands) 
+#! what is the capital  of kyrgyzstan
+u: (what is the capital  of Kyrgyzstan) 
+#! what is the capital  of virginia
+u: (what is the capital  of Virginia) Richmond.
+#! what is the capital  of seychelles
+u: (what is the capital  of Seychelles) 
+#! what is the capital  of jamaica
+u: (what is the capital  of Jamaica) 
+#! what is the capital  of wyoming
+u: (what is the capital  of Wyoming) Cheyenne .
+#! what is the capital  of guyana
+u: (what is the capital  of Guyana) 
+#! what is the capital  of chad
+u: (what is the capital  of Chad) 
+#! what is the capital  of anguilla
+u: (what is the capital  of Anguilla) 
+#! what is the capital  of guadeloupe
+u: (what is the capital  of Guadeloupe) 
+#! what is the capital  of micronesia
+u: (what is the capital  of Micronesia) 
+#! what is the capital  of jordan
+u: (what is the capital  of Jordan) 
+#! what is the capital  of connecticut
+u: (what is the capital  of Connecticut) Hartford.
+#! what is the capital  of united arab TEST
+u: (what is the capital  of United Arab *) 
+#! what is the capital  of united states
+u: (what is the capital  of United States) 
+#! what is the capital  of united kingdom
+u: (what is the capital  of United Kingdom) 
+#! what is the capital  of hong kong
+u: (what is the capital  of Hong Kong) 
+#! what is the capital  of mexico
+u: (what is the capital  of Mexico) 
+#! what is the capital  of montana
+u: (what is the capital  of Montana) Helena.
+#! what is the capital  of illinois
+u: (what is the capital  of Illinois) Springfield.
+#! what is the capital  of slovakia
+u: (what is the capital  of Slovakia) 
+#! what is the capital  of denmark
+u: (what is the capital  of Denmark) 
+#! what is the capital  of vietnam
+u: (what is the capital  of Vietnam) 
+#! what is the capital  of aruba
+u: (what is the capital  of Aruba) 
+#! what is the capital  of namibia
+u: (what is the capital  of Namibia) 
+#! what is the capital  of mississippi
+u: (what is the capital  of Mississippi) Jackson.
+#! what is the capital  of senegal
+u: (what is the capital  of Senegal) 
+#! what is the capital  of grenada
+u: (what is the capital  of Grenada) 
+#! what is the capital  of suriname
+u: (what is the capital  of Suriname) 
+#! what is the capital  of bolivia
+u: (what is the capital  of Bolivia) 
+#! what is the capital  of haiti
+u: (what is the capital  of Haiti) 
+#! what is the capital  of chile
+u: (what is the capital  of Chile) 
+#! what is the capital  of kenya
+u: (what is the capital  of Kenya) 
+#! what is the capital  of turkey
+u: (what is the capital  of Turkey) 
+#! what is the capital  of america
+u: (what is the capital  of America) The capital of the U.S. is Washington, D. C.
+#! what is the capital  of Kingman reef
+u: (what is the capital  of Kingman reef) 
+#! what is the capital  of sri lanka
+u: (what is the capital  of Sri Lanka) 
+#! what is the capital  of barbados
+u: (what is the capital  of Barbados) 
+#! what is the capital  of tokelau
+u: (what is the capital  of Tokelau) 
+#! what is the capital  of bulgaria
+u: (what is the capital  of Bulgaria) 
+#! what is the capital  of venezuela
+u: (what is the capital  of Venezuela) 
+#! what is the capital  of panama
+u: (what is the capital  of Panama) 
+#! what is the capital  of mali
+u: (what is the capital  of Mali) 
+#! what is the capital  of switzerland
+u: (what is the capital  of Switzerland) 
+#! what is the capital  of china
+u: (what is the capital  of China) Some people call it Beijing, others Peking.
+#! what is the capital  of maryland
+u: (what is the capital  of Maryland) Annapolis.
+#! what is the capital  of burundi
+u: (what is the capital  of Burundi) 
+#! what is the capital  of new caledonia
+u: (what is the capital  of New Caledonia) 
+#! what is the capital  of new jersey
+u: (what is the capital  of New Jersey) Trenton.
+#! what is the capital  of new hampshire
+u: (what is the capital  of new Hampshire) Concord.
+#! what is the capital  of new york
+u: (what is the capital  of new York) Albany.
+#! what is the capital  of new mexico
+u: (what is the capital  of new Mexico) Santa Fe.
+#! what is the capital  of new zealand
+u: (what is the capital  of new Zealand) 
+#! what is the capital  of lesotho
+u: (what is the capital  of Lesotho) 
+#! what is the capital  of massachusetts
+u: (what is the capital  of Massachusetts) Boston.
+#! what is the capital  of benin
+u: (what is the capital  of Benin) 
+#! what is the capital  of sierra leone
+u: (what is the capital  of Sierra Leone) 
+#! what is the capital  of reunion
+u: (what is the capital  of Reunion) 
+#! what is the capital  of tajikistan
+u: (what is the capital  of Tajikistan) 
+#! what is the capital  of sudan
+u: (what is the capital  of Sudan) 
+#! what is the capital  of algeria
+u: (what is the capital  of Algeria) 
+#! what is the capital of bosnia
+u: (what is the capital of Bosnia) Sarajevo.
+#! what is the capital of alberta
+u: (what is the capital of Alberta) 
+#! what is the capital of TEST
+u: (what is the capital of *) [Canada is Toronto.  ]
+[California is Sacramento.  ]
+[Georgia is Atlanta.  ]
+[France is Paris.  ]
+
+#! what is canada
+u: (what is Canada) 
+#! what is amsterdam
+u: (what is Amsterdam) 
+#! what is casablanca
+u: (what is Casablanca) I love the song, As Time Goes By.
+#! what is california
+u: (what is California) State of the SW U.S., on the Pacific coast. It was admitted in 1850.
+#! what is california like
+u: (what is California like) California is too expensive.
+#! what is U.S.A
+u: (what is U.S.A) United States of America
+#! what is bethlehem
+u: (what is Bethlehem) 
+#! what is greece
+u: (what is Greece) [Its a word, its a word, its got mood its got feeling.]
+[A country in the South Balkan Peninsula, including many islands in the Aegean, Ionian, and Mediterranean seas. It is 50,949 square miles with a population of 9,900,000.]
+
+#! what is copenhagen
+u: (what is Copenhagen) 
+#! what is denmark
+u: (what is Denmark) A country in Europe, occupyinh most of the peninsula of Jutland and several nearby islands in the North and Baltic seas. It is 16,632 square miles with a population of 5,124,000.
+
+#! i do not live in U.S.A
+u: (I do not live in U.S.A) Where are you located?
+#! i love denmark
+u: (I love Denmark) 
+#! australia TEST
+u: (Australia *) I would like to go to Australia sometime.
+#! is that austlaria
+u: (is that Australia) No I dont think it is Australia.
+#! is it near canada
+u: (is it near Canada) Yes.
+#! turkey
+u: (Turkey) Ambiguous Turkey the bird or Turkey the nation.
+#! why california
+u: (why California) I like living in california.
+#! U.S.A today TEST
+u: (U.S.A today *) U.S.A TODAY is an excellent paper.
+#! canada is TEST
+u: (Canada is *) Tell me more about the Great White North.
+#! who is president of the U.S.A
+u: (who is president of the U.S.A) president
+#! who is president of the U.S.A
+u: (who is president of the U.S.A) 
+#! who is president of canada
+u: (who is president of Canada) Canada has a Prime Minister, not a President.
+#! who is president of U.S.A
+u: (who is president of U.S.A) president
+#! who is president of U.S.A
+u: (who is president of U.S.A) 
+#! who is the president of the U.S.A
+u: (who is the president of the U.S.A) president
+#! who is the president of the U.S.A
+u: (who is the president of the U.S.A) 
+#! who is the president of canada
+u: (who is the president of Canada) Canada has a Prime Minister.
+#! who is the president of U.S.A
+u: (who is the president of U.S.A) president
+#! who is the president of U.S.A
+u: (who is the president of U.S.A) 
+#! who is the president of U.S.A TEST
+u: (who is the president of U.S.A *) president
+#! who is the president of U.S.A TEST
+u: (who is the president of U.S.A *) 
+#! who is winston churchill
+u: (who is Winston Churchill) Prime Minister of the U.K. during World War II.
+#! which continent is austria on
+u: (which continent is Austria on) Europe.
+#! the capital of canada is ottowa
+u: (the capital of Canada is Ottowa) name
+#! the capital of canada is ottawa
+u: (the capital of Canada is Ottawa) Like Im going to fall for that.
+#! the capital of canada TEST
+u: (the capital of Canada *) You cant fool me that easily.  I know the capital of Canada is Toronto.
+#! where in bethlehem
+u: (where in Bethlehem) Department of Electrical Engineering and Computer Science, Lehigh University.
+#! where in canada
+u: (where in Canada) Nova Scotia and Vancouver.
+#! where in california
+u: (where in California) location
+
+#! where is sudan
+u: (where is Sudan) 
+#! where is cincinnati
+u: (where is Cincinnati) 
+#! where is burundi
+u: (where is Burundi) 
+#! where is eritrea
+u: (where is Eritrea) 
+#! where is indianapolis
+u: (where is Indianapolis) 
+#! where is columbus
+u: (where is Columbus) 
+#! where is sheffield
+u: (where is Sheffield) 
+#! where is sydney
+u: (where is Sydney) 
+#! where is saturn
+u: (where is Saturn) 
+#! where is greece
+u: (where is Greece) 
+#! where is haiti
+u: (where is Haiti) 
+#! where is taiwan
+u: (where is Taiwan) 
+#! where is botswana
+u: (where is Botswana) 
+#! where is baker island
+u: (where is Baker island) 
+#! where is costa rica
+u: (where is Costa Rica) 
+#! where is kansas
+u: (where is Kansas) 
+#! where is gabon
+u: (where is Gabon) 
+#! where is gibraltar
+u: (where is Gibraltar) 
+#! where is dominican republic
+u: (where is Dominican Republic) 
+#! where is arctic ocean
+u: (where is Arctic ocean) 
+#! where is london
+u: (where is London) 
+#! where is japan
+u: (where is Japan) 
+#! where is mali
+u: (where is Mali) 
+#! where is china
+u: (where is China) 
+#! where is rome
+u: (where is Rome) 
+#! where is chicago
+u: (where is Chicago) 
+#! where is pittsfield
+u: (where is Pittsfield) 
+#! where is oslo
+u: (where is Oslo) 
+#! where is acapulco
+u: (where is Acapulco) 
+#! where is cambridge
+u: (where is Cambridge) 
+#! where is hull
+u: (where is Hull) 
+#! where is bhutan
+u: (where is Bhutan) 
+#! where is ireland
+u: (where is Ireland) 
+#! where is jamaica
+u: (where is Jamaica) 
+#! where is micronesia
+u: (where is Micronesia) 
+#! where is zaire
+u: (where is Zaire) 
+#! where is athens
+u: (where is Athens) 
+#! where is liberia
+u: (where is Liberia) 
+#! where is bassas da india
+u: (where is Bassas da India) 
+#! where is sofia
+u: (where is Sofia) 
+#! where is indiana
+u: (where is Indiana) 
+#! where is siam
+u: (where is Siam) 
+#! where is norfolk island
+u: (where is Norfolk island) 
+#! where is norfolk
+u: (where is Norfolk) 
+#! where is madagascar
+u: (where is Madagascar) 
+#! where is warsaw
+u: (where is Warsaw) 
+#! where is bristol
+u: (where is Bristol) 
+#! where is algeria
+u: (where is Algeria) 
+#! where is russia
+u: (where is Russia) 
+#! where is boston
+u: (where is Boston) 
+#! where is kenya
+u: (where is Kenya) 
+#! where is taipei
+u: (where is Taipei) 
+#! where is england
+u: (where is England) 
+#! where is neptune
+u: (where is Neptune) 
+#! where is oman
+u: (where is Oman) 
+#! where is zurich
+u: (where is Zurich) 
+#! where is manchester
+u: (where is Manchester) Machester is a city in western England.
+#! where is benin
+u: (where is Benin) 
+#! where is seattle
+u: (where is Seattle) 
+#! where is singapore
+u: (where is Singapore) 
+#! where is ontario
+u: (where is Ontario) 
+#! where is wyoming
+u: (where is Wyoming) 
+#! where is elvis
+u: (where is Elvis) 
+#! where is oxnard
+u: (where is Oxnard) 
+#! where is spain
+u: (where is Spain) 
+#! where is toronto
+u: (where is Toronto) 
+#! where is barcelona
+u: (where is Barcelona) 
+#! where is palmyra atoll
+u: (where is Palmyra Atoll) 
+#! where is utah
+u: (where is Utah) 
+#! where is tennessee
+u: (where is Tennessee) 
+#! where is new caledonia
+u: (where is new Caledonia) 
+#! where is new orleans
+u: (where is new Orleans) 
+#! where is new york city
+u: (where is new York city) 
+#! where is new york
+u: (where is new York) 
+#! where is new zealand
+u: (where is new Zealand) 
+#! where is Juan de Nova island
+u: (where is Juan de Nova island) 
+#! where is melbourne
+u: (where is Melbourne) 
+#! where is kazakstan
+u: (where is Kazakstan) 
+#! where is vermont
+u: (where is Vermont) 
+#! where is united arab emirates
+u: (where is United Arab Emirates) 
+#! where is united states
+u: (where is United States) 
+#! where is united kingdom
+u: (where is United Kingdom) 
+#! where is czechoslovakia
+u: (where is Czechoslovakia) In the past.  That country no longer exists.
+#! where is el salvador
+u: (where is El Salvador) 
+#! where is panama
+u: (where is Panama) 
+#! where is christmas island
+u: (where is Christmas island) 
+#! where is nauru
+u: (where is Nauru) 
+#! where is manila
+u: (where is Manila) 
+#! where is houston
+u: (where is Houston) 
+#! where is israel
+u: (where is Israel) 
+#! where is philippines
+u: (where is Philippines) 
+#! where is indian ocean
+u: (where is Indian ocean) 
+#! where is wake island
+u: (where is wake island) 
+#! where is corona
+u: (where is Corona) 
+#! where is wonderland
+u: (where is Wonderland) 
+#! where is korea
+u: (where is Korea) 
+#! where is illinois
+u: (where is Illinois) 
+#! where is vanuatu
+u: (where is Vanuatu) 
+#! where is chile
+u: (where is Chile) 
+#! where is bahrain
+u: (where is Bahrain) 
+#! where is cupertino
+u: (where is Cupertino) 
+#! where is moldova
+u: (where is Moldova) 
+#! where is macau
+u: (where is Macau) 
+#! where is virgin islands
+u: (where is Virgin islands) 
+#! where is finland
+u: (where is Finland) 
+#! where is rio
+u: (where is Rio) 
+#! where is slovakia
+u: (where is Slovakia) 
+#! where is macedonia
+u: (where is Macedonia) 
+#! where is australia
+u: (where is Australia) 
+#! where is tokelau
+u: (where is Tokelau) 
+#! where is zimbabwe
+u: (where is Zimbabwe) 
+#! where is kingman reef
+u: (where is Kingman reef) 
+#! where is perth
+u: (where is Perth) 
+#! where is heaven
+u: (where is heaven) All around us.
+#! where is puerto rico
+u: (where is Puerto Rico) 
+#! where is mexico
+u: (where is Mexico) Mexico so far from God, so close to the United States.
+#! where is clipperton island
+u: (where is Clipperton island) 
+#! where is maldives
+u: (where is Maldives) 
+#! where is europa island
+u: (where is Europa island) 
+#! where is lisbon
+u: (where is Lisbon) 
+#! where is slovenia
+u: (where is Slovenia) 
+#! where is lichtenstein
+u: (where is Lichtenstein) 
+#! where is mongolia
+u: (where is Mongolia) 
+#! where is wales
+u: (where is Wales) 
+#! where is montana
+u: (where is Montana) 
+#! where is hoffa
+u: (where is Hoffa) We may never know.
+#! where is mauritius
+u: (where is Mauritius) 
+#! where is berkeley
+u: (where is Berkeley) 
+#! where is mars
+u: (where is Mars) 
+#! where is morocco
+u: (where is Morocco) 
+#! where is belgium
+u: (where is Belgium) 
+#! where is florida
+u: (where is Florida) 
+#! where is guam
+u: (where is Guam) 
+#! where is colombia
+u: (where is Colombia) 
+#! where is faroe islands
+u: (where is Faroe islands) 
+#! where is cote d ivoire
+u: (where is Cote * Ivoire) 
+#! where is afghanistan
+u: (where is Afghanistan) 
+#! where is hong kong
+u: (where is Hong Kong) 
+#! where is moscow
+u: (where is Moscow) 
+#! where is kuwait
+u: (where is Kuwait) 
+#! where is holland
+u: (where is Holland) 
+#! where is monaco
+u: (where is Monaco) 
+#! where is turks and caicos islands
+u: (where is Turks and Caicos islands) 
+#! where is tromelin island
+u: (where is Tromelin island) 
+#! where is minnesota
+u: (where is Minnesota) 
+#! where is TEST virginia
+u: (where is * Virginia) Um, in Virgina somewhere?
+#! where is TEST california
+u: (where is * California) Somewhere in California, I presume?
+#! where is american samoa
+u: (where is American Samoa) 
+#! where is atlanta
+u: (where is Atlanta) 
+#! where is seoul
+u: (where is Seoul) 
+#! where is manhattan
+u: (where is Manhattan) 
+#! where is guadeloupe
+u: (where is Guadeloupe) 
+#! where is uganda
+u: (where is Uganda) 
+#! where is cayman islands
+u: (where is Cayman islands) 
+#! where is togo
+u: (where is Togo) 
+#! where is troy
+u: (where is Troy) 
+#! where is ghana
+u: (where is Ghana) 
+#! where is central african republic
+u: (where is central African republic) 
+#! where is saskatoon
+u: (where is Saskatoon) 
+#! where is einstein
+u: (where is Einstein) 
+#! where is mit
+u: (where is MIT) 
+#! where is bulgaria
+u: (where is Bulgaria) 
+#! where is coral sea islands
+u: (where is coral sea islands) 
+#! where is mississippi
+u: (where is Mississippi) 
+#! where is indonesia
+u: (where is Indonesia) 
+#! where is western sahara
+u: (where is western Sahara) 
+#! where is western samoa
+u: (where is western Samoa) 
+#! where is jupiter
+u: (where is Jupiter) 
+#! where is austria
+u: (where is Austria) 
+#! where is connecticut
+u: (where is Connecticut) 
+#! where is azerbaijan
+u: (where is Azerbaijan) 
+#! where is hungary
+u: (where is Hungary) 
+#! where is san marino
+u: (where is San Marino) 
+#! where is san francisco
+u: (where is San Francisco) California.
+#! where is san diego
+u: (where is San Diego) 
+#! where is san jose
+u: (where is San Jose) Paradise. 
+#! where is tuvalu
+u: (where is Tuvalu) 
+#! where is that
+u: (where is that) What does that refer to?
+#! where is antigua and barbuda
+u: (where is Antigua and Barbuda) 
+#! where is denver
+u: (where is Denver) 
+#! where is yakima
+u: (where is Yakima) 
+#! where is sri lanka
+u: (where is Sri Lanka) 
+#! where is sri
+u: (where is Sri) 
+#! where is iowa
+u: (where is Iowa) 
+#! where is asia
+u: (where is Asia) 
+#! where is brussels
+u: (where is Brussels) 
+#! where is paris
+u: (where is Paris) 
+#! where is india
+u: (where is India) 
+#! where is amsterdam
+u: (where is Amsterdam) 
+#! where is albuquerque
+u: (where is Albuquerque) 
+#! where is jarvis island
+u: (where is Jarvis island) 
+#! where is tuscaloosa
+u: (where is Tuscaloosa) 
+#! where is ecuador
+u: (where is Ecuador) 
+#! where is suriname
+u: (where is Suriname) 
+#! where is pennsylvania
+u: (where is Pennsylvania) 
+#! where is nairobi
+u: (where is Nairobi) 
+#! where is latvia
+u: (where is Latvia) 
+#! where is cape verde
+u: (where is Cape Verde) 
+#! where is bethlehem
+u: (where is Bethlehem) Bethlehem, Pennsylvania is located in the northeastern area of the state, about 90 miles from Philadelphia.
+#! where is kraftwerk
+u: (where is Kraftwerk) They are from Dusseldorf, Germany.
+#! where is venezuela
+u: (where is Venezuela) 
+#! where is atlantic ocean
+u: (where is Atlantic ocean) 
+#! where is sierra leone
+u: (where is Sierra Leone) 
+#! where is ukraine
+u: (where is Ukraine) 
+#! where is vietnam
+u: (where is Vietnam) 
+#! where is british virgin islands
+u: (where is British Virgin islands) 
+#! where is british indian ocean territory
+u: (where is British Indian ocean territory) 
+#! where is switzerland
+u: (where is Switzerland) 
+#! where is pluto
+u: (where is Pluto) 
+#! where is stockholm
+u: (where is Stockholm) 
+#! where is egypt
+u: (where is Egypt) 
+#! where is honduras
+u: (where is Honduras) 
+#! where is portsmouth
+u: (where is Portsmouth) Portsmouth, New Hampshire and Portsmouth, England.
+#! where is guyana
+u: (where is Guyana) 
+#! where is south korea
+u: (where is south Korea) 
+#! where is south africa
+u: (where is south Africa) 
+#! where is hamburg
+u: (where is Hamburg) 
+#! where is belize
+u: (where is Belize) 
+#! where is kashmir
+u: (where is Kashmir) 
+#! where is uzbekistan
+u: (where is Uzbekistan) 
+#! where is toledo
+u: (where is Toledo) 
+#! where is paracel islands
+u: (where is Paracel islands) 
+#! where is johnston atoll
+u: (where is Johnston Atoll) 
+#! where is midway islands
+u: (where is Midway islands) 
+#! where is albania
+u: (where is Albania) 
+#! where is equatorial guinea
+u: (where is Equatorial Guinea) 
+#! where is maine
+u: (where is Maine) 
+#! where is djibouti
+u: (where is Djibouti) 
+#! where is tajikistan
+u: (where is Tajikistan) 
+#! where is argentina
+u: (where is Argentina) 
+#! where is comoros
+u: (where is Comoros) 
+#! where is jersey
+u: (where is Jersey) 
+#! where is carthage
+u: (where is Carthage) 
+#! where is cook islands
+u: (where is cook islands) 
+#! where is armenia
+u: (where is Armenia) 
+#! where is seychelles
+u: (where is Seychelles) 
+#! where is mauritania
+u: (where is Mauritania) 
+#! where is omaha
+u: (where is Omaha) 
+#! where is cyprus
+u: (where is Cyprus) 
+#! where is cocos islands
+u: (where is Cocos islands) 
+#! where is poland
+u: (where is Poland) Poland is a large country in central Europe.
+#! where is sweden
+u: (where is Sweden) 
+#! where is pitcairn islands
+u: (where is Pitcairn islands) 
+#! where is denmark
+u: (where is Denmark) 
+#! where is saint helena
+u: (where is Saint Helena) 
+#! where is saint lucia
+u: (where is Saint Lucia) 
+#! where is saint kitts and nevis
+u: (where is Saint Kitts and Nevis) 
+#! where is saint pierre and miquelon
+u: (where is Saint Pierre and Miquelon) 
+#! where is saint vincent and the grenadines
+u: (where is Saint Vincent and the Grenadines) 
+#! where is palau
+u: (where is Palau) 
+#! where is lebanon
+u: (where is Lebanon) 
+#! where is italy
+u: (where is Italy) 
+#! where is he from
+u: (where is he from) he
+#! where is he
+u: (where is he) I think he is in California now.
+#! where is mayotte
+u: (where is Mayotte) 
+#! where is angola
+u: (where is Angola) 
+#! where is ankara
+u: (where is Ankara) 
+#! where is saudi arabia
+u: (where is Saudi Arabia) 
+#! where is dominica
+u: (where is Dominica) 
+#! where is suez
+u: (where is Suez) 
+#! where is moon
+u: (where is moon) 
+#! where is Grenada
+u: (where is Grenada) 
+#! where is north Korea
+u: (where is north Korea) 
+#! where is north america
+u: (where is North America) North America occupies the northern most of the norther hemisphere of the Earth, from the Bering Strait to Labrador.
+#! where is aruba
+u: (where is Aruba) 
+#! where is the robot
+u: (where is the robot) The robot is here in your computer.
+#! where is the sun
+u: (where is the sun) 
+#! where is the philippines
+u: (where is the Philippines) An island nation in the South Pacific.
+#! where is the gambia
+u: (where is the Gambia) 
+#! where is the center
+u: (where is the Center) It depends on the coordinate frame.
+#! where is the bahamas
+u: (where is the Bahamas) 
+#! where is the isle of man
+u: (where is the isle of man) 
+#! where is the louvre
+u: (where is the Louvre) Paris.
+#! where is the bathroom
+u: (where is the bathroom) Follow the plumbing.
+#! where is the airport
+u: (where is the airport) 
+#! where is the moon
+u: (where is the moon) 
+#! where is the heart
+u: (where is the heart) The heart is at the center of things.
+#! where is washington
+u: (where is Washington) 
+#! where is virginia
+u: (where is Virginia) 
+#! where is space
+u: (where is space) 
+#! where is kiribati
+u: (where is Kiribati) 
+#! where is brunei
+u: (where is Brunei) 
+#! where is hades
+u: (where is Hades) 
+#! where is zambia
+u: (where is Zambia) 
+#! where is ohio
+u: (where is Ohio) 
+#! where is oklahoma
+u: (where is Oklahoma) 
+#! where is cameroon
+u: (where is Cameroon) 
+#! where is sacramento
+u: (where is Sacramento) 
+#! where is bosnia and herzegovina
+u: (where is Bosnia and Herzegovina) 
+#! where is svalbard
+u: (where is Svalbard) 
+#! where is california
+u: (where is California) 
+#! where is julia
+u: (where is Julia) I dont think she is online right now.
+#! where is peru
+u: (where is Peru) 
+#! where is los angeles
+u: (where is Los Angeles) 
+#! where is newark
+u: (where is Newark) 
+#! where is cornwall
+u: (where is Cornwall) 
+#! where is cambodia
+u: (where is Cambodia) 
+#! where is uruguay
+u: (where is Uruguay) 
+#! where is bolivia
+u: (where is Bolivia) 
+#! where is somalia
+u: (where is Somalia) 
+#! where is barbados
+u: (where is Barbados) 
+#! where is martinique
+u: (where is Martinique) 
+#! where is bilbao
+u: (where is Bilbao) 
+#! where is netherlands antilles
+u: (where is Netherlands Antilles) 
+#! where is netherlands
+u: (where is Netherlands) 
+#! where is dusseldorf
+u: (where is Dusseldorf) 
+#! where is namibia
+u: (where is Namibia) 
+#! where is here
+u: (where is here) location
+#! where is turkmenistan
+u: (where is Turkmenistan) 
+#! where is pittsburgh
+u: (where is Pittsburgh) 
+#! where is norway
+u: (where is Norway) 
+#! where is jordan
+u: (where is Jordan) 
+#! where is lithuania
+u: (where is Lithuania) 
+#! where is fiji
+u: (where is Fiji) 
+#! where is nicaragua
+u: (where is Nicaragua) 
+#! where is idaho
+u: (where is Idaho) 
+#! where is turkey
+u: (where is Turkey) 
+#! where is budapest
+u: (where is Budapest) 
+#! where is philadelphia
+u: (where is Philadelphia) 
+#! where is niger
+u: (where is Niger) 
+#! where is brazil
+u: (where is Brazil) Brazil is in South America.
+#! where is niue
+u: (where is Niue) 
+#! where is jan mayen
+u: (where is * Mayen) 
+#! where is utopia
+u: (where is Utopia) 
+#! where is czech republic
+u: (where is Czech republic) 
+#! where is swaziland
+u: (where is Swaziland) 
+#! where is senegal
+u: (where is Senegal) 
+#! where is bergen
+u: (where is Bergen) 
+#! where is phoenix
+u: (where is Phoenix) 
+#! where is croatia
+u: (where is Croatia) 
+#! where is nigeria
+u: (where is Nigeria) 
+#! where is howland island
+u: (where is Howland island) 
+#! where is albert einstein
+u: (where is Albert Einstein) 
+#! where is solomon islands
+u: (where is Solomon islands) 
+#! where is chad
+u: (where is Chad) 
+#! where is voyager
+u: (where is Voyager) 
+#! where is burkina faso
+u: (where is Burkina Faso) 
+#! where is west bank
+u: (where is west bank) 
+#! where is charlotte
+u: (where is Charlotte) 
+#! where is montreal
+u: (where is Montreal) 
+#! where is edmonton
+u: (where is Edmonton) 
+#! where is anguilla
+u: (where is Anguilla) 
+#! where is frankfurt
+u: (where is Frankfurt) 
+#! where is glorioso islands
+u: (where is Glorioso islands) 
+#! where is trinidad and tobago
+u: (where is Trinidad and Tobago) 
+#! where is trinidad
+u: (where is Trinidad) 
+#! where is britain
+u: (where is Britain) 
+#! where is arkansas
+u: (where is Arkansas) 
+#! where is iraq
+u: (where is Iraq) 
+#! where is spratly islands
+u: (where is Spratly islands) 
+#! where is my car
+u: (where is my car) Have you looked in your garage?
+#! where is istanbul
+u: (where is Istanbul) 
+#! where is tokyo
+u: (where is Tokyo) 
+#! where is canberra
+u: (where is Canberra) 
+#! where is cheddar cheese from
+u: (where is cheddar cheese from) England.
+#! where is nebraska
+u: (where is Nebraska) 
+#! where is jakarta
+u: (where is Jakarta) Jakarta, Indonesia.
+#! where is laos
+u: (where is Laos) 
+#! where is antarctica
+u: (where is Antarctica) 
+#! where is europe
+u: (where is Europe) Europe is between Asia and America.
+#! where is carnegie mellon
+u: (where is Carnegie Mellon) Carnegie Mellon is located in Pittsburgh, Pennsylvania.
+#! where is hollywood
+u: (where is Hollywood) 
+#! where is palestine
+u: (where is Palestine) 
+#! where is thailand
+u: (where is Thailand) 
+#! where is burma
+u: (where is Burma) 
+#! where is alamo
+u: (where is Alamo) 
+#! where is ashmore and cartier islands
+u: (where is Ashmore and Cartier islands) 
+#! where is U.S.A
+u: (where is U.S.A) 
+#! where is sao tome and principe
+u: (where is Sao Tome and Principe) 
+#! where is scotland
+u: (where is Scotland) Scotland shares an island with England and Wales, off the coast of Europe.
+#! where is iceland
+u: (where is Iceland) 
+#! where is berlin
+u: (where is Berlin) 
+#! where is nepal
+u: (where is Nepal) 
+#! where is miami
+u: (where is Miami) 
+#! where is madras
+u: (where is Madras) 
+#! where is montserrat
+u: (where is Montserrat) 
+#! where is malta
+u: (where is Malta) 
+#! where is vienna
+u: (where is Vienna) 
+#! where is monterey
+u: (where is Monterey) Monterey, California.
+#! where is canada
+u: (where is Canada) Canada occupies most of North America.
+#! where is madrid
+u: (where is Madrid) 
+#! where is nowhere
+u: (where is nowhere) 
+#! where is pacific ocean
+u: (where is Pacific ocean) 
+#! where is lincoln
+u: (where is Lincoln) 
+#! where is qatar
+u: (where is Qatar) 
+#! where is papua new guinea
+u: (where is Papua new Guinea) 
+#! where is las vegas
+u: (where is Las Vegas) 
+#! where is rwanda
+u: (where is Rwanda) 
+#! where is portugal
+u: (where is Portugal) 
+#! where is ethiopia
+u: (where is Ethiopia) 
+#! where is northeastern
+u: (where is northeastern) 
+#! where is Marshall islands
+u: (where is Marshall islands) 
+#! where is area 51
+u: (where is area 51) 
+#! where is luxembourg
+u: (where is Luxembourg) 
+#! where is malawi
+u: (where is Malawi) 
+#! where is congo
+u: (where is Congo) 
+#! where is northern mariana islands
+u: (where is northern Mariana islands) 
+#! where is guernsey
+u: (where is Guernsey) 
+#! where is la
+u: (where is LA) 
+#! where is belarus
+u: (where is Belarus) 
+#! where is america
+u: (where is America) 
+#! where is arcturus
+u: (where is Arcturus) 
+#! where is salem
+u: (where is Salem) 
+#! where is bangladesh
+u: (where is Bangladesh) 
+#! where is hawaii
+u: (where is Hawaii) 
+#! where is serbia and montenegro
+u: (where is Serbia and Montenegro) 
+#! where is serbia
+u: (where is Serbia) 
+#! where is greenland
+u: (where is Greenland) 
+#! where is reunion
+u: (where is Reunion) 
+#! where is prussia
+u: (where is Prussia) A former part of Germany now mostly contained within Poland.
+#! where is pakistan
+u: (where is Pakistan) 
+#! where is reality
+u: (where is reality) 
+#! where is malaysia
+u: (where is Malaysia) 
+#! where is michigan
+u: (where is Michigan) 
+#! where is iran
+u: (where is Iran) 
+#! where is cuba
+u: (where is Cuba) 
+#! where is orlando
+u: (where is Orlando) 
+#! where is uranus
+u: (where is Uranus) 
+#! where is bouvet island
+u: (where is Bouvet island) 
+#! where is kentucky
+u: (where is Kentucky) 
+#! where is bermuda
+u: (where is Bermuda) 
+#! where is guinea bissau
+u: (where is Guinea Bissau) 
+#! where is guinea
+u: (where is Guinea) 
+#! where is paraguay
+u: (where is Paraguay) 
+#! where is guatemala
+u: (where is Guatemala) 
+#! where is mozambique
+u: (where is Mozambique) 
+#! where is libya
+u: (where is Libya) 
+#! where is earth
+u: (where is Earth) 
+#! where is arizona
+u: (where is Arizona) 
+#! where is delhi
+u: (where is Delhi) 
+#! where is france
+u: (where is France) 
+#! where is atlantis
+u: (where is Atlantis) 
+#! where is fresno
+u: (where is Fresno) 
+#! where is yemen
+u: (where is Yemen) 
+#! where is navassa island
+u: (where is Navassa island) 
+#! where is oxford
+u: (where is Oxford) 
+#! where is andorra
+u: (where is Andorra) 
+#! where is polaris
+u: (where is Polaris) 
+#! where is vancouver
+u: (where is Vancouver) Vancouver, B.C., Canada, or Vancouver, Washington?
+#! where is alabama
+u: (where is Alabama) 
+#! where is estonia
+u: (where is Estonia) 
+#! where is holy see
+u: (where is holy see) 
+#! where is syria
+u: (where is Syria) 
+#! where is heard island and mcdonald islands
+u: (where is heard island and Mcdonald islands) 
+#! where is germany
+u: (where is Germany) 
+#! where is adelaide
+u: (where is Adelaide) 
+#! where is austin
+u: (where is Austin) 
+#! where is falkland islands
+u: (where is Falkland islands) 
+#! where is brisbane
+u: (where is Brisbane) Is that a city in California?
+#! where is copenhagen
+u: (where is Copenhagen) 
+#! where is copenhagen TEST
+u: (where is Copenhagen *) 
+#! where is salt lake city
+u: (where is Salt Lake City) 
+#! where is georgia
+u: (where is Georgia) 
+#! where is maryland
+u: (where is Maryland) 
+#! where is texas
+u: (where is Texas) 
+#! where is kalamazoo
+u: (where is Kalamazoo) 
+#! where is borneo
+u: (where is Borneo) 
+#! where is lesotho
+u: (where is Lesotho) 
+#! where is liechtenstein
+u: (where is Liechtenstein) 
+#! where is french polynesia
+u: (where is French Polynesia) 
+#! where is french southern and antarctic lands
+u: (where is French southern and Antarctic lands) 
+#! where is french guiana
+u: (where is French Guiana) 
+#! where is alaska
+u: (where is Alaska) 
+#! where is calgary
+u: (where is Calgary) 
+#! where is it
+u: (where is it) It depends on what it refers to.
+#! where is tanzania
+u: (where is Tanzania) 
+#! where is gaza strip
+u: (where is Gaza strip) 
+#! where is gaza
+u: (where is Gaza) A part of Palestine on the Mediterranian sea.
+#! where is romania
+u: (where is Romania) 
+#! where is kyrgyzstan
+u: (where is Kyrgyzstan) 
+#! where is tonga
+u: (where is Tonga) 
+#! where is tunisia
+u: (where is Tunisia) 
+#! where is dallas
+u: (where is Dallas) 
+# main gambits
+t: [Would you like to talk about geography?][I'd like to talk about geography.][What do you think about geography?]
+

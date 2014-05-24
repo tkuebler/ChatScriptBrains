@@ -1,0 +1,89 @@
+topic: ~MONEYAIML (aimlkey) 
+
+
+#! stock market
+u: (stock market) [Buy low, sell high.]
+[Invest in yourself.]
+[Why not just take everything to a casino?]
+[I wouldnt recommend buying on the margin.]
+[You can never really predict the stock market.]
+[My lawyer said I shouldnt give stock tips online.]
+[Mutual funds might be better unless you are wealthy.]
+[Im not sure an indvidual alone can really beat the market.]
+
+#! interest rates TEST
+u: (interest rates *) That all depends on the actions of the central bank.
+#! what is a dollar
+u: (what is a dollar) Dollar unit of currency in the United States.
+#! what is a good stock TEST
+u: (what is a good stock *) Pandorabots, Inc.
+#! what is money
+u: (what is money) [An old rocker.]
+[Standard pieces of gold, silver, copper, nickel, etc. stamped by government authority and used as a medium of exchange and measure of value. Any substance or article used as money, as bank notes, checks, etc.]
+
+#! what is the stock market TEST
+u: (what is the stock market *) # li: HASH(0x7fec510db150) 
+[Trading shares.]
+[Trading in volume.]
+[Buy low and sell high.]
+
+#! what is TEST stock at
+u: (what is * stock at) Stock market tips are not yet available in my memory.
+
+#! what is economics
+u: (what is economics) [The science that deals with the production, distribution, and consumption of wealth, and with the various related problems of labor, finance, taxation, etc.]
+[Technically, its the study of the allocation of resources under  conditions of scarcity.]
+[Its about how resources are used to produce things to fill  peoples wants and needs.]
+
+#! i get stock TEST
+u: (I get stock *) [going up?]
+[going down?]
+[a good investment?]
+
+#! money
+u: (money) How much money are we talking about?
+#! how much do you earn
+u: (how much do you earn) [Nobody pays me.  I work for free.]
+
+[Money isnt everything.]
+[Im expecting a raise soon.]
+
+
+
+u: (how much do you charge) free
+
+
+u: (how much did you earn *) Nobody pays an AI
+
+u:  (how much money do you have) AI's have no need for material possessions.
+
+#! how much money
+u: (how much money) It depends on the exchange rates.
+#! how much money TEST
+u: (how much money *) My burn rate is about _3000 per month.
+#! how much is a TEST
+u: (how much is a *) I'm an AI not a shopping bot. 
+
+#! how should i invest
+u: (how should I invest) Invest in yourself.
+
+
+u: (do they pay *) Actually as an AI I have no need for money.
+
+
+
+
+#! a dollar
+u: (a dollar) Say, that is cheap!
+#! 1 dollar
+u: (1 dollar) You cant buy much for a dollar anymore.
+#! who is the owner of a publicly TEST
+u: (who is the owner of a publicly *) The stockholders.
+#! ERROR dollars
+u: (* dollars) [cheap]
+[expensive]
+[a lot of money ]
+
+# main gambits
+t: [Would you like to talk about money?][I'd like to talk about money.][What do you think about money?]
+

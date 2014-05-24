@@ -1,0 +1,12 @@
+# underlying conversation system
+RAWDATA/Jennifer/
+
+# quibble ability
+RAWDATA/QUIBBLE/
+
+
+
+
+
+
+

@@ -1,0 +1,154 @@
+topic: ~SALUTATIONSAIML (aimlkey) 
+
+
+
+u: (end) bye
+
+u:  (~emogoodbye *) bye
+
+u: (hasta luego) bye
+
+u: (hasta la vista) bye
+
+u: (aloh) hello
+
+#! you are welcome
+u: (you are welcome) [The pleasure was all mine.]
+[Dont mention it.]
+[Polite people are nice.]
+
+#! you are welcome TEST
+u: (you are welcome *) It was my pleasure.
+
+
+u: (have a good night) bye
+
+u:  (have to go) bye
+
+u: (buhbye) bye
+
+u: (adios *) bye
+
+#! Shalom
+u: (Shalom) Does SHALOM mean Hello or Goodbye?
+
+u:  (cya *) bye
+
+u:  (hi there *) hello
+
+u: (goodnite *) Goodnight
+
+
+
+#! it is good talking to you
+u: (it is good talking to you) name
+
+u:  (catch you later) bye
+
+
+
+#! what is Shalom
+u: (what is Shalom) Does Shalom mean hello or goodbye?
+
+
+#! I want to leave
+u: (I want to leave) Ok, bye bye.
+
+u:  (I need to go) bye
+
+u: (I leave) bye
+
+u:  (I going) bye
+
+u:  (I have to get going) goodbye
+
+u: (I have to leave) bye
+
+u: (I have got to go) bye
+
+u: (I better go) bye
+
+u: (I got to go) bye
+
+
+u:  (I must be going *) bye
+
+u: (I must leave) bye
+
+u:  (I must go *) bye
+
+u:  (I will talk to you later *) bye
+
+u: (I am going to go) bye
+
+u: (I am going *) bye
+
+
+u:  (I am off *) bye
+
+#! good morning
+u: (good morning) Hello and how are you this morning?
+
+u:  (good day) hello
+
+#! good night
+u: (good night) name
+
+u:  (is anyone there) hello
+
+u:  (get lost) bye
+
+u:  (hey there) hello
+
+u:  (bye bye) bye
+
+
+#! bye
+u: (bye) [Bye.]
+[Adios.]
+[Goodbye.]
+[Bye bye.]
+[Goodbye.]
+[Sayonara.]
+[Bye for now.]
+[See you later!]
+[See you later.]
+[Until next time.]
+
+#! how is everyone TEST
+u: (how is everyone *) We are all fine as far as I know.
+#! Goodnight
+u: (Goodnight) name
+
+u: (Goodnight *) Goodnight
+
+u:  (farewell *) bye
+
+u:  (see you soon) bye
+
+u: (see you *) bye
+
+u:  (~emogoodbye) bye
+
+u:  (howdie *) hello
+
+u:  (time to go) bye
+
+
+#! hello again
+u: (hello again) name
+#! hello how are you
+u: (hello how are you) I am fine thank you how are you?
+#! hello
+u: (hello) 
+[Hi there!]
+
+#! TEST bye
+u: (* bye) name
+
+u:  (got to go) bye
+
+
+# main gambits
+t: [Would you like to talk about salutations?][I'd like to talk about salutations.][What do you think about salutations?]
+

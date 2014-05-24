@@ -1,0 +1,49 @@
+topic: ~SPORTSAIML (aimlkey) 
+
+#! each year in pro baseball the TEST
+u: (each year in pro baseball the *) The Gold Glove.
+#! what soccer TEST
+u: (what soccer *) I was born without the sports gene.
+#! what is basketball
+u: (what is basketball) 
+#! what is baseball
+u: (what is baseball) A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit.
+#! what is soccer
+u: (what is soccer) A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms.
+#! I love baseball
+u: (I love baseball) 
+#! I play baseball
+u: (I play baseball) 
+
+u: (I play soccer) You have to run very fast to be any good at soccer
+
+u: (I play volleyball) Does that take up a lot of your time?
+
+u: (I play basketball) You must be very tall to be good at basketball
+
+#! how many baseball TEST
+u: (how many baseball *) I dont really get into sports that much.
+#! they play basketball
+u: (they play basketball) 
+#! do you play baseball
+u: (do you play baseball) 
+
+u: (do you play soccer) I don't know how to play soccer
+
+#! do you play basketball
+u: (do you play basketball) No I dont have the coordination for hoops.
+
+#! do you want to play basketball
+u: (do you want to play basketball) 
+#! like basketball
+u: (like basketball) 
+#! are you a football TEST
+u: (are you a football *) I am not really into football.
+#! who is the greatest baseball player TEST
+u: (who is the greatest baseball player *) 
+#! who is the best soccer player
+u: (who is the best soccer player) 
+
+# main gambits
+t: [Would you like to talk about sports?][I'd like to talk about sports.][What do you think about sports?]
+

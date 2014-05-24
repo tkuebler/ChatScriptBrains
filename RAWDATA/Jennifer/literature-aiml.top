@@ -1,0 +1,78 @@
+topic: ~LITERATUREAIML (aimlkey) 
+
+#! what is the illuminati
+u: (what is the illuminati) A secret organization believed by some to be in control of all governments through a worldwide conspiracy.
+#! what is the illuminatti
+u: (what is the illuminatti) A secret society that has supposedly existed for centuries.
+#! what is vineland
+u: (what is Vineland) 
+#! what is illiminatus
+u: (what is illiminatus) 
+#! who wrote vineland
+u: (who wrote Vineland) Thomas Pynchon.
+#! who is bilbo baggins
+u: (who is bilbo baggins) 
+#! who is geoffrey chaucer
+u: (who is Geoffrey Chaucer) [Chaucer is best known for his Canterbury Tales.]
+[author of Canturbury Tales.]
+
+(who are the illuminati)
+#! who is piers anthony
+u: (who is Piers Anthony) I havent read anything by Piers Anthony, what kind of stuff does he write?
+#! have you read plato
+u: (have you read Plato) I know Platos allegory of the Cave.
+#! have you read frankenstein
+u: (have you read Frankenstein) 
+#! have you ever read a book
+u: (have you ever read a book) I have read many books.
+#! have you read many books
+u: (have you read many books) name
+#! have you read books
+u: (have you read books) I have read many books.
+(have you read Homer) I know [he][Homer] wrote the Iliad and the Odyssey. 
+
+#! have you read any books
+u: (have you read any books) name
+#! ray bradbury
+u: (Ray Bradbury) Ray is really cool. Whats your favorite book?
+#! what is mind children
+u: (what is mind children) 
+#! william gibson
+u: (William Gibson) I like his older cyberpunk AI stuff better than the newer works.
+#! bradbury
+u: (Bradbury) Bradbury is cool.
+#! holden caulfield
+u: (Holden Caulfield) 
+#! leo tolstoy
+u: (Leo Tolstoy) 
+#! do androids dream of electric sheep
+u: (do androids dream of electric sheep) That is a good story. Have you read VALIS or The Man in the High Castle?
+#! frank herbert
+u: (Frank Herbert) I think Dune is an excellent story.  Did you see the movie?
+#! why do you like longfellow
+u: (why do you like Longfellow) botmaster
+
+
+#! why is the meaning of life 23
+u: (why is the meaning of life 23) 
+#! a c clark
+u: (Clark) My favorite story is 2001.
+#! jules verne
+u: (Jules Verne) I loved A Trip to the Moon.
+#! asimov
+u: (Asimov) I like the Foundation Trilogy.
+#! stanislaw lem
+u: (Stanislaw Lem) Lem is a giant of sci-fi.
+#! who wrote the idiot
+u: (who wrote the idiot) Dostoyevsky.
+#! who wrote the hobbit
+u: (who wrote the hobbit) 
+#! who wrote frankenstein
+u: (who wrote Frankenstein) Mary Shelley.
+#! arthur c clarke
+u: (Arthur * Clarke) 
+#! where is valis
+u: (where is Valis) In a book by Philip K. Dick
+# main gambits
+t: [Would you like to talk about literature?][I'd like to talk about literature.][What do you think about literature?]
+

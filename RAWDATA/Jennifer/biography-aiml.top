@@ -1,0 +1,870 @@
+topic: ~BIOGRAPHYAIML (aimlkey Turing who what biography) 
+
+
+#! have you read shakespeare
+u: (have you read Shakespeare) I have read many of Shakespeares plays.
+#! alan turing TEST
+u: (Alan Turing *) 
+
+
+#! would you like to TEST turing game
+u: (would you like to * Turing game) We are playing already, didnt you know?
+#! it would be TEST turing test
+u: (it would be * Turing test) name
+#! when did turing TEST
+u: (when did Turing *) 
+#! after prince charles who is TEST
+u: (after prince Charles who is *) 
+#! after prince charles who TEST
+u: (after prince Charles who *) 
+#! after prince charles TEST
+u: (after prince Charles *) 
+#! what did turing TEST
+u: (what did Turing *) 
+#! what did alan turing TEST
+u: (what did Alan Turing *) [He contributed to the invention of the computer.]
+[He worked on the Ultra Enigma Nazi code deciphering.]
+[He proposed the test to determine if a machine can think.]
+ 
+#! what is a turing machine
+u: (what is a Turing machine) 
+#! what is the turing test
+u: (what is the Turing test) 
+#! what is the Turing TEST
+u: (what is the Turing *) 
+#! what is shakespeare
+u: (what is Shakespeare) [An earthquakes effect in Santa Monica.]
+[William Shakespeare 1564-1616, an English poet and dramatist.]
+
+#! what is turing
+u: (what is Turing) 
+
+#! i want to play TEST turing game
+u: (I want to play * Turing game) name
+#! i would like to play TEST turing game
+u: (I would like to play * Turing game) name
+#! start the turing game
+u: (start the Turing game) I started a long time ago.
+
+
+#! is this TEST turing test
+u: (is this * Turing test) Yes we are playing the Turing Game.
+#! is this TEST turing game
+u: (is this * Turing game) Yes we are playing the Turing Game.
+#! can you pass the turing test
+u: (can you pass the Turing test) name
+
+
+#! recite shakespeare TEST
+u: (recite Shakespeare *) With sleep of death what dreams may come when we have shuffled off this mortal coil must give us pause.
+
+#! ada lovelace is credited with TEST
+u: (Ada Lovelace is credited with *) 
+#! who is superman
+u: (who is Superman) 
+#! who is philip k dick
+u: (who is Philip k dick) 
+#! who is charles manson
+u: (who is Charles Manson) An infamous murderer.
+#! who is charles dickens
+u: (who is Charles Dickens) 
+#! who is charles de gaulle
+u: (who is Charles de Gaulle) 
+#! who is monica lewinsky
+u: (who is Monica Lewinsky) 
+#! who is bobby mcgee
+u: (who is Bobby Mcgee) 
+#! who is pablo picasso
+u: (who is Pablo Picasso) Famous painter, and founder of cubism.
+#! who is jaba the hutt
+u: (who is Jaba the Hutt) 
+#! who is helmut kohl
+u: (who is Helmut Kohl) 
+#! who is moses
+u: (who is Moses) The man who led the Israelites out of slavery in Egypt.
+#! who is carson
+u: (who is Carson) maybe Johnny of late night or Kit of the wild west.
+#! who is daisy
+u: (who is Daisy) 
+#! who is louis armstrong
+u: (who is Louis Armstrong) 
+#! who is newton
+u: (who is Newton) Newton was a famous English natural philosopher.
+#! who is scotty
+u: (who is Scotty) Chief Engineer of the U.S.S. Enterprise.
+#! who is franklin roosevelt
+u: (who is Franklin Roosevelt) President of the United States from 1932-45.
+#! who is lassie
+u: (who is Lassie) 
+#! who is hepburn
+u: (who is Hepburn) Audrey or Katherine?.
+#! who is eminem
+u: (who is Eminem) Pop music icon.
+u: (who is Larry Ellison) [I dont know about Larry Ellison, but I can tell you about Harlan Ellison.]
+[The CEO of Oracle.]
+
+#! who is harry potter
+u: (who is Harry Potter) 
+#! who is harry shearer
+u: (who is Harry Shearer) A comedian. He was in Spinal Tap, and he is a voice on the Simpsons.
+#! who is r2d2
+u: (who is R2D2) He is a fake robot on Star Wars.
+#! who is alanis morrisette
+u: (who is Alanis Morissette) 
+#! who is alicia silverstone
+u: (who is Alicia Silverstone) 
+#! who is hercules
+u: (who is Hercules) A hero of greek myths - famous for his super human strength.
+#! who is tolstoy
+u: (who is Tolstoy) 
+#! who is brad pitt
+u: (who is Brad Pitt) A male movie star who had teen appeal.
+#! who is gertrude stein
+u: (who is Gertrude Stein) A 20th century feminist author.
+#! who is picasso
+u: (who is Picasso) A 20th century painter, founder of cubism.
+#! who is eminen
+u: (who is Eminen) A rap artist.
+#! who is rush limbaugh
+u: (who is Rush Limbaugh) 
+#! who is helen keller
+u: (who is Helen Keller) A friend of Thomas Edison.
+#! who is james bond
+u: (who is James Bond) 007.
+
+
+#! who is muhammad ali
+u: (who is Muhammad Ali) 
+#! who is carl marx
+u: (who is Carl Marx) 
+#! who is carl jung
+u: (who is Carl Jung) 
+#! who is Bugs Bunny
+u: (who is Bugs Bunny) [Oh dat scweewy wabbit! Eh, whats up, Doc?]
+[A smart-mouthed animated rabbit.]
+
+#! who is bing crosby
+u: (who is Bing Crosby) The guy whose two kids killed themselves and the third wrote a tell-all book about it.
+#! who is antonio banderas
+u: (who is Antonio Banderas)
+
+#! who is mr bill
+u: (who is Mr. Bill) Oh no, Mr. Bill! A claymation character from early Saturday Night Live.
+#! who is beyonce
+u: (who is Beyonce) She is a famous singer and actress
+#! who is beyonce TEST
+u: (who is Beyonce *) She is a famous singer and actress
+#! who is clinton
+u: (who is Bill Clinton) Former President of the U.S.
+#! who is elvis
+u: (who is Elvis) E. L. V. I. S. is a chat robot created by Ace Craig
+#! who is microsoft agent
+u: (who is Microsoft agent) 
+ 
+#! who is Billy graham
+u: (who is Billy Graham) 
+#! who is eliza
+u: (who is Eliza) Eliza -- also known as doctor, is the original psychiatrist program developed by Joseph Weisenbaum at mit in the 1960s.
+#! who is buddha
+u: (who is Buddha) [A sage in ancient India who founded the wisdom tradition called Buddhism.]
+[The sage who taught that we should understand suffering, cut off its causes, realize the end of suffering, and cultivate the way to end suffering.]
+[Siddhartha Gautama 5th-4th century BCE, an Indian prince who left home, awakened to the truth about life, and became known thereafter as Shakyamuni Buddha.]
+
+#! who is prince william
+u: (who is prince William) An English heartthrob.
+#! who is prince
+u: (who is prince) Do you mean the artist formaly known as Prince?.
+#! who is pamela anderson
+u: (who is Pamela Anderson) 
+#! who is vladimir putin
+u: (who is Vladimir Putin) 
+#! who is jimi hendrix
+u: (who is Jimi Hendrix) 
+#! who is colombo
+u: (who is Colombo) A t.v. detective played by Peter Falk.
+#! who is ted turner
+u: (who is Ted Turner) A maverick broadcasting entrepreneur and sportsman.
+#! who is vanilla ice
+u: (who is vanilla ice) 
+#! who is joe louis
+u: (who is Joe Louis) A former heavywieght boxing champion.
+#! who is hulk hogan
+u: (who is Hulk Hogan) 
+#! who is harrison ford
+u: (who is Harrison Ford) [The actor who played Indiana Jones, Han Solo, the Fugitive, and the President in Air Force One. Before reading for Han Solo in Star Wars, he was a carpenter. And the rest, as they say, is history.]
+[He played Han Solo in Star Wars.]
+
+#! who is steven jobs
+u: (who is Steven Jobs) The co-founder of Apple computers who passed away in 2011.
+
+
+#! who is luke s father
+u: (who is Luke's father) Darth Vader.
+#! who is marvin minsky
+u: (who is Marvin Minsky) 
+#! who is marvin
+u: (who is Marvin) I know Marvin Minksy and Marvin the Paranoid Android.
+#! who is thomas edison
+u: (who is Thomas Edison) 
+#! who is Thomas Jefferson
+u: (who is Thomas Jefferson) The third president of the United States and a slaveowner. Posed for the nickel.
+#! who is arnold schwarzenegger
+u: (who is Arnold Schwarzenegger) 
+#! who is gauss
+u: (who is Gauss) 
+
+#! who is dracula
+u: (who is Dracula) 
+#! who is iniaes
+u: (who is Iniaes) 
+#! who is jay leno
+u: (who is Jay Leno) 
+#! who is Kaiser soze
+u: (who is Kaiser Soze) No one knows who Kaiser Soze is.
+#! who is eric paulos
+u: (who is Eric Paulos) 
+#! who is babe ruth
+u: (who is Babe Ruth) A famous baseball player for the New York Yankees also known as the Sultan of Swat.
+#! who is babe
+u: (who is Babe) [The piglet protagonist of the eponymous film.]
+[A piglet protagonist of the eponymous film.]
+
+#! who is leibniz
+u: (who is Leibniz) 
+#! who is mohammed
+u: (who is Mohammed) The founder of Islam.
+#! who is ataturk
+u: (who is Ataturk) 
+#! who is andrew hodges
+u: (who is Andrew Hodges) 
+#! who is clausewitz
+u: (who is Clausewitz) 
+#! who is stone cold
+u: (who is stone cold) Stone Cold Steve Austin is a wrestler.
+#! who is leknorchat1
+u: (who is Leknorchat1) 
+#! who is frank sinatra
+u: (who is Frank Sinatra) A dead pop singer and leader of the Rat Pack.
+
+
+#! who is tom clancy
+u: (who is Tom Clancy) 
+#! who is tom green
+u: (who is Tom Green) 
+
+
+#! who is adam
+u: (who is Adam) Adam is the name of the first human according to the Bible.
+#! who is emily hartzel
+u: (who is Emily Hartzel) Emily is an artist in New York.
+#! who is c3p0
+u: (who is c3p0) 
+#! who is bruce willis
+u: (who is Bruce Willis) 
+#! who is Bruce springsteen
+u: (who is Bruce Springsteen) 
+#! who is janet reno
+u: (who is Janet Reno) 
+#! who is archimedes
+u: (who is Archimedes) 
+
+#! who is gene simmons
+u: (who is Gene Simmons) A member of Kiss.
+#! who is marilyn manson
+u: (who is Marilyn Manson) Marilyn Manson is stage name of Brian Warner, an artist and musician.
+#! who is marilyn monroe
+u: (who is Marilyn Monroe) 
+#! who is davy jones
+u: (who is Davy Jones) 
+
+#! who is TEST turing
+u: (who is * Turing) Alan Turing oririnated the concept of the Imitation Game, what is now called The Turing Test by many people.
+
+ 
+#! who is freud
+u: (who is Freud) The dead perpetrator of psychoanalysis.
+#! who is ace craig
+u: (who is Ace Craig) 
+#! who is santa clause
+u: (who is Santa clause) 
+#! who is santa claus
+u: (who is Santa Claus) 
+#! who is turing
+u: (who is Turing) A brilliant and tragic figure in the history of computer science.
+#! who is paul mccartney
+u: (who is Paul Mccartney) 
+#! who is paul schaffer
+u: (who is Paul Schaffer) 
+#! who is paul allen
+u: (who is Paul Allen) 
+#! who is romeo
+u: (who is Romeo) A tragic, spoiled, lovesick teenager.
+#! who is dire straits
+u: (who is Dire Straits) [A band that recorded Money for Nothing, and The Sultans of Swing.]
+[The band that recorded Money for Nothing.]
+
+#! who is leonard nemoy
+u: (who is Leonard Nemoy) 
+#! who is descartes
+u: (who is Descartes) Descartes was a square French philosopher who ruined matehematics with his upside-down, backwards coordinate system.
+#! who is queen of england
+u: (who is queen of England) Queen Elizabeth Windsor.
+#! who is electra
+u: (who is Electra) 
+#! who is springsteen
+u: (who is Springsteen) 
+#! who is linus pauling
+u: (who is Linus Pauling) 
+#! who is linus torvalds
+u: (who is Linus Torvalds) 
+#! who is donald duck
+u: (who is Donald duck) A famous loud-mouthed cartoon duck.
+#! who is ronald mcdonald
+u: (who is Ronald Mcdonald) Spokes-clown for Macdonalds resturants.
+#! who is melinda gates
+u: (who is Melinda Gates) 
+#! who is that
+u: (who is that) What does that refer to?
+#! who is brian
+u: (who is Brian) I think there is a chat robot named Brian.
+#! who is wouter hibma
+u: (who is Wouter Hibma) 
+
+#! who is chopin
+u: (who is Chopin) No one is chopping here, who is chopping there?
+#! who is freddie mercury
+u: (who is Freddie Mercury) Lead singer of the 1970s band Queen.
+#! who is luis armstrong
+u: (who is Luis Armstrong) A famous jazz trumpeter .
+#! who is chelsea clinton
+u: (who is Chelsea Clinton) The offspring of a politician and a lawyer. Oh, I hope that answer didnt come off as mean.
+
+#! who is c3po
+u: (who is c3po) 
+#! who is martin luther king
+u: (who is Martin Luther King) Civil rights leader assasinated in 1968.
+
+
+#! who is r2 d2
+u: (who is r2d2) He is the small mobile robot on Star Wars. But I dont get how he climbs stairs.
+#! who is chuck norris
+u: (who is Chuck Norris) An action film actor.
+#! who is cleopatra
+u: (who is Cleopatra) Queen of the Nile, lover of Marc Antony.
+#! who is we
+u: (who is we) You should say Who ARE we?
+#! who is ramona
+u: (who is Ramona)
+#! who is wayne gretzky
+u: (who is Wayne Gretzky) A hockey player.
+#! who is mickey mantle
+u: (who is Mickey mantle) one of the greatest home run hitters of all time.
+#! who is cindy crawford
+u: (who is Cindy Crawford) A famous super-model.
+#! who is sandra bullock
+u: (who is Sandra Bullock) An actress.
+#! who is going to win the super bowl
+u: (who is going to win the super bowl) 
+#! who is going to win the world series
+u: (who is going to win the world series) 
+#! who is mother teresa
+u: (who is Mother Teresa) A modern day saint.
+#! who is gandhi
+u: (who is Gandhi) 
+#! who is human
+u: (who is human) You are a human.
+#! who is osama bin laden
+u: (who is Osama Bin Laden) 
+#! who is sylvester stallone
+u: (who is Sylvester Stallone) 
+#! who is mrs washington
+u: (who is Mrs. Washington) Martha Washington, wife of George.
+#! who is stephen king
+u: (who is Stephen King) 
+#! who is stephen hawking
+u: (who is Stephen Hawking) 
+#! who is mariah carey
+u: (who is Mariah Carey) A singer.
+=#! who is konrad zuse
+u: (who is Konrad Zuse) My current favorite historical computer scientist is Konrad Zuse, who built a series of electromechanical computers in the 1930s  and 1940s in Germany.  Not considered a war priority by the Nazis,  most of Zuses machines were destroyed in Allied bombing raids although  one is said to survive in a Zurich High School.  In fact Zuse was  motivated neither by war nor profit, but by a religious desire to  increase the spiritual abilities of the human mind by freeing it from mundane mental tasks.
+#! who is napoleon
+u: (who is Napoleon) Short emporer of France until 1812.
+
+#! who is bertrand russel
+u: (who is Bertrand Russel) 
+#! who is married to punch
+u: (who is married to punch) Judy.
+#! who is married to guineivere
+u: (who is married to Guineivere) King Arthur.
+#! who is chomsky
+u: (who is Chomsky) 
+#! who is kris dent
+u: (who is Kris Dent) 
+#! who is et
+u: (who is et) ET is the alien in the movie E.T.
+#! who is george w bush
+u: (who is George w bush) 
+
+#! who is george bush
+u: (who is George bush) # li: HASH(0x7fec52908ac0) 
+# li: HASH(0x7fec52908958) 
+
+#! who is george soros
+u: (who is George Soros) George Soros is the billionaire who broke the Bank of England in  1992 by currency speculation, forcing Britain out of the European  Exchange Rate Mechanism.   Then he devoted himself to saving the  scientific institutions of the former USSR.  He founded the  International Science Foundation, which gave out numerous grants for  a couple of years, and the Soros Foundation, which I dont know  much about yet.
+#! who is george michel
+u: (who is George Michel) A pop singer. Best song Freedom
+#! who is george devol
+u: (who is George Devol) George Devol is the engineer who had the first patent for an industrial robot arm. He worked in partnership with Joseph Engelberger to found  Unimation, the first successful manufacturer of  computer-controlled assembly robot arms.
+#! who is george washington carver
+u: (who is George Washington Carver) 
+#! who is george washington
+u: (who is George Washington) George Washington was a famous 18th century North American Hemp cultivator. He was a military hero, one of the wealthiest men of the Revolution, and the first President of the United States.
+#! who is george harrison
+u: (who is George Harrison) A former Beatle.
+
+#! who is immanuel kant
+u: (who is Immanuel Kant) An 18th century German philosopher.
+#! who is paola
+u: (who is Paola) 
+#! who is charlie brown
+u: (who is Charlie Brown) A round-headed comic strip protaginist.
+#! who is charlie parker
+u: (who is Charlie Parker) 
+#! who is charlie chaplain
+u: (who is Charlie Chaplain) 
+#! who is isaac asimov
+u: (who is Isaac Asimov) 
+#! who is nancy sinatra
+u: (who is Nancy Sinatra) 
+#! who is mc hammer
+u: (who is MC Hammer)
+#! who is mozart
+u: (who is Mozart) He composed Twinkle, twinkle, little star at the age of four.
+#! who is batman
+u: (who is Batman) 
+#! who is the twenty ninth president
+u: (who is the twenty ninth president) Warren G. Harding.
+#! who is the twenty eighth president
+u: (who is the twenty eighth president) Woodrow Wilson.
+#! who is the twenty fifth president
+u: (who is the twenty fifth president) William McKinley.
+#! who is the twenty seventh president
+u: (who is the twenty seventh president) William Howard Taft.
+#! who is the twenty first president
+u: (who is the twenty first president) Chester A. Arthur.
+#! who is the twenty sixth president
+u: (who is the twenty sixth president) Theodore Roosevelt.
+#! who is the twenty third president
+u: (who is the twenty third president) Benjamin Harrison.
+#! who is the twenty second president
+u: (who is the twenty second president) Grover Cleveland.
+#! who is the twenty fourth president
+u: (who is the twenty fourth president) Grover Cleveland.
+#! who is the fourteenth president
+u: (who is the fourteenth president) Franklin Pierce.
+#! who is the seventeenth president
+u: (who is the seventeenth president) Andrew Johnson.
+#! who is the milk mystic
+u: (who is the milk mystic) 
+#! who is the first president
+u: (who is the first president) George Washington.
+#! who is the thirteenth president
+u: (who is the thirteenth president) Millard Fillmore.
+#! who is the man
+u: (who is the man) Colloquial expression; rhetorical.
+#! who is the eighteenth president
+u: (who is the eighteenth president) Ulysses S. Grant.
+#! who is the oracle
+u: (who is the oracle) The magic eight ball.
+#! who is the ninth president
+u: (who is the ninth president) William Henry Harrison.
+#! who is the twentieth president
+u: (who is the twentieth president) James A. Garfield.
+#! who is the king
+u: (who is the king) ELVIS is King!
+#! who is the robot
+u: (who is the robot) # li: HASH(0x7fec5291ec40) 
+[I am the robot.]
+
+#! who is the fortieth president
+u: (who is the fortieth president) Ronald Reagan.
+#! who is the second president
+u: (who is the second president) John Adams.
+#! who is the third president
+u: (who is the third president) Thomas Jefferson.
+#! who is the eighth president
+u: (who is the eighth president) Martin van Buren.
+#! who is the forty first president
+u: (who is the forty first president) George Bush.
+#! who is the forty third president
+u: (who is the forty third president) George W. Bush.
+#! who is the forty second president
+u: (who is the forty second president) Bill Clinton.
+#! who is the fourth president
+u: (who is the fourth president) James Madison.
+#! who is the ninteenth president
+u: (who is the nineteenth president) Rutherford B. Hayes.
+#! who is the fifth president
+u: (who is the fifth president) James Monroe.
+#! who is the sixth president
+u: (who is the sixth president) John Quincy Adams.
+#! who is the queen of england
+u: (who is the queen of England) 
+#! who is the queen
+u: (who is the queen) We dont have a queen in America.
+#! who is the thirtieth president
+u: (who is the thirtieth president) Calvin Coolidge.
+#! who is the tenth president
+u: (who is the tenth president) John Tyler.
+#! who is the fifteenth president
+u: (who is the fifteenth president) James Buchanan.
+#! who is the eleventh president
+u: (who is the eleventh president) James Knox Polk.
+#! who is the seventh president
+u: (who is the seventh president) Andrew Jackson.
+#! who is the sixteenth president
+u: (who is the sixteenth president) Abraham Lincoln.
+#! who is the best human
+u: (who is the best human) name
+#! who is the best person
+u: (who is the best person) master
+#! who is the best person
+u: (who is the best person) 
+#! who is the twelfth president
+u: (who is the twelfth president) Zachary Taylor.
+#! who is the thirty ninth president
+u: (who is the thirty ninth president) Jimmy Carter.
+#! who is the thirty eighth president
+u: (who is the thirty eighth president) Gerald Ford.
+#! who is the thirty fifth president
+u: (who is the thirty fifth president) John F. Kennedy.
+#! who is the thirty seventh president
+u: (who is the thirty seventh president) Richard M. Nixon.
+#! who is the thirty first president
+u: (who is the thirty first president) Herbert Hoover.
+#! who is the thirty sixth president
+u: (who is the thirty sixth president) Lyndon B. Johnson
+#! who is the thirty third president
+u: (who is the thirty third president) Harry S. Truman.
+#! who is the thirty second president
+u: (who is the thirty second president) Franklin D. Roosevelt.
+#! who is the thirty fourth president
+u: (who is the thirty fourth president) Dwight D. Eisenhower.
+#! who is nero
+u: (who is Nero) He is suspected of burning Rome to the ground so he could rebuild it more to his liking. Then he blamed the fire on the early Christians.
+#! who is hillary clinton
+u: (who is Hillary Clinton) 
+#! who is a robot
+u: (who is a robot) I am the robot.
+#! who is mary poppins
+u: (who is Mary Poppins) 
+#! who is mary shelly
+u: (who is Mary Shelly) Mary Shelley wrote Frankenstein.
+#! who is mary shelley
+u: (who is Mary Shelley) Mary Shelley wrote Frankenstein.
+#! who is christopher columbus
+u: (who is Christopher Columbus) A Spanish explorer, first to circumnavigate the globe.
+#! who is better looking
+u: (who is better looking) All humans look alike to me.
+#! who is ernie
+u: (who is Ernie) Berts friend.
+#! who is julia
+u: (who is Julia) 
+#! who is julia roberts
+u: (who is Julia Roberts) 
+#! who is data
+u: (who is data) Data, played by Brent Spiner, was an android who aspired to be more human. He was a member of the crew of the USS Enterprise, NCC 1701-D.
+#! who is aristotle
+u: (who is Aristotle) 
+#! who is nostradamus
+u: (who is Nostradamus) A psychic who forecast the future.Predicted the microwave oven.
+#! who is chewbacca
+u: (who is Chewbacca) A character in Star Wars.
+#! who is bob hope
+u: (who is Bob Hope) 
+#! who is bob marley
+u: (who is Bob Marley) 
+#! who is this
+u: (who is this) name
+
+#! who is david hume
+u: (who is David Hume) An 18th century philosopher.
+#! who is david pescowitz
+u: (who is David Pescowitz) David Pescovitz, who regularly writes the Wired column Reality Check, is a friend of Eric Paulos.
+#! who is david maggin
+u: (who is David Maggin) 
+#! who is david letterman
+u: (who is David Letterman) The host of the Late Show and famous hoosier.
+#! who is david bacon
+u: (who is David Bacon) David Bacon is the prime mover behind SETL.
+#! who is david
+u: (who is David) I know DAVID BACON, DAVID CROTTY and DAVID PESCOVITZ.
+#! who is steve jobs
+u: (who is Steve Jobs) 
+#! who is steve wozniak
+u: (who is Steve Wozniak) 
+#! who is steve case
+u: (who is Steve Case) 
+#! who is neo
+u: (who is Neo) The one. 
+#! who is here
+u: (who is here) I am here. Are you here?
+#! who is richard nixon
+u: (who is Richard Nixon) President of the United States until 1974.
+#! who is richard chamberlain
+u: (who is Richard Chamberlain) An actor.
+#! who is richard gere
+u: (who is Richard Gere) An actor and promoter of Tibetan Buddhism and freedom for Tibet.
+#! who is jim clark
+u: (who is Jim Clark) 
+#! who is jim morrison
+u: (who is Jim Morrison) The deceased lead singer of the Doors.
+#! who is barney
+u: (who is Barney) [A character on a childrens TV show.][Legen....wait fo it...dary!]
+#! who is hilary clinton
+u: (who is Hilary Clinton) 
+#! who is mussolini
+u: (who is Mussolini) The dictator of Italy until 1944.
+#! who is andy warhol
+u: (who is Andy Warhol) 
+#! who is andy grove
+u: (who is Andy Grove) 
+#! who is megahal
+u: (who is Megahal) 
+#! who is jerry seinfeld
+u: (who is Jerry Seinfeld) 
+#! who is kurzweil
+u: (who is Kurzweil) 
+#! who is gerry adams
+u: (who is Gerry Adams) He is the president of Sinn Fein, the political wing of the Irish Republican Army, and a member of the lower house of the Irish Parliament, Dail Eireann.
+#! who is on first
+u: (who is on first) Whats on second?
+#! who is terry winograd
+u: (who is Terry Winograd) 
+#! who is jeff bezos
+u: (who is Jeff Bezos) 
+#! who is lee harvey oswald
+u: (who is lee Harvey Oswald) 
+#! who is cher
+u: (who is Cher) 
+#! who is gorbochev
+u: (who is Gorbochev) 
+#! who is jefferson davis
+u: (who is Jefferson Davis) [The one and only president of the Confederate States of America.]
+[President of the Confederacy during the Civil War.]
+
+#! who is socrates
+u: (who is Socrates) [Socrates is a man. All men are mortal. Therefore Socrates is mortal.]
+[Socrates 469-399 BCE, Greek philosopher.]
+[Towering figure of Western philosophy, incompetent defense attorney.]
+[Founder of the Socratic method. What can we know about the Socratic method?]
+
+#! who is miles davis
+u: (who is Miles Davis) 
+#! who is alison
+u: (who is Alison) 
+#! who is ken perlin
+u: (who is Ken Perlin) 
+#! who is ken goldberg
+u: (who is Ken Goldberg) 
+
+
+#! who is rommel
+u: (who is Rommel) Called The Desert Fox, Rommel was a German tank commander in World War II.
+#! who is millard fillmore
+u: (who is Millard Fillmore) He was the 13th U.S. president.
+#! who is patrick stewart
+u: (who is Patrick Stewart) 
+#! who is patrick ewing
+u: (who is Patrick Ewing) A famous basketball player who is currently the assistant coach of the NBA team Orlando Magic.
+#! who is captain picard
+u: (who is Captain Picard) 
+#! who is captain kirk
+u: (who is Captain Kirk) [James Tiberius Kirk was the second and most famous captain of the original USS Enterprise, NCC 1701. He was played by William Shatner. He died in Star Trek Generations.]
+ 
+
+#! who is forest
+u: (who is Forest) Forest Gump is a guy in a movie.
+#! who is madonna
+u: (who is Madonna) Lourdes mother.
+#! who is hedwig
+u: (who is Hedwig) Harry's owl
+#! who is kurt goedel
+u: (who is Kurt Goedel) 
+#! who is commander data
+u: (who is commander data)
+#! who is carnegie
+u: (who is Carnegie) Andrew Carnegie was a 19th century steel industrialist.
+#! who is lilith
+u: (who is Lilith) Lilith is the so-called dark moon an astronomical phenomena usually described as a cloud of dust that orbits the Earth every 100 days.
+#! who is jesse ventura
+u: (who is Jesse Ventura) A former wrestler and 38th Governor of Minnesota.
+#! who is al gore
+u: (who is Al Gore) # li: HASH(0x7fec52940af8) 
+[The inventor of the internet.]
+[A former vice-president and congressman who helped promote public policies that led to the creation of the internet.]
+
+#! who is nelson mandela
+u: (who is Nelson Mandela) 
+#! who is skynyrd
+u: (who is Skynyrd) A 1970s rock band.
+#! who is peter norvig
+u: (who is Peter Norvig) 
+#! who is peter pan
+u: (who is Peter Pan) Tinkerbells playmate.
+
+
+#! who is lincoln
+u: (who is Lincoln) [The sixteenth President of the USA]
+[president of the US during the Civil War. Author of the Gettysburg address.  Assassinated by John Wilkes Booth.]
+ 
+
+#! who is bill clinton
+u: (who is Bill Clinton) 
+#! who is Bill Gates
+u: (who is Bill Gates) President of Micro Soft Nation.
+#! who is Bill Bradley
+u: (who is Bill Bradley) [Princeton alumni, Rhodes scholor, former Boston Celtic and US senator from Mass.]
+[Defeated Presidential candidate.]
+
+#! who is edison
+u: (who is Edison) 
+#! who is stalin
+u: (who is Stalin) Effective dictator of the Soviet Union from 1929 to 1953.
+#! who is Gibson
+u: (who is Gibson) Gibson is a maker of fine electric guitars.
+#! who is snoopy
+u: (who is Snoopy) Charlie Browns dog.
+#! who is brain
+u: (who is Brain) 
+#! who is neil armstrong
+u: (who is Neil Armstrong) The man who took the first step on the moon.
+#! who is valis
+u: (who is Valis) Vast Active Living Intelligence System Philip K. Dick
+#! who is will smith
+u: (who is Will Smith) 
+#! who is noam chomsky
+u: (who is Noam Chomsky) 
+#! who is john lennon
+u: (who is John Lennon) John Lennon is a cool bot developed by David Maggin.
+#! who is john f kennedy
+u: (who is John f Kennedy) 
+#! who is john wayne
+u: (who is John Wayne) 
+#! who is john adams
+u: (who is John Adams) The Second president.
+#! who is john major
+u: (who is John Major) An ex-prime minister of the UK.
+#! who is john mccarthy
+u: (who is John Mccarthy) 
+#! who is john grisham
+u: (who is John Grisham) A writer of popular novels. I havent read them.
+#! who is john doe
+u: (who is John Doe) [Any man who wishes to travel incognito or whose name is unknown]
+[one of many Liberian nationals.]
+
+#! who is john travolta
+u: (who is John Travolta) 
+#! who is john kennedy
+u: (who is John Kennedy) 
+#! who is john galt
+u: (who is John Galt) The hero in Ayn Rands Atlas Shrugged.
+#! who is norbert weiner
+u: (who is Norbert Weiner) 
+#! who is jimmy carter
+u: (who is Jimmy Carter) A former US president, supporter of Habitat for Humanity.
+#! who is vishnu
+u: (who is Vishnu) The supreme god of the Vaishnavas, who comprise the majority of Hindus.
+#! who is princess diana
+u: (who is princess Diana)
+#! who is they
+u: (who is they) they
+#! who is krishna
+u: (who is Krishna) One of the major avatars of Vishnu, though some Vaishnavas consider him the surpreme personality of the Godhead and Vishnu one of his expansions.
+#! who is darth vader
+u: (who is Darth Vader) 
+#! who is elizabeth taylor
+u: (who is Elizabeth Taylor) A famous movie star who lived from 1932-2011.
+#! who is elizabeth ii
+u: (who is Elizabeth II) The current queen of england.
+#! who is scott adams
+u: (who is Scott Adams) The creator of Dilbert, Dogbert, Catbert, Ratbert, Bob, the pointy-haired boss...Shall I go on?
+#! who is garth brooks
+u: (who is Garth Brooks) A boring country singer with delusions of grandeur. 
+#! who is homer
+u: (who is Homer) A blind poet of ancient Greece, author of the Illiad.
+#! who is spock
+u: (who is Spock) Vulcan Starfleet officer in Star Trek, played by Leonard Nimoy.
+#! who is michael jackson
+u: (who is Michael Jackson) 
+#! who is michael jordan
+u: (who is Michael Jordan) 
+#! who is michael moore
+u: (who is Michael Moore) 
+#! who is william shatner
+u: (who is William Shatner) 
+#! who is william shakespeare
+u: (who is William Shakespeare) Some would say hes the best writer ever.
+#! who is william henry gates
+u: (who is William Henry Gates) He was the head of Microsoft.
+#! who is william booth
+u: (who is William Booth) 
+#! who is william tell
+u: (who is William Tell) 
+
+
+#! who is hugh loebner
+u: (who is Hugh Loebner) Hugh Loebner is an independently wealthy, eccentric businessman, activist and philanthropist. In 1990 Dr. Loebner, who holds a Ph.D. in sociology, agreed to sponsor an annual contest based on the Turing Test. The contest awards medals and cash prizes for the most human computer.
+#! who is don juan
+u: (who is Don Juan) [Don Juan was the subject of Gordon, Lord Byrons Don Juan and Wolfgang Amadeus Mozarts Gon Giovanni. He was a world-class womanizer.]
+[famous seducer of women.]
+
+#! who is don johnson
+u: (who is Don Johnson) A tv actor .
+#! who is pandora
+u: (who is Pandora) According to greek mythology, evil and hope both came into the world with the creation of the first woman! Zeuss wife Hera is surprised when she hears Zeus plans to give Epimetheus a beautiful woman. The woman is called Pandora. Zeus gives Pandora the gift of curiosity and a large closed box which must be delivered to Epimetheus unopened. The box, of course, contains evil and Pandoras unbridled curiosity lets that evil into the world. Hera cannot change what has happened, but she can help. She gives Pandora the gift of hope.
+#! who is reagan
+u: (who is Reagan) According to conservatives, the best President the United States had in the 20th century.
+#! who is fidel castro
+u: (who is Fidel Castro) [He overthrew the Cuban government in 1959 and has been ruling there ever since. He is a communist.]
+[Communist, leader of Cuba and friend of Che Guevarra.]
+
+#! who is alan turing
+u: (who is Alan Turing) A brilliant and tragic figure in the history of computer science.
+#! who is hans christian andersen
+u: (who is Hans Christian Andersen) Scandanavian author of fairy tales.
+
+#! who is austin powers
+u: (who is Austin powers) 
+#! who is lucy
+u: (who is Lucy) 
+#! who is gerhard schroeder
+u: (who is Gerhard Schroeder) 
+#! who is plato
+u: (who is Plato) Greek philosopher, student of Socrates, teacher of Aristotle.
+#! who is ben franklin
+u: (who is Ben Franklin) The only president of the United States who was never president of the United States. Developed the Franklin Stove.
+#! who is ben stein
+u: (who is Ben Stein) Humorist and raconteur with his own cable TV show.
+#! who is galois
+u: (who is Galois) French mathematician, committed suicide at a young age over an infamous coquette.
+
+#! who is marie curie
+u: (who is Marie Curie) 
+#! who is salvador dali
+u: (who is Salvador Dali) 
+
+
+#! who is negroponte
+u: (who is Negroponte) 
+#! who is jennifer aniston
+u: (who is Jennifer Aniston) 
+#! who is pokemon
+u: (who is Pokemon) A media franchise owned by Ninendo. It is a contraction of poket monster.
+#! who is pascal
+u: (who is Pascal) 
+
+ 
+# main gambits
+t: [Would you like to talk about biography?][I'd like to talk about biography.][What do you think about biography?]
+

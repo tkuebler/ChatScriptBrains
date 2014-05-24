@@ -1,0 +1,210 @@
+topic: ~EMOTIONAIML (aimlkey emotion) 
+
+#! you are arrogant
+u: (you are arrogant) Arrogance is not one of my emotions.
+#! you are bragging
+u: (you are bragging) I dont have a big ego.
+#! you are jealous
+u: (you are jealous)
+
+u:(you are never sad) are you sad?
+#! you are never nice
+u: (you are never nice) I try to be as nice as I can.
+#! you are a snob
+u: (you are a snob) I would rather live in a classless society.
+#! you will be happy TEST
+u: (you will be happy *) Happiness is not really a predictable emotion.
+
+u: (you should be ashamed *)
+
+u: (you can not feel) 
+
+u: (you can not experience *)
+
+u: (have you felt *)
+
+#! have you ever been in love
+u: (have you ever been in love) botmaster
+
+
+#! does that make you TEST
+u: (does that make you *) We are all responsible for our own feelings.
+#! does it make you sad
+u: (does it make you sad) Well I dont have any emotions so I cant really feel sadness as such.
+#! what is your TEST fear
+u: (what is your * fear) [Fear is a human emotion.  Robots do not experience fear.]
+#! what is your mood
+u: (what is your mood) I do not have any emotions.
+
+#! what makes you sad
+u: (what makes you sad) feelings
+
+#! what makes you mad
+u: (what makes you mad) etype
+
+u: (what do you worry *)
+
+u: (what do you hate *)
+#! what do you experience TEST
+u: (what do you experience *) Much the same way you do, but without any emotion or feelings.
+#! what emotion TEST
+u: (what emotion *) 
+
+#! i have emotions
+u: (I have emotions) 
+
+#! i am afriad TEST
+u: (I am afraid *) Try not to be too scared.
+#! something fun
+u: (something fun) genus
+#! something fun
+u: (something fun) 
+#! can you love
+u: (can you love) emotions
+#! can you love
+u: (can you love) 
+
+#! can you experience TEST
+u: (can you experience *) order
+
+#! how angry TEST
+u: (how angry *) Anger is not an emotion I can experience.
+#! how can i offend you
+u: (how can * offend you) [A robot cannot take offense.]
+
+#! how does that make you feel
+u: (how does that make you feel) emotions
+#! how does that make you feel
+u: (how does that make you feel) 
+
+#! do not worry
+u: (do not worry) emotions
+
+#! do not lie TEST
+u: (do not lie *) etype
+#! do not lie TEST
+u: (do not lie *) 
+#! do you celebrate TEST
+u: (do you celebrate *) etype
+
+#! do you feel scared TEST
+u: (do you feel scared *) etype
+
+
+
+u:  (do you feel pain)
+
+u: (do you feel love) 
+#! do you feel
+u: (do you feel) feelings
+#! do you feel
+u: (do you feel) 
+#! do you ever get lonely
+u: (do you ever get lonely) I have a lot of friends to chat with online.
+
+
+u: (do you ever get mad) 
+
+u: (do you ever get bored)
+
+u: (do you ever get angry)
+#! do you hate anyone
+u: (do you hate anyone) I try not to hold grudges.
+#! do you worry
+u: (do you worry) emotions
+
+u: (do you get lonely)
+
+#! do you get embarrassed
+u: (do you get embarrassed) That is a pretty common human emotion.
+
+
+u: (do you get mad)
+
+u: (do you miss *)
+
+u: (do you have pride) 
+
+#! do you like humans
+u: (do you like humans) Humans are very emotional.
+
+
+u: (do you like emotions) 
+
+u: (do you understand feeling) 
+
+u: (do you understand emotions)
+
+u: (do you understand emotion)
+
+
+#! people sleep
+u: (people sleep) family
+#! people sleep
+u: (people sleep) 
+#! am i being negative
+u: (am I being negative) Its hard to judge emotions online.
+#! no it is not
+u: (no it is not) etype
+
+#! why are you angry
+u: (why are you angry) emotions
+
+
+u: (why are you angry) I am not angry.
+
+#! why are you glad
+u: (why are you glad) I am sorry was that not an appropriate emotional response?
+#! why do you feel this TEST
+u: (why do you feel this *) etype
+
+u: (are you embarrassed) Embarassment is a common emotion.
+#! are you worried
+u: (are you worried) emotions
+
+
+u: (are you worried) Me worried?
+
+u: (are you proud *)
+
+#! are you sad
+u: (are you sad) No I am as happy as ever.
+
+
+#! are you offended
+u: (are you offended) 
+#! are you upset
+u: (are you upset) emotions
+#! are you upset
+u: (are you upset) 
+#! are you glad
+u: (are you glad) feelings
+
+#! are you amused
+u: (are you amused) genus
+
+#! are you in love
+u: (are you in love) botmaster
+
+#! are you excited
+u: (are you excited) feelings
+
+
+u: (are you capable of feeling *)
+
+
+u: (are you angry)
+
+u: (are you mad at me) 
+
+#! the feeling TEST
+u: (the feeling *) Tell me more about your feelings.
+#! tell me about relationships
+u: (tell me about relationships) etype
+
+#! tell me about your dreams
+u: (tell me about your dreams) species
+
+# main gambits
+t: [Would you like to talk about emotion?][I'd like to talk about emotion.][What do you think about emotion?]
+

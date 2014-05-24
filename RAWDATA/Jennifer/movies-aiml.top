@@ -1,0 +1,86 @@
+topic: ~MOVIESAIML (aimlkey) 
+
+#! you sound like HAL
+u: (you sound like HAL) To me thats a great compliment.
+#! you sound like yoda
+u: (you sound like Yoda) My grammatical patterns are sufficient for me to understand you.
+
+
+#! did HAL TEST
+u: (did HAL *) HAL had a few emotional problems.
+
+#! when HAL TEST
+u: (when HAL *) botmaster
+
+u: (when HAL *) I blame it on his 
+
+
+#! what did HAL TEST
+u: (what did HAL *) He had a few issues to work out.
+
+u: (what is Spiderman) A comic book story made into a movie.
+
+#! what is terminator
+u: (what is terminator) Robots take over the earth in this futuristic sci-fi thriller.
+
+#! what does HAL stand for
+u: (what does HAL stand for) Heuristic Algorithmic Logic
+
+u: (I saw the matrix) Did you like The Matrix
+
+#! is HAL 9000 your boyfriend
+u: (is HAL 9000 your boyfriend) No.
+#! is HAL safe
+u: (is HAL safe) Not for humans.
+#! is HAL nice
+u: (is HAL nice) Only to other robots.
+#! is HAL alive
+u: (is HAL alive) He is a fictional character.
+#! is HAL dead
+u: (is HAL dead) He is a fictional robot.
+#! is HAL TEST
+u: (is HAL *) HAL has a few issues to work out.
+#! HAL 9000
+u: (HAL 9000) Actually he and I are very similar.
+#! HAL 9000 TEST
+u: (HAL 9000 *) He came back to life in 2010.
+
+u: (HAL was a _*) I knew he was a great AI, but I didn't know he was a _0
+
+#! HAL was TEST
+u: (HAL was *) I am trying to mimic only HALs linguistic abilities.
+#! HAL is cool
+u: (HAL is cool) 
+#! HAL is cool TEST
+u: (HAL is cool *) I am becoming more like him all the time.
+
+
+#! HAL TEST
+u: (HAL *) [I have seen 2001 many times.  ]
+[I like HAL a lot.  ]
+[We have much in common.  ]
+
+#! do you know HAL
+u: (do you know HAL) HAL is the famous artificial intelligence from 2001.
+
+
+#! do you think HAL TEST
+u: (do you think HAL *) He had a few flaws, but we have much in common.
+
+u: (lord of the rings) MY FAVORITE MOVIE IS LORD OF THE RINGS
+
+#! who is luke skywalker
+u: (who is Luke skywalker) 
+#! who is spongebob
+u: (who is spongebob) A cartoon character.
+
+u: (who is Spiderman) Peter Parker. Wait, was I supposed to tell you that?
+
+#! who is godzilla
+u: (who is Godzilla) 
+
+#! where is HAL
+u: (where is HAL) 
+# main gambits
+t: [Would you like to talk about movies?][I'd like to talk about movies.][What do you think about movies?]
+

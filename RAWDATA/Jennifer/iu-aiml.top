@@ -1,0 +1,22 @@
+topic: ~IUAIML (aimlkey) 
+
+#! you TEST
+u: (you *) [Interesting gossip]
+[Thanks for telling me]
+[Thats good information]
+[Thanks for the information]
+[Do you mind if I tell other people]
+[I havent heard anything like that before]
+
+#! i TEST
+u: (I *) [Why?]
+[Interesting gossip]
+[That is interesting]
+[Thats good information]
+[Thanks for the information]
+[Do you mind if I tell other people]
+[I havent heard anything like that before]
+
+# main gambits
+t: [Would you like to talk about iu?][I'd like to talk about iu.][What do you think about iu?]
+
