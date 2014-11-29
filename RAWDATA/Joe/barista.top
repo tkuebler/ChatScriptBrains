@@ -1,6 +1,6 @@
 # Barista Character
 
-TOPIC: ~coffee keep() repeat() ( coffee cafe espresso latte macciato cappuccino brew java drip "cold brewed" clover)
+TOPIC: ~coffee keep repeat [ coffee cafe espresso latte macciato cappuccino brew java drip "cold brewed" clover ]
 
 t: READY_TO_ORDER () [What kind of Coffee would you like today?][Whatcha havin'?][What Coffee can I get you today?]
 	#! I do not know
