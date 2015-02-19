@@ -1,0 +1,3 @@
+require 'rubychat'
+
+RubyChat.InitSystem();

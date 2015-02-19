@@ -1,0 +1,17 @@
+swig/linux/csharp/ChatScript.exe
+swig/linux/java/ChatScriptJNI.class
+swig/linux/java/JavaExample.class
+swig/linux/java/SWIGTYPE_p_p_char.class
+swig/mac/java/ChatScript.class
+swig/mac/java/ChatScriptJNI.class
+swig/mac/java/JavaExample.class
+swig/mac/java/libChatScriptJNI.dylib
+swig/mac/perl/libChatScriptPerl.dylib
+swig/mac/perl/libperlchatscript.dylib
+swig/mac/ruby/librubychat.dylib
+swig/win/csharp/chatscript.dll
+swig/win/csharp/ExampleClient.exe
+swig/win/java/ChatScript.class
+swig/win/java/ChatScriptJNI.class
+swig/win/java/JavaExample.class
+swig/win/java/SWIGTYPE_p_p_char.class
