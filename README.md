@@ -1,7 +1,7 @@
 ChatScriptBrains Project
 =========================
 
-Has three parts:
+Has four parts:
 
 Brains
 ------
@@ -12,6 +12,10 @@ The file structure mimics the layout needed by the ChatScript server.
 aiml2cs
 -------
 This directory contains a perl script to help translating aiml -> chatscript.  That process is nessisarily a partitially manual process - as a lot of the macros require human interpretation of what behavior was intended in order to translate it to the chatscript methods of doing similar things.
+
+swig
+----
+This directory contains interface definition files for a variety of platforms and languages with generated source.  You should be able to use what’s in these directories to both generate the library for your platform/language and also compile and test it.
 
 XCode Project to compile ChatScript on Mac
 ------------------------------------------
