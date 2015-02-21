@@ -11,7 +11,7 @@ The file structure mimics the layout needed by the ChatScript server.
 
 aiml2cs
 -------
-This directory contains a perl script to help translating aiml -> chatscript.  That process is nessisarily a partitially manual process - as a lot of the macros require human interpretation of what behavior was intended in order to translate it to the chatscript methods of doing similar things.
+This directory contains a perl script to help translating aiml -> chatscript.  That process is necessarily a partially manual process - as a lot of the macros require human interpretation of what behavior was intended in order to translate it to the chatscript methods of doing similar things.
 
 swig
 ----
