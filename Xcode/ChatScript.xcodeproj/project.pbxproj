@@ -277,6 +277,7 @@
 		8FE09C531A95931C003CFEDC /* variableSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 8FE09B041A95931C003CFEDC /* variableSystem.h */; };
 		8FE09C541A95931C003CFEDC /* variableSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 8FE09B041A95931C003CFEDC /* variableSystem.h */; };
 		8FE09C551A95931C003CFEDC /* variableSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = 8FE09B041A95931C003CFEDC /* variableSystem.h */; };
+		8FF9BD351A993D4A0004BF99 /* libChatScript.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8FB2AEAC190F6A96006DDFDA /* libChatScript.dylib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -302,9 +303,10 @@
 		8FB0418719183DE500496AD8 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 12;
-			dstPath = "/Users/tkuebler/src/ChatScript-4.33/swig/mac/csharp";
+			dstPath = /Users/tkuebler/src/ChatScript/swig/mac/csharp;
 			dstSubfolderSpec = 0;
 			files = (
+				8FF9BD351A993D4A0004BF99 /* libChatScript.dylib in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1300,6 +1302,7 @@
 		8FB2AEB7190F6A96006DDFDA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "compiler-default";
 				CLANG_CXX_LIBRARY = "compiler-default";
 				COMBINE_HIDPI_IMAGES = YES;
@@ -1320,6 +1323,7 @@
 		8FB2AEB8190F6A96006DDFDA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "compiler-default";
 				CLANG_CXX_LIBRARY = "compiler-default";
 				COMBINE_HIDPI_IMAGES = YES;
