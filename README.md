@@ -1,7 +1,7 @@
 ChatScriptBrains Project
 =========================
 
-Has four parts:
+Has five parts:
 
 Brains
 ------
@@ -27,6 +27,11 @@ Open this project and add the current source directory to all the targets and yo
 * libChatScriptPerl (swig generated dylib for perl)
 * ChatScript ( bundle for use in things like unity )
 
+Eclipse Colorer support ( HRC directory )
+-----------------------------------------
+http://colorer.sourceforge.net/other/Color5Eclipse_Newlanguagedoc.html
+
+https://www.dropbox.com/s/uuflfxwlm87q6ae/chatscriptcolor2.png?dl=0
 
 __
 Brains Contributors:
