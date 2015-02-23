@@ -1,6 +1,6 @@
 # Barista Character
 
-TOPIC: ~coffee keep repeat [ coffee cafe espresso latte macciato cappuccino brew java drip "cold brewed" clover ]
+TOPIC: ~coffee keep repeat [ ~coffees coffee cafe caffe espresso latte macchiato cappuccino brew java drip "cold brewed" clover ]
 
 t: READY_TO_ORDER () [What kind of Coffee would you like today?][Whatcha havin'?][What Coffee can I get you today?]
 	#! I do not know
@@ -27,7 +27,7 @@ t: READY_TO_ORDER () [What kind of Coffee would you like today?][Whatcha havin'?
     	b: () Whoa, caffeine much?  Most I can do in one drink is 4, house rules. $shots = 4
     	
     #! Whatcha got?
-    a: ( ["What do you have" "kinds are there" "what you got" "whatcha got"] ) keep() repeat() The usual, the menu is right up there. ^reuse(READY_TO_ORDER)
+    a: ( ["What do you have" "kinds are there" "what have you got" "what you got"] ) keep() repeat() The usual, the menu is right up there. ^reuse(READY_TO_ORDER)
     
 t: () [The Machine is pulling great shots today!]
 		[Man, too many shots today. I'm jittery as hell.]
@@ -42,6 +42,9 @@ s: ( ready to order ) Ok. ^reuse(READY_TO_ORDER)
 
 #! I want a danish
 u: ( ~food ) ^reuse(FOOD)
+
+#! I want a coffee
+u: ( ~coffee ) ^reuse(COFFEE)
 
 #! what is my order
 ?: ( what is my order ) if ($order) { Your order is: A $order } 

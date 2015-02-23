@@ -18,7 +18,7 @@ xsi:schemaLocation="http://colorer.sf.net/2003/hrc http://colorer.sf.net/2003/hr
     <region name="chatlVar" parent="Label" />
     <region name="chatlVar2" parent="VarStrong" />
     <region name="chatlMainSymb" parent="SymbolStrong" />
-    <region name="chatlToken" paren="KeywordStrong" />
+    <region name="chatlToken" parent="KeywordStrong" />
     <scheme name="chatl">
       <inherit scheme="chatlPairedBrackets">
         <virtual scheme="chatlPairedBrackets" subst-scheme="chatl" />
