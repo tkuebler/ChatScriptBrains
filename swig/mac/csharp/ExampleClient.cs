@@ -13,7 +13,7 @@ namespace ExampleClient
 		static string[] args = { "", "local", "trace" };
 		public string botName = "Harry";
 		public string playerName = "Default";
-		public string chatRoot = "/Users/tkuebler/src/ChatScript";
+		public string chatRoot = "../../../";
 		static string helpMes = ":quit to quit, :help for help, otherwise chat with the bot";
 
 		public ExampleClient ()
@@ -23,8 +23,7 @@ namespace ExampleClient
 
 		public ExampleClient (string chatscriptDirectory)
 		{
-			chatRoot = chatscriptDirectory;
-			InitServer();
+
 		}
 
 		void InitServer ()
