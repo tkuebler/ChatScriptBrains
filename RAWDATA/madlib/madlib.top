@@ -2,16 +2,19 @@ topic: ~MADLIB keep repeat ()
 
 u: (madlib)
 
- $issue = madNoun
+        $issue = madNoun
 
         Give me a noun
 
 
-u: ($issue=madNoun _*) give me another noun
-
-        $madNoun = _0
-
- $issue = madNoun2
+u: ($issue=madNoun _*) 
+        ^refine()
+        a: (_0?~noun)
+                $madNoun = _0
+                $issue = madNoun2
+                give me another noun
+        a: (_0!?~noun)
+                Sorry, this is not a noun. try insert a noun, like tree or house or some other name of something in english.
 
 
 u: ($issue=madNoun2 _*) give me an adjective
